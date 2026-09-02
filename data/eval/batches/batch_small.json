@@ -1,0 +1,797 @@
+{
+ "categories": [
+  "community_events",
+  "status_tracking",
+  "registration",
+  "death_documents",
+  "police_clearance",
+  "global_entry",
+  "fraud_advisory"
+ ],
+ "queries": [
+  {
+   "ticket_id": "321489838",
+   "query": "Indian Community Welfare Fee (ICWF)",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "community_events",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "329234086",
+   "query": "ASIKE would like to invite Consul General to be Guest Speaker for an International Woman Day event, Saturday, March 20, 2021 3 to 5 pm",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "community_events",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "329236104",
+   "query": "Would like the India Consul General of India to be a guest speak for International Woman Day event Saturday March 20, 2021 3-5 pm",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "community_events",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "349950856",
+   "query": "3 questions relating Power of Attorney:\n1. Do we need photocopies all the pages of passport or just the front and back?\n2. Do we need the POA application form printed on one side only or both sided prints can work too?\n3. The fees of $20 in form of cashier’s cheques should be in favor of Consulate General of India, Atlanta? And US$2.00(Two Only) per application towards Indian Community Welfare Fund (ICWF) ?",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "community_events",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "380819754",
+   "query": "Need urgent help for my minor son's passport renewal ARN# 21-2000718496) (Soham Ganguly). The local PS tells they cleared the file, raising grievance with passport.gov no use. I have upcoming biometric for my family and my son is only having his Indian passport as his identity. Please help this situation.",
+   "duplicate_count": 1,
+   "created_year_month": "2021-04",
+   "category": "community_events",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "416540429",
+   "query": "My wife and I would like to apply for our birth certificates. We went to the consular office today but came to know that the walk-in services are discontinued. We have the following questions:\n1) Do we need to send our original passports? Or notarized copies work?\n2) Indian Community Welfare Fee (ICWF) of 2 USD -- does it have to be also in the cashier's check or money order?\nThank you very much for your help.",
+   "duplicate_count": 1,
+   "created_year_month": "2021-05",
+   "category": "community_events",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "33310998562",
+   "query": "status of my application",
+   "duplicate_count": 12,
+   "created_year_month": "2025-10",
+   "category": "status_tracking",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "39013227017",
+   "query": "Passport Renewal Status",
+   "duplicate_count": 9,
+   "created_year_month": "2026-01",
+   "category": "status_tracking",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "2021192578",
+   "query": "Status of passport renewal application",
+   "duplicate_count": 3,
+   "created_year_month": "2023-10",
+   "category": "status_tracking",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "2600791428",
+   "query": "Want to know the status",
+   "duplicate_count": 3,
+   "created_year_month": "2024-04",
+   "category": "status_tracking",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "3002283598",
+   "query": "My issue is : I am SINGLE and updated marital status as SINGLE but on Family Detail page, it is asking me to update SPOUSE DETAILS and not allowing me to move forward",
+   "duplicate_count": 3,
+   "created_year_month": "2024-07",
+   "category": "status_tracking",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "22402247235",
+   "query": "status of the application",
+   "duplicate_count": 3,
+   "created_year_month": "2025-04",
+   "category": "status_tracking",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "22876454474",
+   "query": "Status of my passport application",
+   "duplicate_count": 3,
+   "created_year_month": "2025-04",
+   "category": "status_tracking",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "37744087153",
+   "query": "status of passport renewal",
+   "duplicate_count": 3,
+   "created_year_month": "2025-12",
+   "category": "status_tracking",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "321939615",
+   "query": "i tried to register to start the application process but its not registering",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "registration",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "322389374",
+   "query": "what is file number when I am trying to register online by your protal",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "registration",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "330179587",
+   "query": "I am on 3rd step of re-issuance of my passport but when I click to Create a profile and register on the VFS portal system it does not work",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "registration",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "346737330",
+   "query": "WHAT IS THIS ARN NUMBER ? I WENT TO THE REGISTRATION PAGE AND GAVE ALL THE INFO . IT TOLD ME TO ACTIVATE FORM MY EMAIL I DID BUT COULD NOT FIND THE ARN NUMBER",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "registration",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "348597566",
+   "query": "I am applying for a home loan in India and at site registration office they are asking a GPA letter from embassy is required",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "registration",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "1369122710",
+   "query": "This is for my mom (Shantaben Dahyabhai Patel, DOB: Jan 03, 1942). We have 4 events/celebrations in India from Feb 12 Feb 20th, including my moms \"Jivan Parv\" and late Dad's death ceremony. Tickets already purchased for leaving on Jan 22nd. We just found out that her passport is expired",
+   "duplicate_count": 2,
+   "created_year_month": "2023-01",
+   "category": "death_documents",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "320997154",
+   "query": "i need my fathers original death certificate copy issued in florida to be authenticated by indian high commission",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "death_documents",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "320993302",
+   "query": "i need my fathers original copy of death certificate issue in florida to be certified by indin embessy stamp",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "death_documents",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "21667806998",
+   "query": "Police Clearance Certificate",
+   "duplicate_count": 3,
+   "created_year_month": "2025-03",
+   "category": "police_clearance",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "327840858",
+   "query": "I am waiting on my Police clearance certificate. The verification already completed in India 3 weeks back. But I still haven't received my passport and the police clearance certificate. Can you please let me know when I can expect to receive my passport and police clearance certificate?",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "police_clearance",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "334820456",
+   "query": "I applied for Passport Renewal (Normal) via vfs global 25/02/2021 and recieved my RENEWED Passport within 10 days. NOW Getting a message from [EMAIL] that I should present documents in person at Mumbai Santa Cruz Police station for Police Clearance !",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "police_clearance",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "39444929560",
+   "query": "global entry program",
+   "duplicate_count": 9,
+   "created_year_month": "2026-01",
+   "category": "global_entry",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "330433350",
+   "query": "need more information on global entry program",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "global_entry",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "367684486",
+   "query": "i want to know list of documents to be submitted with Global Entry Program application at consulate in Atlanta vfs",
+   "duplicate_count": 1,
+   "created_year_month": "2021-04",
+   "category": "global_entry",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "759892386",
+   "query": "Someone had done fraud with us here and ran away in atlanta, we filed complain in court here and court had declare the judgement against him. we have his address of atlanta and we want your help to approach him to pay our harden earned money. Or kindly share any other process to approach him at his place legally.",
+   "duplicate_count": 1,
+   "created_year_month": "2022-01",
+   "category": "fraud_advisory",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "988623380",
+   "query": "Hi I had invested in an industrial plot in Gurgaon, Haryana several years ago. My partner has committed fraud against me and HSIIDC (Haryana Industrial and infrastructure Development Corporation - a Haryana government agency). I have been sending requests to HSIIDC for corrective action, but there is no responsible. Request your help to get HSIIDC to act on my request. Thank What is a good email address to contact you with? If we disconnected",
+   "duplicate_count": 1,
+   "created_year_month": "2022-07",
+   "category": "fraud_advisory",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "1346804864",
+   "query": "I need to complaint against my India Bank for fraud and illegal activities",
+   "duplicate_count": 1,
+   "created_year_month": "2022-12",
+   "category": "fraud_advisory",
+   "expect_decline": false
+  }
+ ],
+ "source_chunks": {
+  "community_events": [
+   {
+    "source_id": "6f1f5644-d86f-4ade-9cbf-6f5b8e19d741",
+    "title": "Know India Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzAz",
+    "chunk_id": "a422c7a4-5a34-5332-82bc-b67d571b95fa",
+    "chunk_index": 0,
+    "chunk_text": "Consulate General of India, Atlanta, United States of America\n\n• Sitemap\n• Feedback\n• Skip to main content\n• Screen Reader Access"
+   },
+   {
+    "source_id": "6f1f5644-d86f-4ade-9cbf-6f5b8e19d741",
+    "title": "Know India Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzAz",
+    "chunk_id": "c235196c-f61a-597e-9a38-19056f6be693",
+    "chunk_index": 1,
+    "chunk_text": "Consulate General of India\n\nAtlanta Serving\n                                            the States and\n                                            Territories of:Alabama,\n                                            Florida, Georgia, Mississippi, Puerto Rico, South Carolina, Tennessee and Virgin Islands.\n• Home\n• Consulate\n• Consul General\n• Working Hours\n• Consulate General Officials\n• Holidays at the Consulate General\n• Organizational Structure\n• Right to Information\n• Internships at the Consulate\n• Bilateral Relations\n• Consular Services\n• Visa Services\n• Passport Services\n• Global Entry Program (GEP) for Indian Nationals\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Life Certificate\n• Attestation of Death Documents\n• Emergency Certificate\n• Other Services\n• Community Resources\n• Intiatives for Overseas Indians\n• Community Resources and Links\n• Domestic Violence-Deserted Women\n• Welfare of Parents and Senior Citizens\n• Youth\n• India is Competition\n• Advisories\n• OCI Card\n• Overview\n• General information on OCI card\n• How to apply for OCI Card\n• Documents required for OCI Card\n• What to do after issuance of new passport\n• How to apply for Updation of OCI card\n• Renewal/Re-issue of OCI Card\n• Instructions to Convert PIO Card to OCI Card\n• Renunciation of OCI card\n• How to check status of OCI application\n• FAQ's on OCI Related matters\n• Processing time for OCI applications\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Import of Pet\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Commercial Relations\n• Tax Corner\n• Reports\n• VISTRA India Entry Guide 2026\n• QUARTERLY \r\nREPORT\r\nQ1 FY 2026-27\n• Investment \r\nFriendliness  \r\nIndex\n• TRADE AND INVESTMENT BETWEEN INDIA & SOUTH-EAST USA\n• Invest in India\n• Make in India\n• Startup India"
+   },
+   {
+    "source_id": "6f1f5644-d86f-4ade-9cbf-6f5b8e19d741",
+    "title": "Know India Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzAz",
+    "chunk_id": "b84c93e7-654b-57b7-89b4-875446f5f48b",
+    "chunk_index": 2,
+    "chunk_text": "Consulate General of India\n\n• Manufacturers & Exporters\n• Contact Us\n• Media Room\n• News\n• Alerts\n• Events/Photo Gallery\n• Events/Photos\n• Past Events\n• Press Releases\n• Speeches\n• Tender\n• Exhibitions\n• Job Vacancy\n• e-India Perspectives\n• Trade and Technology\n• Bharat Buildcon 2026\n• Invitation to Nominate Buyers from the U.S. Southeast for Reverse Buyer–Seller Meets (RBSM) in India (2026–27)\n• SEAFOOD EXPO BHARAT\n• India to host AI Impact Summit 2026 in New Delhi on February 19-20, 2026\n• Rising Northeast\n• International Buyer Seller Meetings (RBSM) – Hosted Buyer Program\n• Emergency Services\n• Emergency Cases and Contact\n• Emergency Visa Services including on weekends\n• Emergency Certificate\n• Carrying of Mortal Remains\n• Education and Culture\n• Guidelines for Indian Students in the USA\n• Know India Programme\n• Announcement of the 84th edition of the Know India Programme (KIP) scheduled to be organized from 7-26 December 2025\n• Announcement of the 85th edition of the Know India Programme (KIP) scheduled to be organized from 06 January to 27 January 2026\n• Scholarship\n• Study in India (SII) Programme\n• NETAJI SUBHAS - ICAR INTERNATIONAL FELLOWSHIP\n• Lata Mangeshkar Dance & Music Scholarship Scheme - 2024-25\n• Scholarship Programme for Diaspora Children (SPDC)\n• Scholarship for the Academic Session, 2024-25 under the Scheme of Propagation of Hindi Abroad at Kendriya Hindi Sansthan Agra\n• Yoga Classes\n• Registration Link\n• Photo Album of Yoga Classes\n• Yoga Events\n• Hindi Classes\n• Notice for Classes\n• Photo Album of Hindi Classes\n• Student Registration Module\n• Indian Tourism\n• India at a Glance\n• Contact\n• Contact Us\n• Feedback\n• Home\n• Know India Programme"
+   },
+   {
+    "source_id": "6f1f5644-d86f-4ade-9cbf-6f5b8e19d741",
+    "title": "Know India Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzAz",
+    "chunk_id": "0ad4c2d4-d30b-51fb-a52e-9694a2f0749b",
+    "chunk_index": 3,
+    "chunk_text": "Consulate General of India > Know India Programme\n\nAnnouncement of the 88th edition of the Know India Programme (KIP) for Young Professionals scheduled to be organized from 16-29 August 2026\nKIP is a flagship programme of this Ministry of External Affairs that seeks to reconnect PIOs to their ethnic roots besides showcasing the rich cultural heritage of India and its recent spectacular developmental efforts. Ministry endeavors to present various facets of contemporary Indian Art, Heritage, Culture, Economy, Innovations, Start-ups, Science & Technology, etc., to the youth members of the Indian Diaspora and strives to motivate and inspire them to contribute and participate in the transformative initiatives of the Government of India as part of its march towards Viksit Bharat. Since its inception in 2003-04, Ministry has successfully organized 83 editions of the KIP with participation of more than 3000 youth PIO members.\nMinistry proposes to organize the 88th edition of the Know India Programme, from 16 to 29 August 2026 for 'Young Professionals' in the 24–28 years age group. Under this edition, 25 youth members of the Indian diaspora, including PIOs, OCIs and NRIs, will be invited to visit India for a two-week Programme.\ni. The eligibility age criteria for participants was revised from 21–35 years to 18–28 years, with participants divided into two cohorts: 18–23 years (Scholars and Innovators) and 24–28 years (Young Professionals).\nii. Separate editions of the Programme would be organized for the two cohorts, with each edition comprising of 25 participants.\niii. The duration of each Programme will be two weeks, inclusive of travel time."
+   },
+   {
+    "source_id": "6f1f5644-d86f-4ade-9cbf-6f5b8e19d741",
+    "title": "Know India Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzAz",
+    "chunk_id": "b8a05516-d3ee-503d-94a5-bffe9fe815e5",
+    "chunk_index": 4,
+    "chunk_text": "Consulate General of India > Know India Programme\n\niv. The Programme would be open to youth of Indian origin, including Persons of Indian Origin (PIOs), Overseas Citizens of India (OCIs), as well as for Non-Resident Indians (NRIs).\nInterested participants may send their applications (in MS Word format), along with Educational Qualification Certificate, Passport, Passport sized colored photograph, PIO/OCI Carddocuments related to to the Consulate General of India in Atlanta at hoc.atlanta@mea.gov.in latest by July 16, 2026.\nKIP Application Form\nGuidelines for KIP\n88th KIP Announcement\n• Terms & Conditions\n• Privacy Policy\n• Copyright Policy\n• Hyperlinking Policy\n• Accessibility Statement\n• Help\nConsulate General of India, Atlanta, United States of America 5549 Glenridge Drive NE, Atlanta, GA-30342\nDisclaimer: The Consulate is not responsible\n                    for the\n                    information or content provided in any of the external links given in its website.\nConsulate closed on Saturdays, Sundays & Public holidays\nOfficial working hours : Monday to Friday ( 09.00 am to 05.30 pm)\nVisitors : 8698042 | Page last updated on August 07, 2026\n© 2026 Consulate General of India, Atlanta, USA. All Rights Reserved.\nSite is Designed, Developed & Hosted by: Ardhas Technology India Private Limited."
+   },
+   {
+    "source_id": "801eb3c3-d42c-42c0-ab7d-f54b889c1131",
+    "title": "Guidelines for Indian students in the USA",
+    "url": "https://indiainatlanta.gov.in/public_files/assets/pdf/atlanta_01jan2024_guidelines.pdf",
+    "chunk_id": "cc1425a8-a9cb-5dbb-8407-2230df21122f",
+    "chunk_index": 0,
+    "chunk_text": "Consulate General of India Atlanta *** Guidelines for Indian Students in the United States Before you arrive  Credentials of Universities: Perform due diligence and thoroughly check the credentials of Universities / Institutions online and with peer groups before taking admission.  Travelling to the US: Do carry financial instruments sufficient to meet your needs while travel- ing to the United States. Carry proofs of payment of university fees and tuition deposit (if any) along with confirmation of accommodation before entering the country. After reaching in the US  Student registration: Indian students are advised to register in the Consulate website at https://indiainatlanta.gov.in/eoial_pages/MjQ2 for close engagement with Consulate.  Know the University/Institution: Know various services offered by your university and avail them. Generally, most of these services are funded from tuition fees. Enquire about them at the International Student Services Office.  Know your surroundings: It is important to know and avoid neighborhoods that are not well-lit and places that are known locally as ‘shady’. Do not venture out late at night to such areas. Move around in groups or at least with a few friends, if you must.  Remain connected: Be in touch with the Consulate, local mentors/guardians and Indian com- munity organizations. Update your whereabouts with family and close friends especially when moving outside alone.  Abide by local law: Take general precautions and abide by local laws and regulations including while driving or undertaking recreational activities (For example – wearing seatbelts even if sit- ting in the rear; not driving/swimming in inebriated condition; using life jackets during boating; dressing adequately to avoid hypothermia etc.) Avoid substance abuse.  Seek help if depressed/anxious: It is natural to feel lonely, while being in a new environment, away from home. Share your feelings with family, fellow students and teachers and feel free to connect with the Consulate. Do not hesitate to call professional help or seek university services if you are feeling depressed or having anxiety attack.  Medical insurance: Make sure you have valid and adequate medical insurance during your stay in the United States, preferably as recommended by the University.  Keep your Personal Information and Documents Safe: Keep your personal details safe, including your bank account and credit card details, since they can be easily misused. Be very careful about storage of documents such as passport/visa, identification, immigration forms etc.  Beware of Money Mules: Anyone can be approached by money mules but criminals often target students. Beware of such people, social networking scams, and telephone calls requesting for your personal information and/or bank account details for money transfer Working in the US  Work authorization: Engage only in jobs that comply with your visa status. Permissions required may be obtained in advance from appropriate authorities before engaging in any type of internship/employment. Some information in this context could be found here (hyper link"
+   },
+   {
+    "source_id": "801eb3c3-d42c-42c0-ab7d-f54b889c1131",
+    "title": "Guidelines for Indian students in the USA",
+    "url": "https://indiainatlanta.gov.in/public_files/assets/pdf/atlanta_01jan2024_guidelines.pdf",
+    "chunk_id": "546b5648-6509-5b46-b099-f4ad8f3753cd",
+    "chunk_index": 1,
+    "chunk_text": "https://studyinthestates.dhs.gov/2016/06/f-1-students-learn-rules-summer-employment-and-\n\ntraining). Avoid working in unsafe environments. In case of Emergency while in the US  US Authorities: Dial 911 immediately. In case of any untoward incident, report to the administrative division and International Students Office at the University immediately.  Consulate: Please note the Consulate’s emergency number +1 404 910 7919. For routine queries, please call +1 404 963-5902. In case of any difficulty, please reach out to the following points of contact at the Embassy: Ms. Nishi Arora, Consul (HOC): hoc.atlanta@mea.gov.in Mr. Ajay Singh, ASO (Passport): passport.atlanta@mea.gov.in *******"
+   },
+   {
+    "source_id": "8ea2b28b-ea17-4185-aa7c-2586ff1a5155",
+    "title": "Open House",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzMy",
+    "chunk_id": "824aa095-b1ab-529c-8070-c0395dd1dcd9",
+    "chunk_index": 0,
+    "chunk_text": "Consulate General of India, Atlanta, United States of America\n\n• Sitemap\n• Feedback\n• Skip to main content\n• Screen Reader Access"
+   },
+   {
+    "source_id": "8ea2b28b-ea17-4185-aa7c-2586ff1a5155",
+    "title": "Open House",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzMy",
+    "chunk_id": "785f20ae-4026-5f95-99f7-b2a4960cb760",
+    "chunk_index": 1,
+    "chunk_text": "Consulate General of India\n\nAtlanta Serving\n                                            the States and\n                                            Territories of:Alabama,\n                                            Florida, Georgia, Mississippi, Puerto Rico, South Carolina, Tennessee and Virgin Islands.\n• Home\n• Consulate\n• Consul General\n• Working Hours\n• Consulate General Officials\n• Holidays at the Consulate General\n• Organizational Structure\n• Right to Information\n• Internships at the Consulate\n• Bilateral Relations\n• Consular Services\n• Visa Services\n• Passport Services\n• Global Entry Program (GEP) for Indian Nationals\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Life Certificate\n• Attestation of Death Documents\n• Emergency Certificate\n• Other Services\n• Community Resources\n• Intiatives for Overseas Indians\n• Community Resources and Links\n• Domestic Violence-Deserted Women\n• Welfare of Parents and Senior Citizens\n• Youth\n• India is Competition\n• Advisories\n• OCI Card\n• Overview\n• General information on OCI card\n• How to apply for OCI Card\n• Documents required for OCI Card\n• What to do after issuance of new passport\n• How to apply for Updation of OCI card\n• Renewal/Re-issue of OCI Card\n• Instructions to Convert PIO Card to OCI Card\n• Renunciation of OCI card\n• How to check status of OCI application\n• FAQ's on OCI Related matters\n• Processing time for OCI applications\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Import of Pet\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Commercial Relations\n• Tax Corner\n• Reports\n• VISTRA India Entry Guide 2026\n• QUARTERLY \r\nREPORT\r\nQ1 FY 2026-27\n• Investment \r\nFriendliness  \r\nIndex\n• TRADE AND INVESTMENT BETWEEN INDIA & SOUTH-EAST USA\n• Invest in India\n• Make in India\n• Startup India"
+   },
+   {
+    "source_id": "8ea2b28b-ea17-4185-aa7c-2586ff1a5155",
+    "title": "Open House",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzMy",
+    "chunk_id": "745aae10-43de-5f57-88d8-c47fb7af7c6d",
+    "chunk_index": 2,
+    "chunk_text": "Consulate General of India\n\n• Manufacturers & Exporters\n• Contact Us\n• Media Room\n• News\n• Alerts\n• Events/Photo Gallery\n• Events/Photos\n• Past Events\n• Press Releases\n• Speeches\n• Tender\n• Exhibitions\n• Job Vacancy\n• e-India Perspectives\n• Trade and Technology\n• Bharat Buildcon 2026\n• Invitation to Nominate Buyers from the U.S. Southeast for Reverse Buyer–Seller Meets (RBSM) in India (2026–27)\n• SEAFOOD EXPO BHARAT\n• India to host AI Impact Summit 2026 in New Delhi on February 19-20, 2026\n• Rising Northeast\n• International Buyer Seller Meetings (RBSM) – Hosted Buyer Program\n• Emergency Services\n• Emergency Cases and Contact\n• Emergency Visa Services including on weekends\n• Emergency Certificate\n• Carrying of Mortal Remains\n• Education and Culture\n• Guidelines for Indian Students in the USA\n• Know India Programme\n• Announcement of the 84th edition of the Know India Programme (KIP) scheduled to be organized from 7-26 December 2025\n• Announcement of the 85th edition of the Know India Programme (KIP) scheduled to be organized from 06 January to 27 January 2026\n• Scholarship\n• Study in India (SII) Programme\n• NETAJI SUBHAS - ICAR INTERNATIONAL FELLOWSHIP\n• Lata Mangeshkar Dance & Music Scholarship Scheme - 2024-25\n• Scholarship Programme for Diaspora Children (SPDC)\n• Scholarship for the Academic Session, 2024-25 under the Scheme of Propagation of Hindi Abroad at Kendriya Hindi Sansthan Agra\n• Yoga Classes\n• Registration Link\n• Photo Album of Yoga Classes\n• Yoga Events\n• Hindi Classes\n• Notice for Classes\n• Photo Album of Hindi Classes\n• Student Registration Module\n• Indian Tourism\n• India at a Glance\n• Contact\n• Contact Us\n• Feedback\n• Home > Consular Services > Open House"
+   },
+   {
+    "source_id": "8ea2b28b-ea17-4185-aa7c-2586ff1a5155",
+    "title": "Open House",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzMy",
+    "chunk_id": "521401e9-b6d6-5c24-a35b-e8fd920d7abe",
+    "chunk_index": 3,
+    "chunk_text": "Consulate General of India > Open House\n\nBi-weekly Open House at the Consulate General of India, Atlanta\nWe are pleased to announce that the Consulate General of India, Atlanta will be holding bi-weekly OPEN HOUSE from 1100-1200 hrs (ET) on every first (01 st ) and thirds (03 rd ) Thursdays at the Consulate at 5549, Glenridge Dr, Atlanta, GA-30342. The first Open House will be held on March 20, 2025.\nAll the applicants of Passport, Visa, OCI and other Consular Services and Indian nationals including Students who wish to seek guidance or resolution of any grievance can come and do so. Applicants are advised to bring all relevant documents with them in order to get proper rederessal of their grievances.\nNote: If the Consul General is out of office, other officers in the Consulate will be available to meet and provide information.\nOpen House_Press Release\n• Visa Services\n• Global Entry Program (GEP) for Indian Nationals\n• Passport Services\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Advisories\n• Community Resources\n• OCI Card\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Terms & Conditions\n• Privacy Policy\n• Copyright Policy\n• Hyperlinking Policy\n• Accessibility Statement\n• Help\nConsulate General of India, Atlanta, United States of America 5549 Glenridge Drive NE, Atlanta, GA-30342\nDisclaimer: The Consulate is not responsible\n                    for the\n                    information or content provided in any of the external links given in its website.\nConsulate closed on Saturdays, Sundays & Public holidays\nOfficial working hours : Monday to Friday ( 09.00 am to 05.30 pm)"
+   },
+   {
+    "source_id": "8ea2b28b-ea17-4185-aa7c-2586ff1a5155",
+    "title": "Open House",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzMy",
+    "chunk_id": "83839956-099e-5084-8aea-f8db9d43bf72",
+    "chunk_index": 4,
+    "chunk_text": "Consulate General of India > Open House\n\nVisitors : 8698042 | Page last updated on August 07, 2026\n© 2026 Consulate General of India, Atlanta, USA. All Rights Reserved.\nSite is Designed, Developed & Hosted by: Ardhas Technology India Private Limited."
+   },
+   {
+    "source_id": "d5a8effd-b722-477b-993f-4df315a09ab4",
+    "title": "Study in India programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzY4",
+    "chunk_id": "7c5cf00d-8320-5218-9209-1067460fff30",
+    "chunk_index": 0,
+    "chunk_text": "Consulate General of India, Atlanta, United States of America\n\n• Sitemap\n• Feedback\n• Skip to main content\n• Screen Reader Access"
+   },
+   {
+    "source_id": "d5a8effd-b722-477b-993f-4df315a09ab4",
+    "title": "Study in India programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzY4",
+    "chunk_id": "7922f509-25fd-5fc0-94f0-ab57d4001fc7",
+    "chunk_index": 1,
+    "chunk_text": "Consulate General of India\n\nAtlanta Serving\n                                            the States and\n                                            Territories of:Alabama,\n                                            Florida, Georgia, Mississippi, Puerto Rico, South Carolina, Tennessee and Virgin Islands.\n• Home\n• Consulate\n• Consul General\n• Working Hours\n• Consulate General Officials\n• Holidays at the Consulate General\n• Organizational Structure\n• Right to Information\n• Internships at the Consulate\n• Bilateral Relations\n• Consular Services\n• Visa Services\n• Passport Services\n• Global Entry Program (GEP) for Indian Nationals\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Life Certificate\n• Attestation of Death Documents\n• Emergency Certificate\n• Other Services\n• Community Resources\n• Intiatives for Overseas Indians\n• Community Resources and Links\n• Domestic Violence-Deserted Women\n• Welfare of Parents and Senior Citizens\n• Youth\n• India is Competition\n• Advisories\n• OCI Card\n• Overview\n• General information on OCI card\n• How to apply for OCI Card\n• Documents required for OCI Card\n• What to do after issuance of new passport\n• How to apply for Updation of OCI card\n• Renewal/Re-issue of OCI Card\n• Instructions to Convert PIO Card to OCI Card\n• Renunciation of OCI card\n• How to check status of OCI application\n• FAQ's on OCI Related matters\n• Processing time for OCI applications\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Import of Pet\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Commercial Relations\n• Tax Corner\n• Reports\n• VISTRA India Entry Guide 2026\n• QUARTERLY \r\nREPORT\r\nQ1 FY 2026-27\n• Investment \r\nFriendliness  \r\nIndex\n• TRADE AND INVESTMENT BETWEEN INDIA & SOUTH-EAST USA\n• Invest in India\n• Make in India\n• Startup India"
+   },
+   {
+    "source_id": "d5a8effd-b722-477b-993f-4df315a09ab4",
+    "title": "Study in India programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzY4",
+    "chunk_id": "7504d981-cfc7-566a-bd69-8b61e9028ab2",
+    "chunk_index": 2,
+    "chunk_text": "Consulate General of India\n\n• Manufacturers & Exporters\n• Contact Us\n• Media Room\n• News\n• Alerts\n• Events/Photo Gallery\n• Events/Photos\n• Past Events\n• Press Releases\n• Speeches\n• Tender\n• Exhibitions\n• Job Vacancy\n• e-India Perspectives\n• Trade and Technology\n• Bharat Buildcon 2026\n• Invitation to Nominate Buyers from the U.S. Southeast for Reverse Buyer–Seller Meets (RBSM) in India (2026–27)\n• SEAFOOD EXPO BHARAT\n• India to host AI Impact Summit 2026 in New Delhi on February 19-20, 2026\n• Rising Northeast\n• International Buyer Seller Meetings (RBSM) – Hosted Buyer Program\n• Emergency Services\n• Emergency Cases and Contact\n• Emergency Visa Services including on weekends\n• Emergency Certificate\n• Carrying of Mortal Remains\n• Education and Culture\n• Guidelines for Indian Students in the USA\n• Know India Programme\n• Announcement of the 84th edition of the Know India Programme (KIP) scheduled to be organized from 7-26 December 2025\n• Announcement of the 85th edition of the Know India Programme (KIP) scheduled to be organized from 06 January to 27 January 2026\n• Scholarship\n• Study in India (SII) Programme\n• NETAJI SUBHAS - ICAR INTERNATIONAL FELLOWSHIP\n• Lata Mangeshkar Dance & Music Scholarship Scheme - 2024-25\n• Scholarship Programme for Diaspora Children (SPDC)\n• Scholarship for the Academic Session, 2024-25 under the Scheme of Propagation of Hindi Abroad at Kendriya Hindi Sansthan Agra\n• Yoga Classes\n• Registration Link\n• Photo Album of Yoga Classes\n• Yoga Events\n• Hindi Classes\n• Notice for Classes\n• Photo Album of Hindi Classes\n• Student Registration Module\n• Indian Tourism\n• India at a Glance\n• Contact\n• Contact Us\n• Feedback\n• Home > Education and Culture > Scholarship > Study in India (SII) Programme"
+   },
+   {
+    "source_id": "d5a8effd-b722-477b-993f-4df315a09ab4",
+    "title": "Study in India programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzY4",
+    "chunk_id": "2f1d6f32-5de5-5ef0-bcb8-3e485b339e24",
+    "chunk_index": 3,
+    "chunk_text": "Consulate General of India > Study in India (SII) Programme\n\nThe Study in India (SII) program is a flagship project of Ministry of Education (MoE), Government of India to encourage international students to explore educational opportunities at top Indian universities. The SII program has constructed a seamless system for students to register for the program and explore courses across prestigious Indian institutes. Concomitantly, SII portal ( https://studyinindia.gov.in/ ) , a key initiative aimed at promoting India as a global destination for higher education was jointly launched on 3rd August 2023 by the Ministry of Education (MoE), Ministry of External Affairs (MEA), and Ministry of Home Affairs (MHA). 2. The Indian Education system is the world's second largest Higher Education System with more than 800 universities, 39,000 colleges and an enrolling capacity of 20 million students. Higher Education Institutions in India offer courses/degrees that are competitive in the world market in terms of quality but are delivered at one fourth the cost, hence guaranteeing value-for-money education. 3. The SII portal is a one-stop platform that facilitates admission procedures, course applications, and visa formalities for international students wishing to pursue undergraduate, postgraduate, short-term, or research-based academic programs in India. It serves as a seamless digital gateway to India’s higher education ecosystem. All foreign students who wish to study in India are required to register on the SII portal and submit the required information. Upon successful registration, a unique ID (SII-ID) is generated. This ID is mandatory for applying for an Indian student visa (e-Student Visa) through the Indian Visa Portal. For more information, please visit: https://www.studyinindia.gov. in/"
+   },
+   {
+    "source_id": "d5a8effd-b722-477b-993f-4df315a09ab4",
+    "title": "Study in India programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MzY4",
+    "chunk_id": "8899bca9-41c7-5ca2-b41c-377a17d6f1c5",
+    "chunk_index": 4,
+    "chunk_text": "Consulate General of India > Study in India (SII) Programme\n\n• Study in India (SII) Programme\n• NETAJI SUBHAS - ICAR INTERNATIONAL FELLOWSHIP\n• Lata Mangeshkar Dance & Music Scholarship Scheme - 2024-25\n• Scholarship Programme for Diaspora Children (SPDC)\n• Scholarship for the Academic Session, 2024-25 under the Scheme of Propagation of Hindi Abroad at Kendriya Hindi Sansthan Agra\n• Terms & Conditions\n• Privacy Policy\n• Copyright Policy\n• Hyperlinking Policy\n• Accessibility Statement\n• Help\nConsulate General of India, Atlanta, United States of America 5549 Glenridge Drive NE, Atlanta, GA-30342\nDisclaimer: The Consulate is not responsible\n                    for the\n                    information or content provided in any of the external links given in its website.\nConsulate closed on Saturdays, Sundays & Public holidays\nOfficial working hours : Monday to Friday ( 09.00 am to 05.30 pm)\nVisitors : 8698042 | Page last updated on August 07, 2026\n© 2026 Consulate General of India, Atlanta, USA. All Rights Reserved.\nSite is Designed, Developed & Hosted by: Ardhas Technology India Private Limited."
+   }
+  ],
+  "status_tracking": [
+   {
+    "source_id": "9e99bce1-7be9-44b7-b035-ed6a8bb340fc",
+    "title": "Direct consular services portal",
+    "url": "https://indianconsularservices.mea.gov.in/consularServices",
+    "chunk_id": "e01dacb0-2758-59c0-a870-808dbfb9ce81",
+    "chunk_index": 0,
+    "chunk_text": "About the System\n\nIn line with Government of India's vision and flagship scheme of Digital India, this project is an initiative of Ministry of External Affairs of India to develop an online platform for various consular services as has been done in case of passports and visa services. This platform will enable Indian citizens and foreigners (where applicable) to apply online for various miscellaneous consular services at Indian Missions/ Posts abroad."
+   },
+   {
+    "source_id": "9e99bce1-7be9-44b7-b035-ed6a8bb340fc",
+    "title": "Direct consular services portal",
+    "url": "https://indianconsularservices.mea.gov.in/consularServices",
+    "chunk_id": "c70ea510-a39a-5307-8b72-96d71fa5a78d",
+    "chunk_index": 1,
+    "chunk_text": "Steps for application process\n\nNew User( Registration ) Existing User( Login )\nApply for services and upload documents\nVerification by Embassy\nChoose appointment date\nVisit Embassy/Consulate Service"
+   },
+   {
+    "source_id": "9e99bce1-7be9-44b7-b035-ed6a8bb340fc",
+    "title": "Direct consular services portal",
+    "url": "https://indianconsularservices.mea.gov.in/consularServices",
+    "chunk_id": "1043139f-edfb-5d13-a404-5a92231c6b78",
+    "chunk_index": 2,
+    "chunk_text": "Information at a Glance\n\n• Live Mission\n• Beijing\n• Hong Kong\n• Bogota\n• Havana\n• Nicosia\n• Prague\n• Berlin\n• Hamburg\n• Algiers\n• Quito\n• Cairo\n• Suva\n• Helsinki\n• Accra\n• Zagreb\n• Jakarta\n• Medan\n• Kabul\n• Luanda\n• Buenos Aires\n• Yerevan\n• Canberra\n• Sydney\n• Vienna\n• Baku\n• Brussels\n• Sofia\n• Minsk\n• Phuntsholing\n• Thimphu\n• Gaborone\n• Vancouver\n• Santiago\n• Vientiane\n• Beirut\n• Colombo\n• Kandy\n• Male\n• Mexico City\n• Yangon\n• Port Louis\n• Oslo\n• Birganj\n• Kathmandu\n• Panama City\n• Lima\n• Manila\n• Seoul\n• Lisbon\n• St. Denis\n• Bucharest\n• Moscow\n• Dakar\n• Stockholm\n• Geneva\n• Mahe\n• Togo\n• Dushanbe\n• Ankara\n• DAR-ES-SALAAM\n• Uae\n• Kampala\n• Houston\n• Kyiv\n• San Francisco\n• Tashkent\n• Caracas\n• Hanoi\n• Durban\n• Johannesburg\n• Harare\n• Chittagong\n• Dhaka\n• Islamabad\n• Edinburgh\n• London\n• Dublin\n• Baghdad\n• Milan\n• Rome\n• Amman\n• Osaka Kobe\n• Jaffna\n• Muscat\n• Tunis\n• Tokyo\n• Almaty\n• Astana\n• Mombasa\n• Nairobi\n• Bishkek\n• Phnom Penh\n• Doha\n• Belgrade\n• Chicago\n• Toronto\n• Riyad\n• Birmingham\n• Wellington\n• Abuja\n• Lusaka\n• Kuwait\n• Bangkok\n• Ljubljana\n• Sao Tome And Principe\n• Ulaan Baatar\n• New York\n• Cape Town\n• Erbil\n• Jeddah\n• Seattle\n• Paris\n• Tripoli\n• Tehran\n• Berne\n• Sao Paulo\n• Warsaw\n• Nouakchott\n• Bratislava\n• Hambantota\n• Abu Dhabi\n• Malabo\n• Antananarivo NEW\n• Santo Domingo\n• Paramaribo\n• Budapest\n• Singapore\n• Asmara\n• Asuncion\n• Brazzaville\n• Freetown\n• Guatemala City\n• Kigali\n• Kinshasa\n• La Paz NEW\n• Libreville\n• Niamey\n• Riga\n• Tbilisi\n• Tirana\n• Mbabane\n• Auckland\n• Belfast\n• Adliya\n• Bandar Seri Begawan Brunei Darussalam\n• Guangzhou\n• Copenhagen\n• Istanbul\n• Lilongwe\n• Brasilia\n• Manchester\n• Marseille\n• Perth\n• Vladivostok\n• Frankfurt\n• Windhoek\n• Reykjavik NEW\n• Bali\n• Bamako\n• Monrovia"
+   },
+   {
+    "source_id": "9e99bce1-7be9-44b7-b035-ed6a8bb340fc",
+    "title": "Direct consular services portal",
+    "url": "https://indianconsularservices.mea.gov.in/consularServices",
+    "chunk_id": "7e488ffc-0707-5258-8f85-2b8ddc56eea9",
+    "chunk_index": 3,
+    "chunk_text": "Contact Us\n\nGET IN TOUCH"
+   },
+   {
+    "source_id": "9e99bce1-7be9-44b7-b035-ed6a8bb340fc",
+    "title": "Direct consular services portal",
+    "url": "https://indianconsularservices.mea.gov.in/consularServices",
+    "chunk_id": "7c00fe7a-6728-5b56-87c3-a51a2c64c48b",
+    "chunk_index": 4,
+    "chunk_text": "Contact Us > URL\n\nindianconsularservices[dot]mea[dot]gov[dot]in"
+   },
+   {
+    "source_id": "9e99bce1-7be9-44b7-b035-ed6a8bb340fc",
+    "title": "Direct consular services portal",
+    "url": "https://indianconsularservices.mea.gov.in/consularServices",
+    "chunk_id": "6568ed94-d961-591b-ae1d-fd75e8d8b7d0",
+    "chunk_index": 5,
+    "chunk_text": "Contact Us > Email Address\n\nsupport-eccss[at]nic[dot]in"
+   },
+   {
+    "source_id": "9e99bce1-7be9-44b7-b035-ed6a8bb340fc",
+    "title": "Direct consular services portal",
+    "url": "https://indianconsularservices.mea.gov.in/consularServices",
+    "chunk_id": "523286b9-fc3a-54a8-a0df-7354ceaeb269",
+    "chunk_index": 6,
+    "chunk_text": "Contact Us > Technical Support\n\nFor any Technical difficulty faced while filling up the online application may be sent to support-eccss[at]nic[dot]in"
+   },
+   {
+    "source_id": "b0c2ee35-845f-497a-8da9-bec78d5059b8",
+    "title": "OCI status enquiry, government portal",
+    "url": "https://ociservices.gov.in/onlineOCI/statusEnqury",
+    "chunk_id": "fb573416-bf70-5ee6-a4ef-29ba0e37574c",
+    "chunk_index": 0,
+    "chunk_text": "Track Application Status > Online OCI Services Fee Duplicate Payment Receipt\n\nApplication Number:\nAmount(INR):\nStatus:\nApplicant Name:\nPayment Date:\nRemark By FRRO:\nNote: This is a system generated receipt only for the purpose of applicants reference."
+   }
+  ],
+  "registration": [
+   {
+    "source_id": "0e56d3ec-2031-4323-993c-9d0508944bd1",
+    "title": "Registration of Indian nationals",
+    "url": "https://indiainatlanta.gov.in/CgAtIndNatRegistration",
+    "chunk_id": "19e45706-15ef-50f9-bcb5-2f10749161d7",
+    "chunk_index": 0,
+    "chunk_text": "Consulate General of India, Atlanta, United States of America\n\n• Sitemap\n• Feedback\n• Skip to main content\n• Screen Reader Access"
+   },
+   {
+    "source_id": "0e56d3ec-2031-4323-993c-9d0508944bd1",
+    "title": "Registration of Indian nationals",
+    "url": "https://indiainatlanta.gov.in/CgAtIndNatRegistration",
+    "chunk_id": "3c192c41-2e3f-5891-9957-8516362d7201",
+    "chunk_index": 1,
+    "chunk_text": "Consulate General of India\n\nAtlanta Serving\n                                            the States and\n                                            Territories of:Alabama,\n                                            Florida, Georgia, Mississippi, Puerto Rico, South Carolina, Tennessee and Virgin Islands.\n• Home\n• Consulate\n• Consul General\n• Working Hours\n• Consulate General Officials\n• Holidays at the Consulate General\n• Organizational Structure\n• Right to Information\n• Internships at the Consulate\n• Bilateral Relations\n• Consular Services\n• Visa Services\n• Passport Services\n• Global Entry Program (GEP) for Indian Nationals\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Life Certificate\n• Attestation of Death Documents\n• Emergency Certificate\n• Other Services\n• Community Resources\n• Intiatives for Overseas Indians\n• Community Resources and Links\n• Domestic Violence-Deserted Women\n• Welfare of Parents and Senior Citizens\n• Youth\n• India is Competition\n• Advisories\n• OCI Card\n• Overview\n• General information on OCI card\n• How to apply for OCI Card\n• Documents required for OCI Card\n• What to do after issuance of new passport\n• How to apply for Updation of OCI card\n• Renewal/Re-issue of OCI Card\n• Instructions to Convert PIO Card to OCI Card\n• Renunciation of OCI card\n• How to check status of OCI application\n• FAQ's on OCI Related matters\n• Processing time for OCI applications\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Import of Pet\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Commercial Relations\n• Tax Corner\n• Reports\n• VISTRA India Entry Guide 2026\n• QUARTERLY \r\nREPORT\r\nQ1 FY 2026-27\n• Investment \r\nFriendliness  \r\nIndex\n• TRADE AND INVESTMENT BETWEEN INDIA & SOUTH-EAST USA\n• Invest in India\n• Make in India\n• Startup India"
+   },
+   {
+    "source_id": "0e56d3ec-2031-4323-993c-9d0508944bd1",
+    "title": "Registration of Indian nationals",
+    "url": "https://indiainatlanta.gov.in/CgAtIndNatRegistration",
+    "chunk_id": "87ee531c-589c-5d49-90b8-b77a467b496d",
+    "chunk_index": 2,
+    "chunk_text": "Consulate General of India\n\n• Manufacturers & Exporters\n• Contact Us\n• Media Room\n• News\n• Alerts\n• Events/Photo Gallery\n• Events/Photos\n• Past Events\n• Press Releases\n• Speeches\n• Tender\n• Exhibitions\n• Job Vacancy\n• e-India Perspectives\n• Trade and Technology\n• Bharat Buildcon 2026\n• Invitation to Nominate Buyers from the U.S. Southeast for Reverse Buyer–Seller Meets (RBSM) in India (2026–27)\n• SEAFOOD EXPO BHARAT\n• India to host AI Impact Summit 2026 in New Delhi on February 19-20, 2026\n• Rising Northeast\n• International Buyer Seller Meetings (RBSM) – Hosted Buyer Program\n• Emergency Services\n• Emergency Cases and Contact\n• Emergency Visa Services including on weekends\n• Emergency Certificate\n• Carrying of Mortal Remains\n• Education and Culture\n• Guidelines for Indian Students in the USA\n• Know India Programme\n• Announcement of the 84th edition of the Know India Programme (KIP) scheduled to be organized from 7-26 December 2025\n• Announcement of the 85th edition of the Know India Programme (KIP) scheduled to be organized from 06 January to 27 January 2026\n• Scholarship\n• Study in India (SII) Programme\n• NETAJI SUBHAS - ICAR INTERNATIONAL FELLOWSHIP\n• Lata Mangeshkar Dance & Music Scholarship Scheme - 2024-25\n• Scholarship Programme for Diaspora Children (SPDC)\n• Scholarship for the Academic Session, 2024-25 under the Scheme of Propagation of Hindi Abroad at Kendriya Hindi Sansthan Agra\n• Yoga Classes\n• Registration Link\n• Photo Album of Yoga Classes\n• Yoga Events\n• Hindi Classes\n• Notice for Classes\n• Photo Album of Hindi Classes\n• Student Registration Module\n• Indian Tourism\n• India at a Glance\n• Contact\n• Contact Us\n• Feedback\n• Home > Registration of Indian Nationals"
+   },
+   {
+    "source_id": "0e56d3ec-2031-4323-993c-9d0508944bd1",
+    "title": "Registration of Indian nationals",
+    "url": "https://indiainatlanta.gov.in/CgAtIndNatRegistration",
+    "chunk_id": "4668b4ec-98f3-5220-a5f9-26ba673eff30",
+    "chunk_index": 3,
+    "chunk_text": "Consulate General of India\n\nAll Indian citizens residing in Atlanta, USA for purposes of work, higher education or on\n                                a short term visit are requested to register themselves with the Consulate General of\n                                India, Atlanta, United States of America."
+   },
+   {
+    "source_id": "0e56d3ec-2031-4323-993c-9d0508944bd1",
+    "title": "Registration of Indian nationals",
+    "url": "https://indiainatlanta.gov.in/CgAtIndNatRegistration",
+    "chunk_id": "f672f09b-1098-5fa4-be85-4d42086298b8",
+    "chunk_index": 4,
+    "chunk_text": "Consulate General of India > Registration Form:\n\n• Terms & Conditions\n• Privacy Policy\n• Copyright Policy\n• Hyperlinking Policy\n• Accessibility Statement\n• Help\nConsulate General of India, Atlanta, United States of America 5549 Glenridge Drive NE, Atlanta, GA-30342\nDisclaimer: The Consulate is not responsible\n                    for the\n                    information or content provided in any of the external links given in its website.\nConsulate closed on Saturdays, Sundays & Public holidays\nOfficial working hours : Monday to Friday ( 09.00 am to 05.30 pm)\nVisitors : 8698042 | Page last updated on August 07, 2026\n© 2026 Consulate General of India, Atlanta, USA. All Rights Reserved.\nSite is Designed, Developed & Hosted by: Ardhas Technology India Private Limited."
+   },
+   {
+    "source_id": "90df7ecd-d7e8-4f5d-89d1-929aad0192bf",
+    "title": "Registration of Indian students",
+    "url": "https://indiainatlanta.gov.in/Indian_Students_Registration",
+    "chunk_id": "2fd14e07-abfa-5fd3-bb0c-954b02ba2ade",
+    "chunk_index": 0,
+    "chunk_text": "Consulate General of India, Atlanta, United States of America\n\n• Sitemap\n• Feedback\n• Skip to main content\n• Screen Reader Access"
+   },
+   {
+    "source_id": "90df7ecd-d7e8-4f5d-89d1-929aad0192bf",
+    "title": "Registration of Indian students",
+    "url": "https://indiainatlanta.gov.in/Indian_Students_Registration",
+    "chunk_id": "941ce612-3e9d-5153-b1e1-f06d72172a1c",
+    "chunk_index": 1,
+    "chunk_text": "Consulate General of India\n\nAtlanta Serving\n                                            the States and\n                                            Territories of:Alabama,\n                                            Florida, Georgia, Mississippi, Puerto Rico, South Carolina, Tennessee and Virgin Islands.\n• Home\n• Consulate\n• Consul General\n• Working Hours\n• Consulate General Officials\n• Holidays at the Consulate General\n• Organizational Structure\n• Right to Information\n• Internships at the Consulate\n• Bilateral Relations\n• Consular Services\n• Visa Services\n• Passport Services\n• Global Entry Program (GEP) for Indian Nationals\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Life Certificate\n• Attestation of Death Documents\n• Emergency Certificate\n• Other Services\n• Community Resources\n• Intiatives for Overseas Indians\n• Community Resources and Links\n• Domestic Violence-Deserted Women\n• Welfare of Parents and Senior Citizens\n• Youth\n• India is Competition\n• Advisories\n• OCI Card\n• Overview\n• General information on OCI card\n• How to apply for OCI Card\n• Documents required for OCI Card\n• What to do after issuance of new passport\n• How to apply for Updation of OCI card\n• Renewal/Re-issue of OCI Card\n• Instructions to Convert PIO Card to OCI Card\n• Renunciation of OCI card\n• How to check status of OCI application\n• FAQ's on OCI Related matters\n• Processing time for OCI applications\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Import of Pet\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Commercial Relations\n• Tax Corner\n• Reports\n• VISTRA India Entry Guide 2026\n• QUARTERLY \r\nREPORT\r\nQ1 FY 2026-27\n• Investment \r\nFriendliness  \r\nIndex\n• TRADE AND INVESTMENT BETWEEN INDIA & SOUTH-EAST USA\n• Invest in India\n• Make in India\n• Startup India"
+   },
+   {
+    "source_id": "90df7ecd-d7e8-4f5d-89d1-929aad0192bf",
+    "title": "Registration of Indian students",
+    "url": "https://indiainatlanta.gov.in/Indian_Students_Registration",
+    "chunk_id": "17eab5c3-fded-59cd-abd7-8d8ea94e953d",
+    "chunk_index": 2,
+    "chunk_text": "Consulate General of India\n\n• Manufacturers & Exporters\n• Contact Us\n• Media Room\n• News\n• Alerts\n• Events/Photo Gallery\n• Events/Photos\n• Past Events\n• Press Releases\n• Speeches\n• Tender\n• Exhibitions\n• Job Vacancy\n• e-India Perspectives\n• Trade and Technology\n• Bharat Buildcon 2026\n• Invitation to Nominate Buyers from the U.S. Southeast for Reverse Buyer–Seller Meets (RBSM) in India (2026–27)\n• SEAFOOD EXPO BHARAT\n• India to host AI Impact Summit 2026 in New Delhi on February 19-20, 2026\n• Rising Northeast\n• International Buyer Seller Meetings (RBSM) – Hosted Buyer Program\n• Emergency Services\n• Emergency Cases and Contact\n• Emergency Visa Services including on weekends\n• Emergency Certificate\n• Carrying of Mortal Remains\n• Education and Culture\n• Guidelines for Indian Students in the USA\n• Know India Programme\n• Announcement of the 84th edition of the Know India Programme (KIP) scheduled to be organized from 7-26 December 2025\n• Announcement of the 85th edition of the Know India Programme (KIP) scheduled to be organized from 06 January to 27 January 2026\n• Scholarship\n• Study in India (SII) Programme\n• NETAJI SUBHAS - ICAR INTERNATIONAL FELLOWSHIP\n• Lata Mangeshkar Dance & Music Scholarship Scheme - 2024-25\n• Scholarship Programme for Diaspora Children (SPDC)\n• Scholarship for the Academic Session, 2024-25 under the Scheme of Propagation of Hindi Abroad at Kendriya Hindi Sansthan Agra\n• Yoga Classes\n• Registration Link\n• Photo Album of Yoga Classes\n• Yoga Events\n• Hindi Classes\n• Notice for Classes\n• Photo Album of Hindi Classes\n• Student Registration Module\n• Indian Tourism\n• India at a Glance\n• Contact\n• Contact Us\n• Feedback\n• Home › Registration of Indian Nationals on Student Visa in USA"
+   },
+   {
+    "source_id": "90df7ecd-d7e8-4f5d-89d1-929aad0192bf",
+    "title": "Registration of Indian students",
+    "url": "https://indiainatlanta.gov.in/Indian_Students_Registration",
+    "chunk_id": "cdbf4bf1-a2ff-5a5f-9dc9-f76c88172d4c",
+    "chunk_index": 3,
+    "chunk_text": "Consulate General of India > Registration of Indian Nationals on Student Visa in USA\n\n• Terms & Conditions\n• Privacy Policy\n• Copyright Policy\n• Hyperlinking Policy\n• Accessibility Statement\n• Help\nConsulate General of India, Atlanta, United States of America 5549 Glenridge Drive NE, Atlanta, GA-30342\nDisclaimer: The Consulate is not responsible\n                    for the\n                    information or content provided in any of the external links given in its website.\nConsulate closed on Saturdays, Sundays & Public holidays\nOfficial working hours : Monday to Friday ( 09.00 am to 05.30 pm)\nVisitors : 8698042 | Page last updated on August 07, 2026\n© 2026 Consulate General of India, Atlanta, USA. All Rights Reserved.\nSite is Designed, Developed & Hosted by: Ardhas Technology India Private Limited."
+   }
+  ],
+  "death_documents": [
+   {
+    "source_id": "72c550ab-40c4-4285-9a42-9f02f8cef748",
+    "title": "Death documents, registration of death, mortal remains and ashes",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Attestation-of-death-documents-registration-of-death-of-indian-nationals-carrying-mortal-carrying-ashes-final-july-29.pdf",
+    "chunk_id": "b59211bc-e4ca-5b66-93e4-ef73fbea0f3d",
+    "chunk_index": 0,
+    "chunk_text": "NATIONALS /CARRYING MORTAL REMAINS / CARRYING ASHES > Email Address: Phone No.:\n\nDeath related documents for carrying body of the deceased to India will be processed as per the convenience of the applicant, irrespective of consular jurisdiction. To enable processing on priority, the applicant may visit the Embassy/Consulate in person."
+   },
+   {
+    "source_id": "72c550ab-40c4-4285-9a42-9f02f8cef748",
+    "title": "Death documents, registration of death, mortal remains and ashes",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Attestation-of-death-documents-registration-of-death-of-indian-nationals-carrying-mortal-carrying-ashes-final-july-29.pdf",
+    "chunk_id": "f208d596-b2ca-5160-a875-485220b11d51",
+    "chunk_index": 1,
+    "chunk_text": "NATIONALS /CARRYING MORTAL REMAINS / CARRYING ASHES > Mandatory Documents\n\nSr. No Signature of the applicant on all documents should match the signature on their current valid passport"
+   },
+   {
+    "source_id": "72c550ab-40c4-4285-9a42-9f02f8cef748",
+    "title": "Death documents, registration of death, mortal remains and ashes",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Attestation-of-death-documents-registration-of-death-of-indian-nationals-carrying-mortal-carrying-ashes-final-july-29.pdf",
+    "chunk_id": "2594b2fb-c2d0-5935-8290-57b115488532",
+    "chunk_index": 2,
+    "chunk_text": "NATIONALS /CARRYING MORTAL REMAINS / CARRYING ASHES > 1 Application form\n\nDownload the Miscellaneous Application form and applicant may fill it up carefully. Note: Here the ‘applicant’ is defined as a person who is a relative/ friend of the deceased or representative of a funeral home, authorized for processing documents. 2 Photograph – Passport Size Paste the applicant’s photo on the application form/s PHOTOGRAPH SPECIFICATIONS (Must be white background)\n• 2 Photos of size 51mm x 51 mm (2 by 2 size) preferably White Background– PHOTOGRAPHS MUST BE IDENTICAL.\n• Photo must be taken within 6 months.\n• Shoulder must be visible\n• Without glasses\n• Without flashlight reflection\n• With dark colored attire to distinguish with white background\n• With good lighting on the face\n• Photos must be compliant with specifications; To know more about photo specifications – Please click here 3 Original Passport and a Photocopy Current Passport in original of the deceased and a photocopy. Current Passport in original and copy of the applicant. If the documentation is being done through funeral home, the representative may submit his/her photo I/card and duly signed authorization letter issued by the funeral home. Note: Death of Indian nationals need to be registered in the Embassy and passport needs to be cancelled. 4 US Legal Status – Notarized and Photocopy Notarised photocopy of the document showing valid US Visa Status of the relative or friend who is processing the documents on behalf of the deceased. 5 Copy of Proof of Address in the USA - Notarized and Photocopy Notarised photocopy of any of the following documents as proof of residence of the relative/friend who is doing the documentation work:"
+   },
+   {
+    "source_id": "72c550ab-40c4-4285-9a42-9f02f8cef748",
+    "title": "Death documents, registration of death, mortal remains and ashes",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Attestation-of-death-documents-registration-of-death-of-indian-nationals-carrying-mortal-carrying-ashes-final-july-29.pdf",
+    "chunk_id": "19573733-43b2-50d0-8b3d-5da24ca108fd",
+    "chunk_index": 3,
+    "chunk_text": "NATIONALS /CARRYING MORTAL REMAINS / CARRYING ASHES > Email Address: Phone No.:\n\nUS Driving License or Utility Bill or Lease Agreement or State Identity Card or Mortgage Deed."
+   },
+   {
+    "source_id": "72c550ab-40c4-4285-9a42-9f02f8cef748",
+    "title": "Death documents, registration of death, mortal remains and ashes",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Attestation-of-death-documents-registration-of-death-of-indian-nationals-carrying-mortal-carrying-ashes-final-july-29.pdf",
+    "chunk_id": "90b5a3b3-fd81-53ce-b86c-59df658ba17f",
+    "chunk_index": 4,
+    "chunk_text": "NATIONALS /CARRYING MORTAL REMAINS / CARRYING ASHES > 6\n\nCarry all original supporting documents for presentation to the Consular Officer. Photocopies of these documents may be attached with the application. Ensure that photocopies are legible. 7 To carry Mortal Remains: Original and one copy of the following:\n(a) Death Certificate, clearly stating cause of death or\n(b) Embalming Certificate from the concerned local authority, or\n(c) Certificate from the concerned local authority stating that body of the deceased is free from any kind of infection, or\n(d) Burial/Transit permit. Applicant may also ascertain with concerned Airlines about additional documentary requirements, if any and obtain those from the mortuary/funeral home. 8 To carry Ashes: Original and one copy of the following:\n(a) Death Certificate or\n(b) Cremation Certificate. Applicant may also ascertain with concerned Airlines about additional documentary requirements, if any and obtain those from the mortuary/funeral home. 9 Fee: If deceased held an Indian passport: Gratis (No Fee) and VFS service fee $19.00. Total Fees $19.00 per application For non-Indian passports- Carrying Ashes: Consular fee - $40.00 per copy, $2.00 -ICWF and VFS service fee $19.00. Total Fees $61.00 per application Carrying Mortal Remains: Consular fee - $60.00 per copy, $2.00 -ICWF and VFS service fee $19.00. Total Fees $81.00 per application Attestation of Death Certificate- Consular fee - $10.00 per copy, $2.00 -ICWF per copy and VFS service fee $19.00. Total Fees $31.00 per application; $10 for each additional copy The fee can be paid online or through single money order / cashier's cheques, drawn in favor of “VFS Services (USA) Inc”. Note: Personal cheques, personal money orders, and other banking instruments are not accepted."
+   }
+  ],
+  "police_clearance": [
+   {
+    "source_id": "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce",
+    "title": "Police Clearance Certificate checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/police-clearance-certificate/pdf/pcc-checklist-version-2021.pdf",
+    "chunk_id": "09527bbe-5c08-534c-adf8-0a518dfeefea",
+    "chunk_index": 0,
+    "chunk_text": "Applicant’s Name Govt. Reference no. Email ID Mobile _ _ _ - _ _ _ - _ _ _ _"
+   },
+   {
+    "source_id": "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce",
+    "title": "Police Clearance Certificate checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/police-clearance-certificate/pdf/pcc-checklist-version-2021.pdf",
+    "chunk_id": "c7ed77c4-5594-5d86-8165-4ac29cb01315",
+    "chunk_index": 1,
+    "chunk_text": "INDIAN NATIONALS\n\nC HECK , PRINT , SIGN AND ENCLOSE THIS C HECKLIST ( ORIGINAL ) WITH YOUR APPLICATION ."
+   },
+   {
+    "source_id": "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce",
+    "title": "Police Clearance Certificate checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/police-clearance-certificate/pdf/pcc-checklist-version-2021.pdf",
+    "chunk_id": "9ff0c47f-f825-5561-9eb9-8d909426c5c2",
+    "chunk_index": 2,
+    "chunk_text": "(Signature of the Applicant)\n\nNote: further details on the requirements and clarifications are available on subsequent pages Do not forget to enter your name, Govt. Ref #, Email-ID and Phone Number on all page headers. 1\nApplicant’s Name Govt. Reference no. Email ID Mobile _ _ _ - _ _ _ - _ _ _ _"
+   },
+   {
+    "source_id": "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce",
+    "title": "Police Clearance Certificate checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/police-clearance-certificate/pdf/pcc-checklist-version-2021.pdf",
+    "chunk_id": "720c33e6-2994-52ff-aeb3-bdc5d6a32777",
+    "chunk_index": 3,
+    "chunk_text": "(Signature of the Applicant) > I NDIAN N ATIONALS\n\n It is MANDATORY to complete VFS Online registration process before sending your physical application. Failure to complete online registration process will result in your application being returned unprocessed.  All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible and other information should be clearly readable.  Please select the correct Indian Embassy/ Consulate based on the state where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at http://visa.vfsglobal.com/usa/en/ind/attend-centre.  While filling up the application, applicants must provide their Indian Address including name of the concerned Police Station, enabling the police authorities to verify their antecedents.  After online submission, you will be unable to make any changes. In case of an error, please fill a new online application form.  Online form must be filled within the current calendar year and not older than 320 days from the date of submission to VFS India Consular Application Centre  The Embassy/ Consulates reserve the right to call for additional documents as considered necessary.  Do not send any original documents unless specified in the checklist. VFS will not be responsible for return of any additional original documents. Note: When sending applications, please print ‘POLICE CLEARANCE CERTIFICATE’ on the envelope. Incomplete /erroneous applications will be returned to the applicant after 21 days, if not provided with missing/additional documents. In such case, the applicant will need to resubmit the application."
+   },
+   {
+    "source_id": "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce",
+    "title": "Police Clearance Certificate checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/police-clearance-certificate/pdf/pcc-checklist-version-2021.pdf",
+    "chunk_id": "9c285287-faf4-5bfa-b8eb-9c05eb5366df",
+    "chunk_index": 4,
+    "chunk_text": "Mandatory Documents > GOVERNMENT APPLICATION ONLINE FORM – ORIGINAL\n\nLog in and complete the application form on GOI site- https://embassy.passportindia.gov.in Print out completed PCC Application Form and sign it."
+   },
+   {
+    "source_id": "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce",
+    "title": "Police Clearance Certificate checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/police-clearance-certificate/pdf/pcc-checklist-version-2021.pdf",
+    "chunk_id": "2c06e86c-d7c4-5596-ad65-2fbdaf70af43",
+    "chunk_index": 5,
+    "chunk_text": "Mandatory Documents > PHOTOGRAPH – ORIGINAL\n\n Please provide two most recent passport size color photos (not older than 6 months) of the applicant (hard copies).  Photos must be 51mm x 51mm / 2 inch x2 inch in size, in color, depicting front pose against a plain light colored background. on photographic paper.  For Detailed photograph Specifications – Please click here 2\nApplicant’s Name Govt. Reference no. Email ID Mobile _ _ _ - _ _ _ - _ _ _ _"
+   },
+   {
+    "source_id": "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce",
+    "title": "Police Clearance Certificate checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/police-clearance-certificate/pdf/pcc-checklist-version-2021.pdf",
+    "chunk_id": "c55e71c5-1239-516b-9a16-390fc4d0cc0f",
+    "chunk_index": 6,
+    "chunk_text": "Mandatory Documents > PROOF OF ADDRESS – COPY\n\nColor copy of Proof of address - Notarized ( with Stamp and Notary signature ) must match with the present address as per application: (any ONE of the documents listed below )  State Issued ID OR  Driving license OR  Utility Bill - Water (should be recent, no more than 3 months old) OR  Utility Bill - Gas (should be recent, no more than 3 months old) OR  Utility Bill - Electricity (should be recent, no more than 3 months old) OR  Valid Lease Agreement (Either main page of lease which has the address, or the signature page need to be notarized ) OR  Mortgage (Either main page of lease which has the address, or the signature page need to be notarized ) OR  For College/University Students living on campus in University housing/dormitories, a letter from your institution (on the institution letterhead) with the exact address that you presently reside in will suffice.  If residing in a hotel or temporary lodging for a short period of time and permanent address is not available, provide a notarized copy of hotel bill as proof of residence NOTE: If address proof is in spouse name, please provide copy of Marriage certificate. If address proof is in parent’s name, please provide birth certificate along with parent’s address proof PO BOX number is NOT ACCEPTABLE as valid Proof of address. Do not reduce the size of your documents- they should be easily legible Expired documents like lease / driving license are not acceptable. Please provide alternate"
+   },
+   {
+    "source_id": "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce",
+    "title": "Police Clearance Certificate checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/police-clearance-certificate/pdf/pcc-checklist-version-2021.pdf",
+    "chunk_id": "8d492175-40ff-5bc2-947c-9aa3aa6252d5",
+    "chunk_index": 7,
+    "chunk_text": "Mandatory Documents > VALID STATUS IN USA\n\n Required: Self-attested Color Photocopy of the Information page that contains the picture and personal details of the Indian Passport holder. Endorsement/amendment pages. Passport should be valid AND  Required any one of the following – Color copy and Notarized with stamp and Notary signature Valid Green Card, Valid Visa Valid I-797A Approval Notice Valid EAD Valid Work permit/Study Permit Recently expired Visa or I-797A Approval notice together with I-797C Receipt Notice for filing of a request for extension before the expiry of Visa or I-797A. Notarized copy of proof of extension 3\nApplicant’s Name Govt. Reference no. Email ID Mobile _ _ _ - _ _ _ - _ _ _ _"
+   },
+   {
+    "source_id": "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce",
+    "title": "Police Clearance Certificate checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/police-clearance-certificate/pdf/pcc-checklist-version-2021.pdf",
+    "chunk_id": "ad123d6e-cf43-5d5d-b3c4-886d994e3822",
+    "chunk_index": 8,
+    "chunk_text": "Additional Documents for PCC > Don’t Forget to print and sign page 1 : Checklist (original) and enclose with your application.\n\n. 4"
+   }
+  ],
+  "global_entry": [
+   {
+    "source_id": "03174ad5-be1e-4f11-a12a-e05b6c3f5fb7",
+    "title": "Global Entry Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/Mzkx",
+    "chunk_id": "b5573091-7c51-58f1-98a1-1f6edf65d8d1",
+    "chunk_index": 0,
+    "chunk_text": "Consulate General of India, Atlanta, United States of America\n\n• Sitemap\n• Feedback\n• Skip to main content\n• Screen Reader Access"
+   },
+   {
+    "source_id": "03174ad5-be1e-4f11-a12a-e05b6c3f5fb7",
+    "title": "Global Entry Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/Mzkx",
+    "chunk_id": "855fc0f5-fff9-568d-b007-a10399af0dac",
+    "chunk_index": 1,
+    "chunk_text": "Consulate General of India\n\nAtlanta Serving\n                                            the States and\n                                            Territories of:Alabama,\n                                            Florida, Georgia, Mississippi, Puerto Rico, South Carolina, Tennessee and Virgin Islands.\n• Home\n• Consulate\n• Consul General\n• Working Hours\n• Consulate General Officials\n• Holidays at the Consulate General\n• Organizational Structure\n• Right to Information\n• Internships at the Consulate\n• Bilateral Relations\n• Consular Services\n• Visa Services\n• Passport Services\n• Global Entry Program (GEP) for Indian Nationals\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Life Certificate\n• Attestation of Death Documents\n• Emergency Certificate\n• Other Services\n• Community Resources\n• Intiatives for Overseas Indians\n• Community Resources and Links\n• Domestic Violence-Deserted Women\n• Welfare of Parents and Senior Citizens\n• Youth\n• India is Competition\n• Advisories\n• OCI Card\n• Overview\n• General information on OCI card\n• How to apply for OCI Card\n• Documents required for OCI Card\n• What to do after issuance of new passport\n• How to apply for Updation of OCI card\n• Renewal/Re-issue of OCI Card\n• Instructions to Convert PIO Card to OCI Card\n• Renunciation of OCI card\n• How to check status of OCI application\n• FAQ's on OCI Related matters\n• Processing time for OCI applications\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Import of Pet\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Commercial Relations\n• Tax Corner\n• Reports\n• VISTRA India Entry Guide 2026\n• QUARTERLY \r\nREPORT\r\nQ1 FY 2026-27\n• Investment \r\nFriendliness  \r\nIndex\n• TRADE AND INVESTMENT BETWEEN INDIA & SOUTH-EAST USA\n• Invest in India\n• Make in India\n• Startup India"
+   },
+   {
+    "source_id": "03174ad5-be1e-4f11-a12a-e05b6c3f5fb7",
+    "title": "Global Entry Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/Mzkx",
+    "chunk_id": "510bc84d-cdb6-5057-902b-58281e91bd57",
+    "chunk_index": 2,
+    "chunk_text": "Consulate General of India\n\n• Manufacturers & Exporters\n• Contact Us\n• Media Room\n• News\n• Alerts\n• Events/Photo Gallery\n• Events/Photos\n• Past Events\n• Press Releases\n• Speeches\n• Tender\n• Exhibitions\n• Job Vacancy\n• e-India Perspectives\n• Trade and Technology\n• Bharat Buildcon 2026\n• Invitation to Nominate Buyers from the U.S. Southeast for Reverse Buyer–Seller Meets (RBSM) in India (2026–27)\n• SEAFOOD EXPO BHARAT\n• India to host AI Impact Summit 2026 in New Delhi on February 19-20, 2026\n• Rising Northeast\n• International Buyer Seller Meetings (RBSM) – Hosted Buyer Program\n• Emergency Services\n• Emergency Cases and Contact\n• Emergency Visa Services including on weekends\n• Emergency Certificate\n• Carrying of Mortal Remains\n• Education and Culture\n• Guidelines for Indian Students in the USA\n• Know India Programme\n• Announcement of the 84th edition of the Know India Programme (KIP) scheduled to be organized from 7-26 December 2025\n• Announcement of the 85th edition of the Know India Programme (KIP) scheduled to be organized from 06 January to 27 January 2026\n• Scholarship\n• Study in India (SII) Programme\n• NETAJI SUBHAS - ICAR INTERNATIONAL FELLOWSHIP\n• Lata Mangeshkar Dance & Music Scholarship Scheme - 2024-25\n• Scholarship Programme for Diaspora Children (SPDC)\n• Scholarship for the Academic Session, 2024-25 under the Scheme of Propagation of Hindi Abroad at Kendriya Hindi Sansthan Agra\n• Yoga Classes\n• Registration Link\n• Photo Album of Yoga Classes\n• Yoga Events\n• Hindi Classes\n• Notice for Classes\n• Photo Album of Hindi Classes\n• Student Registration Module\n• Indian Tourism\n• India at a Glance\n• Contact\n• Contact Us\n• Feedback\n• Home > Consular Services > Global Entry Program (GEP) for Indian Nationals"
+   },
+   {
+    "source_id": "03174ad5-be1e-4f11-a12a-e05b6c3f5fb7",
+    "title": "Global Entry Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/Mzkx",
+    "chunk_id": "d708469e-4bc8-5345-8af1-c75a63a8657f",
+    "chunk_index": 3,
+    "chunk_text": "Consulate General of India > Global Entry Program (GEP) for Indian Nationals\n\nGlobal Entry Program (GEP) of U.S. Customs and Border Protection (CBP) for Indian Citizens\nGlobal Entry is a U.S. Customs and Border Protection (CBP) program, which allows expedited clearance for pre-approved, low-risk travelers upon arrival in the United States. Members enter the United States through automatic kiosks at select U.S. airports .\nHow to Apply for Global Entry:\nCitizens of India are eligible for Global Entry. Applications must be submitted through US Customs and Border Protection(CBP)’s Trusted Traveler Programs (TTP) website as Step 1.\nApplication Process for Background Check for GEP:\n1. Apply Online with US CBP: Apply and complete application process at TTP website: https://www.cbp. gov/travel/trusted-traveler- programs/global-entry of US CBP as Step 1.\n2. For the applicant presently living in USA, after completion of Step ‘1’, he/she needs to submit the requisite information in the website of Global Passport Seva Project ( https://portal4. passportindia.gov.in/Online/ welcomeLink ) for completion of background check in India. After completion of online submission, he/she should submit the physical application at the VFS Global Application Centre, along with applicable fee, as per guidelines given on its website: https://visa. vfsglobal.com/usa/en/ind .\n• Visa Services\n• Global Entry Program (GEP) for Indian Nationals\n• Passport Services\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Advisories\n• Community Resources\n• OCI Card\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Terms & Conditions"
+   },
+   {
+    "source_id": "03174ad5-be1e-4f11-a12a-e05b6c3f5fb7",
+    "title": "Global Entry Programme",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/Mzkx",
+    "chunk_id": "0f42638e-57b8-543c-af95-197c70ecba50",
+    "chunk_index": 4,
+    "chunk_text": "Consulate General of India > Global Entry Program (GEP) for Indian Nationals\n\n• Privacy Policy\n• Copyright Policy\n• Hyperlinking Policy\n• Accessibility Statement\n• Help\nConsulate General of India, Atlanta, United States of America 5549 Glenridge Drive NE, Atlanta, GA-30342\nDisclaimer: The Consulate is not responsible\n                    for the\n                    information or content provided in any of the external links given in its website.\nConsulate closed on Saturdays, Sundays & Public holidays\nOfficial working hours : Monday to Friday ( 09.00 am to 05.30 pm)\nVisitors : 8698042 | Page last updated on August 07, 2026\n© 2026 Consulate General of India, Atlanta, USA. All Rights Reserved.\nSite is Designed, Developed & Hosted by: Ardhas Technology India Private Limited."
+   }
+  ],
+  "fraud_advisory": [
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "4e229b6c-e283-569a-b65f-2cf6cb6cf00f",
+    "chunk_index": 0,
+    "chunk_text": "Consulate General of India, Atlanta, United States of America\n\n• Sitemap\n• Feedback\n• Skip to main content\n• Screen Reader Access"
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "15933d7d-8679-56d5-a7a0-56b45e7f106f",
+    "chunk_index": 1,
+    "chunk_text": "Consulate General of India\n\nAtlanta Serving\n                                            the States and\n                                            Territories of:Alabama,\n                                            Florida, Georgia, Mississippi, Puerto Rico, South Carolina, Tennessee and Virgin Islands.\n• Home\n• Consulate\n• Consul General\n• Working Hours\n• Consulate General Officials\n• Holidays at the Consulate General\n• Organizational Structure\n• Right to Information\n• Internships at the Consulate\n• Bilateral Relations\n• Consular Services\n• Visa Services\n• Passport Services\n• Global Entry Program (GEP) for Indian Nationals\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Life Certificate\n• Attestation of Death Documents\n• Emergency Certificate\n• Other Services\n• Community Resources\n• Intiatives for Overseas Indians\n• Community Resources and Links\n• Domestic Violence-Deserted Women\n• Welfare of Parents and Senior Citizens\n• Youth\n• India is Competition\n• Advisories\n• OCI Card\n• Overview\n• General information on OCI card\n• How to apply for OCI Card\n• Documents required for OCI Card\n• What to do after issuance of new passport\n• How to apply for Updation of OCI card\n• Renewal/Re-issue of OCI Card\n• Instructions to Convert PIO Card to OCI Card\n• Renunciation of OCI card\n• How to check status of OCI application\n• FAQ's on OCI Related matters\n• Processing time for OCI applications\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Import of Pet\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Commercial Relations\n• Tax Corner\n• Reports\n• VISTRA India Entry Guide 2026\n• QUARTERLY \r\nREPORT\r\nQ1 FY 2026-27\n• Investment \r\nFriendliness  \r\nIndex\n• TRADE AND INVESTMENT BETWEEN INDIA & SOUTH-EAST USA\n• Invest in India\n• Make in India\n• Startup India"
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "d95018c5-ab79-5859-98c0-68b9d477bfd7",
+    "chunk_index": 2,
+    "chunk_text": "Consulate General of India\n\n• Manufacturers & Exporters\n• Contact Us\n• Media Room\n• News\n• Alerts\n• Events/Photo Gallery\n• Events/Photos\n• Past Events\n• Press Releases\n• Speeches\n• Tender\n• Exhibitions\n• Job Vacancy\n• e-India Perspectives\n• Trade and Technology\n• Bharat Buildcon 2026\n• Invitation to Nominate Buyers from the U.S. Southeast for Reverse Buyer–Seller Meets (RBSM) in India (2026–27)\n• SEAFOOD EXPO BHARAT\n• India to host AI Impact Summit 2026 in New Delhi on February 19-20, 2026\n• Rising Northeast\n• International Buyer Seller Meetings (RBSM) – Hosted Buyer Program\n• Emergency Services\n• Emergency Cases and Contact\n• Emergency Visa Services including on weekends\n• Emergency Certificate\n• Carrying of Mortal Remains\n• Education and Culture\n• Guidelines for Indian Students in the USA\n• Know India Programme\n• Announcement of the 84th edition of the Know India Programme (KIP) scheduled to be organized from 7-26 December 2025\n• Announcement of the 85th edition of the Know India Programme (KIP) scheduled to be organized from 06 January to 27 January 2026\n• Scholarship\n• Study in India (SII) Programme\n• NETAJI SUBHAS - ICAR INTERNATIONAL FELLOWSHIP\n• Lata Mangeshkar Dance & Music Scholarship Scheme - 2024-25\n• Scholarship Programme for Diaspora Children (SPDC)\n• Scholarship for the Academic Session, 2024-25 under the Scheme of Propagation of Hindi Abroad at Kendriya Hindi Sansthan Agra\n• Yoga Classes\n• Registration Link\n• Photo Album of Yoga Classes\n• Yoga Events\n• Hindi Classes\n• Notice for Classes\n• Photo Album of Hindi Classes\n• Student Registration Module\n• Indian Tourism\n• India at a Glance\n• Contact\n• Contact Us\n• Feedback\nAmbassador at the Education Roundtable hosted by the Consulate\nAmbassador of India H.E. Mr Vinay Mohan Kwatra and Consul General Ramesh Babu Lakshmanan met Hon'ble Brian Kemp, Governor of Georgia\nCelebrating America 250, with GIACC, at the Consulate"
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "52959726-884f-52dd-b5a5-eaade549af3f",
+    "chunk_index": 3,
+    "chunk_text": "Consulate General of India\n\nMango Festival with APEDA at Global Mall, Atlanta\n12th International Day of Yoga celebrated by the Consulate, theme \"Yoga for Healthy Ageing\nExternal Affairs Minister Dr S Jaishankar met H.E. Mr Marco Rubio, US Secretary of State in New York on the sidelines of UNGA\nConsul General met Hon'ble Governor Tate Reeves, Mississippi\nPrime Minister Shri Narendra Modi and H.E. Mr. Donald Trump, President of the United States at the India-USA Joint Press Conference in Washington DC\nPrime Minister Shri Narendra Modi met President of the United States, The Honorable Donald J. Trump at the White House in Washington D.C.\nExternal Affairs Minister Dr. S. Jaishankar met H.E. Mr. Marco Rubio, U.S. Secretary of State in Washington DC\nConsul General met Hon'ble Governor Brian Kemp, Georgia\nConsul General met Hon'ble Congressman Gary Palmer, Alabama\nConsul General met Hon'ble Congressman Buddy Carter, Georgia\nConsul General met Hon'ble Congressman Andy Ogles, Tennessee\nConsul General met Hon'ble Congressman John Rose, Tennessee\nConsulate General of India Atlanta\nPress Release\nWith immediate effect, all applicants are advised NOT to send their ‘Miscellaneous Consular Applications\n                –\n                Attestation Service Applications’ to the Consulate by postal means.\n2. Transition to VFS Global (Effective August 1, 2025): With effect from 1st August 2025, all services including Miscellaneous Consular Services will be handled\n                through the Consulate’s authorized service provider i.e., M/s VFS Global, at the following address: 1200 Altmore Ave Suite 175, Sandy Springs, GA 30342. (Services relating to Registration of death/NOC for transport of mortal remains/ashes and Issue of Life\n                Certificate will continue to be provided at the Consulate)."
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "6a68a1e2-9ba9-50bd-af6b-3fd5cdd52540",
+    "chunk_index": 4,
+    "chunk_text": "Consulate General of India\n\n3. IN CASE OF ANY EMERGENCY , applicants can reach out to the Consulate’s EMERGENCY HELPLINE\n                NUMBER: +1 (404) 910 7919 . Please note that the facility is reserved for genuine emergencies like visa in death cases,\n                transportation\n                of mortal remains etc. Applicant should call the emergency number to ascertain pre-requisites of\n                supporting\n                documents for these services and to ensure that they fall in the category of emergency services, which\n                cannot be postponed to the next working day of the Consulate.\nAtlanta 29.07.2025\nConsulate General of India Atlanta\nAdvisory on Fraud Calls"
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "91eb700b-e096-502a-92ff-6619b82eb943",
+    "chunk_index": 5,
+    "chunk_text": "Consulate General of India\n\nIt has been brought to the notice of the Consulate that some fraudsters\n                    are\n                    spoofing telephone lines of Embassy and Consulates to make calls aimed at cheating people. Some of\n                    these\n                    calls are shown as being from the Embassy telephone numbers ( 202-939-7000 ), Consulate General of India, Atlanta’s telephone number\n                    ( 404-963-5902 ) while\n                    others simply use\n                    Embassy/Consulate identity. These fraudsters either seek personal information like credit card\n                    details\n                    etc. or try to extort money from Indian nationals by inter alia claiming\n                    that\n                    there are errors in their passports, visa forms, immigration forms etc. which could be rectified by\n                    paying money, and at the same time warning that the so called errors, if not rectified, could result\n                    in\n                    deportation of the individual to India or their imprisonment in USA. In some cases, these fraudsters\n                    have also falsely claimed that they received such privileged information from the Embassy or other\n                    authorities in India. Visa applicants have also received such calls purporting to be from the\n                    Embassy/Consulate."
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "b038e93f-9983-56df-bc00-ad6e674e559b",
+    "chunk_index": 6,
+    "chunk_text": "Consulate General of India\n\n1. 2. This is to confirm that no official from the Embassy/Consulate\n                        makes\n                        any telephone call seeking personal information from any Indian or foreign nationals. In case\n                        any\n                        additional documentation is required from an existing applicant, it is sought only through\n                        email(s)\n                        originating from the email domain @mea.gov.in.\n1. 3. The Consulate hereby advises members of the public not to\n                        entertain\n                        any suspicious telephone calls made in the name of Embassy of India/Consulate. They are also\n                        advised\n                        not to reveal any personal information or transfer any money in response to such calls. They may\n                        bring such matters to the notice of the Consulate at the email ID: cons.atlanta@mea.gov.in .\n1. 4. Also, if you want to share the information on spoofed telephone\n                        calls PLEASE FILL THE\n                            FORM and send it by email to\n                        cons.atlanta@mea.gov.in with a subject: INFORMATION ON SPOOFED CALLS\nConsulate General of India Atlanta\nPress\n                Release\nExtension\n                of\n                validity of PIO Cards till December 31, 2025"
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "a99c4c76-9bf6-5726-b348-26de452f08a6",
+    "chunk_index": 7,
+    "chunk_text": "Consulate General of India\n\nThe Government of India has decided that the Bureau of Immigration (BOI)\n                will\n                continue to accept PIO cards as valid travel document till 31.12.2025 alongwith valid foreign passport\n                and\n                the Indian Immigration Check Post(s) will continue to consider all PIO cards valid for exit/entry into\n                India\n                till December 31, 2025. This extension of timeline is\n                        subject to the condition that if in the meantime any deadline is notified by the\n                International Civil Aviation Organization (ICAO) thereby making hand written PIO Cards invalid, then PIO\n                cardholders may have to obtain appropriate visa from India Missions/Posts.\nFurther, all the existing PIO cardholders are informed that no\n                    further\n                    extension will be given and they will have to get their PIO cards converted to OCI card by\n                31.12.2025 or they will have to get Indian Visa for travel to India and service of ‘New\n                Visa’\n                from FRROs on the e-FRRO online portal if they are already living in India.\nAll the PIO cardholders with valid PIO Cards as on\n                        January 09,\n                        2015 are strongly advised to apply for conversion of PIO card to OCI\n                    card . The relevant link is: https://services.vfsglobal.com/usa/en/ind/apply-oci-services\nAtlanta January 14, 2025\nImportant Notice: Migration to a New Version of Passport Seva Portal (GPSP 2.0) for Passport, Indian Passport Surrender Certificate, PCC and GEP Services |"
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "aa9cea6d-3da4-5440-96e4-9dd40b16a984",
+    "chunk_index": 8,
+    "chunk_text": "Consulate General of India\n\nImportant Notice: From September 1, 2025, only ICAO compliant photographs will be accepted for submission of passport applications. Please click here for ICAO guidelines. |"
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "29263ce2-02ee-569e-b0c3-6676a3d4a67f",
+    "chunk_index": 9,
+    "chunk_text": "Consulate General of India > MEA PERFORMANCE SMART BOARD\n\nAn initiative aimed at putting performance indicators of the ministry at the disposal of the\n                        people\nRamesh Babu Lakshmanan Consul General\n• Profile\n• Consul\n                                        General's\n                                        Office\n• Bharat Ko Janiye Quiz 2026 04 August 2026\n• Notice Inviting Tender for Transportation for G20 Visit 16 July 2026\n• Announcement of the 88th edition of the Know India Programme (KIP) scheduled to be organized from 08-27 March 2026 12 February 2026\n• AI Impact Summit 2026 at Bharat Mandapam, New Delhi - February 19, 2026 06 February 2026\n• Yoga Classes 31 January 2026\n• Hindi Classes 31 January 2026\n• Nominations for PravasiBharatiya Samman Awards (PBSA) - 2027 30 January 2026\n• Celebration of 77th Republic Day of India 10 January 2026\n• Visit of Ambassador of India H.E. Mr. Vinay Mohan Kwatra to Atlanta\n• NFHS-6 (2023–24): Key Findings and Long-Term Trends\n• Strengthening the Southern Gateway: India–U.S. Roundtable in Atlanta Drives Trade, Technology, and Investment Collaboration\n• Transforming India with AI : Over Rs. 10,300 crore investment & 38,000 Graphics Processing Unit (GPUs) powering inclusive innovation\n• WAVES Film Bazaar 2025 Concludes with Record International Participation\n• India Concludes First-Ever Major LPG Import Deal with US\n• India-European Free Trade Association Trade and Economic Partnership Agreement (TEPA) to come into effect on 01 October 2025\n• Viksit Bharat Run 2025 successfully organized in Atlanta\n• Viksit Bharat Run 2025\n• Update on Miscellaneous Consular Services\n• Business Reception hosted by Consulate with USISPF\n• Education Roundtable on Advancing India US Partnerships in Higher Education\n• 12th International Day of Yoga, Yoga for Healthy Ageing"
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "cdc4c89f-be58-5eb0-bafe-a108c64c09b0",
+    "chunk_index": 10,
+    "chunk_text": "Consulate General of India > MEA PERFORMANCE SMART BOARD\n\n• Celebrating America 250 with GIACC\n• Mango Festival with APEDA, Atlanta\n• Business Roundtable with USIBC and FICCI\n• @CGI_Atlanta\n• @MEAIndia\n• @Indiain_Atlanta\n• @MEAIndia\nIndia Corner"
+   },
+   {
+    "source_id": "55b1acdc-b407-4aad-97cc-5175539fc589",
+    "title": "Advisory on fraudulent callers",
+    "url": "https://indiainatlanta.gov.in/",
+    "chunk_id": "8f045a62-5f2c-5db2-8462-6eededad98c4",
+    "chunk_index": 11,
+    "chunk_text": "Consulate General of India > Important Links\n\n1. Ministry of External Affairs\n2. Ministry of Commerce & Industry\n3. Department of Industrial Policy & Promotion\n4. Ministry Of Human Resource Development\n5. Indian Brand Equity Foundation\n6. India perspectives\n7. Federation Of Indian Export Organizations\n8. PRABHASS Pravasi Bharatiya Academic and Scientific Sampark\n9. Global Pravasi Rishta Portal\n10. Bureau of Immigration\n11. BoI X Handle\n12. BoI Instagram Handle\n13. BoI Facebook Handle\n14. BoI YouTube Channel\n15. BoI WhatsApp Channel\n• Terms & Conditions\n• Privacy Policy\n• Copyright Policy\n• Hyperlinking Policy\n• Accessibility Statement\n• Help\nConsulate General of India, Atlanta, United States of America 5549 Glenridge Drive NE, Atlanta, GA-30342\nDisclaimer: The Consulate is not responsible\n                    for the\n                    information or content provided in any of the external links given in its website.\nConsulate closed on Saturdays, Sundays & Public holidays\nOfficial working hours : Monday to Friday ( 09.00 am to 05.30 pm)\nVisitors : 8698042 | Page last updated on August 07, 2026\n© 2026 Consulate General of India, Atlanta, USA. All Rights Reserved.\nSite is Designed, Developed & Hosted by: Ardhas Technology India Private Limited."
+   }
+  ]
+ }
+}

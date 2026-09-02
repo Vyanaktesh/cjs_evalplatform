@@ -1,0 +1,651 @@
+{
+ "categories": [
+  "surrender_renunciation"
+ ],
+ "queries": [
+  {
+   "ticket_id": "45618861663",
+   "query": "Surrender indian passport",
+   "duplicate_count": 4,
+   "created_year_month": "2026-05",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "22206815849",
+   "query": "I want to surrender my Indian passport",
+   "duplicate_count": 3,
+   "created_year_month": "2025-04",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "949035318",
+   "query": "I became an American citizen in 2014, at that time I misplaced my Indian passport and was not aware that I needed to surrender my passport. And since it got misplaced and I had already received my American passport, I didn’t think much of it. I recently found it again while moving and someone informed me that I needed to surrender my Indian passport when I received my American passport. I would still like to go ahead and surrender it if needed, even though it’s been way past time. Can you please guide me through the procedure of how that can be done?",
+   "duplicate_count": 2,
+   "created_year_month": "2022-06",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "1783077149",
+   "query": "I surrendered my indian passport to Atlanta Indian Consulate back in 2014. However, I did not receive the Renunciation Certificate. How do I obtain that?",
+   "duplicate_count": 2,
+   "created_year_month": "2023-07",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "2675153719",
+   "query": "In the renounciation form, I completed step 1(Complete the Government online form) and step 2 (arrange documents as per the checklist). In step 3, I have submitted VFS global application, and I paid my fees but I did not get any email for application conformation latter and renunciations certificate from VFS global.",
+   "duplicate_count": 2,
+   "created_year_month": "2024-04",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "34240589833",
+   "query": "I got my USA Citizenship and passport already. Is that just surrender the passport is enough or need to do both Surrender and Renunciation ?",
+   "duplicate_count": 2,
+   "created_year_month": "2025-11",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "45734647220",
+   "query": "i want to surrender my passport",
+   "duplicate_count": 2,
+   "created_year_month": "2026-06",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "46700085778",
+   "query": "Surrender of Indian Passport",
+   "duplicate_count": 2,
+   "created_year_month": "2026-07",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "46837696586",
+   "query": "I want to renounce my Indian passport. I am facing issues completion the application on ministry of external affairs website. I have to upload passport photo and website is throwing errors and not accepting photos",
+   "duplicate_count": 2,
+   "created_year_month": "2026-07",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "323352230",
+   "query": "For minors, the VFS says that a proof of Indian roots should be established. My wife and I both were born and raised in India and lived in India for 21+ years before coning to US. Since we recently surrendered our Indian passports, can you please confirm what evidence we should provide for our children for Indian roots? Would our cancelled Indian passports work as the evidence for proof for Indian roots?",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "330802435",
+   "query": "i have travel plan to visit elderly parents but in the process of getting US citizenship now, due to my travel plan, shall i apply for india passport renunciation on the same day when i receive the US naturalization certificate before getting US passort? i want to save time and apply US passport and also send India passport for surrender certificate on the same day when i get the US citizenship? Please help and advise? Thanks, Thirupathi K",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "333690454",
+   "query": "I applied of the renunciation two weeks ago..I see the status as 'Surrender certificate has been printed' since a week.. when can I receive it in mail to my home address?",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "334091134",
+   "query": "I need to surrender my Indian passport and get a visa for my planned trip to India",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "346257778",
+   "query": "My name was officially changed after getting US citizenship but my Indian Passport has my old name. What should my \"Applicant\" name be when filling out the APPLICATION FOR SURRENDER OF INDIAN PASSPORT/CITIZENSHIP?",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "355023686",
+   "query": "How can we finish the Gov application without the Indian passport number? We surrendered my passport when I became a citizen back in 1993. I don't have a copy of my old Indian passport number. How can I complete the Gov application without this information?",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "surrender_renunciation",
+   "expect_decline": false
+  }
+ ],
+ "source_chunks": {
+  "surrender_renunciation": [
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "d69c31d5-a360-571e-a0d1-768af218c5d4",
+    "chunk_index": 0,
+    "chunk_text": "MINOR\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "8600c4c8-1604-5c72-adb0-0fb20da031d0",
+    "chunk_index": 1,
+    "chunk_text": "MINOR > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nTHE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR RENUNCIATION OF INDIAN CITIZENSHIP. YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE. o IMPORTANT GUIDELINES ❖ Please ensure that all data entries provided in your application match your existing passport. If not, please provide the supporting documentation. ❖ Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e ❖ Online applications are only accepted if filled out in the current year & Govt. online form must be printed on the portrait format. ❖ After submission online, no changes can be made. In case of an error, please fill a new online application form ❖ If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48-72 hours. ❖ Envelope should be superscribed as “RENUNCIATION DECLARATION – WITHOUT PASSPORT. One Envelope can contain only one application only. ❖ All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible and other information should be clearly readable. Please note: ❖ VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form. ❖ THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. ❖ YOUR APPLICATION STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. TO TRACK THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "556f2002-1e72-5cce-9b81-862fd3538d57",
+    "chunk_index": 2,
+    "chunk_text": "DON’T STAPLE THE DOCUMENTS\n\n❖ MANDATORY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGNAL Application Form. In the case of Minor both parent's signatures Also minors below 5 years a thumb impression is required. For minors above the age of 5 years, the applicant has to sign the form. To complete the form – please visit: https://embassy.passportindia.gov.in/ PHOTOGRAPH & SIGNATURE – ORIGINAL Photograph\n• Please provide 2 most recent passport size color photos (not older than 6 months) of the applicant (hard copies).\n• Photos to be 2 inches x 2 inches in size, in color, depicting front pose strictly against white background only on photographic paper."
+   },
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "08172ca0-1424-5be7-8669-d50c2711275e",
+    "chunk_index": 3,
+    "chunk_text": "MINOR\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "26f1d887-c732-555b-99a2-975be122cecd",
+    "chunk_index": 4,
+    "chunk_text": "MINOR > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\n• For detailed photograph specifications – please click here TWO - DECLARATION OF RENUNCIATION OF CITIZENSHIP OF INDIA FORM – ORIGINAL ❖ If one does not have the most recent Indian passport Duly FILLED and SIGNED Declaration of Renunciation of Citizenship of India (Click here) . Click here to fill it on VFS Portal and the renunciation certificate will be sent across over email for printout. This needs to be duly signed and submitted ❖ The applicant’s name should appear the same way as in the Indian passport even if the name in the US / Non-US passport is different. ❖ Valid phone numbers and email addresses must be entered in the online application. ❖ If incorrect contact details are entered, it will cause a delay in the processing of the application. ❖ Note: Declaration of Renunciation of Citizenship of India is issued only if 10 years have passed since Naturalization Applicants are required to submit 2 signed copies of the Declaration of Renunciation of Citizenship of India. PROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n- State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR"
+   },
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "55d3442c-73b9-5769-b0de-cc534e45717e",
+    "chunk_index": 5,
+    "chunk_text": "MINOR > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address PHOTOCOPY OF US/NON-US PASSPORT Photocopy of the information page and the last two amendment pages of the US / Non-US passport AFFIDAVIT OF NATURALIZATION AFTER THE EXPIRY OF INDIAN PASSPORT – ORIGINAL & NOTARIZED If the applicant was naturalized after the date of expiry of the latest held Indian passport. A notarized affidavit may be submitted explaining the background and the reason for this gap. NAME CHANGE DOCUMENT ( IF APPLICABLE) – COPY For Former Indian nationals, if your name in your Indian Passport or Indian Government issued document is different in any way from the name in the Current Passport, a copy of ONE of the following documents must be provided: Marriage Certificate showing the name change if the last name was changed at marriage"
+   },
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "fff43630-af8d-5090-93f0-a631a350ef9e",
+    "chunk_index": 6,
+    "chunk_text": "MINOR\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "12ffb69a-6355-501b-8bf4-bd5a94c72a48",
+    "chunk_index": 7,
+    "chunk_text": "MINOR > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nOR Official Court Order for the change of first name or full name. OR Notarized affidavit if only middle name initial is added. OR Endorsement of name change during the naturalization process Note: The name as on Indian Passport will appear on the Renunciation Certificate since it is the surrender of Indian passport. SWORN AFFIDAVIT – ORIGINAL -Click here to download ❖ Sworn affidavit duly notarized in original is required. NATURALIZATION CERTIFICATE – COPY Former Indian National ❖ A copy of Naturalization Certificate More than one Nationality after having Indian Citizenship ❖ ALL NATURALIZATION COPIES OR ❖ PROOF OF NATIONALITY FROM ALL COUNTRIES for which citizenship was / is held. ❖ NO Naturalization Certificate available, then Copies of parents naturalization certificate(s) Notarized statement signed by BOTH parents stating the circumstances that their child received his/her naturalization status and why the child does not possess his/her certificate PROOF OF INDIAN ORIGIN – COPY If you DO NOT possess a Copy of the Indian Passport, it is mandatory to provide any TWO documents from the below. ❖ Copy of the Election Card/ Voter ID ❖ Copy of Board Certificate (SSC) or higher level ❖ Copy of Birth Certificate ❖ Copy of parent’s proof of Indian origin (First 3 ❖ pages and last 2 pages of parents Indian ❖ passport copy /Parents Birth Certificate) Kindly note: This document is applicable only if an applicant submits their Birth Certificate POLICE REPORT – COPY ❖ Applicants naturalized after 2010 Provide a police report in case an Indian passport is missing. ❖ Copy of Green Card NOTE: CURRENT POLICE REPORT MUST NOT BE MORE THAN 6 MONTHS OLD. AFFIDAVIT OF LOSS – ORIGINAL AND COPY – Click here to download ❖ If one does not have the most recent Indian passport One must provide an Affidavit of Loss duly notarized AND ❖ One of the below-mentioned document Copy of your Indian birth certificate OR ❖ School leaving certificate issued by State / Central Board OR ❖ Any document showing Proof of Former Indian Citizenship. SWORN AFFIDAVIT BY PARENTS ( FOR MINORS ONLY) – Click here to download"
+   },
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "35facd10-cc22-5b7f-bacf-d399ceba6d85",
+    "chunk_index": 8,
+    "chunk_text": "MINOR\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "7baf94b9-e90f-4425-b385-79ee642d3f1d",
+    "title": "Surrender without passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/minor-document-checklist-without-passport.pdf",
+    "chunk_id": "a1b3c938-d09f-5cb0-91ee-ef2b6a3de77a",
+    "chunk_index": 9,
+    "chunk_text": "MINOR > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nFEE PAYMENTS & COURIERS Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt & return the Courier label (if generated online) else enclose the pre-paid label To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker or Cashier check then it should be made in favor of “VFS Services (USA) Inc. CHECKLIST 1 Checklist (original) to be printed and enclosed with your application (Signature of the Applicant) Important Notes ❖ The Documents in the Checklist are mandatory for the application to be processed. ❖ The Indian Embassy / Consulates have the right to request additional documentation. ❖ 1 Copy of this checklist must be submitted with your documents. ❖ Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED ❖ HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED ❖ Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided. ❖ Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned"
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "3b5c6140-c8fe-5af9-8329-8116499598fc",
+    "chunk_index": 0,
+    "chunk_text": "- UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "25f71aee-2ce1-5aac-b7db-05b58db5fc3a",
+    "chunk_index": 1,
+    "chunk_text": "- UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nTHE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR RENUNCIATION OF INDIAN CITIZENSHIP. YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE. o IMPORTANT GUIDELINES ❖ Please ensure that all data entries provided in your application match your existing passport. If not, please provide the supporting documentation. ❖ Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e ❖ Online applications are only accepted if filled out in the current year & Govt. online form must be printed on the portrait format. ❖ After submission online, no changes can be made. In case of an error, please fill a new online application form ❖ If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48-72 hours. ❖ Envelope should be superscribed as “RENUNCIATION DECLARATION – WITHOUT PASSPORT. One Envelope can contain only one application only. ❖ All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible and other information should be clearly readable. Please note: ❖ VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form. ❖ THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. ❖ YOUR APPLICATION STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. TO TRACK THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "78493d3a-13ec-5252-8450-48c49a0bebd9",
+    "chunk_index": 2,
+    "chunk_text": "DON’T STAPLE THE DOCUMENTS\n\n❖ MANDATORY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGNAL Application Form. In the case of Minor both parent's signatures Also minors below 5 years a thumb impression is required. For minors above the age of 5 years, the applicant has to sign the form. To complete the form – please visit: https://embassy.passportindia.gov.in/ PHOTOGRAPH & SIGNATURE – ORIGINAL Photograph\n• Please provide 2 most recent passport size color photos (not older than 6 months) of the applicant (hard copies).\n• Photos to be 2 inches x 2 inches in size, in color, depicting front pose strictly against white background only on photographic paper."
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "22ef0a4b-bf02-5081-a0bb-2f91a097e557",
+    "chunk_index": 3,
+    "chunk_text": "- UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "3bcaa221-93ec-55ac-a604-a18972ba625f",
+    "chunk_index": 4,
+    "chunk_text": "- UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\n• For detailed photograph specifications – please click here TWO - DECLARATION OF RENUNCIATION OF CITIZENSHIP OF INDIA FORM – ORIGINAL ❖ If one does not have the most recent Indian passport Duly FILLED and SIGNED Declaration of Renunciation of Citizenship of India. Click here to fill it on VFS Portal and the renunciation certificate will be sent across over email for printout. This needs to be duly signed and submitted ❖ The applicant’s name should appear the same way as in the Indian passport even if the name in the US / Non-US passport is different ❖ Valid phone numbers and email addresses must be entered in the online application. ❖ If incorrect contact details are entered, it will cause a delay in the processing of the application. ❖ Note: Declaration of Renunciation of Citizenship of India is issued only if 10 years have passed since Naturalization Applicants are required to submit 2 signed copies of the Declaration of Renunciation of Citizenship of India. PROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n- State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR"
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "266358e7-5e3a-5b08-8ad4-e6e0f9cd8584",
+    "chunk_index": 5,
+    "chunk_text": "- UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address PHOTOCOPY OF US/NON-US PASSPORT Photocopy of the information page and the last two amendment pages of the US / Non-US passport AFFIDAVIT OF NATURALIZATION AFTER THE EXPIRY OF INDIAN PASSPORT – ORIGINAL & NOTARIZED If the applicant was naturalized after the date of expiry of the latest held Indian passport. A notarized affidavit may be submitted explaining the background and the reason for this gap. NAME CHANGE DOCUMENT ( IF APPLICABLE) – COPY For Former Indian nationals, if your name in your Indian Passport or Indian Government issued document is different in any way from the name in the Current Passport, a copy of ONE of the following documents must be provided: Marriage Certificate showing the name change if the last name was changed at marriage"
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "76420613-83ab-5cb3-848c-1cdbd80148d2",
+    "chunk_index": 6,
+    "chunk_text": "- UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "98747aec-e3a4-5ed6-a4b1-a23574fa1c7e",
+    "chunk_index": 7,
+    "chunk_text": "- UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nOR Official Court Order for the change of first name or full name. OR Notarized affidavit if only middle name initial is added. OR Endorsement of name change during the naturalization process Note: The name as on Indian Passport will appear on the Renunciation Certificate since it is the surrender of Indian passport. SWORN AFFIDAVIT – ORIGINAL -Click here to download ❖ Sworn affidavit duly notarized in original is required. NATURALIZATION CERTIFICATE – COPY Former Indian National ❖ A copy of Naturalization Certificate More than one Nationality after having Indian Citizenship ❖ ALL NATURALIZATION COPIES OR ❖ PROOF OF NATIONALITY FROM ALL COUNTRIES for which citizenship was / is held. ❖ NO Naturalization Certificate available, then Copies of parents naturalization certificate(s) Notarized statement signed by BOTH parents stating the circumstances that their child received his/her naturalization status and why the child does not possess his/her certificate PROOF OF INDIAN ORIGIN – COPY If you DO NOT possess a Copy of the Indian Passport, it is mandatory to provide any TWO documents from the below. ❖ Copy of the Election Card/ Voter ID ❖ Copy of Board Certificate (SSC) or higher level ❖ Copy of Birth Certificate ❖ Copy of parent’s proof of Indian origin (First 3 ❖ pages and last 2 pages of parents Indian ❖ passport copy /Parents Birth Certificate) Kindly note: This document is applicable only if an applicant submits their Birth Certificate POLICE REPORT – COPY ❖ Applicants naturalized after 2010 Provide a police report in case an Indian passport is missing. ❖ Copy of Green Card NOTE: CURRENT POLICE REPORT MUST NOT BE MORE THAN 6 MONTHS OLD. AFFIDAVIT OF LOSS – ORIGINAL AND COPY – Click here to download ❖ If one does not have the most recent Indian passport One must provide an Affidavit of Loss duly notarized AND ❖ One of the below-mentioned document Copy of your Indian birth certificate OR ❖ School leaving certificate issued by State / Central Board OR ❖ Any document showing Proof of Former Indian Citizenship. SWORN AFFIDVAIT BY PARENTS ( FOR MINORS ONLY) – Click here to download"
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "051cc2f7-44b6-5259-9278-d4d46cae2ece",
+    "chunk_index": 8,
+    "chunk_text": "- UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "7d704287-6d10-48d7-8c0e-772cbdc3906f",
+    "title": "Naturalised on or after 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-on-or-after-1st-june-2010-without-passport.pdf",
+    "chunk_id": "4e9ea196-bfdf-5e5e-bf99-869ff013e314",
+    "chunk_index": 9,
+    "chunk_text": "- UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nFEE PAYMENTS & COURIERS Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt & return the Courier label (if generated online) else enclose the pre-paid label To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker check then it should be made in favor of “VFS Services (USA) Inc. You must write govt. Application number on the front or back of money order or banker check. PERSONAL CHECKS ARE NOT ACCETPABLE. CHECKLIST 1 Checklist (original) to be printed and enclosed with your application (Signature of the Applicant) Important Notes ❖ The Documents in the Checklist are mandatory for the application to be processed. ❖ The Indian Embassy / Consulates have the right to request additional documentation. ❖ 1 Copy of this checklist must be submitted with your documents. ❖ Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED ❖ HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED ❖ Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided. ❖ Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned"
+   },
+   {
+    "source_id": "88af0b44-cc38-404e-9a15-07a8c7d9eec5",
+    "title": "Renunciation certificate fillable form",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/renunciation-certificate-fillable-form.pdf",
+    "chunk_id": "4af7ab4b-77a0-503b-b182-ca45e53820f5",
+    "chunk_index": 0,
+    "chunk_text": "SURRENDER OF INDIAN PASSPORT CERTIFICATE > SURRENDER OF INDIAN PASSPORT ON ACQUISITION OF CITIZENSHIP OF ANOTHER COUNTRY\n\n1. I, am of full age and capacity and was born at on\n2. I am\n3. I have acquired US / Foreign nationality on and consequently have obtained US / Foreign passport #: dated\n4. I hereby surrender my Indian Passport Number : Place of Issue: Date of Issue\n5. Father's Name\n6. Applicant's Date of Birth:\n7. Names and full particulars of my minor children, if any, who are / were Citizens of India Name of Minor (s) Date of Birth P l a c e of Birth US/Foreign Passport# Date of Issue Place of Issue I, do solemnly and sincerely declare that the foregoing particulars stated in this declaration are and I make this solemn declaration conscientiously believing the same to be true. Made and subscribed this on Day of Full Name of the Applicant Mobile Number Phone Number Email Address Address in the USA ( Signature of the Applicant) Surrender Certificate Date: This is to certify that Mr. / Ms. has surrender his / her Indian Passport and acquired United States /Foreign Citizenship. His/Her Indian Passport mentioned above has been cancelled and returned to the Passport holder. (Signature and Stamp (Consulate Officer) Note: The applicant is advised to retain this document for life long to avail consular services in future."
+   },
+   {
+    "source_id": "cb562a0c-e5df-4195-87c3-3ffa79ec1db9",
+    "title": "Surrender with most recent passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-minor.pdf",
+    "chunk_id": "64b6ae4d-843f-54ee-922b-42efea9bc21a",
+    "chunk_index": 0,
+    "chunk_text": "PASSPORT - MINOR\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ THE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR PASSPORT RE-ISSUE. YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE. IMPORTANT GUIDELINES  IT IS ABSOLUTELY MANDATORY to complete VFS ONLINE REGISTRATION PROCESS before sending your physical application. Failure to complete online registration process will result in returning your application unprocessed.  Please ensure that all data entries provided in your application must match your existing passport. If not, please provide the supporting documentation.  Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e  Online applications are only accepted if filled out in the current year and should not be more than 320 days old from the day of submission to the VFS Indian Consular application Centre.  After submission online, no changes can be made. In case of an error, please fill a new online application form.  If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48-72 hours.  Envelope should be superscribed as “SURRENDER APPLICATION WITHOUT PASSPORT. One Envelope can contain only one application only.  All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible and other information should be clearly readable. Please note:  VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form.  THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY.  YOUR APPLICATION STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. TO TRACK THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "cb562a0c-e5df-4195-87c3-3ffa79ec1db9",
+    "title": "Surrender with most recent passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-minor.pdf",
+    "chunk_id": "8e160129-6bc8-5ac3-b587-6743fc7123bd",
+    "chunk_index": 1,
+    "chunk_text": "MANDATORY DOCUMENTS\n\nS.N Document Name Original or Copy 1 ORIGINAL GOVERNMENT APPLICATION ONLINE FORM:\n• Must select a correct Jurisdiction online on the Passport Govt. form.\n• Must Choose Naturalized Before June, 2010 – Possessing Most Recent Passport.\n• Surrender Government ARN number must match the VFS Payment receipt number. ONLINE APPLICATION FORM The application must be completed and submitted online by visiting: https://portal3.passportindia.gov.in/Online/index.html\n- First-time applicants need to register and make an account to be able to fill the online application form. If registered already, please log in and fill the application SIGNATURE INSTRUCTIONS (DIGITAL SIGNATURES ARE NOT ACCEPTABLE)\n- Applicant’s Signature on Page 1, inside the box, below your photograph, and on page 4."
+   },
+   {
+    "source_id": "cb562a0c-e5df-4195-87c3-3ffa79ec1db9",
+    "title": "Surrender with most recent passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-minor.pdf",
+    "chunk_id": "bebbf379-1be5-579f-b5f3-74ddcd94db28",
+    "chunk_index": 2,
+    "chunk_text": "MANDATORY DOCUMENTS > INDIAN PASSPORT - UNITED STATES\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n- Minor Applicant (Below 18 Years): All Minor applicants above the age of 5 need to write their name or sign in the space provided on the first page of the application form below the photograph. Minor applicant below 5 years may put left thumb impression on the space provided. 2 PHOTOGRAPH SPECIFICATIONS (Must be white background) ORIGINAL 2 photos of size 51mm x 51 mm (2 by 2 size) – PHOTOGRAPHS MUST BE IDENTICAL. Must be recently taken within 6 months. Photos must be compliant with specifications; Affix 01 photograph on Govt. form and 01 on change o of appearance form To know more about photo specifications – Please click here 3 ORIGINAL TWO DULY FILLED AND SIGNED DECALARATION OF INDIAN PASSPORT CERTIFICATE Click here to fill the form online on VFS Portal and the Surrender certificate will be sent across over email for printout. This needs to be duly signed and submitted 4 PROOF OF ADDRESS (ONE OF THE PARENT’S IN CASE THE MINOR DOES NOT HAVE ITS OWN) COPY Proof of address must match with the present address as per application: (any ONE of the below documents) State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement (Either main page of lease which has the address, and the signature page need to be notarized) OR\n- Mortgage (Either main page of lease which has the address, or the signature page need to be notarized) OR\n- Income Tax return OR"
+   },
+   {
+    "source_id": "cb562a0c-e5df-4195-87c3-3ffa79ec1db9",
+    "title": "Surrender with most recent passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-minor.pdf",
+    "chunk_id": "93d273db-860e-5245-9d00-0de501a8c387",
+    "chunk_index": 3,
+    "chunk_text": "MANDATORY DOCUMENTS > INDIAN PASSPORT - UNITED STATES\n\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. OR\n- Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along with parent’s address proof. OR\n- In case of applicant residing with parents/children/ relatives, a notarized undertaking from them with one of the Notarized copies of address proof as indicated above. OR -In case of applicant residing in a hotel or temporary lodging for a short period of time and does not have a --permanent address proof, then can submit copy of notarized hotel bills as proof of residence. -Please note – expired documents like lease/ driving license copies are not acceptable. Please provide alternate valid documents NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address 5 CURRENT PASSPORT INFORMATION PAGE COPY (DO NOT SEND ORIGINAL PASSPORT) PHOTOCOPY Information page that contains the picture and personal details of the holder of the Passport. Endorsement/amendment pages. Passport should be valid for at least 6 months from the date of submission of application at the VFS INDIA CONSULAR APPLICATION CENTRE"
+   },
+   {
+    "source_id": "cb562a0c-e5df-4195-87c3-3ffa79ec1db9",
+    "title": "Surrender with most recent passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-minor.pdf",
+    "chunk_id": "b1fcd388-107a-5c10-a8cb-494e120092f4",
+    "chunk_index": 4,
+    "chunk_text": "MANDATORY DOCUMENTS > INDIAN PASSPORT - UNITED STATES\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ 6 ORIGINAL & AFFIDAVIT OF NATURALIZATION AFTER THE EXPIRY OF INDIAN PASSPORT NOTARIZED If the applicant was naturalized after the date of expiry of the latest held Indian passport. A notarized affidavit may be submitted explaining the background and the reason for this gap. 7 ORIGINAL & NAME CHANGE DOCUMENT (IF APPLICABLE) NOTARIZED For Former Indian nationals, if your name in your Indian Passport or Indian Government issued document is different in any way from the name in the Current Passport, a copy of ONE of the following documents must be provided: Marriage Certificate showing the name change if the last name was changed at marriage OR Official Court Order for the change of first name or full name. OR Notarized affidavit if only middle name initial is added. OR Endorsement of name change during the naturalization process Note: The name as on the Indian Passport will appear on the Surrender Certificate since it is a surrender of an Indian passport. 8 ORIGINAL MOST RECENT INDIAN PASSPORT  Actual original signed passport.  Photocopy of first three pages of the passport and last two pages of the passport 9 COPY NATURALIZATION CERTIFICATE Former Indian National  A copy of Naturalization Certificate More than one Nationality after having Indian Citizenship  ALL NATURALIZATION COPIES OR  PROOF OF NATIONALITY FROM ALL COUNTRIES for which citizenship was / is held. NO Naturalization Certificate available, then Copies of parents naturalization certificate(s) Notarized statement signed by BOTH parents stating the circumstances that their child received his/her naturalization status and why the child does not possess his/her certificate 10 ORIGINAL & PARENTAL AUTHORISATION FOR MINORS : Click here to download NOTARIZED In the case of Minor submit a NOTARIZED parental authorization form. BOTH PARENTS must sign the parental authorization form failing which the application cannot be processed. 11 ORIGINAL & SWORN AFFIDAVIT – CLICK HERE TO DOWNLOAD NOTARIZED"
+   },
+   {
+    "source_id": "cb562a0c-e5df-4195-87c3-3ffa79ec1db9",
+    "title": "Surrender with most recent passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-minor.pdf",
+    "chunk_id": "40be8e36-f2f2-5d78-a2b3-41d849e02251",
+    "chunk_index": 5,
+    "chunk_text": "MANDATORY DOCUMENTS > INDIAN PASSPORT - UNITED STATES\n\n• Sowrn-Affidavit Duly Notarized in Original is Required."
+   },
+   {
+    "source_id": "cb562a0c-e5df-4195-87c3-3ffa79ec1db9",
+    "title": "Surrender with most recent passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-minor.pdf",
+    "chunk_id": "8fb58830-d01f-5117-be2e-381c5a55dc9d",
+    "chunk_index": 6,
+    "chunk_text": "MANDATORY DOCUMENTS > INDIAN PASSPORT - UNITED STATES\n\n12 COPY POLICE REPORT\n• Police report must not be older than 6 months\n• A Confirmed and detailed police report is acceptable. 13 AFFIDAVIT OF LOSS –Click here to download ORIGINAL\n• If one does not have the most recent Indian passport, One must provide an Affidavit of AND COPY Loss duly notarized AND\n• One of the below-mentioned document Copy of your Indian birth certificateOR\n• School leaving certificate issued by State / Central Board OR\n• Any document showing Proof of Former Indian Citizenship. 14 ORIGINAL FEE PAYMENTS & COURIERS Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt and enclose the acceptable pre-paid label, if you opt to use your own courier labels. Both Pre-paid labels and VFS offered courier label return address must match with the address proof submitted and mentioned on the application form. To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker’s check then it should be made in favor of “VFS Services (USA) Inc. PERSONAL CHECKS ARE NOT ACCEPTABLE FEDEX PREPAID LABELS ARE NOT ACCEPTABLE."
+   },
+   {
+    "source_id": "cb562a0c-e5df-4195-87c3-3ffa79ec1db9",
+    "title": "Surrender with most recent passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-minor.pdf",
+    "chunk_id": "a730dcf6-dc9a-5327-be31-79a5ea9e7e62",
+    "chunk_index": 7,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED\n\n1 NOTARIZED AND SWORN AFFIDAVIT FOR NATURALIZATION CERTIFICATE ORIGINAL If the applicant has gained naturalization through parents, please provide a notarized sworn affidavit in original. Click here to download the Sworn Affidavit."
+   },
+   {
+    "source_id": "cb562a0c-e5df-4195-87c3-3ffa79ec1db9",
+    "title": "Surrender with most recent passport, minor",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-minor.pdf",
+    "chunk_id": "708fd65d-973d-5810-8aef-9476211b257f",
+    "chunk_index": 8,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > INDIAN PASSPORT - UNITED STATES\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ (Signature of the Applicant) Important Notes  The Documents in the Checklist are mandatory for the application to be processed.  The Indian Embassy / Consulates have the right to request additional documentation.  1 Copy of this checklist must be submitted with your documents.  Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED  HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED  Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided.  Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned.  VFS Service charges, Courier fee and convenience charges won’t be refundable in case you decide not to send your application, cancel your application, application is rejected, and incomplete application is returned by the Indian Consular application Centre."
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "e63f7da4-2c65-511e-983e-faabd7738a91",
+    "chunk_index": 0,
+    "chunk_text": "UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "e21f42ae-f3ab-5108-a9e9-4326d51f82b9",
+    "chunk_index": 1,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nTHE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR RENUNCIATION OF INDIAN CITIZENSHIP. YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE. o IMPORTANT GUIDELINES ❖ Please ensure that all data entries provided in your application match your existing passport. If not, please provide the supporting documentation. ❖ Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e ❖ Online applications are only accepted if filled out in the current year & Govt. online form must be printed on the portrait format. ❖ After submission online, no changes can be made. In case of an error, please fill a new online application form ❖ If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48-72 hours. ❖ Envelope should be superscribed as “RENUNCIATION DECLARATION – WITHOUT PASSPORT. One Envelope can contain only one application only. ❖ All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible and other information should be clearly readable. Please note: ❖ VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form. ❖ THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. ❖ YOUR APPLICATION STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. TO TRACK THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "ae75a038-ee1f-503e-a170-e646f2a579a7",
+    "chunk_index": 2,
+    "chunk_text": "DON’T STAPLE THE DOCUMENTS\n\n❖ MANDATORY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGNAL Application Form. In the case of Minor both parent's signatures Also minors below 5 years a thumb impression is required. For minors above the age of 5 years, the applicant has to sign the form. To complete the form – please visit: https://embassy.passportindia.gov.in/ PHOTOGRAPH & SIGNATURE – ORIGINAL Photograph\n• Please provide 2 most recent passport size color photos (not older than 6 months) of the applicant (hard copies).\n• Photos to be 2 inches x 2 inches in size, in color, depicting front pose strictly against white background only on photographic paper."
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "d962c2df-d8e8-53e9-a2b9-80eb568ff9df",
+    "chunk_index": 3,
+    "chunk_text": "UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "2235a9da-3da1-5f4d-aac3-be27b115376b",
+    "chunk_index": 4,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\n• For detailed photograph specifications – please click here TWO - DECLARATION OF RENUNCIATION OF CITIZENSHIP OF INDIA FORM – ORIGINAL ❖ If one does not have the most recent Indian passport Duly FILLED and SIGNED Declaration of Renunciation of Citizenship of India. Click here to fill it on VFS Portal and the renunciation certificate will be sent across over email for printout. This needs to be duly signed and submitted ❖ The applicant’s name should appear the same way as in the Indian passport even if the name in the US / Non-US passport is different. ❖ Valid phone numbers and email addresses must be entered in the online application. ❖ If incorrect contact details are entered, it will cause a delay in the processing of the application. ❖ Note: Declaration of Renunciation of Citizenship of India is issued only if 10 years have passed since Naturalization Applicants are required to submit 2 signed copies of the Declaration of Renunciation of Citizenship of India. PROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n- State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR"
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "fb0a5284-1f08-5da9-b12e-9f0fab2eb0e3",
+    "chunk_index": 5,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address PHOTOCOPY OF US/NON-US PASSPORT Photocopy of the information page and the last two amendment pages of the US / Non-US passport AFFIDAVIT OF NATURALIZATION AFTER THE EXPIRY OF INDIAN PASSPORT – ORIGINAL & NOTARIZED If the applicant was naturalized after the date of expiry of the latest held Indian passport. A notarized affidavit may be submitted explaining the background and the reason for this gap. NAME CHANGE DOCUMENT ( IF APPLICABLE) – COPY For Former Indian nationals, if your name in your Indian Passport or Indian Government issued document is different in any way from the name in the Current Passport, a copy of ONE of the following documents must be provided: Marriage Certificate showing the name change if the last name was changed at marriage"
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "261b5af5-d597-5278-8d1e-6137564fb570",
+    "chunk_index": 6,
+    "chunk_text": "UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "4e1dc941-89d1-5d37-bb74-30ebe7fa8bcc",
+    "chunk_index": 7,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nOR Official Court Order for the change of first name or full name. OR Notarized affidavit if only middle name initial is added. OR Endorsement of name change during the naturalization process Note: The name as on Indian Passport will appear on the Renunciation Certificate since it is the surrender of Indian passport. SWORN AFFIDAVIT – ORIGINAL -Click here to download ❖ Sworn affidavit duly notarized in original is required. NATURALIZATION CERTIFICATE – COPY Former Indian National ❖ A copy of Naturalization Certificate More than one Nationality after having Indian Citizenship ❖ ALL NATURALIZATION COPIES OR ❖ PROOF OF NATIONALITY FROM ALL COUNTRIES for which citizenship was / is held. ❖ NO Naturalization Certificate available, then Copies of parents naturalization certificate(s) Notarized statement signed by BOTH parents stating the circumstances that their child received his/her naturalization status and why the child does not possess his/her certificate PROOF OF INDIAN ORIGIN – COPY If you DO NOT possess a Copy of the Indian Passport, it is mandatory to provide any TWO documents from the below. ❖ Copy of the Election Card/ Voter ID ❖ Copy of Board Certificate (SSC) or higher level ❖ Copy of Birth Certificate ❖ Copy of parent’s proof of Indian origin (First 3 ❖ pages and last 2 pages of parents Indian ❖ passport copy /Parents Birth Certificate) Kindly note: This document is applicable only if an applicant submits their Birth Certificate POLICE REPORT – COPY ❖ Applicants naturalized after 2010 Provide a police report in case an Indian passport is missing. ❖ Copy of Green Card NOTE: CURRENT POLICE REPORT MUST NOT BE MORE THAN 6 MONTHS OLD. AFFIDAVIT OF LOSS – ORIGINAL AND COPY – Click here to download ❖ If one does not have the most recent Indian passport One must provide an Affidavit of Loss duly notarized AND ❖ One of the below-mentioned document Copy of your Indian birth certificate OR ❖ School leaving certificate issued by State / Central Board OR ❖ Any document showing Proof of Former Indian Citizenship. SWORN AFFIDAVIT BY PARENTS ( FOR MINORS ONLY) – Click here to download"
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "dae92b92-b909-513e-a1df-284379c26f41",
+    "chunk_index": 8,
+    "chunk_text": "UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "ccf1343c-a973-4dcd-9dc1-c1f75d959302",
+    "title": "Naturalised before 1 June 2010, no passport",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/naturalized-before-1st-june-2010-without-passport.pdf",
+    "chunk_id": "7dc990da-8af1-5172-9bda-e51294cf9c1d",
+    "chunk_index": 9,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nFEE PAYMENTS & COURIERS Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt & return the Courier label (if generated online) else enclose the pre-paid label To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker or Cashier check then it should be made in favor of “VFS Services (USA) Inc. CHECKLIST 1 Checklist (original) to be printed and enclosed with your application (Signature of the Applicant) Important Notes ❖ The Documents in the Checklist are mandatory for the application to be processed. ❖ The Indian Embassy / Consulates have the right to request additional documentation. ❖ 1 Copy of this checklist must be submitted with your documents. ❖ Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED ❖ HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED ❖ Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided. ❖ Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned"
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "ed71e50d-2bea-5295-8391-fee3be0c8a39",
+    "chunk_index": 0,
+    "chunk_text": "UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "a4eb813b-985c-55a8-ac09-b64b7d8e5917",
+    "chunk_index": 1,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nTHE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR SURRENDER OF INDIAN PASSPORT . YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE. o IMPORTANT GUIDELINES ❖ Please ensure that all data entries provided in your application match your existing passport. If not, please provide the supporting documentation. ❖ Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e ❖ Online applications are only accepted if filled out in the current year & Govt. online form must be printed on the portrait format. ❖ After submission online, no changes can be made. In case of an error, please fill a new online application form ❖ If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48-72 hours. ❖ Envelope should be superscribed as “SURRENDER DECLARATION – WITHOUT PASSPORT. One Envelope can contain only one application only. ❖ All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible and other information should be clearly readable. Please note: ❖ VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form. ❖ THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. ❖ YOUR APPLICATION STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. TO TRACK THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "dab1ee0b-bfbb-5c17-9819-a5ef812d4f71",
+    "chunk_index": 2,
+    "chunk_text": "DON’T STAPLE THE DOCUMENTS\n\n❖ MANDATORY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGNAL Application Form. In the case of Minor both parent's signatures Also minors below 5 years a thumb impression is required. For minors above the age of 5 years, the applicant has to sign the form. To complete the form – please visit: https://embassy.passportindia.gov.in/ PHOTOGRAPH & SIGNATURE – ORIGINAL Photograph\n• Please provide 2 most recent passport size color photos (not older than 6 months) of the applicant (hard copies).\n• Photos to be 2 inches x 2 inches in size, in color, depicting front pose strictly against white background only on photographic paper."
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "3135db4b-2d9c-5081-9d79-4c508a222ad0",
+    "chunk_index": 3,
+    "chunk_text": "UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "6a8106cc-e7fd-586c-8054-33a43a102f76",
+    "chunk_index": 4,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\n• For detailed photograph specifications – please click here TWO - DECLARATION OF SURRENDER O INDIAN PASSPORT CERTIFICATE – ORIGINAL ❖ If one does not have the most recent Indian passport Duly FILLED and SIGNED Declaration of Surrender of Indian Passport (Click here). Click here to fill it on VFS Portal and the Surrender certificate will be sent across over email for printout. This needs to be duly signed and submitted ❖ The applicant’s name should appear the same way as in the Indian passport even if the name in the US / Non-US passport is different. ❖ Valid phone numbers and email addresses must be entered in the online application. ❖ If incorrect contact details are entered, it will cause a delay in the processing of the application. ❖ Note: Declaration of Surrender of Indian Passport is issued only if 10 years have passed since Naturalization Applicants are required to submit 2 signed copies of the Declaration of Surrender of Indian Passport . PROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n- State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR"
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "3472bd63-95e4-557a-b9cf-9c54d0c7ebae",
+    "chunk_index": 5,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address PHOTOCOPY OF US/NON-US PASSPORT Photocopy of the information page and the last two amendment pages of the US / Non-US passport AFFIDAVIT OF NATURALIZATION AFTER THE EXPIRY OF INDIAN PASSPORT – ORIGINAL & NOTARIZED If the applicant was naturalized after the date of expiry of the latest held Indian passport. A notarized affidavit may be submitted explaining the background and the reason for this gap. NAME CHANGE DOCUMENT ( IF APPLICABLE) – COPY For Former Indian nationals, if your name in your Indian Passport or Indian Government issued document is different in any way from the name in the Current Passport, a copy of ONE of the following documents must be provided: Marriage Certificate showing the name change if the last name was changed at marriage"
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "843a738c-4e2c-5b97-9c2b-60c97bf4d3be",
+    "chunk_index": 6,
+    "chunk_text": "UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "729c3e98-d361-5981-bdea-0e821a01b971",
+    "chunk_index": 7,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nOR Official Court Order for the change of first name or full name. OR Notarized affidavit if only middle name initial is added. OR Endorsement of name change during the naturalization process Note: The name as on Indian Passport will appear on the Surrender Certificate since it is the surrender of Indian passport. SWORN AFFIDAVIT – ORIGINAL -Click here to download ❖ Sworn affidavit duly notarized in original is required. NATURALIZATION CERTIFICATE – COPY Former Indian National ❖ A copy of Naturalization Certificate More than one Nationality after having Indian Citizenship ❖ ALL NATURALIZATION COPIES OR ❖ PROOF OF NATIONALITY FROM ALL COUNTRIES for which citizenship was / is held. ❖ NO Naturalization Certificate available, then Copies of parents naturalization certificate(s) Notarized statement signed by BOTH parents stating the circumstances that their child received his/her naturalization status and why the child does not possess his/her certificate PROOF OF INDIAN ORIGIN – COPY If you DO NOT possess a Copy of the Indian Passport, it is mandatory to provide any TWO documents from the below. ❖ Copy of the Election Card/ Voter ID ❖ Copy of Board Certificate (SSC) or higher level ❖ Copy of Birth Certificate ❖ Copy of parent’s proof of Indian origin (First 3 ❖ pages and last 2 pages of parents Indian ❖ passport copy /Parents Birth Certificate) Kindly note: This document is applicable only if an applicant submits their Birth Certificate POLICE REPORT – COPY ❖ Applicants naturalized after 2010 Provide a police report in case an Indian passport is missing. ❖ Copy of Green Card NOTE: CURRENT POLICE REPORT MUST NOT BE MORE THAN 6 MONTHS OLD. AFFIDAVIT OF LOSS – ORIGINAL AND COPY – Click here to download ❖ If one does not have the most recent Indian passport One must provide an Affidavit of Loss duly notarized AND ❖ One of the below-mentioned document Copy of your Indian birth certificate OR ❖ School leaving certificate issued by State / Central Board OR ❖ Any document showing Proof of Former Indian Citizenship. SWORN AFFIDAVIT BY PARENTS ( FOR MINORS ONLY) – Click here to download"
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "629c3a3f-7d10-50eb-bee5-9826648c41ae",
+    "chunk_index": 8,
+    "chunk_text": "UNITED STATES\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d9b902a0-8ad2-4305-b955-ba757bed0177",
+    "title": "Surrender without passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/adult-document-checklist-without-passport.pdf",
+    "chunk_id": "54a05577-b130-5956-bf96-9f95483615c6",
+    "chunk_index": 9,
+    "chunk_text": "UNITED STATES > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nFEE PAYMENTS & COURIERS Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt & return the Courier label (if generated online) else enclose the pre-paid label To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker or Cashier check then it should be made in favor of “VFS Services (USA) Inc. CHECKLIST 1 Checklist (original) to be printed and enclosed with your application (Signature of the Applicant) Important Notes ❖ The Documents in the Checklist are mandatory for the application to be processed. ❖ The Indian Embassy / Consulates have the right to request additional documentation. ❖ 1 Copy of this checklist must be submitted with your documents. ❖ Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED ❖ HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED ❖ Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided. ❖ Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned"
+   },
+   {
+    "source_id": "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f",
+    "title": "Renunciation service overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/",
+    "chunk_id": "357b4708-ccfb-57b9-aaaf-bbd26728cb94",
+    "chunk_index": 0,
+    "chunk_text": "Home → Apply Visa → Visa Type"
+   },
+   {
+    "source_id": "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f",
+    "title": "Renunciation service overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/",
+    "chunk_id": "033cb53c-d4b0-5c7a-b726-923adeacf38b",
+    "chunk_index": 1,
+    "chunk_text": "Surrender of Indian passport > Surrender of Indian passport\n\n• Overview\n• Surrender of Indian Passport Fees & Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f",
+    "title": "Renunciation service overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/",
+    "chunk_id": "0c497bd5-ab2c-585b-ad00-6d986227deb9",
+    "chunk_index": 2,
+    "chunk_text": "Surrender of Indian passport > Surrender of Indian passport\n\n• Overview Surrender and Renunciation of Indian Citizenship applies only to applicants of Indian Origin. Under The Indian Citizenship Act, 1955, Persons of Indian Origin is not allowed DUAL Citizenship. If a person has ever held an Indian Passport and has obtained the Passport of another\n                                                                        country, they will be required to surrender their Indian Passport immediately after gaining another Country’s nationality. If a person has ever held an Indian passport and has obtained the passport of another country, they will be required to surrender their Indian passport immediately after gaining another\n                                                                        country's nationality. After Renunciation of Indian Citizenship, it is necessary to apply for Surrender or a Renunciation certificate. A stamp saying \"cancelled due to acquiring foreign nationality\" is required. It should be noted that Indian passports that carry only a \"cancelled stamp\" are not considered renounced\n                                                                        of their Indian citizenship. While applying for consular services Visa or OCI, it is mandatory to provide proof of your cancelled Indian passport. If such evidence cannot be provided, applicants will be required\n                                                                        to obtain a renunciation certificate. While applying for Renunciation of Indian Citizenship, there are many procedures that must be followed, including the submission of the duly filled application form as well as current\n                                                                        photographs and relevant documents. While enquiring about the fees that are levied for the relevant stamps and certificates, it is also essential to identify your area of jurisdiction\n                                                                        and service centers. It is not necessary for travellers to carry a Certificate of Renunciation of Indian Citizenship during their travel to India. It should be noted that it is illegal to continue to use an Indian passport after the renunciation of Indian citizenship and defaulters will be faced with penalties. Guidelines for Shipping Service & its packaging Third Party Offered Courier Service - points to note You can purchase third party offered courier service. Please enclose only one application per package. Don’t enclose multiple applications in the same package. Your return shipping address must match with the proof of address submitted as part of your application. VFS won't be responsible for any delays or damages if packages are in transit for inbound or outbound couriers. Return address on the shipping label must match the address on the application form. Do not provide shipping address of Courier stores or Hold at Location stations. We don’t accept USPS pre-paid labels having expiry date limitation. You are responsible for tracking your package and schedule a pick up from the VFS Consular application Centre once ready. VFS won't be responsible for any delays or damages if packages are in transit for inbound or outbound couriers. Policy - Return of incomplete documents after 20 days. Incomplete application: If the application is not completed within 20 calendar days, then VFS will return your application unprocessed. In this scenario, the Consular and ICWF fee will be refunded post deduction of applicable postal charges (if applicable). Photocopy documents received after 20 days will be shredded and originals if any received will be returned to the Embassy of India or Consulate General of India. Applicants should contact the Embassy of India or Consulate General of India directly to receive their original documents, once VFS returns the original documents to the Embassy of India or Consulate General of India. In this scenario, only the Consular and ICWF fee will be refunded post deduction of applicable postal charges (if applies). Policy – Additional documents after 07 days. Additional documents: If the additional documents are not completed within 07 calendar days then Embassy/Consulates may stop processing your application. In\n                                                                                            this scenario, no fees will be refunded."
+   },
+   {
+    "source_id": "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f",
+    "title": "Renunciation service overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/",
+    "chunk_id": "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+    "chunk_index": 3,
+    "chunk_text": "Surrender of Indian passport > Surrender of Indian passport\n\n• Surrender of Indian Passport Fees & Documents Required Surrender of Indian Passport Fee structure: Surrender of Indian Passport    Fee Criteria Renunciation    Fee VFS    Fee ICWF Surrender of Indian Passport $40 $19.00 3 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over and over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in Favor of “ VFS Services (USA) Inc. Documents Required Mandatory    or non-mandatory Document    Checklists and Forms for Surrender of Indian Passport - Adult Document    Checklists and Forms for Surrender of Indian Passport - Minor MANDATORY Adult    Document Checklist - With Passport Adult Document    Checklist - Without Passport Minor    Document Checklist - With Passport Minor Document    Checklist - Without Passport Mandatory Additional Documents MANDATORY Declaration of Surrender of Indian Passport – For Postal customers:    To be filled Online on VFS Portal by applicant who are not in possession of    Indian passport: Customer with appointment: Fill the PDF form 02 Original Surrender of Indian Passport Certificate – For Postal    customers: To be filled Online on VFS Portal by Customer who are in    possession of Indian passport: Customer    with appointment: Fill the PDF form MANDATORY    FOR MINORS Parental    authorization form for minor MANDATORY    FOR MINORS Sworn-Affidavit    by Parents (for Minor) MANDATORY Affidavit    of Loss of Passport MANDATORY Sworn-Affidavit    for Loss of Passport MANDATORY Affidavit of Naturalization after the expiry of Indian Passport (Gap Letter) MANDATORY Surrender    Certificate in case of holding Original Indian Passport MANDATORY Declaration    of Surrender Certificate in case of a Lost Indian    Passport"
+   },
+   {
+    "source_id": "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f",
+    "title": "Renunciation service overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/",
+    "chunk_id": "9d1de69b-6ad7-575d-9d28-410f913f779f",
+    "chunk_index": 4,
+    "chunk_text": "Surrender of Indian passport > Surrender of Indian passport\n\n• Processing Times 7- 21 working days once the application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "0207bc3e-3a02-5545-b9a0-366a14e62c19",
+    "chunk_index": 0,
+    "chunk_text": "ADULT\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "8d2b626f-ea64-5592-9145-678ca3fc8edf",
+    "chunk_index": 1,
+    "chunk_text": "ADULT > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nTHE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING SURRENDER OF INDIAN PASSPORT. YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE . o IMPORTANT GUIDELINES ❖ IT IS ABSOLUTELY MANDATORY to complete VFS ONLINE REGISTRATION PROCESS before sending your physical application. Failure to complete online registration process will result in returning your application unprocessed. ❖ Please ensure that all data entries provided in your application must match your existing passport. If not, please provide the supporting documentation. ❖ Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e ❖ Online applications are only accepted if filled out in the current year and should not be more than 320 days old from the day of submission to the VFS Indian Consular application Centre & Govt. Online form must be printed on Portrait format. ❖ After submission online, no changes can be made. In case of an error, please fill a new online application form. ❖ If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48-72 hours. ❖ Envelope should be superscribed as “SURRENDER APPLICATION WITH PASSPORT. One Envelope can contain only one application only. ❖ All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible and other information should be clearly readable. Please note: ❖ VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form. ❖ THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. ❖ YOUR APPLICATION STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. TO TRACK THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "19b25889-deb5-5e59-9c43-c32c27d770ef",
+    "chunk_index": 2,
+    "chunk_text": "DON’T STAPLE THE DOCUMENTS\n\n❖ MANDATORY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGNAL Application Form. In the case of Minor both parent's signatures Also minors below 5 years a thumb impression is required. For minors above the age of 5 years, the applicant has to sign the form. To complete the form – please visit: https://embassy.passportindia.gov.in/"
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "e87631d5-396b-58bc-b2fa-41142d45496c",
+    "chunk_index": 3,
+    "chunk_text": "ADULT\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "af4527f7-84dc-55e0-b779-868ad449cfa4",
+    "chunk_index": 4,
+    "chunk_text": "ADULT > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nPHOTOGRAPH & SIGNATURE – ORIGINAL Photograph\n• Please provide 2 most recent passport size color photos (not older than 6 months) of the applicant (hard copies).\n• Photos to be 2 inches x 2 inches in size, in color, depicting front pose strictly against white background only on photographic paper.\n• For detailed photograph specifications – please click here TWO DULY FILLED AND SIGNED SURRENDER OF INDIAN PASSPORT CERTIFICATE – ORIGINAL Click here to fill the form online on VFS Portal and the surrender certificate will be sent across over email for printout. This needs to be duly signed and submitted PROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n- State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice.\n- Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along with parent’s address proof.\n- In case of applicant residing with parents/children/ relatives, a notarized undertaking from them with one of the copies of address proof as indicated above."
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "7fd099e3-8d7e-5355-8fca-1f4c7325ba87",
+    "chunk_index": 5,
+    "chunk_text": "ADULT > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\n- In case of applicant residing in a hotel or temporary lodging for a short period of time and does not have a -- permanent address proof, then can submit copy of notarized hotel bills as proof of residence. -Please note – expired documents like lease/ driving license copies are not acceptable. Please provide alternate valid documents NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address PHOTOCOPY OF US/NON-US PASSPORT Photocopy of the information page and the last two amendment pages of the US / Non-US passport AFFIDAVIT OF NATURALIZATION AFTER THE EXPIRY OF INDIAN PASSPORT – ORIGINAL & NOTARIZED If the applicant was naturalized after the date of expiry of the latest held Indian passport. A notarized affidavit may be submitted explaining the background and the reason for this gap."
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "12cde366-dc03-5102-98e7-143e8b160587",
+    "chunk_index": 6,
+    "chunk_text": "ADULT\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "24dde8a8-5390-5445-a840-8c395d276c16",
+    "chunk_index": 7,
+    "chunk_text": "ADULT > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nNAME CHANGE DOCUMENT (IF APPLICABLE) – COPY For Former Indian nationals, if your name in your Indian Passport or Indian Government issued document is different in any way from the name in the Current Passport, a copy of ONE of the following documents must be provided: Marriage Certificate showing the name change if the last name was changed at marriage OR Official Court Order for the change of first name or full name. OR Notarized affidavit if only middle name initial is added. OR Endorsement of name change during the naturalization process Note: The name as on the Indian Passport will appear on the Surrender Certificate since it is a surrender of an Indian passport. MOST RECENT INDIAN PASSPORT – ORIGINAL ❖ Actual original signed passport. ❖ Photocopy of first three pages of the passport and last two pages of the passport NATURALIZATION CERTIFICATE – COPY Former Indian National ❖ A copy of Naturalization Certificate More than one Nationality after having Indian Citizenship ❖ ALL NATURALIZATION COPIES OR ❖ PROOF OF NATIONALITY FROM ALL COUNTRIES for which citizenship was / is held. ❖ NO Naturalization Certificate available, then Copies of parents naturalization certificate(s) Notarized statement signed by BOTH parents stating the circumstances that their child received his/her naturalization status and why the child does not possess his/her certificate PARENTAL AUTHORISATION FOR MINORS : Click here to download SWORN AFFIDAVIT BY PARENTS ( FOR MINORS ONLY) – Click here to download FEE PAYMENTS & COURIERS Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt and enclose the acceptable pre-paid label, if you opt to use your own courier labels To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker’s check then it should be made in favor of “VFS Services (USA) Inc. PERSONAL CHECKS ARE NOT ACCEPTABLE CHECKLIST 1 Checklist (original) to be printed and enclosed with your application (Signature of the Applicant)"
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "892de9f4-e88b-5554-b45e-4114bdfc28c3",
+    "chunk_index": 8,
+    "chunk_text": "ADULT\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "f5dbc6ba-d059-4912-8eeb-cd5779300b27",
+    "title": "Surrender with most recent passport, adult",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/renunciation-of-indian-citizenship/pdf/surrender-of-indian-passport-with-passport-adult.pdf",
+    "chunk_id": "f4a7342d-aec2-5165-b4c7-cc7c78d5e2bb",
+    "chunk_index": 9,
+    "chunk_text": "ADULT > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nImportant Notes ❖ The Documents in the Checklist are mandatory for the application to be processed. ❖ The Indian Embassy / Consulates have the right to request additional documentation. ❖ 1 Copy of this checklist must be submitted with your documents. ❖ Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED ❖ HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED ❖ Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided. ❖ Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned. ❖ VFS Service charges, Courier fee and convenience charges won’t be refundable in case you decide not to send your application, cancel your application, application is rejected, and incomplete application is returned by the Indian Consular application Centre."
+   }
+  ]
+ }
+}

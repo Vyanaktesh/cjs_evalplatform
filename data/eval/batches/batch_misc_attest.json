@@ -1,0 +1,734 @@
+{
+ "categories": [
+  "misc_services",
+  "attestation"
+ ],
+ "queries": [
+  {
+   "ticket_id": "39674571088",
+   "query": "APPLICATION FOR MISCELLANEOUS SERVICES",
+   "duplicate_count": 3,
+   "created_year_month": "2026-01",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "326674838",
+   "query": "Am not able to locate the form - Misc Services",
+   "duplicate_count": 2,
+   "created_year_month": "2021-03",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "760726199",
+   "query": "Hi. I need to generate a power of attorney for my father to submit divorce documentation in local Indian Court on my behalf. Do I just fill up the form for miscellaneous services, and on a stamp paper create my power of attorney and notarize with two Georgia individuals?",
+   "duplicate_count": 2,
+   "created_year_month": "2022-01",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "22719419558",
+   "query": "Miscellaneous services form",
+   "duplicate_count": 2,
+   "created_year_month": "2025-04",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "24557480962",
+   "query": "Mailing address for miscellaneous services",
+   "duplicate_count": 2,
+   "created_year_month": "2025-05",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "322400325",
+   "query": "We are planning to sell property in india. My daughter is giving POA as she cannot travel. We are from St.Thomas \nWhat documents I have to send by mail? Do I have to send original passports and other original documents? How much are total charges? Do I have to fill application for miscellaneous services for my daughter who is giving POA as well as who is receiving it that’s her mother, as well as part owner her Dad??",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "327470394",
+   "query": "miscellaneous services telephone",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "328205955",
+   "query": "I'm trying to download this Miscellaneous Service",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "359652680",
+   "query": "In the Miscellaneous service for non availability of birth certificate one of the document required is proof of residency applicant dont have proof",
+   "duplicate_count": 1,
+   "created_year_month": "2021-04",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "363686297",
+   "query": "Application of miscellaneous services per POA or just one? I have 3 POAs.",
+   "duplicate_count": 1,
+   "created_year_month": "2021-04",
+   "category": "misc_services",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "31084298657",
+   "query": "Attestation of Power of Attorney",
+   "duplicate_count": 4,
+   "created_year_month": "2025-10",
+   "category": "attestation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "42840729397",
+   "query": "Attestation of POA",
+   "duplicate_count": 4,
+   "created_year_month": "2026-03",
+   "category": "attestation",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "44610910041",
+   "query": "I would like to inquire about the process for notarization/attestation of a Power of Attorney document required for the sale of a property in India.\nCould you please confirm whether this service can be completed in person at the Consulate, or if there are alternative options such as mail-in processing? I would also appreciate it if you could share the process.",
+   "duplicate_count": 3,
+   "created_year_month": "2026-04",
+   "category": "attestation",
+   "expect_decline": false
+  }
+ ],
+ "source_chunks": {
+  "misc_services": [
+   {
+    "source_id": "3517505c-8c56-4e80-a668-58c01a34e383",
+    "title": "Power of attorney and affidavit",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/PoA-Affidavit-Checklist-Final-July-29.pdf",
+    "chunk_id": "809ff08f-00b3-531d-99ab-089ee8dda382",
+    "chunk_index": 0,
+    "chunk_text": "Power of Attorney/Affidavit Checklist > SR. NO Mandatory Documents\n\nSignature of the applicant on all documents should match the signature on their current valid passport 1 Application form Download the Miscellaneous Application form and fill it up carefully. Each applicant is required to fill up separate Miscellaneous Application form 2 Photograph – Passport Size Paste the applicant’s photo on the application form/s PHOTOGRAPH SPECIFICATIONS (Must be white background)\n• 2 Photos of size 51mm x 51 mm (2 by 2 size) preferably White Background– PHOTOGRAPHS MUST BE IDENTICAL.\n• Photo must be taken within 6 months.\n• Shoulder must be visible\n• Without glasses\n• Without flashlight reflection\n• With dark coloured attire to distinguish with white background\n• With good lighting on the face"
+   },
+   {
+    "source_id": "3517505c-8c56-4e80-a668-58c01a34e383",
+    "title": "Power of attorney and affidavit",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/PoA-Affidavit-Checklist-Final-July-29.pdf",
+    "chunk_id": "486b1216-135a-5ac6-9794-7b8d0f72271d",
+    "chunk_index": 1,
+    "chunk_text": "Power of Attorney/Affidavit Checklist > SR. NO Mandatory Documents\n\n• Photos must be compliant with specifications; To know more about photo specifications – Please click here 3 Signed PoA / Affidavit – Notarized – Original & photocopy Applicants may submit the original and a photocopy of the notarized PoA / Affidavit The Embassy does not prescribe any specific format for PoA / Affidavit and could be as per applicant’s requirements either on plain paper or Indian Stamp Paper (Embassy does not provide Stamp Papers). Signature on PoA/Affidavit should match the signature in the current valid passport After the applicants sign POA and affix one current passport size photograph on the last page of the PoA, the PoA needs to be signed and witnessed by two individuals (other than immediate family members) with their full names and addresses clearly mentioned. After completing the above, POA may be notarized. All applicants who are Indian nationals/ must ensure that their signature on PoA / Affidavit matches with the signature in the current valid passport. In case signature differs, the documents would be sent back, to be signed again, as in the passport. 4 Apostilled POA – Non-Indian Nationals Applicants of other nationalities, may first get the PoA apostilled by the US State Department/ Authorities. Mission/ post will attest the PoA for such categories of applicants only after those are apostilled. PoA must be apostilled by the Secretary of State in which the applicant resides(OCI/PIO card holders – Apostille not required)."
+   },
+   {
+    "source_id": "3517505c-8c56-4e80-a668-58c01a34e383",
+    "title": "Power of attorney and affidavit",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/PoA-Affidavit-Checklist-Final-July-29.pdf",
+    "chunk_id": "875c8393-c0d4-55c2-bc70-454a7171b34d",
+    "chunk_index": 2,
+    "chunk_text": "Power of Attorney/Affidavit Checklist > 5\n\nCopy of OCI/PIO - Notarized Applicants holding OCI or PIO must provide copy of OCI / or PIO ( First & Last page) 6 Copy of Current Passport - Notarized Those having Indian passport may provide notarized copies of the first and last pages of the passport. Other nationals may provide the notarized copy of the Passport bio-pages and pages with the applicant’s signature, and ensure that they sign their passport, at the space provided for the same and then take the copy and get it notarized."
+   },
+   {
+    "source_id": "3517505c-8c56-4e80-a668-58c01a34e383",
+    "title": "Power of attorney and affidavit",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/PoA-Affidavit-Checklist-Final-July-29.pdf",
+    "chunk_id": "fa113981-a93a-5967-b085-3b65cee99452",
+    "chunk_index": 3,
+    "chunk_text": "Power of Attorney/Affidavit Checklist > 7\n\nCopy of US Legal Status - Notarized Notarized copy of documents showing valid US visa status"
+   },
+   {
+    "source_id": "3517505c-8c56-4e80-a668-58c01a34e383",
+    "title": "Power of attorney and affidavit",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/PoA-Affidavit-Checklist-Final-July-29.pdf",
+    "chunk_id": "38c6cff6-e166-5db9-b31d-fb3f97747890",
+    "chunk_index": 4,
+    "chunk_text": "Power of Attorney/Affidavit Checklist > 8\n\nCopy of Proof of Address in the USA - Notarized and Photocopy US Driving License or Utility Bill or Lease Agreement or State Identity Card or Mortgage Deed. 9 Judicial Order of Guardianship PoA of persons who are mentally incapacitated will not be accepted. Such cases will be entertained only if the applicant holds a notarized judicial order of guardianship of such person who is the main executor of the PoA. 10 Fee: For PoA: Consular fee - $20.00 per executant, $2.00 -ICWF per executant and VFS service fee $19.00. Total Fees $41.00 per application. For affidavit relating to property: Consular fee - $20.00 per executant, $2.00 -ICWF per executant and VFS service fee $19.00. Total Fees $41.00 per application. For affidavit other than property: Consular fee - $10.00 per executant, $2.00 -ICWF per executant and VFS service fee $19.00. Total Fees $31.00 per application The fee can be paid online or through single money order / cashier's cheques, drawn in favour of “VFS Services (USA) Inc”. Note: Personal cheques, personal money orders, and other banking instruments are not accepted."
+   },
+   {
+    "source_id": "9b17a085-22e4-402f-b022-04a46fb3ed22",
+    "title": "Birth certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Birth-Certificate-Checklist-Final-July-29.pdf",
+    "chunk_id": "7cd4939f-7b6b-5419-b26b-c8d6288d6e91",
+    "chunk_index": 0,
+    "chunk_text": "Birth Certificate > Sr. No Mandatory Documents\n\nSignature of the applicant on all documents should match the signature on their current valid passport 1 Application form Download the Miscellaneous Application form and fill it up carefully. Each applicant is required to fill up separate Miscellaneous Application form 2 Photograph – Passport Size Paste the applicant’s photo on the application form/s PHOTOGRAPH SPECIFICATIONS (Must be white background)\n• 2 Photos of size 51mm x 51 mm (2 by 2 size) preferably White Background– PHOTOGRAPHS MUST BE IDENTICAL.\n• Photo must be taken within 6 months.\n• Shoulder must be visible\n• Without glasses\n• Without flashlight reflection\n• With dark coloured attire to distinguish with white background\n• With good lighting on the face\n• Photos must be compliant with specifications; To know more about photo specifications – Please click here 3 Copy of Current Passport – Notarized and Photocopy Applicant’s current valid Indian passport in notarized photocopies of the first and last pages. Applicant who is a non-Indian passport holder may provide notarized photocopy of his/her last Indian passport and the current valid passport."
+   },
+   {
+    "source_id": "9b17a085-22e4-402f-b022-04a46fb3ed22",
+    "title": "Birth certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Birth-Certificate-Checklist-Final-July-29.pdf",
+    "chunk_id": "5189901d-eb3e-5343-ab39-f785eb72491b",
+    "chunk_index": 1,
+    "chunk_text": "Birth Certificate > 4\n\nCopy of US Legal Status – Notarized and Photocopy Non US passport holders need to provide Notarized copy of documents showing valid US visa status"
+   },
+   {
+    "source_id": "9b17a085-22e4-402f-b022-04a46fb3ed22",
+    "title": "Birth certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Birth-Certificate-Checklist-Final-July-29.pdf",
+    "chunk_id": "c6d453c3-e7bd-51f6-ab82-24c5f9c6b93f",
+    "chunk_index": 2,
+    "chunk_text": "Birth Certificate > 5\n\nCopy of Proof of Address in the USA - Notarized and Photocopy US Driving License or Utility Bill or Lease Agreement or State Identity Card or Mortgage Deed. 6 Fee: Consular fee - $25.00 per copy, $2.00 -ICWF and VFS service fee $19.00. Total Fees $46.00 per application. The fee can be paid online or through single money order / cashier's cheques, drawn in favour of “VFS Services (USA) Inc”. Note: Personal cheques, personal money orders, and other banking instruments are not accepted."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "cfa3bb12-bc67-5e75-af51-ff16cfb1ee35",
+    "chunk_index": 0,
+    "chunk_text": "Home → Apply Visa → Visa Type"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "0c58a118-8add-53e5-8aa2-ef68e1d8e317",
+    "chunk_index": 1,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types\n\nSelect the Miscellaneous type that is right for you to see important information on fees, documentation requirement, forms, photo specifications and processing times."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "fc955ee1-d040-5d3d-a14b-6d85dec75e04",
+    "chunk_index": 2,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Life certificate\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "32cb5cf5-1683-521a-9069-37a0bfb219d0",
+    "chunk_index": 3,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Life certificate\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the\n                                    documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "77667c48-f8df-51b6-8305-af0ed600b396",
+    "chunk_index": 4,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Life certificate\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total Life certificate for pension Indian and non-Indian passport holders $0 $2 $19 $21 Life Certificate for purposes other than pension for Indian and non-Indian passport holders $25 $2 $19 $46 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Life certificate other than Pension for the purpose of Power of Attorney Link Document Checklist Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "bbbf9170-defb-564b-9dfd-302774679415",
+    "chunk_index": 5,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Marriage certificate\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "3ea1cb85-e76b-5370-b0b9-e14003583e33",
+    "chunk_index": 6,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Marriage certificate\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "d69da201-c1fd-5469-818e-4504b07364fa",
+    "chunk_index": 7,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Marriage certificate\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total Marriage Certificate $25 $2 $19 $46 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link Self-Sworn Marriage Affidavit Link Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "56972aed-95ea-5ba3-8d15-4589431e9ced",
+    "chunk_index": 8,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Registration of Birth\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "e19e87c9-badd-5648-bf33-dffee655e571",
+    "chunk_index": 9,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Registration of Birth\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "2b047ff2-6c9f-580f-90bf-0df508679c51",
+    "chunk_index": 10,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Registration of Birth\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total Registration of Birth $25 $2 $19 $46 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link Birth registration form Birth-link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "319c40a2-d677-5f4d-b671-81cc99df8d4f",
+    "chunk_index": 11,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Attestation of Will\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "7241847f-cb84-58f3-9867-d8b494eba299",
+    "chunk_index": 12,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Attestation of Will\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "a6639357-6bbe-57c9-ad24-f0bb1e7890c6",
+    "chunk_index": 13,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Attestation of Will\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total Attestation of Will $20 $2 $19 $41 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "471d57ee-3150-5b5a-a8ea-15126e8e3c47",
+    "chunk_index": 14,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Power of Attorney/affidavits\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "87a6bc07-905d-5caf-902b-c330930bc2cb",
+    "chunk_index": 15,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Power of Attorney/affidavits\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "28dd1b69-c2c4-5504-85d2-56868007a0d1",
+    "chunk_index": 16,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Power of Attorney/affidavits\n\n• Visa Fees Fee structure: Applicant Type Consular FEE per Executant ICWF VFS FEE Total Power of Attorney $20 $2 $19 $41 Affidavit relating to property $20 $2 $19 $41 Affidavit other than property $10 $2 $19 $31 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "447898e7-ed09-52a5-9f11-2d862cec9c89",
+    "chunk_index": 17,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Birth certificate\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "0fe0cdaa-08b6-5073-80cf-83e8030ff10d",
+    "chunk_index": 18,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Birth certificate\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "1eccaa84-712d-5e65-b3a3-436d4daadb99",
+    "chunk_index": 19,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Birth certificate\n\n• Visa Fees Fee structure: Applicant Type Consular FEE per Executant ICWF VFS FEE Total Birth Certificate $25 $2 $19 $46 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "2e975031-632e-5a2c-b409-4dc3ffe75a71",
+    "chunk_index": 20,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > NRI certificate\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "26dca4a0-a04b-54fb-be1e-dbdb60e88ff9",
+    "chunk_index": 21,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > NRI certificate\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "75094ef8-ab48-531c-98b7-ee9a198422cc",
+    "chunk_index": 22,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > NRI certificate\n\n• Visa Fees Fee structure: Applicant Type Consular FEE per Executant ICWF VFS FEE Total NRI Certificate $25 $2 $19 $46 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link Entry/Exit list Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "c8a66439-eea8-5f77-a9f7-42290006ff4e",
+    "chunk_index": 23,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Registration of marriages already solemnized in USA\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "715254ac-cfe1-593a-a4a7-3b9bbd1366a2",
+    "chunk_index": 24,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Registration of marriages already solemnized in USA\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "ee2d05bd-0e9a-5e9f-a06e-0899fc2fb314",
+    "chunk_index": 25,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Registration of marriages already solemnized in USA\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total Registration of marriages already solemnized in USA $50 $2 $19 $71 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link Registration of marriage Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "c85bc0e2-4928-52ca-82ca-1ee785c00be7",
+    "chunk_index": 26,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Attestation of documents/statement of need (son)/Indian driving license authentication\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "f5f11be8-ef56-524d-b78a-2275db1f1d57",
+    "chunk_index": 27,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Attestation of documents/statement of need (son)/Indian driving license authentication\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "93764e5e-96e0-5180-9e93-309ad17b1d0e",
+    "chunk_index": 28,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Attestation of documents/statement of need (son)/Indian driving license authentication\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total Attestation of documents/statement of need (son)/Indian driving license authentication $10 $2 $19 $31 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "253274b2-bb28-59e5-b914-1c6af40db6e0",
+    "chunk_index": 29,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Affidavit for child’s passport to be issued in India\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "233b29e5-a92a-5891-af70-1c157a8d9267",
+    "chunk_index": 30,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Affidavit for child’s passport to be issued in India\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "da4c5318-bec9-51ac-9662-f10c8a49f941",
+    "chunk_index": 31,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Affidavit for child’s passport to be issued in India\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total Affidavit for child’s passport to be issued in India $10 $2 $19 $31 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link Affidavit Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "9f0410b1-41d1-5208-a02b-2f5df4ba0384",
+    "chunk_index": 32,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > No obligation to return to India (NORI)\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "007d84e3-183b-54f8-aa76-08f0e7c339fa",
+    "chunk_index": 33,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > No obligation to return to India (NORI)\n\n• Overview NORI waiver certificate is issued to Indian nationals to waive off two years of home (India) residency which is mandatory for all J-1 visa holders, as per US Immigration Laws, who wishes to apply for H1B Visa (Work Visas). NORI applicants staying in United States or any other country outside India are required to apply at the nearest Indian Mission/Post through VFS Global NORI applications for J-1 categories (Au pair and Edu Care, Camp Counselor, Intern, International Visitor (department of state use), Professor and Research Scholar, Short-term Scholar, Specialist, Student, college/university, student, secondary, Summer Work Travel, Teacher, Trainee) shall follow the following process:- The following documents are to be submitted along with an ink signed application requesting for issuance of NORI: Original notarized affidavit containing full details of his/her visit to USA on student visa, especially, details of his/her Indian passport number, date and place of issue, period of stay in USA, his/her address in USA during his/her stay there and his/her present address in India where he/she is currently staying; Original notarized bio-data containing full details of his/her educational qualifications, details of Passports/J1 Visa, his/her present address in India where he/she is currently staying, etc; Copies of the Indian passports including the one on which the candidate travelled to US and US J1 visa pages; Copy of Third Party Bar Code page from the US State Department containing the applicant’s Waiver Review Case File Number required to be quoted in the NORI Certificate (For Details, Please visit https://travel.state.gov/content/visas/en/study-exchange/student/residency-waiver.html). NORI applications for J-1 category of Government Visitor shall follow the above-mentioned process after seeking clearance from their parent department. NORI applications for J-1 category of Physician shall follow the following the above-mentioned process after obtaining necessary clearance from Ministry of Health and Family Welfare. Specimen copies of the bio-data and affidavit for Miscellaneous Services can be found in the fee and documents required section. General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "4f1b8e1b-f8dd-5f7f-96eb-ae1351a589ae",
+    "chunk_index": 34,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > No obligation to return to India (NORI)\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total No obligation to return to India (NORI) $25 $2 $19 $46 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link NORI Bio Data Template Link NORI Affidavit Template Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "646b3775-1ab9-56c0-b489-7bc2a4408f20",
+    "chunk_index": 35,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Attestation of death documents/registration of death of Indian nationals/carrying mortal remains/carrying ashes\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "75cd8ea8-b43a-5613-8778-b7b9c71bba78",
+    "chunk_index": 36,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Attestation of death documents/registration of death of Indian nationals/carrying mortal remains/carrying ashes\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "83a4f76c-4a5d-587b-954f-b4edde6623b8",
+    "chunk_index": 37,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Attestation of death documents/registration of death of Indian nationals/carrying mortal remains/carrying ashes\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total Indian Passport (Deceased) Gratis (No fee) $0 $19 $19 Carrying Ashes for non-Indian Passport holder 40 2 19 $61 Carrying mortal remains for non-Indian passport holder 60 2 19 $81 Attestation of Death certificate 10 2 19 $31 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link\n• Processing Times Case of Transportation of mortal remains would be processed on the same day, however, if unforeseen technical reasons occur, services can be delayed till those problems are resolved. For rest of the services, ten working days from the date of receipt of postal mail subject to submission of all requisite documents by applicants."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "187633ae-5d19-5742-aa98-47db38589713",
+    "chunk_index": 38,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > POLICE CLEARANCE CERTIFICATE NON-INDIAN NATIONALS (PCC)\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "d6b78cf9-4152-5717-ba10-7bf037d542da",
+    "chunk_index": 39,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > POLICE CLEARANCE CERTIFICATE NON-INDIAN NATIONALS (PCC)\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "a5cf5ed3-f2e8-5a35-887d-c40dfdb3379d",
+    "chunk_index": 40,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > POLICE CLEARANCE CERTIFICATE NON-INDIAN NATIONALS (PCC)\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total POLICE CLEARANCE CERTIFICATE NON-INDIAN NATIONALS (PCC) $40 $2 $19 $61 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link PCC for Foreign Nationals Additional Forms Link Document Checklist Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "8917aa43-24c0-56cb-b430-b2f0466cf33c",
+    "chunk_index": 41,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Renewal of international driving permit\n\n• Overview\n• Fee and Documents Required\n• Processing Times"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "9cc8d269-b1da-5bdd-b24a-c5dc72eabefe",
+    "chunk_index": 42,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Renewal of international driving permit\n\n• Overview General instructions for Miscellaneous Services Applicants, while submitting applications for all kinds of consular services may submit only notarized copies of Passport and address proof. No originals are required to be submitted. However, for death documentation the passport in original of the dead person must be presented. The rest of the directions may please be seen in the relevant links of the respective services. The Embassy / Consulates reserves the right to reject attestation of documents, the contents of which are objectionable or contrary to the Rules. \"Please note No Commercial Documents are attested by the Embassy / Consulates. The same should be apostilled from US Government Authorities for presenting in India.\" Apostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Embassy of India is required. The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State. The Embassy / Consulates does not attest any document issued by authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License etc. are required to be presented to authorities in USA, those should be apostilled in India. For details, please check the website “Legalization of Documents” at http://www.mea.gov.in/apostille.htm . It is mandatory for the documents issued by the US Government authorities to be apostilled by the relevant authorities in the USA before presenting the document for attestation at the Embassy / Consulates. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee. Please refer to the directions provided in the checklist as available in the documents required tab"
+   },
+   {
+    "source_id": "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+    "title": "Miscellaneous services overview",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/",
+    "chunk_id": "5006ee07-e9a2-5092-bcdc-d7b39a24defd",
+    "chunk_index": 43,
+    "chunk_text": "Miscellaneous Information > Miscellaneous Types > Renewal of international driving permit\n\n• Visa Fees Fee structure: Applicant Type Consular FEE ICWF VFS FEE Total Renewal of international driving permit $10 $2 $19 $31 Note: Online payment/ Payment by card (s) convenience charges @3.75% will be charged over the total payment. We accept Master Card, Visa only If paying by Money order or Banker or Cashier check, then it should be made in favor of “VFS Services (USA) Inc. Document Requirement: Application Form Link Document Checklist Link\n• Processing Times 10 business days from the day application reaches the Embassy/Consulate."
+   },
+   {
+    "source_id": "c20c3ea6-8350-491a-b788-6fb187547e97",
+    "title": "Life certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Life-Certificate-Checklist-Final-2025.pdf",
+    "chunk_id": "c8dbc914-92ff-5362-a106-09d4de348d9f",
+    "chunk_index": 0,
+    "chunk_text": "Life Certificate\n\nApplicant Name: Passport No.:"
+   },
+   {
+    "source_id": "c20c3ea6-8350-491a-b788-6fb187547e97",
+    "title": "Life certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Life-Certificate-Checklist-Final-2025.pdf",
+    "chunk_id": "45e48fba-bccd-5c74-8b37-05b3144e78c5",
+    "chunk_index": 1,
+    "chunk_text": "Sr. No Mandatory Documents\n\nSignature of the applicant on all documents should match the signature on their current valid passport 1 Application form Download the Miscellaneous Application form and fill it up carefully. Each applicant is required to fill up separate Miscellaneous Application form ONLY ONE COPY OF LIFE CERTIFICATE WILL BE ISSUED. 2 Photograph – Passport Size Paste the applicant’s photo on the application form/s PHOTOGRAPH SPECIFICATIONS (Must be white background)\n• 2 Photos of size 51mm x 51 mm (2 by 2 size) preferably White Background– PHOTOGRAPHS MUST BE IDENTICAL.\n• Photo must be taken within 6 months.\n• Shoulder must be visible\n• Without glasses\n• Without flashlight reflection\n• With dark coloured attire to distinguish with white background\n• With good lighting on the face"
+   },
+   {
+    "source_id": "c20c3ea6-8350-491a-b788-6fb187547e97",
+    "title": "Life certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Life-Certificate-Checklist-Final-2025.pdf",
+    "chunk_id": "16034b7f-ef6f-55a7-a3b0-198194299fab",
+    "chunk_index": 2,
+    "chunk_text": "Sr. No Mandatory Documents\n\n• Photos must be compliant with specifications; To know more about photo specifications – Please click here 3 Medical Examination Certificate – Original copy required Add a recent (no later than 15 days) certificate from a registered medical practitioner, certifying that applicant (with name) has been examined (with date) by the medical practitioner and is alive on the day. 4 Copy of the Pension book - Notarized Applicants for pension purpose may submit notarized copy of the pension book (having name of the applicant)/bank documents of pension. 5 Self-attested Explanation Letter Applicants applying for Life Certificate other than pension may provide reasons for the same in a self-attested document. 6 Life certificate Provided in India – Original - Filled Signed and Photocopy Original and one photocopy of the Life Certificate (dully filled in and signed by applicant), which has been provided by the Pension Authorities in India. In the absence of this document, Embassy will issue Life Certificate as per its own format. 7 Copy of Current Passport - Notarized Applicant’s current valid passport copy notarised and photocopy of this document."
+   },
+   {
+    "source_id": "c20c3ea6-8350-491a-b788-6fb187547e97",
+    "title": "Life certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Life-Certificate-Checklist-Final-2025.pdf",
+    "chunk_id": "98d37e6d-b397-574b-b892-e722092e7d43",
+    "chunk_index": 3,
+    "chunk_text": "Life Certificate\n\nApplicant Name: Passport No.:"
+   },
+   {
+    "source_id": "c20c3ea6-8350-491a-b788-6fb187547e97",
+    "title": "Life certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Life-Certificate-Checklist-Final-2025.pdf",
+    "chunk_id": "e72284b6-1af0-502d-9d42-9b37e7f58059",
+    "chunk_index": 4,
+    "chunk_text": "Life Certificate > Email Address: Phone No.:\n\nThose having Indian passport may provide notarized copies of the first and last pages of the passport."
+   },
+   {
+    "source_id": "c20c3ea6-8350-491a-b788-6fb187547e97",
+    "title": "Life certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Life-Certificate-Checklist-Final-2025.pdf",
+    "chunk_id": "b8f30fbc-fb88-5da6-ae79-c9e2ddb87683",
+    "chunk_index": 5,
+    "chunk_text": "8\n\nCopy of US Legal Status - Notarized Notarized copy of documents showing valid US visa status"
+   },
+   {
+    "source_id": "c20c3ea6-8350-491a-b788-6fb187547e97",
+    "title": "Life certificate",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Life-Certificate-Checklist-Final-2025.pdf",
+    "chunk_id": "9b09cbaf-a3ce-5bf6-a9d2-777c9b6a2b44",
+    "chunk_index": 6,
+    "chunk_text": "8 > 9\n\nCopy of Proof of Address in the USA - Notarized US Driving License or Utility Bill or Lease Agreement or State Identity Card or Mortgage Deed. 10 Fee:\n(a) Life Certificate for pension for applicants with Indian and non-Indian passports. ICWF - $2.00 and VFS service fee - $19.00. Total fees - $21.00 per application.\n(b) Life Certificate for purposes other than pension for Indian and non-Indian passport holders. Consular Fee - $25.00, ICWF- $2.00 ICWF and VFS service fee - $19.00. Total fees - $46.00 per application. The fee can be paid online or through single money order / cashier's cheques, drawn in favour of “VFS Services (USA) Inc”. Note: Personal cheques, personal money orders, and other banking instruments are not accepted. Note: Embassy / Consulates would continue to offer services like death certificates, life certificates directly to the applicants as per extant practice. However, in case the applicants wish to avail these services from VFS Global, they can avail the same as any other miscellaneous consular service from VFS Global on payment of the applicable service fee."
+   },
+   {
+    "source_id": "c9a0354e-e43e-4998-938f-5b448b959201",
+    "title": "Miscellaneous services application form",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Miscellaneous_application_form-July-30-2025_FINAL.pdf",
+    "chunk_id": "18a50747-c6e8-51cc-89ef-0ef55f3a0ac2",
+    "chunk_index": 0,
+    "chunk_text": "PHOTO HERE (2\"x2\")\n\n(i) Please send Notarized copy of Passport\n(ii) Please fill the form in BOLD letters\n(iii) Declaration at Section III should be signed by Indian Citizens only PLEASE [X] MARK THE SERVICE APPLIED FOR: [ ] LIFE CERTIFICATE [ ] MARRIAGE CERTIFICATE [ ] REGISTRATION OF MARRIAGES ALREADY SOLEMNIZED IN USA [ ] POWER OF ATTORNEY / AFFIDAVITS [ ] REGISTRATION OF BIRTH [ ] ATTESTATION OF WILL [ ] ATTESTATION OF DOCUMENTS/ STATEMENT OF NEED (SON) / INDIAN DRIVING LICENSE AUTHENTICATION [ ] BIRTH CERTIFICATE [ ] AFFIDAVIT FOR CHILDS PASSPORT TO BE ISSUED IN INDIA [ ] NRI CERTIFICATE [ ] POLICE CLEARANCE CERTIFICATE NON-INDIAN NATIONALS (PCC) [ ] NO OBLIGATION TO RETURN TO INDIA (NORI) [ ] ATTESTATION OF DEATH DOCUMENTS / REGISTRATION OF DEATH OF INDIAN NATIONALS /CARRYING MORTAL REMAINS / CARRYING ASHES) [ ] RENEWAL OF INTERNATIONAL DRIVING PERMIT [ ] OTHERS (PLEASE SPECIFY) In addition to the consular and VFS service fees, each applicant for Miscellaneous Services is required to pay a separate amount of US $2 (two) towards the Indian Community Welfare Fund (ICWF), payable in favor of the VFS Services Inc. PAGE 1 OF 3"
+   },
+   {
+    "source_id": "c9a0354e-e43e-4998-938f-5b448b959201",
+    "title": "Miscellaneous services application form",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Miscellaneous_application_form-July-30-2025_FINAL.pdf",
+    "chunk_id": "42207fa2-872b-5a01-add8-1c763d819e55",
+    "chunk_index": 1,
+    "chunk_text": "1. APPLICANT’S NAME AS IN PASSPORT\n\n(Surname / Last Name) (Middle Name) (Given / First Name)"
+   },
+   {
+    "source_id": "c9a0354e-e43e-4998-938f-5b448b959201",
+    "title": "Miscellaneous services application form",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Miscellaneous_application_form-July-30-2025_FINAL.pdf",
+    "chunk_id": "97a64f15-3cee-506d-9fd1-3456fdd89b91",
+    "chunk_index": 2,
+    "chunk_text": "PLACE DATE SIGNATURE\n\nPAGE 2 OF 3\nSECTION II (FOR REGISTRATION OF BIRTH) PLEASE REGISTER THE FOLLOWING CHILD/CHILDREN NAME(S) AND ISSUE BIRTH CERTIFICATE(S) TO THEM AS INDIAN CITIZENS. CHILD’S NAME DATE & PLACE OF BIRTH SEX (M/F) NOTE: − The passport of both the parents and the photocopy of the Birth Certificate(s) of the above child/children should be attached. − Declaration of both parents that they have not taken any other nationality for the child / children also to be attached. SECTION III DECLARATION (TO BE SIGNED BY INDIAN CITIZENS ONLY) I solemnly affirm that:\n(i) I owe allegiance to the sovereignty and integrity of India.\n(ii) Information given above is correct and nothing has been concealed and I am aware that it is an offence under the Passport Act 1967 to knowingly furnish false information or suppress material information.\n(iii) I solemnly declare that I have not lost, surrendered or been deprived of my Indian Citizenship\n(iv) I further declare that I have not voluntarily acquired citizenship of any other country and I have no other passport or travel document in my possession (This declaration has to be notarized by a Notary Public in case of an applicant whose passport expired more than six months before the date of the submission of this application. Place Date Signature PAGE 3 OF 3"
+   },
+   {
+    "source_id": "dca76b89-fdfc-4b6e-8053-64cad0697f80",
+    "title": "Registration of birth",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Registration-of-birth-checklist-final-july-29.pdf",
+    "chunk_id": "8828078e-8c2d-5730-9a19-3028dc2ad0b2",
+    "chunk_index": 0,
+    "chunk_text": "REGISTRATION OF BIRTH > Email Address: Phone No.:\n\n▪ Details: Birth (out of India) of a newborn child to Indian parents should be first registered at following MHA website, where details/procedure are available https://indiancitizenshiponline.nic.in/Home2.aspx?formcode=09 As a next step, birth of the newborn should be registered at the mission/ post in order to obtain the Indian passport. The registration of birth must be done at the mission/ post within one year of the Child's birth."
+   },
+   {
+    "source_id": "dca76b89-fdfc-4b6e-8053-64cad0697f80",
+    "title": "Registration of birth",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Registration-of-birth-checklist-final-july-29.pdf",
+    "chunk_id": "9c2f7da2-ee95-5534-8952-50626dcf162c",
+    "chunk_index": 1,
+    "chunk_text": "REGISTRATION OF BIRTH > Sr. No. Mandatory Documents\n\nSignature of the applicant on all documents should match the signature on their current valid passport"
+   },
+   {
+    "source_id": "dca76b89-fdfc-4b6e-8053-64cad0697f80",
+    "title": "Registration of birth",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Registration-of-birth-checklist-final-july-29.pdf",
+    "chunk_id": "aa210995-48c2-505d-be1e-f2b29afb5389",
+    "chunk_index": 2,
+    "chunk_text": "REGISTRATION OF BIRTH > 1 Application forms\n\nDownload the Miscellaneous Application form and fill it up carefully along with the completed Birth Registration Form. Application form – Signed by both Parents - Notarized Two copies of the print out of duly filled in, online MHA application form referred above, signed by both parents, same as in their current passport (duly notarized). 2 Photograph – Passport Size Paste the applicant’s photo on the application form/s PHOTOGRAPH SPECIFICATIONS (Must be white background)\n• 2 Photos of size 51mm x 51 mm (2 by 2 size) preferably White Background– PHOTOGRAPHS MUST BE IDENTICAL.\n• Photo must be taken within 6 months.\n• Shoulder must be visible\n• Without glasses\n• Without flashlight reflection\n• With dark coloured attire to distinguish with white background\n• With good lighting on the face\n• Photos must be compliant with specifications; To know more about photo specifications – Please click here"
+   },
+   {
+    "source_id": "dca76b89-fdfc-4b6e-8053-64cad0697f80",
+    "title": "Registration of birth",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Registration-of-birth-checklist-final-july-29.pdf",
+    "chunk_id": "917599dd-6bbb-5f15-8e78-d69ec01e9457",
+    "chunk_index": 3,
+    "chunk_text": "REGISTRATION OF BIRTH > 3\n\nCopy of Birth Certificate - Notarized Notarized copy of the Birth Certificate of newborn child issued by local authorities."
+   },
+   {
+    "source_id": "dca76b89-fdfc-4b6e-8053-64cad0697f80",
+    "title": "Registration of birth",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Registration-of-birth-checklist-final-july-29.pdf",
+    "chunk_id": "6977a8cf-66b0-580a-9744-4e44436e8d3f",
+    "chunk_index": 4,
+    "chunk_text": "REGISTRATION OF BIRTH > Self-Sworn Affidavit – Signed by both Parents\n\nSelf-Sworn Affidavit of both parents that they have not taken any other nationality for the child."
+   },
+   {
+    "source_id": "dca76b89-fdfc-4b6e-8053-64cad0697f80",
+    "title": "Registration of birth",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Registration-of-birth-checklist-final-july-29.pdf",
+    "chunk_id": "f9f0d130-d500-5038-979b-5ffe4e5a049c",
+    "chunk_index": 5,
+    "chunk_text": "REGISTRATION OF BIRTH > 5 Self-Sworn Affidavit (NOC) – Signed by both Parents\n\nSelf-Sworn Affidavit (NOC) of both parents that they have no objection to the registration and obtaining passport for the child."
+   },
+   {
+    "source_id": "dca76b89-fdfc-4b6e-8053-64cad0697f80",
+    "title": "Registration of birth",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Registration-of-birth-checklist-final-july-29.pdf",
+    "chunk_id": "bb429293-4744-56d2-8ea0-905d4135937e",
+    "chunk_index": 6,
+    "chunk_text": "REGISTRATION OF BIRTH > 6\n\nCopy of Current Parents Passport - Notarized Notarized photocopies of the first and last pages of current Indian passports of both parents."
+   },
+   {
+    "source_id": "dca76b89-fdfc-4b6e-8053-64cad0697f80",
+    "title": "Registration of birth",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Registration-of-birth-checklist-final-july-29.pdf",
+    "chunk_id": "118b0f4c-5696-574d-90ff-c240d0432bce",
+    "chunk_index": 7,
+    "chunk_text": "REGISTRATION OF BIRTH > 7\n\nCopy of US Legal Status - Notarized Notarized photocopy of documents showing valid US visa status"
+   },
+   {
+    "source_id": "dca76b89-fdfc-4b6e-8053-64cad0697f80",
+    "title": "Registration of birth",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/miscellaneous-services/pdf/Registration-of-birth-checklist-final-july-29.pdf",
+    "chunk_id": "da7868d0-fc21-5a21-8ea2-c0667312027d",
+    "chunk_index": 8,
+    "chunk_text": "REGISTRATION OF BIRTH > 8\n\nCopy of Proof of Address in the USA - Notarized and Photocopy US Driving License or Utility Bill or Lease Agreement or State Identity Card or Mortgage Deed. 9 Fee: Consular fee - $25.00 per copy, $2.00 -ICWF and VFS service fee $19.00. Total Fees $46.00 per application. The fee can be paid online or through single money order / cashier's cheques, drawn in favour of “VFS Services (USA) Inc”. Note: Personal cheques, personal money orders, and other banking instruments are not accepted."
+   }
+  ],
+  "attestation": [
+   {
+    "source_id": "b951b477-b865-4503-83af-0aff1fd91080",
+    "title": "Attestation of documents",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MjI",
+    "chunk_id": "d5fb6198-f073-5b98-84d1-582944a4838b",
+    "chunk_index": 0,
+    "chunk_text": "Consulate General of India, Atlanta, United States of America\n\n• Sitemap\n• Feedback\n• Skip to main content\n• Screen Reader Access"
+   },
+   {
+    "source_id": "b951b477-b865-4503-83af-0aff1fd91080",
+    "title": "Attestation of documents",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MjI",
+    "chunk_id": "7138dff2-5031-56ae-8469-cda47c1f95aa",
+    "chunk_index": 1,
+    "chunk_text": "Consulate General of India\n\nAtlanta Serving\n                                            the States and\n                                            Territories of:Alabama,\n                                            Florida, Georgia, Mississippi, Puerto Rico, South Carolina, Tennessee and Virgin Islands.\n• Home\n• Consulate\n• Consul General\n• Working Hours\n• Consulate General Officials\n• Holidays at the Consulate General\n• Organizational Structure\n• Right to Information\n• Internships at the Consulate\n• Bilateral Relations\n• Consular Services\n• Visa Services\n• Passport Services\n• Global Entry Program (GEP) for Indian Nationals\n• Consular Service Contacts\n• Fulbright Scholarships\n• Miscellaneous Services\n• Life Certificate\n• Attestation of Death Documents\n• Emergency Certificate\n• Other Services\n• Community Resources\n• Intiatives for Overseas Indians\n• Community Resources and Links\n• Domestic Violence-Deserted Women\n• Welfare of Parents and Senior Citizens\n• Youth\n• India is Competition\n• Advisories\n• OCI Card\n• Overview\n• General information on OCI card\n• How to apply for OCI Card\n• Documents required for OCI Card\n• What to do after issuance of new passport\n• How to apply for Updation of OCI card\n• Renewal/Re-issue of OCI Card\n• Instructions to Convert PIO Card to OCI Card\n• Renunciation of OCI card\n• How to check status of OCI application\n• FAQ's on OCI Related matters\n• Processing time for OCI applications\n• NRI MARRIAGE BILL\n• E-Tourist Visa\n• Renunciation of Indian Citizenship/Surrender Certificate\n• Registration of Indian Nationals\n• Custom Regulations\n• Import of Pet\n• Procedure for sending/ forwarding Court Order/ Summons\n• Open House\n• Official App Indian Visa Su-Swagatam\n• Commercial Relations\n• Tax Corner\n• Reports\n• VISTRA India Entry Guide 2026\n• QUARTERLY \r\nREPORT\r\nQ1 FY 2026-27\n• Investment \r\nFriendliness  \r\nIndex\n• TRADE AND INVESTMENT BETWEEN INDIA & SOUTH-EAST USA\n• Invest in India\n• Make in India\n• Startup India"
+   },
+   {
+    "source_id": "b951b477-b865-4503-83af-0aff1fd91080",
+    "title": "Attestation of documents",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MjI",
+    "chunk_id": "4fc87f83-d730-51fe-89dc-a7a930f13d35",
+    "chunk_index": 2,
+    "chunk_text": "Consulate General of India\n\n• Manufacturers & Exporters\n• Contact Us\n• Media Room\n• News\n• Alerts\n• Events/Photo Gallery\n• Events/Photos\n• Past Events\n• Press Releases\n• Speeches\n• Tender\n• Exhibitions\n• Job Vacancy\n• e-India Perspectives\n• Trade and Technology\n• Bharat Buildcon 2026\n• Invitation to Nominate Buyers from the U.S. Southeast for Reverse Buyer–Seller Meets (RBSM) in India (2026–27)\n• SEAFOOD EXPO BHARAT\n• India to host AI Impact Summit 2026 in New Delhi on February 19-20, 2026\n• Rising Northeast\n• International Buyer Seller Meetings (RBSM) – Hosted Buyer Program\n• Emergency Services\n• Emergency Cases and Contact\n• Emergency Visa Services including on weekends\n• Emergency Certificate\n• Carrying of Mortal Remains\n• Education and Culture\n• Guidelines for Indian Students in the USA\n• Know India Programme\n• Announcement of the 84th edition of the Know India Programme (KIP) scheduled to be organized from 7-26 December 2025\n• Announcement of the 85th edition of the Know India Programme (KIP) scheduled to be organized from 06 January to 27 January 2026\n• Scholarship\n• Study in India (SII) Programme\n• NETAJI SUBHAS - ICAR INTERNATIONAL FELLOWSHIP\n• Lata Mangeshkar Dance & Music Scholarship Scheme - 2024-25\n• Scholarship Programme for Diaspora Children (SPDC)\n• Scholarship for the Academic Session, 2024-25 under the Scheme of Propagation of Hindi Abroad at Kendriya Hindi Sansthan Agra\n• Yoga Classes\n• Registration Link\n• Photo Album of Yoga Classes\n• Yoga Events\n• Hindi Classes\n• Notice for Classes\n• Photo Album of Hindi Classes\n• Student Registration Module\n• Indian Tourism\n• India at a Glance\n• Contact\n• Contact Us\n• Feedback"
+   },
+   {
+    "source_id": "b951b477-b865-4503-83af-0aff1fd91080",
+    "title": "Attestation of documents",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MjI",
+    "chunk_id": "448ef2dc-6a6f-57f8-b18e-f6e78d5bbd59",
+    "chunk_index": 3,
+    "chunk_text": "Consulate General of India > Attestation of Documents\n\nPlease send a prepaid return envelope of USD 20.00 along with your application\nWalk-in consular services discontinued\nATTESTATION OF DOCUMENTS SUCH AS COPY OF INDIAN PASSPORT/OCI CARD, APPLICATION FOR PAN CARD, BANK STATEMENT, SALARY STATEMENT, COPY OF DOCUMENTS ISSUED BY US AUTHORITIES (US PASSPORT, DRIVING LICENCE, ETC) Applicants resident in Alabama, Florida, Georgia, Mississippi, Puerto Rico, South Carolina, Tennessee and US Virgin Islands can apply for attestation of documents at this Consulate.\nAppostille Convention: The Hague Convention, to which India and USA are signatories, abolishes the requirement of legalization for Foreign Public Documents. With the certification by the Hague Convention 'Apostille', the document is entitled to recognition in India and vice versa and no certification by the Consulate is required . The Convention applies to public documents which have been executed in the territory of one Contracting State and which have to be produced in the territory of another Contracting State.\nThe Consulate does not attest any document issued by the authorities in India. If any document issued by authorities in India such as birth and death certificates, affidavits, educational documents/diplomas, marriage certificate, Driving License,etc, is required to be presented to authorities in USA, it should be apostilled in India. For details, please visit the website: http://www.mea.gov.in/apostille.htm .  However, for the ease of Indian nationals, the Consulate does “True Copy Attestation Only” of the documents issued by authorities in India, which does not mean certifying the genuineness of the document."
+   },
+   {
+    "source_id": "b951b477-b865-4503-83af-0aff1fd91080",
+    "title": "Attestation of documents",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MjI",
+    "chunk_id": "b3d127b3-3053-52ca-9394-fdde85fff15a",
+    "chunk_index": 4,
+    "chunk_text": "Consulate General of India > Attestation of Documents\n\nNo Commercial Documents are attested by the Consulate.  Such documents should be got apostilled from the US Authorities for presenting in India.  The apostille is done by the Office of Secretary of State of the state concerned.\nHow to Apply by Mail :\nDownload the Miscellaneous application Form , \r\n\r\n\r\n print & sign it paste the photograph and Post it to the Consulate along with the other supporting documents. If application is being sent by post please sent a separate $20/- cashier’s check or money order fee for return mail. Or Enclose a trackable pre-paid self-addressed return mailing envelope. (Supporting Documents)\nPlease attach the Clear Notarised photocopy of the  Passport, Address Proof, Legal Status. List of documents valid as a proof of Address/Residence (Copy of any one of following): • US Driving License OR • Utility Bill OR • Lease Agreement OR • State Identity Card OR • Mortgage Deed Proof of US Visa Status (Copy of any one of the following): • Visa page of Passport (i.e. H1B, H4, L1, L2 etc.) OR • Green Card OR • Employment Authorization Document (Work Permit) OR I-797, I-140 or I-20 (If approval is pending, attach a handwritten note detailing the efforts being taken to regularize status) Fee:  A fee of US10.00 (Ten Only) per Page in favor of Consulate General of India, Atlanta(CGI,Atlanta) and an additional fee with a separate cheque or money order of US$ 2.00 (Two Only) per application towards Indian Community Welfare Fund (ICWF).  The fees may be paid only by money orders/cashier’s cheques. (Personal Cheques, Credit Cards, Debit Cards Or Other Banking Instruments Are Not Accepted)"
+   },
+   {
+    "source_id": "b951b477-b865-4503-83af-0aff1fd91080",
+    "title": "Attestation of documents",
+    "url": "https://indiainatlanta.gov.in/eoial_pages/MjI",
+    "chunk_id": "d13c46c5-4d2e-5b71-b121-35eda36c47df",
+    "chunk_index": 5,
+    "chunk_text": "Consulate General of India > Attestation of Documents\n\nFee:  A fee of US10.00 (Ten Only) per Page in favor of Consulate General of India, Atlanta(CGI,Atlanta) and an additional fee with a separate cheque or money order of US$ 2.00 (Two Only) per application towards Indian Community Welfare Fund (ICWF).  The fees may be paid only by money orders/cashier’s cheques.\nProcessing time: 5-7 working days from the date of receipt of applications by post. This is subject to submission of all requisite documents by the applicant(s). Incomplete applications will be sent back without the service indicating the requisites to complete.\nMailing Address : Consulate General of India, 5549, Glenridge Drive NE, Atlanta, GA-30342.\nE-mail address for queries : cons[dot]atlanta[at]mea[dot]gov[dot]in and miscservices[dot]atlanta[at]mea[dot]gov[dot]in\n• Terms & Conditions\n• Privacy Policy\n• Copyright Policy\n• Hyperlinking Policy\n• Accessibility Statement\n• Help\nConsulate General of India, Atlanta, United States of America 5549 Glenridge Drive NE, Atlanta, GA-30342\nDisclaimer: The Consulate is not responsible\n                    for the\n                    information or content provided in any of the external links given in its website.\nConsulate closed on Saturdays, Sundays & Public holidays\nOfficial working hours : Monday to Friday ( 09.00 am to 05.30 pm)\nVisitors : 8698042 | Page last updated on August 07, 2026\n© 2026 Consulate General of India, Atlanta, USA. All Rights Reserved.\nSite is Designed, Developed & Hosted by: Ardhas Technology India Private Limited."
+   }
+  ]
+ }
+}

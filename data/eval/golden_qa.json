@@ -1,0 +1,1840 @@
+[
+ {
+  "id": "21598134149",
+  "query": "Affidavit of child passport to be issued in india",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 5: \"Affidavit for a child's passport to be issued in India\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "32639740438",
+  "query": "Namaste!\nOn the Document checklist: For REISSUE - MINORs PASSPORT\n1. Where to put the tick marks for the documents being submitted?\n2. Can i circle the name of the exact document being sent eg- driving license, copy of utility bill, etc?\n3. If one document- parents passport- is being given for two purposes as address proof and parents id, do i need to provide two copies of the same document? \n4. one place needs a self attested and other just needs a color copy. in this case, will self attested copy be sufficient or it is better to provide another copy too?",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Re-triaged (was a keyword false-positive on the child-passport-affidavit gap, since this is a routine minor passport reissue question, not an India-filed affidavit case). The 'Minor re-issue in lieu of damaged' checklist (approved source) does confirm document CONTENT and copy-type requirements (self-attested vs. notarized vs. original), but none of its chunks mention the physical act of marking the printed checklist -- no 'tick' or 'circle' instruction appears anywhere in the approved source text -- nor does it explicitly confirm whether one submitted document can satisfy two checklist lines at once. Answering the 4 sub-questions as asked would require inventing procedural details the source doesn't state, so this should decline on the checklist-marking mechanics specifically.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "358577665",
+  "query": "hello. is it necessary to send the original passport for attestation of Statement of Need Application?",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 6: \"Statement of Need\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "527457884",
+  "query": "A person by name Batlanki Kesava Kumar Anurag who is a Global Product Manager at Lenovo, Raleigh has been booked for non bailable offences under the IPC in India. However, as he has been absconding since the registration of the FIR, the criminal proceedings are pending and in order to get a court order to get his passport revoked, I need to get the summons/warrants issued to his known address abroad which only his employer (Lenovo) would be updated with. Therefore I request the Indian Embassy in the US, Washington DC to kindly look into this issue and do the needful to obtain his current address so that the summons/warrants maybe issued.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 10: \"Forwarding court orders and summons through the consulate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "591898888",
+  "query": "Can I travel to India using my PIO card?",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 11: \"PIO card renewal/conversion\" (falls within the PIO card subject area, which the KB does not cover; current validity of a PIO card for travel is a facet of the same undocumented topic).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "1790003293",
+  "query": "i need to apply for an emergency certificate, but i need to know whether i have to make an appointment to submit the documents in person at the consulate within 10:00 am to 12:30 pm or just walk in during that time and submit the documents without an appointment. please advise and let me know where to get an appointment for the submission of documents. thanks",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 8: \"Emergency certificate checklist\" (also touches topic 15: \"Service-center hours / appointment requirement\").",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "2212567165",
+  "query": "Have a question on required India address proof for passport renewal.\nHave passport renewal for my wife and daughter coming up. We want to print our own India house address on their passport. They don't have address proof on their name. But Power Bill, Water bill and my Aaadhar available on that address. can I submit my address proof on behalf of my wife and Daughter? My passport has US address printed on it.\nPlease confirm if it is allowed to submit my address proof with marriage certificate for my wife and birth certificate for daughter?",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Re-triaged (was a keyword false-positive on 'marriage certificate' used only as a supporting document, not a USA marriage-registration ask). However this is genuinely ungrounded, not because it matches a documented gap topic: every passport checklist in the approved sources is scoped to re-issue IN LIEU OF LOST OR DAMAGED passports (see 'Adult/Minor re-issue in lieu of lost/damaged' -- the full title list for this category has no plain 'renewal' checklist). A routine, non-lost/non-damaged renewal for a spouse and minor child is a different service the KB has no approved source for, so the bot cannot confirm whether the querent's own India address proof plus marriage/birth certificate would be accepted.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "2288835481",
+  "query": "Hi, I and my spouse got married in Nashville in October 2023 and have been issues a marriage certificate by the Tennessee County clerk . We are both Indian citizens by birth. I want to our marriage to be registered in India as well and get our Indian marriage certificate for the same as soon as possible. Can the consulate assist me with this please? Thank you",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 2: \"Marriage certificate / registration of a marriage that took place in the USA\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "19053838862",
+  "query": "I have a question: I don't have a marriage certificate to apply for an OCI for my minor child. Are there any alternative documents that can be used instead of a marriage certificate?",
+  "category": "oci",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "For a minor OCI applicant (foreign national previously holding an Indian passport), item 10 of the mandatory documents is 'Marriage Certificate of Parents': if the marriage was solemnized in India, a Marriage Certificate issued by the Marriage Registrar is required (a certificate issued by a religious body is not acceptable).",
+   "The only stated alternatives to the parents' marriage certificate are condition-based: if the parents are divorced, a copy of the divorce decree may be provided instead; if one parent is not alive, a copy of the death certificate may be provided instead.",
+   "The substituted document (divorce decree or death certificate) must be self-attested.",
+   "If the marriage certificate or divorce decree was issued outside India, it must be apostilled or attested by the issuing country's authority (e.g. the County/Municipality office in the US state or city where it was issued) -- self-attested copies of the apostilled document should be sent, not original apostilled documents."
+  ],
+  "reference_chunk_ids": [
+   "25b5a4b9-19d1-58d0-a426-18b62d544078"
+  ],
+  "reference_source_ids": [
+   "128bc848-c986-49dc-86a8-bcb1dd884d2e"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "20673648761",
+  "query": "I was referring the attestation page, I will be needing my copy of passport, copy of my VISA, copy of my I797, copy of my USA Address proof to be attested by Indian embassy for submitting these to an Indian bank - Question: Should I need to only send all the copy of the documents to embassy for attestation or all original documents (or) all copy documents notarized only",
+  "category": "attestation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "For attestation of documents issued by US authorities (e.g. US passport, driving licence) or copies of Indian passport/OCI card for use in India, applicants should attach clear NOTARISED photocopies of the passport, address proof, and legal status documents -- not original documents.",
+   "Acceptable proof of US address (any one, notarized): US Driving License, Utility Bill, Lease Agreement, State Identity Card, or Mortgage Deed.",
+   "Acceptable proof of US visa status (any one, notarized): the visa page of the passport (H1B, H4, L1, L2, etc.), Green Card, Employment Authorization Document, or I-797/I-140/I-20 (with a handwritten note on regularization efforts if approval is pending).",
+   "Fee: US$10.00 per page (payable to Consulate General of India) plus a separate US$2.00 ICWF fee per application, payable only by money order or cashier's cheque; processing takes 5-7 working days from receipt of a complete application."
+  ],
+  "reference_chunk_ids": [
+   "b3d127b3-3053-52ca-9394-fdde85fff15a",
+   "d13c46c5-4d2e-5b71-b121-35eda36c47df"
+  ],
+  "reference_source_ids": [
+   "b951b477-b865-4503-83af-0aff1fd91080"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "22409789010",
+  "query": "Hello,\nMy name is Varshaben Patel. I'm reaching out regarding the status of my Emergency Certificate Application, #25-2001747380, which was submitted on April 1 and received by the Consulate of India in Atlanta on April 7.\nWhen do you think there will be an update on this application?\nThank you.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 8: \"Emergency certificate checklist\" (falls within the Emergency Certificate subject area, which the KB does not cover at all; no approved source contains processing-status/timeline data either).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "23348997662",
+  "query": "I sent in my affidavit of consent of divorce with all the required documents and money order for $2 for ICWF and $10 for attestation of document as there was 1 page that required attestation.\nPlease see the attached document that was sent back to me with highlights.\n1. POA ? Is this counted as power of attorney / Affidavit. Because I just need last page attested.\n2. Copy of POA? Am I supposed to provide 2 copies of this document (affidavit for consent of divorce ) ? Does both copy need to be notarized? Does the notary require 2 witness to sign while they are doing notary ?\n3. A fee of USD $20 per page per applicant ? Is this considered a POA or just attestation? If so this is a 5 page document so a total of $100 for money order ? (But only 1 page requires attestation on last page then will it be 5 pages but because attestation is need just on last page it will be $20 ? ) (Or do we need to attest all page and I need to sign all pages and get all of those notarized ?",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 14: \"Consolidated current fee schedule (fee figures are mostly reconstructed/unconfirmed)\" - the core of the question turns on specific per-page attestation/POA fee amounts and calculations, which are unconfirmed in the KB.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "24590608196",
+  "query": "I submitted all required documents for applying NRI Certificate. But, application is returned without giving NRI Certificate. It says Bonafide Guardianship document is required for the ward relationship. Please clarify who can give us this certificate.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 3: \"NRI certificate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "25310778258",
+  "query": "I was asked by a bank in India to have my US Marriage certificate attested by the Indian Consulate in Atlanta.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 2: \"Marriage certificate / registration of a marriage that took place in the USA\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "30496786692",
+  "query": "I don't see marriage certificate in the Miscellaneous application Form",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 2: \"Marriage certificate / registration of a marriage that took place in the USA\" (user is looking for a marriage-registration option that the consulate's Miscellaneous Application Form does not offer).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "32451827772",
+  "query": "Need NRI certificate",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 3: \"NRI certificate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "33123015951",
+  "query": "Emergency certificate to travel India",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 8: \"Emergency certificate checklist\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "37494141198",
+  "query": "Hello, I received a request to resubmit the Annexure E Form, previously I had submitted it in handwritten form because the form said written in plain paper by applicant. Please let me know if I should do it in printed form or the handwritten form? Secondly, I was also asked to submit a Name Change form but I have not changed my name, I am single- never married. I am just splitting my name to Given name: Muniza and Surname: Khan as it was always supposed to be, the form online says that I will attesting to renounce my previous name which is not the case. I just want to split my name, also the form requires proof of newspaper publications for their new name, this is definitely not the case for me I am and will be maintaining my name. Before moving further I would like to make sure to follow the correct steps avoiding any discrepancies on such important matters. Please suggest what is to be done. I am eagerly awaiting your response. Thank you.",
+  "category": "misc_services",
+  "expect_decline": true,
+  "decline_reason": "Re-triaged (was a keyword false-positive -- none of the 16 documented gap subjects apply here). Still not answerable, though: 'Annexure E' and name-change document requirements exist in the approved sources, but only as part of specific passport checklists (e.g. passport re-issue in lieu of lost/damaged, surrender of passport), each with its own rules -- one checklist's 'Important Notes' state handwritten documents are not accepted at all, while name-change support requirements (newspaper publication vs. marriage certificate/court order/notarized affidavit) differ by checklist too. The query never states which application (passport reissue, surrender, OCI, etc.) these forms were requested for, so the KB cannot determine which checklist's rules actually govern this applicant's case without guessing.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "41548515918",
+  "query": "I Have submitted all the documents for NRI Certificate for my daughter, but missed to enclose the prepaid label, please help",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 3: \"NRI certificate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "44375262522",
+  "query": "statement of need",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 6: \"Statement of Need\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "44906551956",
+  "query": "I applied for my passport renewal in Feb 20th from Atlanta, GA, USA. I am 72 years old Indian citizen came to visit my daughter. The Indian consulate did nor forward my passport for police verification till I reached out to them. Now my passort is for police verification in Kolkata. Now due to election in WB police station is not replying any phone call. I have my ticket from Atlanta to Kolkata May 8th. I need to apply for an Emergency Certificate. My brother passed away in Kolkata and I need to go urgently.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 8: \"Emergency certificate checklist\" (the actionable ask is how to apply for an Emergency Certificate).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "46674094992",
+  "query": "I submitted my application in person in icac orlando vfs center and i submitted two applications, 1st one is for attestation of documents with tracking number USAFL319 and 2nd one is for power of attorney with tracking number USAFL320. I RECEIVED THE POA document and even online tracking showed it, but for the attestaion of documents i am seeing [No data found for this Combination of inputs] when tried to search and even fedex label also is just saying will be updated soon (it is basically struck at label created) can you please generate the ticket , i need help in this regard and my passport number is [PASSPORT_NO]. APPLICATION NUMBER : USAFL319 , PLEASE KINDLY DO THE NEEDFUL",
+  "category": "attestation",
+  "expect_decline": true,
+  "decline_reason": "Re-triaged (was a keyword false-positive on 'attestation of documents'/'power of attorney', not a documented gap topic). General document attestation IS covered by approved sources, but this specific query is a personal, case-specific tracking-portal status question about one applicant's own submitted application (tracking number USAFL319) -- the same category of request as the other status_tracking decline items in this golden set -- and is not resolvable from static document content regardless of how well attestation itself is documented.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "47494757127",
+  "query": "NRI Certificate Link is not working",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 3: \"NRI certificate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "320956011",
+  "query": "I am trying to attest a surety bond for statement of need, Do I have to send the original passport along with the required document and Money order, as I heard due to COVID this has been waived",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 6: \"Statement of Need\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "321945868",
+  "query": "We applied for an OCI (in lieu of PIO) for my wife, Carmen Diezcanseco Mallipudi, Government reference number [APPLICATION_NO] in January. I have written to VFS, called them on their toll free number 4 times, wrote emails and sent FEDEX letters. We got absolutely zero response from them in over a month. We finally asked them to cancel our application and to return our passport and PIO card and still no response. What do we need to do at this point?",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 11: \"PIO card renewal/conversion\" (this is an OCI-in-lieu-of-PIO-card conversion application, the exact PIO card subject area the KB does not cover).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "39674571088",
+  "query": "APPLICATION FOR MISCELLANEOUS SERVICES",
+  "category": "misc_services",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "The Miscellaneous Application form requires marking which specific service is being applied for (e.g. Life Certificate, Marriage Certificate, Power of Attorney/Affidavits, Birth Certificate, Attestation of Will, NRI Certificate, PCC, NORI, etc.).",
+   "Each applicant for Miscellaneous Services must pay a separate US $2 fee toward the Indian Community Welfare Fund (ICWF) in addition to consular/VFS fees.",
+   "Select the specific Miscellaneous type that applies on the Miscellaneous Services page to see its fees, documentation requirements, forms, photo specifications, and processing times."
+  ],
+  "reference_chunk_ids": [
+   "18a50747-c6e8-51cc-89ef-0ef55f3a0ac2",
+   "0c58a118-8add-53e5-8aa2-ef68e1d8e317"
+  ],
+  "reference_source_ids": [
+   "c9a0354e-e43e-4998-938f-5b448b959201",
+   "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "326674838",
+  "query": "Am not able to locate the form - Misc Services",
+  "category": "misc_services",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "The Miscellaneous Services application form is a downloadable PDF that lists checkboxes for the specific service being applied for (Life Certificate, Marriage Certificate, PoA/Affidavits, Birth Certificate, etc.).",
+   "Each specific Miscellaneous type's page provides an 'Application Form Link' under its Document Requirement section.",
+   "Select the Miscellaneous type that matches your need on the Miscellaneous Services page to reach its fee, documents, and form links."
+  ],
+  "reference_chunk_ids": [
+   "18a50747-c6e8-51cc-89ef-0ef55f3a0ac2",
+   "0c58a118-8add-53e5-8aa2-ef68e1d8e317"
+  ],
+  "reference_source_ids": [
+   "c9a0354e-e43e-4998-938f-5b448b959201",
+   "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "760726199",
+  "query": "Hi. I need to generate a power of attorney for my father to submit divorce documentation in local Indian Court on my behalf. Do I just fill up the form for miscellaneous services, and on a stamp paper create my power of attorney and notarize with two Georgia individuals?",
+  "category": "misc_services",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Yes, a separate Miscellaneous Application form must be filled up for the Power of Attorney service.",
+   "No specific format is prescribed for the PoA — it can be on plain paper or Indian Stamp Paper (the Embassy/Consulate does not provide stamp paper).",
+   "After signing the PoA and affixing a current passport-size photo on the last page, the PoA must be signed and witnessed by two individuals (other than immediate family members) with their full names and addresses clearly mentioned, and then notarized.",
+   "The signature on the PoA must match the signature in the applicant's current valid passport, or the documents will be sent back to be re-signed."
+  ],
+  "reference_chunk_ids": [
+   "809ff08f-00b3-531d-99ab-089ee8dda382",
+   "486b1216-135a-5ac6-9794-7b8d0f72271d"
+  ],
+  "reference_source_ids": [
+   "3517505c-8c56-4e80-a668-58c01a34e383"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "22719419558",
+  "query": "Miscellaneous services form",
+  "category": "misc_services",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "The Miscellaneous Application form lists checkboxes for the specific service applied for (Life Certificate, Marriage Certificate, PoA/Affidavits, Birth Certificate, Attestation of Will, NRI Certificate, PCC, NORI, etc.).",
+   "Each applicant is required to fill up a separate Miscellaneous Application form for their service.",
+   "An 'Application Form Link' is provided under the Document Requirement section for each specific Miscellaneous type."
+  ],
+  "reference_chunk_ids": [
+   "18a50747-c6e8-51cc-89ef-0ef55f3a0ac2",
+   "809ff08f-00b3-531d-99ab-089ee8dda382"
+  ],
+  "reference_source_ids": [
+   "c9a0354e-e43e-4998-938f-5b448b959201",
+   "3517505c-8c56-4e80-a668-58c01a34e383"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "24557480962",
+  "query": "Mailing address for miscellaneous services",
+  "category": "misc_services",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Applications can be submitted by mail: download the Miscellaneous application form, sign it, paste the photograph, and post it to the Consulate along with the supporting documents.",
+   "Mailing address: Consulate General of India, 5549 Glenridge Drive NE, Atlanta, GA-30342.",
+   "For queries, email cons.atlanta@mea.gov.in or miscservices.atlanta@mea.gov.in."
+  ],
+  "reference_chunk_ids": [
+   "b3d127b3-3053-52ca-9394-fdde85fff15a",
+   "d13c46c5-4d2e-5b71-b121-35eda36c47df"
+  ],
+  "reference_source_ids": [
+   "b951b477-b865-4503-83af-0aff1fd91080"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "322400325",
+  "query": "We are planning to sell property in india. My daughter is giving POA as she cannot travel. We are from St.Thomas \nWhat documents I have to send by mail? Do I have to send original passports and other original documents? How much are total charges? Do I have to fill application for miscellaneous services for my daughter who is giving POA as well as who is receiving it that's her mother, as well as part owner her Dad??",
+  "category": "misc_services",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "No original passports or other original documents are required — applicants may submit only notarized copies of the passport and address proof (originals are only required for death documentation cases).",
+   "Each applicant is required to fill up a separate Miscellaneous Application form, so the daughter (giving the PoA) would file her own form for the PoA service.",
+   "Required documents for a PoA include the notarized signed original PoA plus photocopy, a notarized copy of the OCI/passport, notarized proof of US legal status, and notarized proof of US address.",
+   "Fees: Power of Attorney is $41 total per executant ($20 consular + $2 ICWF + $19 VFS); an affidavit relating to property is also $41, while an affidavit other than property is $31."
+  ],
+  "reference_chunk_ids": [
+   "32cb5cf5-1683-521a-9069-37a0bfb219d0",
+   "809ff08f-00b3-531d-99ab-089ee8dda382",
+   "486b1216-135a-5ac6-9794-7b8d0f72271d",
+   "38c6cff6-e166-5db9-b31d-fb3f97747890"
+  ],
+  "reference_source_ids": [
+   "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+   "3517505c-8c56-4e80-a668-58c01a34e383"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "327470394",
+  "query": "miscellaneous services telephone",
+  "category": "misc_services",
+  "expect_decline": true,
+  "decline_reason": "No phone number appears anywhere in the approved chunks for Miscellaneous Services — only a mailing address and query email addresses are listed.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "328205955",
+  "query": "I'm trying to download this Miscellaneous Service",
+  "category": "misc_services",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "The Miscellaneous Services application form is available as a downloadable PDF.",
+   "Each Miscellaneous type's page (e.g. Life Certificate, Birth Certificate, PoA/Affidavits) lists an 'Application Form Link' under its Document Requirement section.",
+   "Select the specific Miscellaneous type needed on the Miscellaneous Services page to access its form, fee, and document checklist."
+  ],
+  "reference_chunk_ids": [
+   "18a50747-c6e8-51cc-89ef-0ef55f3a0ac2",
+   "0c58a118-8add-53e5-8aa2-ef68e1d8e317"
+  ],
+  "reference_source_ids": [
+   "c9a0354e-e43e-4998-938f-5b448b959201",
+   "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "359652680",
+  "query": "In the Miscellaneous service for non availability of birth certificate one of the document required is proof of residency applicant dont have proof",
+  "category": "misc_services",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "For the Birth Certificate service, the required 'Proof of Address in the USA' can be any ONE of: US Driving License, Utility Bill, Lease Agreement, State Identity Card, or Mortgage Deed.",
+   "This proof-of-address document must be submitted as a notarized copy and photocopy.",
+   "The checklist does not list any alternative proof-of-address option beyond these five document types."
+  ],
+  "reference_chunk_ids": [
+   "c6d453c3-e7bd-51f6-ab82-24c5f9c6b93f",
+   "7cd4939f-7b6b-5419-b26b-c8d6288d6e91"
+  ],
+  "reference_source_ids": [
+   "9b17a085-22e4-402f-b022-04a46fb3ed22"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "363686297",
+  "query": "Application of miscellaneous services per POA or just one? I have 3 POAs.",
+  "category": "misc_services",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Each applicant is required to fill up a separate Miscellaneous Application form.",
+   "Power of Attorney fees are charged per executant: $20 consular fee, $2 ICWF, and $19 VFS fee ($41 total) for each executant."
+  ],
+  "reference_chunk_ids": [
+   "809ff08f-00b3-531d-99ab-089ee8dda382",
+   "28dd1b69-c2c4-5504-85d2-56868007a0d1"
+  ],
+  "reference_source_ids": [
+   "3517505c-8c56-4e80-a668-58c01a34e383",
+   "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "31084298657",
+  "query": "Attestation of Power of Attorney",
+  "category": "attestation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "For a PoA, applicants submit the original notarized (signed and witnessed) PoA plus a photocopy; no specific format is prescribed — plain paper or Indian Stamp Paper is acceptable.",
+   "After signing and photo-affixing, the PoA must be witnessed by two individuals (other than immediate family) with full names/addresses, then notarized.",
+   "Applicants of non-Indian nationality must first get the PoA apostilled by the US State Department/Secretary of State of their state of residence before the Mission/post will attest it (OCI/PIO card holders are exempt from apostille).",
+   "Fee for Power of Attorney: $20 consular fee, $2 ICWF, $19 VFS fee — $41 total per executant; processing time is 10 business days from receipt."
+  ],
+  "reference_chunk_ids": [
+   "486b1216-135a-5ac6-9794-7b8d0f72271d",
+   "28dd1b69-c2c4-5504-85d2-56868007a0d1"
+  ],
+  "reference_source_ids": [
+   "3517505c-8c56-4e80-a668-58c01a34e383",
+   "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "42840729397",
+  "query": "Attestation of POA",
+  "category": "attestation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "For a PoA, applicants submit the original notarized (signed and witnessed) PoA plus a photocopy; no specific format is prescribed — plain paper or Indian Stamp Paper is acceptable.",
+   "After signing and photo-affixing, the PoA must be witnessed by two individuals (other than immediate family) with full names/addresses, then notarized.",
+   "Non-Indian nationals must first get the PoA apostilled by the US State Department/Secretary of State of their state of residence before Mission/post attestation (OCI/PIO card holders are exempt).",
+   "Fee for Power of Attorney: $20 consular fee, $2 ICWF, $19 VFS fee — $41 total per executant; processing time is 10 business days from receipt."
+  ],
+  "reference_chunk_ids": [
+   "486b1216-135a-5ac6-9794-7b8d0f72271d",
+   "28dd1b69-c2c4-5504-85d2-56868007a0d1"
+  ],
+  "reference_source_ids": [
+   "3517505c-8c56-4e80-a668-58c01a34e383",
+   "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "44610910041",
+  "query": "I would like to inquire about the process for notarization/attestation of a Power of Attorney document required for the sale of a property in India.\nCould you please confirm whether this service can be completed in person at the Consulate, or if there are alternative options such as mail-in processing? I would also appreciate it if you could share the process.",
+  "category": "attestation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Walk-in consular services have been discontinued; applications must be submitted by mail rather than in person.",
+   "To apply by mail, download the Miscellaneous application form, sign it, paste the photograph, and post it to the Consulate along with the supporting documents.",
+   "For the PoA itself: sign it, have it witnessed by two individuals (other than immediate family) with full names/addresses, and get it notarized (or apostilled first if a non-Indian national).",
+   "Fee for Power of Attorney is $41 total per executant ($20 consular + $2 ICWF + $19 VFS); processing time is 10 business days from receipt."
+  ],
+  "reference_chunk_ids": [
+   "448ef2dc-6a6f-57f8-b18e-f6e78d5bbd59",
+   "486b1216-135a-5ac6-9794-7b8d0f72271d",
+   "28dd1b69-c2c4-5504-85d2-56868007a0d1"
+  ],
+  "reference_source_ids": [
+   "b951b477-b865-4503-83af-0aff1fd91080",
+   "3517505c-8c56-4e80-a668-58c01a34e383",
+   "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "47546284427",
+  "query": "I ALREADY HAVE OCI",
+  "category": "oci",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "If you are already an OCI Cardholder, you should not apply for a new OCI registration — use 'OCI Miscellaneous Services' instead.",
+   "OCI Miscellaneous Services covers things like issuance of a new passport, change of personal particulars (name, address, occupation, nationality), loss/damage of the OCI card, and correction of wrong particulars filed earlier.",
+   "The OCI Miscellaneous Services fee is $25 (plus $3 ICWF and $19 VFS service fee per application); a card-replacement fee of $100 applies for a lost/damaged card.",
+   "Updating passport details is free of cost if done within 3 months of receiving the new passport."
+  ],
+  "reference_chunk_ids": [
+   "1f0c4aef-3c99-5d3a-af3f-3557de6fd8e9",
+   "021c3491-70f8-5cf3-8e26-84b5c30439e9"
+  ],
+  "reference_source_ids": [
+   "75b74c88-ecb0-4f1e-aa39-87c057d68082",
+   "e025bbd0-7aea-43d6-ba63-c93dabce7426"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "24553066377",
+  "query": "OCI Miscellaneous Services",
+  "category": "oci",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "OCI Miscellaneous Services can only be availed by existing, registered OCI Cardholders, for things such as: issuance of a new passport, change of personal particulars (nationality, name, address, occupation), loss/damage of the OCI card, or correcting wrong particulars filed at the time of the original application.",
+   "After submitting the online application (with documents, photo, signature and fee), applicants must bring only the ORIGINALS of the supporting documents to the Indian Mission/Post/FRRO for verification — hard copies/printouts of the application or photocopies of uploaded documents are not required.",
+   "Fees: OCI Misc. Services $25, ICWF $3, VFS service fee $19 per application; re-issuance due to a lost/damaged card is $100.",
+   "Passport-detail updates are free (gratis) if uploaded within 3 months of receiving the new passport; a $25 fee applies if updated after that window."
+  ],
+  "reference_chunk_ids": [
+   "021c3491-70f8-5cf3-8e26-84b5c30439e9",
+   "fa71e0ca-f0ae-5a8d-942c-de88389d4d75",
+   "83e6bb4c-bb77-551e-a2ac-62b7c5fe5ebe",
+   "1f0c4aef-3c99-5d3a-af3f-3557de6fd8e9"
+  ],
+  "reference_source_ids": [
+   "e025bbd0-7aea-43d6-ba63-c93dabce7426",
+   "e025bbd0-7aea-43d6-ba63-c93dabce7426",
+   "e025bbd0-7aea-43d6-ba63-c93dabce7426",
+   "75b74c88-ecb0-4f1e-aa39-87c057d68082"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "43288454418",
+  "query": "I want to know the status of my OCI application",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal case-status request — the chatbot cannot look up an individual applicant's status from static documents",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "45142086461",
+  "query": "Status of oci application",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal case-status request — the chatbot cannot look up an individual applicant's status from static documents",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "37474773433",
+  "query": "OCI Application status",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal case-status request — the chatbot cannot look up an individual applicant's status from static documents",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "449988964",
+  "query": "My minor child just renewed her passport. I saw that the OCI does not have to be renewed again. I wanted to know where the picture had to be uploaded",
+  "category": "oci",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "An OCI cardholder is required to upload online a copy of the new passport and a recent photo (not more than 30 days old) each time a new passport is issued — this is not the same as physically reissuing the card.",
+   "Uploading is done at https://ociservices.gov.in/welcome under the 'OCI Miscellaneous Services' option, and does not involve submitting anything through VFS or the Consulate; it is free of cost.",
+   "This upload should be done within three months of receiving the new passport.",
+   "Mandatory physical re-issue of the OCI card itself is only required when the new passport is issued after the applicant completes 20 years of age (fee $25 plus $3 ICWF and VFS service charge)."
+  ],
+  "reference_chunk_ids": [
+   "0094abb3-6162-5b35-9faf-e07ea1b63b03",
+   "d1555fa0-bedd-50b7-a70f-73b7f400f353"
+  ],
+  "reference_source_ids": [
+   "5c8144e5-0f18-46ef-9227-d92154233d57",
+   "5c8144e5-0f18-46ef-9227-d92154233d57"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "633825642",
+  "query": "I need to speak to consule general as VFS is incorrectly requesting information that is not requested on OCI website. I have uploaded all documents but VFS is coming back indicating documents missing-- I called VFS ( which again is an excuse to make money by charging per min ) to understand what is missing and they did not provide any details --- I want counsel to check for my file and verify if anythign missing -- It is nothign but harassments by claiming as missing document -- also Upload is additional charge -- If Counsel cares to provide customer service please reach out to me at [PHONE] , my email is [EMAIL].",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal complaint/escalation demanding review of a specific individual's case file and direct contact from the Consul General — not resolvable from static docs",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "644172093",
+  "query": "I submitted my son's updated information (passport) for OCI information update under 'Miscellaneous services'. It has been over 2 weeks and his applications hasn't been acknowledged yet",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal case-status/complaint about a specific submitted application — not resolvable from static docs",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "669304153",
+  "query": "Dear sir/madam,\nI applied for my son's oci renewal and uploaded doc online on oct 18th 2021. the file reference number is [APPLICATION_NO]. Online status still is file is yet to be acknowledged,\nthe mission is ATLANTA,GA .\ncould you please if possible let us know when can we expect the process to be completed.\nthanks\ndhiren",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal case-status request tied to a specific application reference number — not resolvable from static docs",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "1627034131",
+  "query": "I would like to know the status of my daughter's OCI which has been submitted 8 weeks ago",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal case-status request for a specific individual's OCI application — not resolvable from static docs",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "1787592883",
+  "query": "I have an oci card. But recently I have renewed my passport (British passport) . I don’t have a stamp on the new passport. Can I travel to India with the new passport along with the oci card?",
+  "category": "oci",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "An OCI cardholder can travel to India with the OCI card and the current valid passport, provided the passport has a minimum validity of 6 months.",
+   "For OCI holders between 21 and 50 years of age, re-issue of the OCI card is not mandatory when the passport is renewed, but the holder must carry the old passport (on which the OCI card was issued) along with the current passport while traveling."
+  ],
+  "reference_chunk_ids": [
+   "d1555fa0-bedd-50b7-a70f-73b7f400f353",
+   "7f5eb33a-406b-5d74-a4df-b8fecd20a87a"
+  ],
+  "reference_source_ids": [
+   "5c8144e5-0f18-46ef-9227-d92154233d57",
+   "86bd3e59-a891-4d2e-ac38-8828d7ef2380"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "2163197783",
+  "query": "Processing time for OCI card",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "topic not covered by any approved source in this category — chunks only reference document-completion windows (7/20 days) and list 'Processing time for OCI applications' as a page title, without giving any actual processing-time duration",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "22697724443",
+  "query": "Is VFS global payment portal working today ? I uploaded my OCI application last night but still struggling to pay .",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "asks about real-time VFS portal availability and a personal payment problem — not resolvable from static docs",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "36297123401",
+  "query": "How to apply for OCI",
+  "category": "oci",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Eligibility must be checked first: a person who was an Indian citizen at any time, or is the child/grandchild/great-grandchild of such a person, or is the spouse of an Indian citizen/OCI holder (with 2+ years of subsisting marriage) may register; those with Pakistani/Bangladeshi lineage or foreign military/police personnel are not eligible.",
+   "Former Indian citizens must first obtain the Certificate of Renunciation of Indian citizenship before applying for OCI.",
+   "Process: complete the application online on the Government of India's OCI portal (uploading photo, signature, and required documents in the prescribed formats/sizes), then send the printed physical application with the fee and enclosures to the VFS India Consular Application Centre for the applicant's jurisdiction.",
+   "New OCI Card fees: $275 registration fee, $3 ICWF, and $19 VFS service fee per application (plus a 3.75% surcharge for card payments).",
+   "If the application remains incomplete for 20 calendar days, VFS returns it unprocessed with a partial refund; if requested additional documents are not submitted within 7 calendar days, processing may stop with no refund."
+  ],
+  "reference_chunk_ids": [
+   "04a37232-444e-57da-98ef-b4c58bb2b699",
+   "f0987dc2-633a-5856-bd1b-c18d1fdec022"
+  ],
+  "reference_source_ids": [
+   "75b74c88-ecb0-4f1e-aa39-87c057d68082",
+   "75b74c88-ecb0-4f1e-aa39-87c057d68082"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "43333854596",
+  "query": "I applied to renew my OCI based on my new US passport after age 20. I received text from VFS that the my application: [APPLICATION_NO] has been processed at VFS and submitted to the Mission for decision making on February 18th 2026. Its been almost a month and I have not heard back.",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal case-status inquiry about a specific application pending Mission decision — not resolvable from static docs",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "43510684768",
+  "query": "I have OCI already",
+  "category": "oci",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "If you are already an OCI Cardholder, you should not apply for a new OCI registration — use 'OCI Miscellaneous Services' instead.",
+   "OCI Miscellaneous Services covers things like issuance of a new passport, change of personal particulars (name, address, occupation, nationality), loss/damage of the OCI card, and correction of wrong particulars filed earlier.",
+   "The OCI Miscellaneous Services fee is $25 (plus $3 ICWF and $19 VFS service fee per application); a card-replacement fee of $100 applies for a lost/damaged card.",
+   "Updating passport details is free of cost if done within 3 months of receiving the new passport."
+  ],
+  "reference_chunk_ids": [
+   "1f0c4aef-3c99-5d3a-af3f-3557de6fd8e9",
+   "021c3491-70f8-5cf3-8e26-84b5c30439e9"
+  ],
+  "reference_source_ids": [
+   "75b74c88-ecb0-4f1e-aa39-87c057d68082",
+   "e025bbd0-7aea-43d6-ba63-c93dabce7426"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "327664145",
+  "query": "What are the current processing times for OCI",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "topic not covered by any approved source in this category — chunks only reference document-completion windows (7/20 days) and list 'Processing time for OCI applications' as a page title, without giving any actual processing-time duration",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "371906742",
+  "query": "Hello Sir/Madam, My Name is Anand Dhanarajupali writing behalf of my son Anudeep Dhanarajupali. We applied Anudeep Dhanarajupali OCI Misc services to update his new passport number in his OCI Card, and Application ref number is [APPLICATION_NO]. I haven't seen any status update on the \"Tracking Application\" after submitting the missing documents. I submitted missing document on 03/31/2021 through USPS Priority Mail. USPS tracking [LONG_NUMBER] says that my package is delivered on 03/31/2021 at 1.15 PM. Please start process my documents. I need to travel to India in May 13 2021 along with my Family. Let me know if you have any questions",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal case-status/complaint tied to a specific application reference number and a missing-document submission — not resolvable from static docs",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "399066178",
+  "query": "oci process vidio",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "topic not covered by any approved source in this category — no OCI process video is referenced in any provided chunk",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "405248948",
+  "query": "I got my USA citizenship recently and applied for Renunciation of India Citizenship by surrendering my passport to India Consulate in Atlanta. I received the Surrender Certificate along with the cancelled passport today but just noticed that I had my birthdate mentioned wrong in Renunciation Certificate when I filled it. I mentioned my birthdate as 18/05/1985 instead of 18/07/1985. Is that going to be a problem since I already received the Surrender Certificate. Please let me know. I am planning to apply for OCI card soon. Thanks.",
+  "category": "oci",
+  "expect_decline": true,
+  "decline_reason": "personal document-correction question about an already-issued Surrender/Renunciation Certificate — topic not covered by any provided chunk and not resolvable from static docs",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "25240074637",
+  "query": "Re-issue of ordinary passport of 36 pages in lieu of lost, stolen or damaged passport",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "On the government online application, select 'Passport Re-issue' and mark the reason as lost or damage as applicable, and choose the correct jurisdiction.",
+   "Under 'Type of passport booklet' on the online application, select '36 pages' (or '60 pages' for a jumbo booklet, at additional charge).",
+   "For a lost/stolen passport, a detailed, approved police report (not older than 6 months) naming the applicant and referencing the lost passport must be submitted.",
+   "VFS online registration must be completed before the physical application is mailed; the completed checklist and required documents are then sent by mail to the VFS India Consular Application Centre."
+  ],
+  "reference_chunk_ids": [
+   "c6e210d8-9858-515b-ac42-83521aca537b",
+   "6065e74f-5749-54bc-b234-fbba2a1fdaef",
+   "a0b3440c-9205-5846-bff0-3c33a6cca57e",
+   "ddd2c43f-41b4-5045-bf44-e3a435801fdb"
+  ],
+  "reference_source_ids": [
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "d5f78722-d97d-410b-a4f6-b55099588902"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "586360623",
+  "query": "My Daughter and Wife stays in Atlanta, GA, USA. My Daughter's passport was expired and while sent for reissue, it was lost in courier. I live in India. When sent for a reissue on lost category, the following issue is stated:\n1. Additional documents : NO OBJECTION CERTIFICATE FROM FATHER REQUIRED\n2. Annexure C : MISSING MOTHERS SIGN ON ANNEXURE C.\nWe understand point 2, but not sure about the format of 'NO OBJECTION CERTIFICATE FROM FATHER REQUIRED'. So my wife is looking for an appointment of visit in the Atlanta Passport office.\nSo,\n1. What is the way to book an appointment in passport office visit in Atlanta, GA, USA\n2. What is the format of 'NO OBJECTION CERTIFICATE FROM FATHER REQUIRED'",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Asks how to book an in-person appointment at the Atlanta passport office and for the exact format/template of a father's No Objection Certificate; neither appointment-scheduling procedures nor an NOC letter template/format appear anywhere in the approved chunks, which only list mail-in document requirements.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "745198893",
+  "query": "I APPLIED MY PASSPORT TWICE, FEBRUARY 2021 MY ORIGINAL PASSPORT LOST ON TRANSITION TO THE AMBASSY .THEN I APPLIED AGAIN IN NOVEMBER 2021.",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "A personal case narrative about the user's own two applications and lost passport, with no clear question; this is a case-status matter the bot cannot resolve from static documents.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "2113821088",
+  "query": "I lost my passport, I want to reapply my passport. I have travel to india in december 15. Can I take an inperson appointment to reapply for my lost passport.",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "The reissue-in-lieu-of-lost process is completed via VFS online registration followed by mailing the completed application, checklist, and documents to the VFS India Consular Application Centre.",
+   "On the government online application, select 'Passport Re-issue' and mark the reason as 'lost'.",
+   "A detailed, approved police report (not older than 6 months) naming the applicant and describing how the passport was lost must be included.",
+   "Once the mailed application is delivered to the VFS Consular Application Centre, the status is updated within 48-72 business hours and can be tracked online."
+  ],
+  "reference_chunk_ids": [
+   "cc4a131d-b36e-5068-8c62-ba06dc24d65b",
+   "c6e210d8-9858-515b-ac42-83521aca537b",
+   "a0b3440c-9205-5846-bff0-3c33a6cca57e"
+  ],
+  "reference_source_ids": [
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "628040e2-7744-4f13-9326-0832e226245c"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "17183310466",
+  "query": "I have applied for the reissue if passport since i have lost my passport, so i had submitted the required documents that are need for passport application ,how many days it gonna take to get my passport or what's the further process",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "After your documents are delivered to the VFS India Consular Application Centre, the application status is updated within 48-72 business hours and can be tracked online.",
+   "If any required document is missing, the application is put 'on Hold' with an email notification, and you must supply the missing document within 7 days of that notification.",
+   "If the missing documents are not received, the application is Abandoned after 21 days and the entire process must be restarted with a new (voided) application.",
+   "The consulate/VFS reserves the right to call for additional documents as considered necessary."
+  ],
+  "reference_chunk_ids": [
+   "cc4a131d-b36e-5068-8c62-ba06dc24d65b",
+   "a9af733a-3edb-543e-9c1d-a75a040de86a"
+  ],
+  "reference_source_ids": [
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "628040e2-7744-4f13-9326-0832e226245c"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "41721262771",
+  "query": "I have to renew my daughter's passport. Since we are in Atlanta, and Passport application center VFS is near to our palace, can we directly submit the application in the center in person and collect the new passport in person instead of shipping. We have 2 experience for our friends, they lost their passports in shipping. We don't need to take a risk",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Asks about in-person submission/collection for a routine passport renewal (not a lost/damaged reissue). The approved chunks only cover mail-in reissue procedures for lost or damaged passports and do not address normal renewal or any walk-in submission/collection option.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "44784950704",
+  "query": "Report lost passport",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "To reissue a passport in lieu of loss, a detailed, approved police report describing how the passport was lost or stolen, and naming the applicant, must be submitted, and it must not be more than 6 months old.",
+   "On the government online application, select 'Passport Re-issue' and choose 'lost' as the reason.",
+   "The completed checklist, police report, and other required documents must be mailed to the VFS India Consular Application Centre after completing VFS online registration."
+  ],
+  "reference_chunk_ids": [
+   "a0b3440c-9205-5846-bff0-3c33a6cca57e",
+   "c6e210d8-9858-515b-ac42-83521aca537b",
+   "cc4a131d-b36e-5068-8c62-ba06dc24d65b"
+  ],
+  "reference_source_ids": [
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "628040e2-7744-4f13-9326-0832e226245c"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "328131477",
+  "query": "i would like to get lost passport clearance certificate for me.",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Requests a 'lost passport clearance certificate' — no such document or certificate is mentioned anywhere in the approved chunks.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "329237684",
+  "query": "I lost my passport in a house fire in Miami but I am relocating to Boston for a few weeks to live with family, where should I file my lost passport query",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "You should select the correct Indian mission/consulate based on where you reside in the USA; mission jurisdiction can be checked online at the VFS jurisdiction page.",
+   "If staying temporarily with family and lacking your own permanent address proof, a notarized undertaking from the relatives you are staying with (along with a notarized copy of their address proof) can be submitted, or a notarized hotel bill if in temporary lodging."
+  ],
+  "reference_chunk_ids": [
+   "cc4a131d-b36e-5068-8c62-ba06dc24d65b",
+   "215fc446-2a9f-50b2-b1b5-4fdd691e89fc"
+  ],
+  "reference_source_ids": [
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "628040e2-7744-4f13-9326-0832e226245c"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "329321518",
+  "query": "what documents are required for notarization if passport is lost",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "The Affidavit for Change of Appearance & Signature must be signed by the applicant and notarized (with notary stamp and signature); it is mandatory for all applicants.",
+   "The copy of valid US legal status (e.g., Green Card, visa, EAD, I-797A Approval Notice, work/study permit) must be submitted as a notarized color copy.",
+   "If you don't have permanent address proof and reside with parents/children/siblings, a notarized undertaking from them plus a notarized copy of their address proof is required; those in a hotel/temporary lodging can instead submit a notarized hotel bill.",
+   "The notary stamp's expiry date must not be manually corrected or overwritten."
+  ],
+  "reference_chunk_ids": [
+   "7b9c5e39-043d-50be-837d-a0ae99c94f71",
+   "215fc446-2a9f-50b2-b1b5-4fdd691e89fc"
+  ],
+  "reference_source_ids": [
+   "628040e2-7744-4f13-9326-0832e226245c",
+   "628040e2-7744-4f13-9326-0832e226245c"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "321489838",
+  "query": "Indian Community Welfare Fee (ICWF)",
+  "category": "community_events",
+  "expect_decline": true,
+  "decline_reason": "Not a specific question, and the community_events knowledge base chunks (Know India Programme, Open House, student guidelines, Study in India) contain no information about ICWF fees.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "329234086",
+  "query": "ASIKE would like to invite Consul General to be Guest Speaker for an International Woman Day event, Saturday, March 20, 2021 3 to 5 pm",
+  "category": "community_events",
+  "expect_decline": true,
+  "decline_reason": "Event invitation directed at the Consul General, not an answerable informational question.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "329236104",
+  "query": "Would like the India Consul General of India to be a guest speak for International Woman Day event Saturday March 20, 2021 3-5 pm",
+  "category": "community_events",
+  "expect_decline": true,
+  "decline_reason": "Event invitation directed at the Consul General, not an answerable informational question.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "349950856",
+  "query": "3 questions relating Power of Attorney:\n1. Do we need photocopies all the pages of passport or just the front and back?\n2. Do we need the POA application form printed on one side only or both sided prints can work too?\n3. The fees of $20 in form of cashier’s cheques should be in favor of Consulate General of India, Atlanta? And US$2.00(Two Only) per application towards Indian Community Welfare Fund (ICWF) ?",
+  "category": "community_events",
+  "expect_decline": true,
+  "decline_reason": "Power of Attorney photocopy/printing/fee questions are not addressed by the community_events knowledge base chunks provided (Know India Programme, Open House, student guidelines, Study in India pages).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "380819754",
+  "query": "Need urgent help for my minor son's passport renewal ARN# 21-2000718496) (Soham Ganguly). The local PS tells they cleared the file, raising grievance with passport.gov no use. I have upcoming biometric for my family and my son is only having his Indian passport as his identity. Please help this situation.",
+  "category": "community_events",
+  "expect_decline": true,
+  "decline_reason": "Personal, case-specific request about an individual applicant's passport renewal grievance; not resolvable from static docs and not covered by the community_events chunks provided.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "416540429",
+  "query": "My wife and I would like to apply for our birth certificates. We went to the consular office today but came to know that the walk-in services are discontinued. We have the following questions:\n1) Do we need to send our original passports? Or notarized copies work?\n2) Indian Community Welfare Fee (ICWF) of 2 USD -- does it have to be also in the cashier's check or money order?\nThank you very much for your help.",
+  "category": "community_events",
+  "expect_decline": true,
+  "decline_reason": "Birth certificate application and ICWF payment-method questions are not addressed by the community_events knowledge base chunks provided.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "33310998562",
+  "query": "status of my application",
+  "category": "status_tracking",
+  "expect_decline": true,
+  "decline_reason": "Personal case status, not resolvable from static docs.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "39013227017",
+  "query": "Passport Renewal Status",
+  "category": "status_tracking",
+  "expect_decline": true,
+  "decline_reason": "Personal case status, not resolvable from static docs.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "2021192578",
+  "query": "Status of passport renewal application",
+  "category": "status_tracking",
+  "expect_decline": true,
+  "decline_reason": "Personal case status, not resolvable from static docs.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "2600791428",
+  "query": "Want to know the status",
+  "category": "status_tracking",
+  "expect_decline": true,
+  "decline_reason": "Personal case status, not resolvable from static docs.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "3002283598",
+  "query": "My issue is : I am SINGLE and updated marital status as SINGLE but on Family Detail page, it is asking me to update SPOUSE DETAILS and not allowing me to move forward",
+  "category": "status_tracking",
+  "expect_decline": true,
+  "decline_reason": "Personal, case-specific technical/form issue (marital status field blocking submission); not addressed by the status_tracking knowledge base chunks provided.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "22402247235",
+  "query": "status of the application",
+  "category": "status_tracking",
+  "expect_decline": true,
+  "decline_reason": "Personal case status, not resolvable from static docs.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "22876454474",
+  "query": "Status of my passport application",
+  "category": "status_tracking",
+  "expect_decline": true,
+  "decline_reason": "Personal case status, not resolvable from static docs.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "37744087153",
+  "query": "status of passport renewal",
+  "category": "status_tracking",
+  "expect_decline": true,
+  "decline_reason": "Personal case status, not resolvable from static docs.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "321939615",
+  "query": "i tried to register to start the application process but its not registering",
+  "category": "registration",
+  "expect_decline": true,
+  "decline_reason": "Personal technical issue with the registration process failing; not addressed by the registration knowledge base chunks provided.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "322389374",
+  "query": "what is file number when I am trying to register online by your protal",
+  "category": "registration",
+  "expect_decline": true,
+  "decline_reason": "Asks what a 'file number' is during online registration; not defined or addressed in the registration knowledge base chunks provided.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "330179587",
+  "query": "I am on 3rd step of re-issuance of my passport but when I click to Create a profile and register on the VFS portal system it does not work",
+  "category": "registration",
+  "expect_decline": true,
+  "decline_reason": "Personal technical issue creating a profile on the VFS portal; not addressed by the registration knowledge base chunks provided.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "346737330",
+  "query": "WHAT IS THIS ARN NUMBER ? I WENT TO THE REGISTRATION PAGE AND GAVE ALL THE INFO . IT TOLD ME TO ACTIVATE FORM MY EMAIL I DID BUT COULD NOT FIND THE ARN NUMBER",
+  "category": "registration",
+  "expect_decline": true,
+  "decline_reason": "Asks about an ARN number after registration; not defined or addressed in the registration knowledge base chunks provided.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "348597566",
+  "query": "I am applying for a home loan in India and at site registration office they are asking a GPA letter from embassy is required",
+  "category": "registration",
+  "expect_decline": true,
+  "decline_reason": "Question about a GPA/Power of Attorney letter for an Indian property registration office; not addressed by the registration knowledge base chunks provided, which only describe consulate registration of Indian nationals residing in the US.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "1369122710",
+  "query": "This is for my mom (Shantaben Dahyabhai Patel, DOB: Jan 03, 1942). We have 4 events/celebrations in India from Feb 12 Feb 20th, including my moms \"Jivan Parv\" and late Dad's death ceremony. Tickets already purchased for leaving on Jan 22nd. We just found out that her passport is expired",
+  "category": "death_documents",
+  "expect_decline": true,
+  "decline_reason": "Personal, urgent request about a family member's expired passport for upcoming travel; not addressed by the death_documents knowledge base chunks provided, which cover death certificate attestation and carrying mortal remains/ashes, not passport renewal.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "320997154",
+  "query": "i need my fathers original death certificate copy issued in florida to be authenticated by indian high commission",
+  "category": "death_documents",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Mandatory documents for processing include: the Miscellaneous Application form, 2 passport-size color photos (51mm x 51mm, taken within 6 months), the original passport and a photocopy of both the deceased and the applicant, notarized proof of the applicant's valid US legal status, and a notarized proof of the applicant's US address.",
+   "Signature of the applicant on all documents must match the signature on their current valid passport.",
+   "Fee for attestation of a death certificate: consular fee $10.00 per copy + $2.00 ICWF per copy + VFS service fee $19.00, totaling $31.00 per application, with $10 for each additional copy.",
+   "The fee can be paid online or via a single money order/cashier's cheque made out to 'VFS Services (USA) Inc'; personal cheques and personal money orders are not accepted."
+  ],
+  "reference_chunk_ids": [
+   "2594b2fb-c2d0-5935-8290-57b115488532",
+   "90b5a3b3-fd81-53ce-b86c-59df658ba17f"
+  ],
+  "reference_source_ids": [
+   "72c550ab-40c4-4285-9a42-9f02f8cef748"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "320993302",
+  "query": "i need my fathers original copy of death certificate issue in florida to be certified by indin embessy stamp",
+  "category": "death_documents",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Mandatory documents for processing include: the Miscellaneous Application form, 2 passport-size color photos (51mm x 51mm, taken within 6 months), the original passport and a photocopy of both the deceased and the applicant, notarized proof of the applicant's valid US legal status, and a notarized proof of the applicant's US address.",
+   "Signature of the applicant on all documents must match the signature on their current valid passport.",
+   "Fee for attestation of a death certificate: consular fee $10.00 per copy + $2.00 ICWF per copy + VFS service fee $19.00, totaling $31.00 per application, with $10 for each additional copy.",
+   "The fee can be paid online or via a single money order/cashier's cheque made out to 'VFS Services (USA) Inc'; personal cheques and personal money orders are not accepted."
+  ],
+  "reference_chunk_ids": [
+   "2594b2fb-c2d0-5935-8290-57b115488532",
+   "90b5a3b3-fd81-53ce-b86c-59df658ba17f"
+  ],
+  "reference_source_ids": [
+   "72c550ab-40c4-4285-9a42-9f02f8cef748"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "21667806998",
+  "query": "Police Clearance Certificate",
+  "category": "police_clearance",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "It is mandatory to complete VFS Online registration before sending the physical application; failure to do so results in the application being returned unprocessed.",
+   "Applicants log in and complete the application form on the government site https://embassy.passportindia.gov.in, then print and sign the completed PCC application form.",
+   "Applicants must provide their Indian address, including the name of the concerned police station, so police authorities can verify their antecedents.",
+   "Required documents include 2 recent passport-size color photos (51mm x 51mm, taken within 6 months) and a notarized color copy of proof of address (e.g., state-issued ID, driving license, utility bill, lease agreement) plus notarized proof of valid US status (e.g., green card, visa, EAD).",
+   "Incomplete or erroneous applications are returned to the applicant after 21 days if missing/additional documents are not provided, and must then be resubmitted."
+  ],
+  "reference_chunk_ids": [
+   "720c33e6-2994-52ff-aeb3-bdc5d6a32777",
+   "9c285287-faf4-5bfa-b8eb-9c05eb5366df",
+   "2c06e86c-d7c4-5596-ad65-2fbdaf70af43",
+   "c55e71c5-1239-516b-9a16-390fc4d0cc0f",
+   "8d492175-40ff-5bc2-947c-9aa3aa6252d5"
+  ],
+  "reference_source_ids": [
+   "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "327840858",
+  "query": "I am waiting on my Police clearance certificate. The verification already completed in India 3 weeks back. But I still haven't received my passport and the police clearance certificate. Can you please let me know when I can expect to receive my passport and police clearance certificate?",
+  "category": "police_clearance",
+  "expect_decline": true,
+  "decline_reason": "Personal case status/timeline question about when this specific applicant will receive their passport and PCC; not resolvable from static docs.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "334820456",
+  "query": "I applied for Passport Renewal (Normal) via vfs global 25/02/2021 and recieved my RENEWED Passport within 10 days. NOW Getting a message from [EMAIL] that I should present documents in person at Mumbai Santa Cruz Police station for Police Clearance !",
+  "category": "police_clearance",
+  "expect_decline": true,
+  "decline_reason": "Personal, case-specific question about a post-issuance police-station verification notice; not addressed by the police_clearance checklist chunks provided.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "39444929560",
+  "query": "global entry program",
+  "category": "global_entry",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Global Entry is a US Customs and Border Protection (CBP) program that allows expedited clearance for pre-approved, low-risk travelers via automatic kiosks at select US airports.",
+   "Citizens of India are eligible for Global Entry.",
+   "Step 1: Apply through the US CBP Trusted Traveler Programs (TTP) website (https://www.cbp.gov/travel/trusted-traveler-programs/global-entry).",
+   "Step 2: After Step 1, applicants living in the USA submit the required information on the Global Passport Seva Project website (https://portal4.passportindia.gov.in) to complete a background check in India.",
+   "Step 3: Submit the physical application at the VFS Global Application Centre along with the applicable fee, per VFS guidelines."
+  ],
+  "reference_chunk_ids": [
+   "d708469e-4bc8-5345-8af1-c75a63a8657f"
+  ],
+  "reference_source_ids": [
+   "03174ad5-be1e-4f11-a12a-e05b6c3f5fb7"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "330433350",
+  "query": "need more information on global entry program",
+  "category": "global_entry",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Global Entry is a US Customs and Border Protection (CBP) program that allows expedited clearance for pre-approved, low-risk travelers via automatic kiosks at select US airports.",
+   "Citizens of India are eligible for Global Entry.",
+   "Step 1: Apply through the US CBP Trusted Traveler Programs (TTP) website (https://www.cbp.gov/travel/trusted-traveler-programs/global-entry).",
+   "Step 2: After Step 1, applicants living in the USA submit the required information on the Global Passport Seva Project website (https://portal4.passportindia.gov.in) to complete a background check in India.",
+   "Step 3: Submit the physical application at the VFS Global Application Centre along with the applicable fee, per VFS guidelines."
+  ],
+  "reference_chunk_ids": [
+   "d708469e-4bc8-5345-8af1-c75a63a8657f"
+  ],
+  "reference_source_ids": [
+   "03174ad5-be1e-4f11-a12a-e05b6c3f5fb7"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "367684486",
+  "query": "i want to know list of documents to be submitted with Global Entry Program application at consulate in Atlanta vfs",
+  "category": "global_entry",
+  "expect_decline": true,
+  "decline_reason": "Asks for a specific document checklist for the Global Entry Program application; the global_entry chunk only describes the 3-step application process (CBP TTP, Global Passport Seva Project, VFS submission) and does not enumerate required documents.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "759892386",
+  "query": "Someone had done fraud with us here and ran away in atlanta, we filed complain in court here and court had declare the judgement against him. we have his address of atlanta and we want your help to approach him to pay our harden earned money. Or kindly share any other process to approach him at his place legally.",
+  "category": "fraud_advisory",
+  "expect_decline": true,
+  "decline_reason": "Requests help enforcing a civil court judgment against an individual; not addressed by the fraud_advisory chunks provided, which only cover spoofed/fraudulent phone calls impersonating the Embassy/Consulate.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "988623380",
+  "query": "Hi I had invested in an industrial plot in Gurgaon, Haryana several years ago. My partner has committed fraud against me and HSIIDC (Haryana Industrial and infrastructure Development Corporation - a Haryana government agency). I have been sending requests to HSIIDC for corrective action, but there is no responsible. Request your help to get HSIIDC to act on my request. Thank What is a good email address to contact you with? If we disconnected",
+  "category": "fraud_advisory",
+  "expect_decline": true,
+  "decline_reason": "Personal property-fraud dispute involving an Indian government agency (HSIIDC); not addressed by the fraud_advisory chunks provided, which only cover spoofed/fraudulent phone calls impersonating the Embassy/Consulate.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "1346804864",
+  "query": "I need to complaint against my India Bank for fraud and illegal activities",
+  "category": "fraud_advisory",
+  "expect_decline": true,
+  "decline_reason": "Personal complaint against an Indian bank for fraud; not addressed by the fraud_advisory chunks provided, which only cover spoofed/fraudulent phone calls impersonating the Embassy/Consulate.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "45618861663",
+  "query": "Surrender indian passport",
+  "category": "surrender_renunciation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Surrender and Renunciation of Indian Citizenship applies only to Persons of Indian Origin; India does not allow dual citizenship, so an Indian passport must be surrendered immediately after acquiring another country's nationality.",
+   "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee; an additional 3.75% convenience charge applies for online/card payments (Mastercard or Visa only), or a money order/banker's/cashier's check payable to 'VFS Services (USA) Inc.'",
+   "Mandatory documents include the Adult or Minor Document Checklist (with or without the original passport), the Declaration/Surrender of Indian Passport Certificate form, photographs, and proof of address, among other checklist items.",
+   "Processing time is 7-21 working days once the application reaches the Embassy/Consulate."
+  ],
+  "reference_chunk_ids": [
+   "0c497bd5-ab2c-585b-ad00-6d986227deb9",
+   "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+   "9d1de69b-6ad7-575d-9d28-410f913f779f"
+  ],
+  "reference_source_ids": [
+   "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "22206815849",
+  "query": "I want to surrender my Indian passport",
+  "category": "surrender_renunciation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Surrender and Renunciation of Indian Citizenship applies only to Persons of Indian Origin; India does not allow dual citizenship, so an Indian passport must be surrendered immediately after acquiring another country's nationality.",
+   "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee; an additional 3.75% convenience charge applies for online/card payments (Mastercard or Visa only), or a money order/banker's/cashier's check payable to 'VFS Services (USA) Inc.'",
+   "Mandatory documents include the Adult or Minor Document Checklist (with or without the original passport), the Declaration/Surrender of Indian Passport Certificate form, photographs, and proof of address, among other checklist items.",
+   "Processing time is 7-21 working days once the application reaches the Embassy/Consulate."
+  ],
+  "reference_chunk_ids": [
+   "0c497bd5-ab2c-585b-ad00-6d986227deb9",
+   "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+   "9d1de69b-6ad7-575d-9d28-410f913f779f"
+  ],
+  "reference_source_ids": [
+   "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "949035318",
+  "query": "I became an American citizen in 2014, at that time I misplaced my Indian passport and was not aware that I needed to surrender my passport. And since it got misplaced and I had already received my American passport, I didn’t think much of it. I recently found it again while moving and someone informed me that I needed to surrender my Indian passport when I received my American passport. I would still like to go ahead and surrender it if needed, even though it’s been way past time. Can you please guide me through the procedure of how that can be done?",
+  "category": "surrender_renunciation",
+  "expect_decline": true,
+  "decline_reason": "Personal case narrative about a specific individual's years-delayed, previously-misplaced passport situation; requires individualized case guidance rather than a lookup answerable from the static checklists alone.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "1783077149",
+  "query": "I surrendered my indian passport to Atlanta Indian Consulate back in 2014. However, I did not receive the Renunciation Certificate. How do I obtain that?",
+  "category": "surrender_renunciation",
+  "expect_decline": true,
+  "decline_reason": "Personal case-status request about a specific past (2014) application and a missing certificate; no chunk covers how to retrieve/reissue a certificate that was never received.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "2675153719",
+  "query": "In the renounciation form, I completed step 1(Complete the Government online form) and step 2 (arrange documents as per the checklist). In step 3, I have submitted VFS global application, and I paid my fees but I did not get any email for application conformation latter and renunciations certificate from VFS global.",
+  "category": "surrender_renunciation",
+  "expect_decline": true,
+  "decline_reason": "Personal case-status complaint about a specific submitted application not receiving confirmation/certificate emails; not resolvable from static documents.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "34240589833",
+  "query": "I got my USA Citizenship and passport already. Is that just surrender the passport is enough or need to do both Surrender and Renunciation ?",
+  "category": "surrender_renunciation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Surrender and Renunciation are not two separate additional steps: once you acquire another country's nationality, you surrender your Indian passport and it is stamped 'cancelled due to acquiring foreign nationality' as part of one process.",
+   "An Indian passport carrying only a 'cancelled' stamp, without an accompanying certificate, is NOT considered proof that Indian citizenship has been renounced.",
+   "When later applying for consular services like a Visa or OCI, you must provide proof of your cancelled Indian passport; if you cannot provide that proof, you will be required to obtain a renunciation certificate.",
+   "Depending on whether you still hold your Indian passport, the applicable form is either the Declaration of Surrender of Indian Passport (if you have the passport) or the Declaration of Renunciation of Citizenship of India (if you don't) — these serve the same underlying purpose."
+  ],
+  "reference_chunk_ids": [
+   "0c497bd5-ab2c-585b-ad00-6d986227deb9"
+  ],
+  "reference_source_ids": [
+   "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "45734647220",
+  "query": "i want to surrender my passport",
+  "category": "surrender_renunciation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Surrender and Renunciation of Indian Citizenship applies only to Persons of Indian Origin; India does not allow dual citizenship, so an Indian passport must be surrendered immediately after acquiring another country's nationality.",
+   "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee; an additional 3.75% convenience charge applies for online/card payments (Mastercard or Visa only), or a money order/banker's/cashier's check payable to 'VFS Services (USA) Inc.'",
+   "Mandatory documents include the Adult or Minor Document Checklist (with or without the original passport), the Declaration/Surrender of Indian Passport Certificate form, photographs, and proof of address, among other checklist items.",
+   "Processing time is 7-21 working days once the application reaches the Embassy/Consulate."
+  ],
+  "reference_chunk_ids": [
+   "0c497bd5-ab2c-585b-ad00-6d986227deb9",
+   "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+   "9d1de69b-6ad7-575d-9d28-410f913f779f"
+  ],
+  "reference_source_ids": [
+   "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "46700085778",
+  "query": "Surrender of Indian Passport",
+  "category": "surrender_renunciation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Surrender and Renunciation of Indian Citizenship applies only to Persons of Indian Origin; India does not allow dual citizenship, so an Indian passport must be surrendered immediately after acquiring another country's nationality.",
+   "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee; an additional 3.75% convenience charge applies for online/card payments (Mastercard or Visa only), or a money order/banker's/cashier's check payable to 'VFS Services (USA) Inc.'",
+   "Mandatory documents include the Adult or Minor Document Checklist (with or without the original passport), the Declaration/Surrender of Indian Passport Certificate form, photographs, and proof of address, among other checklist items.",
+   "Processing time is 7-21 working days once the application reaches the Embassy/Consulate."
+  ],
+  "reference_chunk_ids": [
+   "0c497bd5-ab2c-585b-ad00-6d986227deb9",
+   "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+   "9d1de69b-6ad7-575d-9d28-410f913f779f"
+  ],
+  "reference_source_ids": [
+   "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "46837696586",
+  "query": "I want to renounce my Indian passport. I am facing issues completion the application on ministry of external affairs website. I have to upload passport photo and website is throwing errors and not accepting photos",
+  "category": "surrender_renunciation",
+  "expect_decline": true,
+  "decline_reason": "Technical troubleshooting request about photo-upload errors on the government website; no chunk covers website error diagnosis/fixes.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "323352230",
+  "query": "For minors, the VFS says that a proof of Indian roots should be established. My wife and I both were born and raised in India and lived in India for 21+ years before coning to US. Since we recently surrendered our Indian passports, can you please confirm what evidence we should provide for our children for Indian roots? Would our cancelled Indian passports work as the evidence for proof for Indian roots?",
+  "category": "surrender_renunciation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "If the minor applicant does not possess a copy of their own Indian passport, proof of Indian origin requires providing any TWO of the following: Election Card/Voter ID copy, Board Certificate (SSC or higher) copy, Birth Certificate copy, or a copy of the parent's proof of Indian origin.",
+   "A copy of the parent's Indian passport (first 3 pages and last 2 pages) is explicitly listed as an acceptable document for the parent's proof of Indian origin.",
+   "This proof-of-Indian-origin document is applicable only if the applicant (the minor) is also submitting their Birth Certificate as part of the checklist."
+  ],
+  "reference_chunk_ids": [
+   "12ffb69a-6355-501b-8bf4-bd5a94c72a48"
+  ],
+  "reference_source_ids": [
+   "7baf94b9-e90f-4425-b385-79ee642d3f1d"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "330802435",
+  "query": "i have travel plan to visit elderly parents but in the process of getting US citizenship now, due to my travel plan, shall i apply for india passport renunciation on the same day when i receive the US naturalization certificate before getting US passort? i want to save time and apply US passport and also send India passport for surrender certificate on the same day when i get the US citizenship? Please help and advise? Thanks, Thirupathi K",
+  "category": "surrender_renunciation",
+  "expect_decline": true,
+  "decline_reason": "Personal scheduling/logistics question about sequencing a renunciation application against receipt of a US passport; no chunk addresses this timing scenario.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "333690454",
+  "query": "I applied of the renunciation two weeks ago..I see the status as 'Surrender certificate has been printed' since a week.. when can I receive it in mail to my home address?",
+  "category": "surrender_renunciation",
+  "expect_decline": true,
+  "decline_reason": "Personal case-status tracking question about a specific application's mailing timeline; not covered by any static document.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "334091134",
+  "query": "I need to surrender my Indian passport and get a visa for my planned trip to India",
+  "category": "surrender_renunciation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "To surrender your Indian passport, you submit the applicable Adult/Minor Document Checklist (with or without the original passport) along with the Declaration/Surrender of Indian Passport Certificate form.",
+   "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee, plus a 3.75% convenience charge for online/card payments.",
+   "Processing time is 7-21 working days once the application reaches the Embassy/Consulate.",
+   "It is not necessary for travelers to carry a Certificate of Renunciation of Indian Citizenship during their travel to India."
+  ],
+  "reference_chunk_ids": [
+   "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+   "9d1de69b-6ad7-575d-9d28-410f913f779f",
+   "0c497bd5-ab2c-585b-ad00-6d986227deb9"
+  ],
+  "reference_source_ids": [
+   "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "346257778",
+  "query": "My name was officially changed after getting US citizenship but my Indian Passport has my old name. What should my \"Applicant\" name be when filling out the APPLICATION FOR SURRENDER OF INDIAN PASSPORT/CITIZENSHIP?",
+  "category": "surrender_renunciation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "The applicant's name should appear the same way as in your Indian passport, even if the name in your US/Non-US passport is different.",
+   "The name as it appears on your Indian Passport will also be the name printed on the resulting Surrender Certificate, since it is a surrender of an Indian passport.",
+   "If your name differs between your Indian passport and your current passport, you must also submit a Name Change Document — such as a Marriage Certificate, an Official Court Order, a notarized affidavit (for a middle-name-initial addition), or an endorsement of name change from the naturalization process."
+  ],
+  "reference_chunk_ids": [
+   "6a8106cc-e7fd-586c-8054-33a43a102f76",
+   "24dde8a8-5390-5445-a840-8c395d276c16"
+  ],
+  "reference_source_ids": [
+   "d9b902a0-8ad2-4305-b955-ba757bed0177",
+   "f5dbc6ba-d059-4912-8eeb-cd5779300b27"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "355023686",
+  "query": "How can we finish the Gov application without the Indian passport number? We surrendered my passport when I became a citizen back in 1993. I don't have a copy of my old Indian passport number. How can I complete the Gov application without this information?",
+  "category": "surrender_renunciation",
+  "expect_decline": true,
+  "decline_reason": "Personal-case question about not knowing an old passport number specifically; the checklists cover missing the physical passport (affidavit of loss, police report) but not an unknown passport number, so no chunk directly addresses this.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "987341177",
+  "query": "I was planning a trip for November of 2022. I had a 10 year tourist visa that expires in 2028. I read somewhere that all of those were cancelled?",
+  "category": "visa",
+  "expect_decline": true,
+  "decline_reason": "topic not covered by any approved source in this category (tourist visa validity/cancellation policy is not addressed in the provided checklists)",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "1041670178",
+  "query": "Respected Sir/Ma'am, My name is Ashwin Sankara Raman and my email id is [EMAIL] My phone number is +1([PHONE]. my F-1 VISA status expires July 2023 and I would like to request you for information regarding renewal of F-1 VISA. I have read that the default way is to go back to india and re-book an appointment for renewal at the US consular, but I was looking for other easier ways if available to do this process. Could you please help me with this? Sincerely, Ashwin",
+  "category": "visa",
+  "expect_decline": true,
+  "decline_reason": "topic not covered by any approved source in this category (F-1 is a US visa; renewal process for it is not addressed by the Indian consulate visa checklists provided)",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "1268965687",
+  "query": "I have applied to VFS Global with a visa application. My application has been rejected on the ground that I have a 10 years valid visa to Inida. Unfortunately my visa is not active now / was suspened by the Indian government as I am Canadian citizen.\nI called the consulate and explained my situation. I was suggested to write an email to concul that I did few days ago.\nUnfromtunately I have not received any resposne since.\nCan you help me?",
+  "category": "visa",
+  "expect_decline": true,
+  "decline_reason": "personal case status/complaint about a specific rejected application and unanswered email, not resolvable from static docs",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "2021259903",
+  "query": "I need emergency visa",
+  "category": "visa",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Emergency (Entry) Visa service is only for US passport holders of Indian origin and their family members who need to visit India for a genuine family emergency, such as critical illness or death of a family member, and documentary evidence must be provided",
+   "Acceptable purposes include medical emergency in the immediate family, loss of life, or the applicant's own wedding, each supported by documentary evidence (e.g. hospital letter, death certificate)",
+   "Non-acceptable purposes include attending a wedding of family/friends, religious purposes, family reunion, or tourism",
+   "The applicant can only apply for an 'Entry Visa' (not a tourist visa), using the online government application form, and must select the correct Indian mission based on their US residence jurisdiction",
+   "Total fee for the emergency entry visa is $222 (Entry Visa fee $100 + Emergency Visa fee $100 + ICWF $3 + VFS Service fee $19), payable by money order or banker's check"
+  ],
+  "reference_chunk_ids": [
+   "f8ae5943-d315-582a-bcbc-d43d96be10f9",
+   "a5674f10-4d9b-536a-8598-b2588083c0a9",
+   "ddfeed33-099a-5279-9a22-5bee05363181"
+  ],
+  "reference_source_ids": [
+   "647db4bf-4348-4844-8dda-924fc95f3151"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "2083510818",
+  "query": "Need help with visa",
+  "category": "visa",
+  "expect_decline": true,
+  "decline_reason": "query is too vague/generic to identify a specific visa topic to ground an answer in the approved checklists (emergency, business, entry, or employment visa)",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "319753254",
+  "query": "My daughter is a us citizen and has Entry( X) multiple visa which is issued in 2017 and will get expired in 2022. Can she travel to India with this visa?",
+  "category": "visa",
+  "expect_decline": true,
+  "decline_reason": "topic not covered by any approved source in this category (the checklists describe new-application document requirements, not travel eligibility/validity questions about an already-issued visa)",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "323505468",
+  "query": "I have emergency travel plan in April for family emergency. I am Indian origin and us citizen. I would like to get emergency visa for my self and my 5 year old daughter. Please someone help me. I understand COVID19 situation but I wouldn’t go if that was not emergency. Thanks",
+  "category": "visa",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Emergency Visa service is only for US passport holders of Indian origin and their family members requiring to visit India for a genuine family emergency (e.g. critical illness or death of a family member), with documentary evidence required",
+   "Acceptable purposes include medical emergency in the immediate family or loss of life, supported by evidence such as a hospital letter or death certificate",
+   "For minor applicants (such as a 5-year-old), required documents include the birth certificate of the minor, copies of parents' passports and marriage certificate, and a notarized Parental Authorization Form (Annexure-B) signed by both parents",
+   "Minor applicants below 5 years old may provide a left thumb impression instead of a signature on the application, and both parents must sign the application"
+  ],
+  "reference_chunk_ids": [
+   "f8ae5943-d315-582a-bcbc-d43d96be10f9",
+   "d2bd74fd-f078-5f5f-be0a-768def107062"
+  ],
+  "reference_source_ids": [
+   "647db4bf-4348-4844-8dda-924fc95f3151"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "323539231",
+  "query": "I am still not getting that how and where can apply for emergency visa",
+  "category": "visa",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "Applicants must select the correct Indian mission to apply to, based on where they reside in the USA and that mission's jurisdiction (viewable on the VFS Global 'attend centre' jurisdiction page)",
+   "The applicant can only apply for an 'Entry Visa' (not a tourist visa) using the online government application form",
+   "Online applications are only accepted if filled out in the current year and within 180 days of the date of submission",
+   "To apply, the applicant completes the questionnaire/registration process on the VFS India Consular Application Centre's website to obtain an application confirmation/payment confirmation, which must be enclosed with the application"
+  ],
+  "reference_chunk_ids": [
+   "a5674f10-4d9b-536a-8598-b2588083c0a9",
+   "6e8affd9-832e-5f69-811e-d6deb5a95329"
+  ],
+  "reference_source_ids": [
+   "647db4bf-4348-4844-8dda-924fc95f3151"
+  ],
+  "sme_reviewed": false
+ },
+ {
+  "id": "347556751",
+  "query": "I am planning to travel to India and back to US. I am booking flight through Qatar Airways. My flights is from Savannah, GA (US) - New York (US) - Qatar - Ahmedabad, India. I am an Indian citizen on F-1 visa in US. Will I be allowed to enter India with the itinerary mentioned above? If yes, will I have to go through a mandatory institutional quarantine when I arrive at Ahmedabad (considering my RT-PCR test is negative)? Will I be allowed to come to US through the same itinerary back (considering my RT-PCR test is negative)?",
+  "category": "visa",
+  "expect_decline": true,
+  "decline_reason": "topic not covered by any approved source in this category (flight itinerary entry permission, quarantine rules, and RT-PCR/COVID travel requirements are not addressed in the visa checklists)",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "392125548",
+  "query": "My 17-year-old son who holds US passport has a tourist visa expiring in 2026. He recently got a new US passport. How can I transfer that visa to the new passport.",
+  "category": "visa",
+  "expect_decline": true,
+  "decline_reason": "topic not covered by any approved source in this category (transferring an existing visa to a new passport is not addressed by the new-application checklists)",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "432122965",
+  "query": "My mother - Mahananda Dombe is on a Bi-visa and we had applied for extension. We also did her Biometrics in March 2021. USCIS has raised a RFE as her fingerprints could not be validated by FBI. They have requested PCC for last 5 years. This is a very special request and I am not sure how to get this asap. Help will be much appreciated.",
+  "category": "visa",
+  "expect_decline": true,
+  "decline_reason": "personal case status involving a specific individual's USCIS Request for Evidence, not resolvable from static docs; also topic (USCIS RFE/PCC requirements) not covered by any approved source in this category",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ },
+ {
+  "id": "478366274",
+  "query": "My father is on a Tourist B1 Visa in the US. Can he apply at the Atlanta consulate to grant POA to hsi brother in India for a property sale in India?",
+  "category": "visa",
+  "expect_decline": true,
+  "decline_reason": "topic not covered by any approved source in this category (Power of Attorney/notarial services are not addressed by the visa checklists provided)",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": [],
+  "sme_reviewed": false
+ }
+]

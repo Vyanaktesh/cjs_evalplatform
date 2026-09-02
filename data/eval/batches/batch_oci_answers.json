@@ -1,0 +1,271 @@
+[
+  {
+    "id": "47546284427",
+    "query": "I ALREADY HAVE OCI",
+    "category": "oci",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "If you are already an OCI Cardholder, you should not apply for a new OCI registration — use 'OCI Miscellaneous Services' instead.",
+      "OCI Miscellaneous Services covers things like issuance of a new passport, change of personal particulars (name, address, occupation, nationality), loss/damage of the OCI card, and correction of wrong particulars filed earlier.",
+      "The OCI Miscellaneous Services fee is $25 (plus $3 ICWF and $19 VFS service fee per application); a card-replacement fee of $100 applies for a lost/damaged card.",
+      "Updating passport details is free of cost if done within 3 months of receiving the new passport."
+    ],
+    "reference_chunk_ids": [
+      "1f0c4aef-3c99-5d3a-af3f-3557de6fd8e9",
+      "021c3491-70f8-5cf3-8e26-84b5c30439e9"
+    ],
+    "reference_source_ids": [
+      "75b74c88-ecb0-4f1e-aa39-87c057d68082",
+      "e025bbd0-7aea-43d6-ba63-c93dabce7426"
+    ]
+  },
+  {
+    "id": "24553066377",
+    "query": "OCI Miscellaneous Services",
+    "category": "oci",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "OCI Miscellaneous Services can only be availed by existing, registered OCI Cardholders, for things such as: issuance of a new passport, change of personal particulars (nationality, name, address, occupation), loss/damage of the OCI card, or correcting wrong particulars filed at the time of the original application.",
+      "After submitting the online application (with documents, photo, signature and fee), applicants must bring only the ORIGINALS of the supporting documents to the Indian Mission/Post/FRRO for verification — hard copies/printouts of the application or photocopies of uploaded documents are not required.",
+      "Fees: OCI Misc. Services $25, ICWF $3, VFS service fee $19 per application; re-issuance due to a lost/damaged card is $100.",
+      "Passport-detail updates are free (gratis) if uploaded within 3 months of receiving the new passport; a $25 fee applies if updated after that window."
+    ],
+    "reference_chunk_ids": [
+      "021c3491-70f8-5cf3-8e26-84b5c30439e9",
+      "fa71e0ca-f0ae-5a8d-942c-de88389d4d75",
+      "83e6bb4c-bb77-551e-a2ac-62b7c5fe5ebe",
+      "1f0c4aef-3c99-5d3a-af3f-3557de6fd8e9"
+    ],
+    "reference_source_ids": [
+      "e025bbd0-7aea-43d6-ba63-c93dabce7426",
+      "e025bbd0-7aea-43d6-ba63-c93dabce7426",
+      "e025bbd0-7aea-43d6-ba63-c93dabce7426",
+      "75b74c88-ecb0-4f1e-aa39-87c057d68082"
+    ]
+  },
+  {
+    "id": "43288454418",
+    "query": "I want to know the status of my OCI application",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal case-status request — the chatbot cannot look up an individual applicant's status from static documents",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "45142086461",
+    "query": "Status of oci application",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal case-status request — the chatbot cannot look up an individual applicant's status from static documents",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "37474773433",
+    "query": "OCI Application status",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal case-status request — the chatbot cannot look up an individual applicant's status from static documents",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "449988964",
+    "query": "My minor child just renewed her passport. I saw that the OCI does not have to be renewed again. I wanted to know where the picture had to be uploaded",
+    "category": "oci",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "An OCI cardholder is required to upload online a copy of the new passport and a recent photo (not more than 30 days old) each time a new passport is issued — this is not the same as physically reissuing the card.",
+      "Uploading is done at https://ociservices.gov.in/welcome under the 'OCI Miscellaneous Services' option, and does not involve submitting anything through VFS or the Consulate; it is free of cost.",
+      "This upload should be done within three months of receiving the new passport.",
+      "Mandatory physical re-issue of the OCI card itself is only required when the new passport is issued after the applicant completes 20 years of age (fee $25 plus $3 ICWF and VFS service charge)."
+    ],
+    "reference_chunk_ids": [
+      "0094abb3-6162-5b35-9faf-e07ea1b63b03",
+      "d1555fa0-bedd-50b7-a70f-73b7f400f353"
+    ],
+    "reference_source_ids": [
+      "5c8144e5-0f18-46ef-9227-d92154233d57",
+      "5c8144e5-0f18-46ef-9227-d92154233d57"
+    ]
+  },
+  {
+    "id": "633825642",
+    "query": "I need to speak to consule general as VFS is incorrectly requesting information that is not requested on OCI website. I have uploaded all documents but VFS is coming back indicating documents missing-- I called VFS ( which again is an excuse to make money by charging per min ) to understand what is missing and they did not provide any details --- I want counsel to check for my file and verify if anythign missing -- It is nothign but harassments by claiming as missing document -- also Upload is additional charge -- If Counsel cares to provide customer service please reach out to me at [PHONE] , my email is [EMAIL].",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal complaint/escalation demanding review of a specific individual's case file and direct contact from the Consul General — not resolvable from static docs",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "644172093",
+    "query": "I submitted my son's updated information (passport) for OCI information update under 'Miscellaneous services'. It has been over 2 weeks and his applications hasn't been acknowledged yet",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal case-status/complaint about a specific submitted application — not resolvable from static docs",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "669304153",
+    "query": "Dear sir/madam,\nI applied for my son's oci renewal and uploaded doc online on oct 18th 2021. the file reference number is [APPLICATION_NO]. Online status still is file is yet to be acknowledged,\nthe mission is ATLANTA,GA .\ncould you please if possible let us know when can we expect the process to be completed.\nthanks\ndhiren",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal case-status request tied to a specific application reference number — not resolvable from static docs",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "1627034131",
+    "query": "I would like to know the status of my daughter's OCI which has been submitted 8 weeks ago",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal case-status request for a specific individual's OCI application — not resolvable from static docs",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "1787592883",
+    "query": "I have an oci card. But recently I have renewed my passport (British passport) . I don’t have a stamp on the new passport. Can I travel to India with the new passport along with the oci card?",
+    "category": "oci",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "An OCI cardholder can travel to India with the OCI card and the current valid passport, provided the passport has a minimum validity of 6 months.",
+      "For OCI holders between 21 and 50 years of age, re-issue of the OCI card is not mandatory when the passport is renewed, but the holder must carry the old passport (on which the OCI card was issued) along with the current passport while traveling."
+    ],
+    "reference_chunk_ids": [
+      "d1555fa0-bedd-50b7-a70f-73b7f400f353",
+      "7f5eb33a-406b-5d74-a4df-b8fecd20a87a"
+    ],
+    "reference_source_ids": [
+      "5c8144e5-0f18-46ef-9227-d92154233d57",
+      "86bd3e59-a891-4d2e-ac38-8828d7ef2380"
+    ]
+  },
+  {
+    "id": "2163197783",
+    "query": "Processing time for OCI card",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "topic not covered by any approved source in this category — chunks only reference document-completion windows (7/20 days) and list 'Processing time for OCI applications' as a page title, without giving any actual processing-time duration",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "22697724443",
+    "query": "Is VFS global payment portal working today ? I uploaded my OCI application last night but still struggling to pay .",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "asks about real-time VFS portal availability and a personal payment problem — not resolvable from static docs",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "36297123401",
+    "query": "How to apply for OCI",
+    "category": "oci",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Eligibility must be checked first: a person who was an Indian citizen at any time, or is the child/grandchild/great-grandchild of such a person, or is the spouse of an Indian citizen/OCI holder (with 2+ years of subsisting marriage) may register; those with Pakistani/Bangladeshi lineage or foreign military/police personnel are not eligible.",
+      "Former Indian citizens must first obtain the Certificate of Renunciation of Indian citizenship before applying for OCI.",
+      "Process: complete the application online on the Government of India's OCI portal (uploading photo, signature, and required documents in the prescribed formats/sizes), then send the printed physical application with the fee and enclosures to the VFS India Consular Application Centre for the applicant's jurisdiction.",
+      "New OCI Card fees: $275 registration fee, $3 ICWF, and $19 VFS service fee per application (plus a 3.75% surcharge for card payments).",
+      "If the application remains incomplete for 20 calendar days, VFS returns it unprocessed with a partial refund; if requested additional documents are not submitted within 7 calendar days, processing may stop with no refund."
+    ],
+    "reference_chunk_ids": [
+      "04a37232-444e-57da-98ef-b4c58bb2b699",
+      "f0987dc2-633a-5856-bd1b-c18d1fdec022"
+    ],
+    "reference_source_ids": [
+      "75b74c88-ecb0-4f1e-aa39-87c057d68082",
+      "75b74c88-ecb0-4f1e-aa39-87c057d68082"
+    ]
+  },
+  {
+    "id": "43333854596",
+    "query": "I applied to renew my OCI based on my new US passport after age 20. I received text from VFS that the my application: [APPLICATION_NO] has been processed at VFS and submitted to the Mission for decision making on February 18th 2026. Its been almost a month and I have not heard back.",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal case-status inquiry about a specific application pending Mission decision — not resolvable from static docs",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "43510684768",
+    "query": "I have OCI already",
+    "category": "oci",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "If you are already an OCI Cardholder, you should not apply for a new OCI registration — use 'OCI Miscellaneous Services' instead.",
+      "OCI Miscellaneous Services covers things like issuance of a new passport, change of personal particulars (name, address, occupation, nationality), loss/damage of the OCI card, and correction of wrong particulars filed earlier.",
+      "The OCI Miscellaneous Services fee is $25 (plus $3 ICWF and $19 VFS service fee per application); a card-replacement fee of $100 applies for a lost/damaged card.",
+      "Updating passport details is free of cost if done within 3 months of receiving the new passport."
+    ],
+    "reference_chunk_ids": [
+      "1f0c4aef-3c99-5d3a-af3f-3557de6fd8e9",
+      "021c3491-70f8-5cf3-8e26-84b5c30439e9"
+    ],
+    "reference_source_ids": [
+      "75b74c88-ecb0-4f1e-aa39-87c057d68082",
+      "e025bbd0-7aea-43d6-ba63-c93dabce7426"
+    ]
+  },
+  {
+    "id": "327664145",
+    "query": "What are the current processing times for OCI",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "topic not covered by any approved source in this category — chunks only reference document-completion windows (7/20 days) and list 'Processing time for OCI applications' as a page title, without giving any actual processing-time duration",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "371906742",
+    "query": "Hello Sir/Madam, My Name is Anand Dhanarajupali writing behalf of my son Anudeep Dhanarajupali. We applied Anudeep Dhanarajupali OCI Misc services to update his new passport number in his OCI Card, and Application ref number is [APPLICATION_NO]. I haven't seen any status update on the \"Tracking Application\" after submitting the missing documents. I submitted missing document on 03/31/2021 through USPS Priority Mail. USPS tracking [LONG_NUMBER] says that my package is delivered on 03/31/2021 at 1.15 PM. Please start process my documents. I need to travel to India in May 13 2021 along with my Family. Let me know if you have any questions",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal case-status/complaint tied to a specific application reference number and a missing-document submission — not resolvable from static docs",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "399066178",
+    "query": "oci process vidio",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "topic not covered by any approved source in this category — no OCI process video is referenced in any provided chunk",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "405248948",
+    "query": "I got my USA citizenship recently and applied for Renunciation of India Citizenship by surrendering my passport to India Consulate in Atlanta. I received the Surrender Certificate along with the cancelled passport today but just noticed that I had my birthdate mentioned wrong in Renunciation Certificate when I filled it. I mentioned my birthdate as 18/05/1985 instead of 18/07/1985. Is that going to be a problem since I already received the Surrender Certificate. Please let me know. I am planning to apply for OCI card soon. Thanks.",
+    "category": "oci",
+    "expect_decline": true,
+    "decline_reason": "personal document-correction question about an already-issued Surrender/Renunciation Certificate — topic not covered by any provided chunk and not resolvable from static docs",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  }
+]

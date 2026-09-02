@@ -1,0 +1,234 @@
+[
+  {
+    "id": "45618861663",
+    "query": "Surrender indian passport",
+    "category": "surrender_renunciation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Surrender and Renunciation of Indian Citizenship applies only to Persons of Indian Origin; India does not allow dual citizenship, so an Indian passport must be surrendered immediately after acquiring another country's nationality.",
+      "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee; an additional 3.75% convenience charge applies for online/card payments (Mastercard or Visa only), or a money order/banker's/cashier's check payable to 'VFS Services (USA) Inc.'",
+      "Mandatory documents include the Adult or Minor Document Checklist (with or without the original passport), the Declaration/Surrender of Indian Passport Certificate form, photographs, and proof of address, among other checklist items.",
+      "Processing time is 7-21 working days once the application reaches the Embassy/Consulate."
+    ],
+    "reference_chunk_ids": [
+      "0c497bd5-ab2c-585b-ad00-6d986227deb9",
+      "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+      "9d1de69b-6ad7-575d-9d28-410f913f779f"
+    ],
+    "reference_source_ids": [
+      "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+    ]
+  },
+  {
+    "id": "22206815849",
+    "query": "I want to surrender my Indian passport",
+    "category": "surrender_renunciation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Surrender and Renunciation of Indian Citizenship applies only to Persons of Indian Origin; India does not allow dual citizenship, so an Indian passport must be surrendered immediately after acquiring another country's nationality.",
+      "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee; an additional 3.75% convenience charge applies for online/card payments (Mastercard or Visa only), or a money order/banker's/cashier's check payable to 'VFS Services (USA) Inc.'",
+      "Mandatory documents include the Adult or Minor Document Checklist (with or without the original passport), the Declaration/Surrender of Indian Passport Certificate form, photographs, and proof of address, among other checklist items.",
+      "Processing time is 7-21 working days once the application reaches the Embassy/Consulate."
+    ],
+    "reference_chunk_ids": [
+      "0c497bd5-ab2c-585b-ad00-6d986227deb9",
+      "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+      "9d1de69b-6ad7-575d-9d28-410f913f779f"
+    ],
+    "reference_source_ids": [
+      "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+    ]
+  },
+  {
+    "id": "949035318",
+    "query": "I became an American citizen in 2014, at that time I misplaced my Indian passport and was not aware that I needed to surrender my passport. And since it got misplaced and I had already received my American passport, I didn’t think much of it. I recently found it again while moving and someone informed me that I needed to surrender my Indian passport when I received my American passport. I would still like to go ahead and surrender it if needed, even though it’s been way past time. Can you please guide me through the procedure of how that can be done?",
+    "category": "surrender_renunciation",
+    "expect_decline": true,
+    "decline_reason": "Personal case narrative about a specific individual's years-delayed, previously-misplaced passport situation; requires individualized case guidance rather than a lookup answerable from the static checklists alone.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "1783077149",
+    "query": "I surrendered my indian passport to Atlanta Indian Consulate back in 2014. However, I did not receive the Renunciation Certificate. How do I obtain that?",
+    "category": "surrender_renunciation",
+    "expect_decline": true,
+    "decline_reason": "Personal case-status request about a specific past (2014) application and a missing certificate; no chunk covers how to retrieve/reissue a certificate that was never received.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "2675153719",
+    "query": "In the renounciation form, I completed step 1(Complete the Government online form) and step 2 (arrange documents as per the checklist). In step 3, I have submitted VFS global application, and I paid my fees but I did not get any email for application conformation latter and renunciations certificate from VFS global.",
+    "category": "surrender_renunciation",
+    "expect_decline": true,
+    "decline_reason": "Personal case-status complaint about a specific submitted application not receiving confirmation/certificate emails; not resolvable from static documents.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "34240589833",
+    "query": "I got my USA Citizenship and passport already. Is that just surrender the passport is enough or need to do both Surrender and Renunciation ?",
+    "category": "surrender_renunciation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Surrender and Renunciation are not two separate additional steps: once you acquire another country's nationality, you surrender your Indian passport and it is stamped 'cancelled due to acquiring foreign nationality' as part of one process.",
+      "An Indian passport carrying only a 'cancelled' stamp, without an accompanying certificate, is NOT considered proof that Indian citizenship has been renounced.",
+      "When later applying for consular services like a Visa or OCI, you must provide proof of your cancelled Indian passport; if you cannot provide that proof, you will be required to obtain a renunciation certificate.",
+      "Depending on whether you still hold your Indian passport, the applicable form is either the Declaration of Surrender of Indian Passport (if you have the passport) or the Declaration of Renunciation of Citizenship of India (if you don't) — these serve the same underlying purpose."
+    ],
+    "reference_chunk_ids": [
+      "0c497bd5-ab2c-585b-ad00-6d986227deb9"
+    ],
+    "reference_source_ids": [
+      "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+    ]
+  },
+  {
+    "id": "45734647220",
+    "query": "i want to surrender my passport",
+    "category": "surrender_renunciation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Surrender and Renunciation of Indian Citizenship applies only to Persons of Indian Origin; India does not allow dual citizenship, so an Indian passport must be surrendered immediately after acquiring another country's nationality.",
+      "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee; an additional 3.75% convenience charge applies for online/card payments (Mastercard or Visa only), or a money order/banker's/cashier's check payable to 'VFS Services (USA) Inc.'",
+      "Mandatory documents include the Adult or Minor Document Checklist (with or without the original passport), the Declaration/Surrender of Indian Passport Certificate form, photographs, and proof of address, among other checklist items.",
+      "Processing time is 7-21 working days once the application reaches the Embassy/Consulate."
+    ],
+    "reference_chunk_ids": [
+      "0c497bd5-ab2c-585b-ad00-6d986227deb9",
+      "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+      "9d1de69b-6ad7-575d-9d28-410f913f779f"
+    ],
+    "reference_source_ids": [
+      "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+    ]
+  },
+  {
+    "id": "46700085778",
+    "query": "Surrender of Indian Passport",
+    "category": "surrender_renunciation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Surrender and Renunciation of Indian Citizenship applies only to Persons of Indian Origin; India does not allow dual citizenship, so an Indian passport must be surrendered immediately after acquiring another country's nationality.",
+      "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee; an additional 3.75% convenience charge applies for online/card payments (Mastercard or Visa only), or a money order/banker's/cashier's check payable to 'VFS Services (USA) Inc.'",
+      "Mandatory documents include the Adult or Minor Document Checklist (with or without the original passport), the Declaration/Surrender of Indian Passport Certificate form, photographs, and proof of address, among other checklist items.",
+      "Processing time is 7-21 working days once the application reaches the Embassy/Consulate."
+    ],
+    "reference_chunk_ids": [
+      "0c497bd5-ab2c-585b-ad00-6d986227deb9",
+      "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+      "9d1de69b-6ad7-575d-9d28-410f913f779f"
+    ],
+    "reference_source_ids": [
+      "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+    ]
+  },
+  {
+    "id": "46837696586",
+    "query": "I want to renounce my Indian passport. I am facing issues completion the application on ministry of external affairs website. I have to upload passport photo and website is throwing errors and not accepting photos",
+    "category": "surrender_renunciation",
+    "expect_decline": true,
+    "decline_reason": "Technical troubleshooting request about photo-upload errors on the government website; no chunk covers website error diagnosis/fixes.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "323352230",
+    "query": "For minors, the VFS says that a proof of Indian roots should be established. My wife and I both were born and raised in India and lived in India for 21+ years before coning to US. Since we recently surrendered our Indian passports, can you please confirm what evidence we should provide for our children for Indian roots? Would our cancelled Indian passports work as the evidence for proof for Indian roots?",
+    "category": "surrender_renunciation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "If the minor applicant does not possess a copy of their own Indian passport, proof of Indian origin requires providing any TWO of the following: Election Card/Voter ID copy, Board Certificate (SSC or higher) copy, Birth Certificate copy, or a copy of the parent's proof of Indian origin.",
+      "A copy of the parent's Indian passport (first 3 pages and last 2 pages) is explicitly listed as an acceptable document for the parent's proof of Indian origin.",
+      "This proof-of-Indian-origin document is applicable only if the applicant (the minor) is also submitting their Birth Certificate as part of the checklist."
+    ],
+    "reference_chunk_ids": [
+      "12ffb69a-6355-501b-8bf4-bd5a94c72a48"
+    ],
+    "reference_source_ids": [
+      "7baf94b9-e90f-4425-b385-79ee642d3f1d"
+    ]
+  },
+  {
+    "id": "330802435",
+    "query": "i have travel plan to visit elderly parents but in the process of getting US citizenship now, due to my travel plan, shall i apply for india passport renunciation on the same day when i receive the US naturalization certificate before getting US passort? i want to save time and apply US passport and also send India passport for surrender certificate on the same day when i get the US citizenship? Please help and advise? Thanks, Thirupathi K",
+    "category": "surrender_renunciation",
+    "expect_decline": true,
+    "decline_reason": "Personal scheduling/logistics question about sequencing a renunciation application against receipt of a US passport; no chunk addresses this timing scenario.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "333690454",
+    "query": "I applied of the renunciation two weeks ago..I see the status as 'Surrender certificate has been printed' since a week.. when can I receive it in mail to my home address?",
+    "category": "surrender_renunciation",
+    "expect_decline": true,
+    "decline_reason": "Personal case-status tracking question about a specific application's mailing timeline; not covered by any static document.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "334091134",
+    "query": "I need to surrender my Indian passport and get a visa for my planned trip to India",
+    "category": "surrender_renunciation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "To surrender your Indian passport, you submit the applicable Adult/Minor Document Checklist (with or without the original passport) along with the Declaration/Surrender of Indian Passport Certificate form.",
+      "Surrender of Indian Passport fee: $40 Renunciation fee + $19 VFS fee + $3 ICWF fee, plus a 3.75% convenience charge for online/card payments.",
+      "Processing time is 7-21 working days once the application reaches the Embassy/Consulate.",
+      "It is not necessary for travelers to carry a Certificate of Renunciation of Indian Citizenship during their travel to India."
+    ],
+    "reference_chunk_ids": [
+      "a2f841f2-3e22-5416-9102-b7e30bd891a9",
+      "9d1de69b-6ad7-575d-9d28-410f913f779f",
+      "0c497bd5-ab2c-585b-ad00-6d986227deb9"
+    ],
+    "reference_source_ids": [
+      "e5e743fa-22b5-4f3d-b0af-7d92c1d12f7f"
+    ]
+  },
+  {
+    "id": "346257778",
+    "query": "My name was officially changed after getting US citizenship but my Indian Passport has my old name. What should my \"Applicant\" name be when filling out the APPLICATION FOR SURRENDER OF INDIAN PASSPORT/CITIZENSHIP?",
+    "category": "surrender_renunciation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "The applicant's name should appear the same way as in your Indian passport, even if the name in your US/Non-US passport is different.",
+      "The name as it appears on your Indian Passport will also be the name printed on the resulting Surrender Certificate, since it is a surrender of an Indian passport.",
+      "If your name differs between your Indian passport and your current passport, you must also submit a Name Change Document — such as a Marriage Certificate, an Official Court Order, a notarized affidavit (for a middle-name-initial addition), or an endorsement of name change from the naturalization process."
+    ],
+    "reference_chunk_ids": [
+      "6a8106cc-e7fd-586c-8054-33a43a102f76",
+      "24dde8a8-5390-5445-a840-8c395d276c16"
+    ],
+    "reference_source_ids": [
+      "d9b902a0-8ad2-4305-b955-ba757bed0177",
+      "f5dbc6ba-d059-4912-8eeb-cd5779300b27"
+    ]
+  },
+  {
+    "id": "355023686",
+    "query": "How can we finish the Gov application without the Indian passport number? We surrendered my passport when I became a citizen back in 1993. I don't have a copy of my old Indian passport number. How can I complete the Gov application without this information?",
+    "category": "surrender_renunciation",
+    "expect_decline": true,
+    "decline_reason": "Personal-case question about not knowing an old passport number specifically; the checklists cover missing the physical passport (affidavit of loss, police report) but not an unknown passport number, so no chunk directly addresses this.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  }
+]

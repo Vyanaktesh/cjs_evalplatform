@@ -1,0 +1,60 @@
+# --- Phase 1: scaffold, config, auth, health ---
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+pydantic==2.13.4
+pydantic-settings==2.6.1
+python-dotenv==1.0.1
+python-multipart==0.0.17
+# JWT session tokens for /auth/login — replaces sending the admin
+# username/password on every single request (HTTP Basic Auth) with a
+# short-lived signed token issued once at login. See kb_admin/core/auth.py.
+PyJWT==2.10.1
+
+# --- Required transitively by the bridged consulate-rag-chatbot code
+# (app.db.connection, app.vectorstore.qdrant_store, app.extraction,
+# app.chunking) that this service imports directly rather than
+# reimplementing ---
+psycopg2-binary==2.9.9
+qdrant-client==1.12.1
+beautifulsoup4==4.12.3
+lxml==5.3.0
+pdfplumber==0.11.4
+pytesseract==0.3.13
+Pillow==10.4.0
+pdf2image==1.17.0
+
+# --- Phase 2: /documents upload actually embeds a document via the bridged
+# app.ingestion.pipeline / app.embedding.bge_m3 — same CPU-only torch build
+# and FlagEmbedding version the chatbot itself pins, so a document embedded
+# here and one embedded by the chatbot's bulk fetcher use the identical
+# model. ---
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.13.0
+FlagEmbedding==1.4.0
+# Pinned for the same reason as consulate-rag-chatbot's requirements.txt:
+# FlagEmbedding 1.4.0's embedding path needs transformers new enough for
+# AutoModel's `dtype` kwarg, its reranking path (app/retrieval/reranker.py,
+# reused here via the bootstrap bridge) needs transformers old enough to
+# still have tokenizer.prepare_for_model() (removed in 5.x). 4.57.6 is the
+# newest release satisfying both -- keep this pin in sync with that file.
+transformers==4.57.6
+
+# --- Phase 3: scheduled source recheck — reuses app.fetcher.orchestrate /
+# app.fetcher.playwright_fetcher (bridged), same Playwright version the
+# chatbot pins. After installing, browser binaries still need a one-time
+# `playwright install chromium` in this venv. ---
+playwright==1.56.0
+APScheduler==3.10.4
+
+# --- Phase 4: evaluation module. Retrieval metrics need nothing extra
+# (reuse app.retrieval.retriever directly). Generation metrics call the
+# live app.generation.service pipeline (Gemini/Qwen, whichever
+# GENERATION_BACKEND is set) and then score it via an external judge --
+# offline batch eval only, never on the citizen-facing chat path. Default
+# judge is Gemini (google-genai, same package/version the chatbot pins,
+# reusing GEMINI_API_KEY -- zero incremental cost); anthropic is kept
+# installed as the independent-judge fallback (see kb_admin/eval/judge.py's
+# docstring on the self-preference-bias trade-off that default accepts). ---
+google-genai==2.18.1
+httpx==0.28.1
+anthropic==0.68.0

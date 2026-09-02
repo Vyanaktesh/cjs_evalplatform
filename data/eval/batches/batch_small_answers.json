@@ -1,0 +1,366 @@
+[
+  {
+    "id": "321489838",
+    "query": "Indian Community Welfare Fee (ICWF)",
+    "category": "community_events",
+    "expect_decline": true,
+    "decline_reason": "Not a specific question, and the community_events knowledge base chunks (Know India Programme, Open House, student guidelines, Study in India) contain no information about ICWF fees.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "329234086",
+    "query": "ASIKE would like to invite Consul General to be Guest Speaker for an International Woman Day event, Saturday, March 20, 2021 3 to 5 pm",
+    "category": "community_events",
+    "expect_decline": true,
+    "decline_reason": "Event invitation directed at the Consul General, not an answerable informational question.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "329236104",
+    "query": "Would like the India Consul General of India to be a guest speak for International Woman Day event Saturday March 20, 2021 3-5 pm",
+    "category": "community_events",
+    "expect_decline": true,
+    "decline_reason": "Event invitation directed at the Consul General, not an answerable informational question.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "349950856",
+    "query": "3 questions relating Power of Attorney:\n1. Do we need photocopies all the pages of passport or just the front and back?\n2. Do we need the POA application form printed on one side only or both sided prints can work too?\n3. The fees of $20 in form of cashier’s cheques should be in favor of Consulate General of India, Atlanta? And US$2.00(Two Only) per application towards Indian Community Welfare Fund (ICWF) ?",
+    "category": "community_events",
+    "expect_decline": true,
+    "decline_reason": "Power of Attorney photocopy/printing/fee questions are not addressed by the community_events knowledge base chunks provided (Know India Programme, Open House, student guidelines, Study in India pages).",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "380819754",
+    "query": "Need urgent help for my minor son's passport renewal ARN# 21-2000718496) (Soham Ganguly). The local PS tells they cleared the file, raising grievance with passport.gov no use. I have upcoming biometric for my family and my son is only having his Indian passport as his identity. Please help this situation.",
+    "category": "community_events",
+    "expect_decline": true,
+    "decline_reason": "Personal, case-specific request about an individual applicant's passport renewal grievance; not resolvable from static docs and not covered by the community_events chunks provided.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "416540429",
+    "query": "My wife and I would like to apply for our birth certificates. We went to the consular office today but came to know that the walk-in services are discontinued. We have the following questions:\n1) Do we need to send our original passports? Or notarized copies work?\n2) Indian Community Welfare Fee (ICWF) of 2 USD -- does it have to be also in the cashier's check or money order?\nThank you very much for your help.",
+    "category": "community_events",
+    "expect_decline": true,
+    "decline_reason": "Birth certificate application and ICWF payment-method questions are not addressed by the community_events knowledge base chunks provided.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "33310998562",
+    "query": "status of my application",
+    "category": "status_tracking",
+    "expect_decline": true,
+    "decline_reason": "Personal case status, not resolvable from static docs.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "39013227017",
+    "query": "Passport Renewal Status",
+    "category": "status_tracking",
+    "expect_decline": true,
+    "decline_reason": "Personal case status, not resolvable from static docs.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "2021192578",
+    "query": "Status of passport renewal application",
+    "category": "status_tracking",
+    "expect_decline": true,
+    "decline_reason": "Personal case status, not resolvable from static docs.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "2600791428",
+    "query": "Want to know the status",
+    "category": "status_tracking",
+    "expect_decline": true,
+    "decline_reason": "Personal case status, not resolvable from static docs.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "3002283598",
+    "query": "My issue is : I am SINGLE and updated marital status as SINGLE but on Family Detail page, it is asking me to update SPOUSE DETAILS and not allowing me to move forward",
+    "category": "status_tracking",
+    "expect_decline": true,
+    "decline_reason": "Personal, case-specific technical/form issue (marital status field blocking submission); not addressed by the status_tracking knowledge base chunks provided.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "22402247235",
+    "query": "status of the application",
+    "category": "status_tracking",
+    "expect_decline": true,
+    "decline_reason": "Personal case status, not resolvable from static docs.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "22876454474",
+    "query": "Status of my passport application",
+    "category": "status_tracking",
+    "expect_decline": true,
+    "decline_reason": "Personal case status, not resolvable from static docs.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "37744087153",
+    "query": "status of passport renewal",
+    "category": "status_tracking",
+    "expect_decline": true,
+    "decline_reason": "Personal case status, not resolvable from static docs.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "321939615",
+    "query": "i tried to register to start the application process but its not registering",
+    "category": "registration",
+    "expect_decline": true,
+    "decline_reason": "Personal technical issue with the registration process failing; not addressed by the registration knowledge base chunks provided.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "322389374",
+    "query": "what is file number when I am trying to register online by your protal",
+    "category": "registration",
+    "expect_decline": true,
+    "decline_reason": "Asks what a 'file number' is during online registration; not defined or addressed in the registration knowledge base chunks provided.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "330179587",
+    "query": "I am on 3rd step of re-issuance of my passport but when I click to Create a profile and register on the VFS portal system it does not work",
+    "category": "registration",
+    "expect_decline": true,
+    "decline_reason": "Personal technical issue creating a profile on the VFS portal; not addressed by the registration knowledge base chunks provided.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "346737330",
+    "query": "WHAT IS THIS ARN NUMBER ? I WENT TO THE REGISTRATION PAGE AND GAVE ALL THE INFO . IT TOLD ME TO ACTIVATE FORM MY EMAIL I DID BUT COULD NOT FIND THE ARN NUMBER",
+    "category": "registration",
+    "expect_decline": true,
+    "decline_reason": "Asks about an ARN number after registration; not defined or addressed in the registration knowledge base chunks provided.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "348597566",
+    "query": "I am applying for a home loan in India and at site registration office they are asking a GPA letter from embassy is required",
+    "category": "registration",
+    "expect_decline": true,
+    "decline_reason": "Question about a GPA/Power of Attorney letter for an Indian property registration office; not addressed by the registration knowledge base chunks provided, which only describe consulate registration of Indian nationals residing in the US.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "1369122710",
+    "query": "This is for my mom (Shantaben Dahyabhai Patel, DOB: Jan 03, 1942). We have 4 events/celebrations in India from Feb 12 Feb 20th, including my moms \"Jivan Parv\" and late Dad's death ceremony. Tickets already purchased for leaving on Jan 22nd. We just found out that her passport is expired",
+    "category": "death_documents",
+    "expect_decline": true,
+    "decline_reason": "Personal, urgent request about a family member's expired passport for upcoming travel; not addressed by the death_documents knowledge base chunks provided, which cover death certificate attestation and carrying mortal remains/ashes, not passport renewal.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "320997154",
+    "query": "i need my fathers original death certificate copy issued in florida to be authenticated by indian high commission",
+    "category": "death_documents",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Mandatory documents for processing include: the Miscellaneous Application form, 2 passport-size color photos (51mm x 51mm, taken within 6 months), the original passport and a photocopy of both the deceased and the applicant, notarized proof of the applicant's valid US legal status, and a notarized proof of the applicant's US address.",
+      "Signature of the applicant on all documents must match the signature on their current valid passport.",
+      "Fee for attestation of a death certificate: consular fee $10.00 per copy + $2.00 ICWF per copy + VFS service fee $19.00, totaling $31.00 per application, with $10 for each additional copy.",
+      "The fee can be paid online or via a single money order/cashier's cheque made out to 'VFS Services (USA) Inc'; personal cheques and personal money orders are not accepted."
+    ],
+    "reference_chunk_ids": [
+      "2594b2fb-c2d0-5935-8290-57b115488532",
+      "90b5a3b3-fd81-53ce-b86c-59df658ba17f"
+    ],
+    "reference_source_ids": [
+      "72c550ab-40c4-4285-9a42-9f02f8cef748"
+    ]
+  },
+  {
+    "id": "320993302",
+    "query": "i need my fathers original copy of death certificate issue in florida to be certified by indin embessy stamp",
+    "category": "death_documents",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Mandatory documents for processing include: the Miscellaneous Application form, 2 passport-size color photos (51mm x 51mm, taken within 6 months), the original passport and a photocopy of both the deceased and the applicant, notarized proof of the applicant's valid US legal status, and a notarized proof of the applicant's US address.",
+      "Signature of the applicant on all documents must match the signature on their current valid passport.",
+      "Fee for attestation of a death certificate: consular fee $10.00 per copy + $2.00 ICWF per copy + VFS service fee $19.00, totaling $31.00 per application, with $10 for each additional copy.",
+      "The fee can be paid online or via a single money order/cashier's cheque made out to 'VFS Services (USA) Inc'; personal cheques and personal money orders are not accepted."
+    ],
+    "reference_chunk_ids": [
+      "2594b2fb-c2d0-5935-8290-57b115488532",
+      "90b5a3b3-fd81-53ce-b86c-59df658ba17f"
+    ],
+    "reference_source_ids": [
+      "72c550ab-40c4-4285-9a42-9f02f8cef748"
+    ]
+  },
+  {
+    "id": "21667806998",
+    "query": "Police Clearance Certificate",
+    "category": "police_clearance",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "It is mandatory to complete VFS Online registration before sending the physical application; failure to do so results in the application being returned unprocessed.",
+      "Applicants log in and complete the application form on the government site https://embassy.passportindia.gov.in, then print and sign the completed PCC application form.",
+      "Applicants must provide their Indian address, including the name of the concerned police station, so police authorities can verify their antecedents.",
+      "Required documents include 2 recent passport-size color photos (51mm x 51mm, taken within 6 months) and a notarized color copy of proof of address (e.g., state-issued ID, driving license, utility bill, lease agreement) plus notarized proof of valid US status (e.g., green card, visa, EAD).",
+      "Incomplete or erroneous applications are returned to the applicant after 21 days if missing/additional documents are not provided, and must then be resubmitted."
+    ],
+    "reference_chunk_ids": [
+      "720c33e6-2994-52ff-aeb3-bdc5d6a32777",
+      "9c285287-faf4-5bfa-b8eb-9c05eb5366df",
+      "2c06e86c-d7c4-5596-ad65-2fbdaf70af43",
+      "c55e71c5-1239-516b-9a16-390fc4d0cc0f",
+      "8d492175-40ff-5bc2-947c-9aa3aa6252d5"
+    ],
+    "reference_source_ids": [
+      "a99ac7d7-17b0-4cc6-b9ab-2f142ecd72ce"
+    ]
+  },
+  {
+    "id": "327840858",
+    "query": "I am waiting on my Police clearance certificate. The verification already completed in India 3 weeks back. But I still haven't received my passport and the police clearance certificate. Can you please let me know when I can expect to receive my passport and police clearance certificate?",
+    "category": "police_clearance",
+    "expect_decline": true,
+    "decline_reason": "Personal case status/timeline question about when this specific applicant will receive their passport and PCC; not resolvable from static docs.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "334820456",
+    "query": "I applied for Passport Renewal (Normal) via vfs global 25/02/2021 and recieved my RENEWED Passport within 10 days. NOW Getting a message from [EMAIL] that I should present documents in person at Mumbai Santa Cruz Police station for Police Clearance !",
+    "category": "police_clearance",
+    "expect_decline": true,
+    "decline_reason": "Personal, case-specific question about a post-issuance police-station verification notice; not addressed by the police_clearance checklist chunks provided.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "39444929560",
+    "query": "global entry program",
+    "category": "global_entry",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Global Entry is a US Customs and Border Protection (CBP) program that allows expedited clearance for pre-approved, low-risk travelers via automatic kiosks at select US airports.",
+      "Citizens of India are eligible for Global Entry.",
+      "Step 1: Apply through the US CBP Trusted Traveler Programs (TTP) website (https://www.cbp.gov/travel/trusted-traveler-programs/global-entry).",
+      "Step 2: After Step 1, applicants living in the USA submit the required information on the Global Passport Seva Project website (https://portal4.passportindia.gov.in) to complete a background check in India.",
+      "Step 3: Submit the physical application at the VFS Global Application Centre along with the applicable fee, per VFS guidelines."
+    ],
+    "reference_chunk_ids": [
+      "d708469e-4bc8-5345-8af1-c75a63a8657f"
+    ],
+    "reference_source_ids": [
+      "03174ad5-be1e-4f11-a12a-e05b6c3f5fb7"
+    ]
+  },
+  {
+    "id": "330433350",
+    "query": "need more information on global entry program",
+    "category": "global_entry",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Global Entry is a US Customs and Border Protection (CBP) program that allows expedited clearance for pre-approved, low-risk travelers via automatic kiosks at select US airports.",
+      "Citizens of India are eligible for Global Entry.",
+      "Step 1: Apply through the US CBP Trusted Traveler Programs (TTP) website (https://www.cbp.gov/travel/trusted-traveler-programs/global-entry).",
+      "Step 2: After Step 1, applicants living in the USA submit the required information on the Global Passport Seva Project website (https://portal4.passportindia.gov.in) to complete a background check in India.",
+      "Step 3: Submit the physical application at the VFS Global Application Centre along with the applicable fee, per VFS guidelines."
+    ],
+    "reference_chunk_ids": [
+      "d708469e-4bc8-5345-8af1-c75a63a8657f"
+    ],
+    "reference_source_ids": [
+      "03174ad5-be1e-4f11-a12a-e05b6c3f5fb7"
+    ]
+  },
+  {
+    "id": "367684486",
+    "query": "i want to know list of documents to be submitted with Global Entry Program application at consulate in Atlanta vfs",
+    "category": "global_entry",
+    "expect_decline": true,
+    "decline_reason": "Asks for a specific document checklist for the Global Entry Program application; the global_entry chunk only describes the 3-step application process (CBP TTP, Global Passport Seva Project, VFS submission) and does not enumerate required documents.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "759892386",
+    "query": "Someone had done fraud with us here and ran away in atlanta, we filed complain in court here and court had declare the judgement against him. we have his address of atlanta and we want your help to approach him to pay our harden earned money. Or kindly share any other process to approach him at his place legally.",
+    "category": "fraud_advisory",
+    "expect_decline": true,
+    "decline_reason": "Requests help enforcing a civil court judgment against an individual; not addressed by the fraud_advisory chunks provided, which only cover spoofed/fraudulent phone calls impersonating the Embassy/Consulate.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "988623380",
+    "query": "Hi I had invested in an industrial plot in Gurgaon, Haryana several years ago. My partner has committed fraud against me and HSIIDC (Haryana Industrial and infrastructure Development Corporation - a Haryana government agency). I have been sending requests to HSIIDC for corrective action, but there is no responsible. Request your help to get HSIIDC to act on my request. Thank What is a good email address to contact you with? If we disconnected",
+    "category": "fraud_advisory",
+    "expect_decline": true,
+    "decline_reason": "Personal property-fraud dispute involving an Indian government agency (HSIIDC); not addressed by the fraud_advisory chunks provided, which only cover spoofed/fraudulent phone calls impersonating the Embassy/Consulate.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "1346804864",
+    "query": "I need to complaint against my India Bank for fraud and illegal activities",
+    "category": "fraud_advisory",
+    "expect_decline": true,
+    "decline_reason": "Personal complaint against an Indian bank for fraud; not addressed by the fraud_advisory chunks provided, which only cover spoofed/fraudulent phone calls impersonating the Embassy/Consulate.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  }
+]

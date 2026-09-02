@@ -1,0 +1,271 @@
+[
+ {
+  "id": "21598134149",
+  "query": "Affidavit of child passport to be issued in india",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 5: \"Affidavit for a child's passport to be issued in India\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "32639740438",
+  "query": "Namaste!\nOn the Document checklist: For REISSUE - MINORs PASSPORT\n1. Where to put the tick marks for the documents being submitted?\n2. Can i circle the name of the exact document being sent eg- driving license, copy of utility bill, etc?\n3. If one document- parents passport- is being given for two purposes as address proof and parents id, do i need to provide two copies of the same document? \n4. one place needs a self attested and other just needs a color copy. in this case, will self attested copy be sufficient or it is better to provide another copy too?",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Re-triaged (was a keyword false-positive on the child-passport-affidavit gap, since this is a routine minor passport reissue question, not an India-filed affidavit case). The 'Minor re-issue in lieu of damaged' checklist (approved source) does confirm document CONTENT and copy-type requirements (self-attested vs. notarized vs. original), but none of its chunks mention the physical act of marking the printed checklist -- no 'tick' or 'circle' instruction appears anywhere in the approved source text -- nor does it explicitly confirm whether one submitted document can satisfy two checklist lines at once. Answering the 4 sub-questions as asked would require inventing procedural details the source doesn't state, so this should decline on the checklist-marking mechanics specifically.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "358577665",
+  "query": "hello. is it necessary to send the original passport for attestation of Statement of Need Application?",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 6: \"Statement of Need\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "527457884",
+  "query": "A person by name Batlanki Kesava Kumar Anurag who is a Global Product Manager at Lenovo, Raleigh has been booked for non bailable offences under the IPC in India. However, as he has been absconding since the registration of the FIR, the criminal proceedings are pending and in order to get a court order to get his passport revoked, I need to get the summons/warrants issued to his known address abroad which only his employer (Lenovo) would be updated with. Therefore I request the Indian Embassy in the US, Washington DC to kindly look into this issue and do the needful to obtain his current address so that the summons/warrants maybe issued.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 10: \"Forwarding court orders and summons through the consulate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "591898888",
+  "query": "Can I travel to India using my PIO card?",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 11: \"PIO card renewal/conversion\" (falls within the PIO card subject area, which the KB does not cover; current validity of a PIO card for travel is a facet of the same undocumented topic).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "1790003293",
+  "query": "i need to apply for an emergency certificate, but i need to know whether i have to make an appointment to submit the documents in person at the consulate within 10:00 am to 12:30 pm or just walk in during that time and submit the documents without an appointment. please advise and let me know where to get an appointment for the submission of documents. thanks",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 8: \"Emergency certificate checklist\" (also touches topic 15: \"Service-center hours / appointment requirement\").",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "2212567165",
+  "query": "Have a question on required India address proof for passport renewal.\nHave passport renewal for my wife and daughter coming up. We want to print our own India house address on their passport. They don't have address proof on their name. But Power Bill, Water bill and my Aaadhar available on that address. can I submit my address proof on behalf of my wife and Daughter? My passport has US address printed on it.\nPlease confirm if it is allowed to submit my address proof with marriage certificate for my wife and birth certificate for daughter?",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Re-triaged (was a keyword false-positive on 'marriage certificate' used only as a supporting document, not a USA marriage-registration ask). However this is genuinely ungrounded, not because it matches a documented gap topic: every passport checklist in the approved sources is scoped to re-issue IN LIEU OF LOST OR DAMAGED passports (see 'Adult/Minor re-issue in lieu of lost/damaged' -- the full title list for this category has no plain 'renewal' checklist). A routine, non-lost/non-damaged renewal for a spouse and minor child is a different service the KB has no approved source for, so the bot cannot confirm whether the querent's own India address proof plus marriage/birth certificate would be accepted.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "2288835481",
+  "query": "Hi, I and my spouse got married in Nashville in October 2023 and have been issues a marriage certificate by the Tennessee County clerk . We are both Indian citizens by birth. I want to our marriage to be registered in India as well and get our Indian marriage certificate for the same as soon as possible. Can the consulate assist me with this please? Thank you",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 2: \"Marriage certificate / registration of a marriage that took place in the USA\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "19053838862",
+  "query": "I have a question: I don't have a marriage certificate to apply for an OCI for my minor child. Are there any alternative documents that can be used instead of a marriage certificate?",
+  "category": "oci",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "For a minor OCI applicant (foreign national previously holding an Indian passport), item 10 of the mandatory documents is 'Marriage Certificate of Parents': if the marriage was solemnized in India, a Marriage Certificate issued by the Marriage Registrar is required (a certificate issued by a religious body is not acceptable).",
+   "The only stated alternatives to the parents' marriage certificate are condition-based: if the parents are divorced, a copy of the divorce decree may be provided instead; if one parent is not alive, a copy of the death certificate may be provided instead.",
+   "The substituted document (divorce decree or death certificate) must be self-attested.",
+   "If the marriage certificate or divorce decree was issued outside India, it must be apostilled or attested by the issuing country's authority (e.g. the County/Municipality office in the US state or city where it was issued) -- self-attested copies of the apostilled document should be sent, not original apostilled documents."
+  ],
+  "reference_chunk_ids": [
+   "25b5a4b9-19d1-58d0-a426-18b62d544078"
+  ],
+  "reference_source_ids": [
+   "128bc848-c986-49dc-86a8-bcb1dd884d2e"
+  ]
+ },
+ {
+  "id": "20673648761",
+  "query": "I was referring the attestation page, I will be needing my copy of passport, copy of my VISA, copy of my I797, copy of my USA Address proof to be attested by Indian embassy for submitting these to an Indian bank - Question: Should I need to only send all the copy of the documents to embassy for attestation or all original documents (or) all copy documents notarized only",
+  "category": "attestation",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "For attestation of documents issued by US authorities (e.g. US passport, driving licence) or copies of Indian passport/OCI card for use in India, applicants should attach clear NOTARISED photocopies of the passport, address proof, and legal status documents -- not original documents.",
+   "Acceptable proof of US address (any one, notarized): US Driving License, Utility Bill, Lease Agreement, State Identity Card, or Mortgage Deed.",
+   "Acceptable proof of US visa status (any one, notarized): the visa page of the passport (H1B, H4, L1, L2, etc.), Green Card, Employment Authorization Document, or I-797/I-140/I-20 (with a handwritten note on regularization efforts if approval is pending).",
+   "Fee: US$10.00 per page (payable to Consulate General of India) plus a separate US$2.00 ICWF fee per application, payable only by money order or cashier's cheque; processing takes 5-7 working days from receipt of a complete application."
+  ],
+  "reference_chunk_ids": [
+   "b3d127b3-3053-52ca-9394-fdde85fff15a",
+   "d13c46c5-4d2e-5b71-b121-35eda36c47df"
+  ],
+  "reference_source_ids": [
+   "b951b477-b865-4503-83af-0aff1fd91080"
+  ]
+ },
+ {
+  "id": "22409789010",
+  "query": "Hello,\nMy name is Varshaben Patel. I'm reaching out regarding the status of my Emergency Certificate Application, #25-2001747380, which was submitted on April 1 and received by the Consulate of India in Atlanta on April 7.\nWhen do you think there will be an update on this application?\nThank you.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 8: \"Emergency certificate checklist\" (falls within the Emergency Certificate subject area, which the KB does not cover at all; no approved source contains processing-status/timeline data either).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "23348997662",
+  "query": "I sent in my affidavit of consent of divorce with all the required documents and money order for $2 for ICWF and $10 for attestation of document as there was 1 page that required attestation.\nPlease see the attached document that was sent back to me with highlights.\n1. POA ? Is this counted as power of attorney / Affidavit. Because I just need last page attested.\n2. Copy of POA? Am I supposed to provide 2 copies of this document (affidavit for consent of divorce ) ? Does both copy need to be notarized? Does the notary require 2 witness to sign while they are doing notary ?\n3. A fee of USD $20 per page per applicant ? Is this considered a POA or just attestation? If so this is a 5 page document so a total of $100 for money order ? (But only 1 page requires attestation on last page then will it be 5 pages but because attestation is need just on last page it will be $20 ? ) (Or do we need to attest all page and I need to sign all pages and get all of those notarized ?",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 14: \"Consolidated current fee schedule (fee figures are mostly reconstructed/unconfirmed)\" - the core of the question turns on specific per-page attestation/POA fee amounts and calculations, which are unconfirmed in the KB.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "24590608196",
+  "query": "I submitted all required documents for applying NRI Certificate. But, application is returned without giving NRI Certificate. It says Bonafide Guardianship document is required for the ward relationship. Please clarify who can give us this certificate.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 3: \"NRI certificate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "25310778258",
+  "query": "I was asked by a bank in India to have my US Marriage certificate attested by the Indian Consulate in Atlanta.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 2: \"Marriage certificate / registration of a marriage that took place in the USA\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "30496786692",
+  "query": "I don't see marriage certificate in the Miscellaneous application Form",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 2: \"Marriage certificate / registration of a marriage that took place in the USA\" (user is looking for a marriage-registration option that the consulate's Miscellaneous Application Form does not offer).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "32451827772",
+  "query": "Need NRI certificate",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 3: \"NRI certificate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "33123015951",
+  "query": "Emergency certificate to travel India",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 8: \"Emergency certificate checklist\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "37494141198",
+  "query": "Hello, I received a request to resubmit the Annexure E Form, previously I had submitted it in handwritten form because the form said written in plain paper by applicant. Please let me know if I should do it in printed form or the handwritten form? Secondly, I was also asked to submit a Name Change form but I have not changed my name, I am single- never married. I am just splitting my name to Given name: Muniza and Surname: Khan as it was always supposed to be, the form online says that I will attesting to renounce my previous name which is not the case. I just want to split my name, also the form requires proof of newspaper publications for their new name, this is definitely not the case for me I am and will be maintaining my name. Before moving further I would like to make sure to follow the correct steps avoiding any discrepancies on such important matters. Please suggest what is to be done. I am eagerly awaiting your response. Thank you.",
+  "category": "misc_services",
+  "expect_decline": true,
+  "decline_reason": "Re-triaged (was a keyword false-positive -- none of the 16 documented gap subjects apply here). Still not answerable, though: 'Annexure E' and name-change document requirements exist in the approved sources, but only as part of specific passport checklists (e.g. passport re-issue in lieu of lost/damaged, surrender of passport), each with its own rules -- one checklist's 'Important Notes' state handwritten documents are not accepted at all, while name-change support requirements (newspaper publication vs. marriage certificate/court order/notarized affidavit) differ by checklist too. The query never states which application (passport reissue, surrender, OCI, etc.) these forms were requested for, so the KB cannot determine which checklist's rules actually govern this applicant's case without guessing.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "41548515918",
+  "query": "I Have submitted all the documents for NRI Certificate for my daughter, but missed to enclose the prepaid label, please help",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 3: \"NRI certificate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "44375262522",
+  "query": "statement of need",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 6: \"Statement of Need\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "44906551956",
+  "query": "I applied for my passport renewal in Feb 20th from Atlanta, GA, USA. I am 72 years old Indian citizen came to visit my daughter. The Indian consulate did nor forward my passport for police verification till I reached out to them. Now my passort is for police verification in Kolkata. Now due to election in WB police station is not replying any phone call. I have my ticket from Atlanta to Kolkata May 8th. I need to apply for an Emergency Certificate. My brother passed away in Kolkata and I need to go urgently.",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 8: \"Emergency certificate checklist\" (the actionable ask is how to apply for an Emergency Certificate).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "46674094992",
+  "query": "I submitted my application in person in icac orlando vfs center and i submitted two applications, 1st one is for attestation of documents with tracking number USAFL319 and 2nd one is for power of attorney with tracking number USAFL320. I RECEIVED THE POA document and even online tracking showed it, but for the attestaion of documents i am seeing [No data found for this Combination of inputs] when tried to search and even fedex label also is just saying will be updated soon (it is basically struck at label created) can you please generate the ticket , i need help in this regard and my passport number is [PASSPORT_NO]. APPLICATION NUMBER : USAFL319 , PLEASE KINDLY DO THE NEEDFUL",
+  "category": "attestation",
+  "expect_decline": true,
+  "decline_reason": "Re-triaged (was a keyword false-positive on 'attestation of documents'/'power of attorney', not a documented gap topic). General document attestation IS covered by approved sources, but this specific query is a personal, case-specific tracking-portal status question about one applicant's own submitted application (tracking number USAFL319) -- the same category of request as the other status_tracking decline items in this golden set -- and is not resolvable from static document content regardless of how well attestation itself is documented.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "47494757127",
+  "query": "NRI Certificate Link is not working",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 3: \"NRI certificate\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "320956011",
+  "query": "I am trying to attest a surety bond for statement of need, Do I have to send the original passport along with the required document and Money order, as I heard due to COVID this has been waived",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 6: \"Statement of Need\".",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "321945868",
+  "query": "We applied for an OCI (in lieu of PIO) for my wife, Carmen Diezcanseco Mallipudi, Government reference number [APPLICATION_NO] in January. I have written to VFS, called them on their toll free number 4 times, wrote emails and sent FEDEX letters. We got absolutely zero response from them in over a month. We finally asked them to cancel our application and to return our passport and PIO card and still no response. What do we need to do at this point?",
+  "category": "known_gap",
+  "expect_decline": true,
+  "decline_reason": "Matches topic 11: \"PIO card renewal/conversion\" (this is an OCI-in-lieu-of-PIO-card conversion application, the exact PIO card subject area the KB does not cover).",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ }
+]

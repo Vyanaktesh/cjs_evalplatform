@@ -1,0 +1,493 @@
+{
+ "run_id": "2026-08-20-initial-baseline",
+ "golden_set_size": 120,
+ "sme_reviewed_count": 0,
+ "retrieval": {
+  "k": 8,
+  "overall": {
+   "precision_at_k": 0.15,
+   "recall_at_k": 0.51875,
+   "hit_rate": 0.7,
+   "mrr": 0.5575297619047619,
+   "ndcg_at_k": 0.47271015687183304,
+   "n": 40
+  },
+  "by_category": {
+   "misc_services": {
+    "precision_at_k": 0.09722222222222222,
+    "recall_at_k": 0.3333333333333333,
+    "hit_rate": 0.5555555555555556,
+    "mrr": 0.4027777777777778,
+    "ndcg_at_k": 0.30577044332005443,
+    "n": 9
+   },
+   "attestation": {
+    "precision_at_k": 0.20833333333333334,
+    "recall_at_k": 0.7222222222222222,
+    "hit_rate": 1.0,
+    "mrr": 0.6666666666666666,
+    "ndcg_at_k": 0.5947324332953157,
+    "n": 3
+   },
+   "oci": {
+    "precision_at_k": 0.16666666666666666,
+    "recall_at_k": 0.5416666666666666,
+    "hit_rate": 0.6666666666666666,
+    "mrr": 0.6666666666666666,
+    "ndcg_at_k": 0.5621634709781091,
+    "n": 6
+   },
+   "passport_lost_damaged": {
+    "precision_at_k": 0.10416666666666667,
+    "recall_at_k": 0.3055555555555555,
+    "hit_rate": 0.6666666666666666,
+    "mrr": 0.44047619047619047,
+    "ndcg_at_k": 0.2831969293846604,
+    "n": 6
+   },
+   "death_documents": {
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0,
+    "n": 2
+   },
+   "police_clearance": {
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0,
+    "n": 1
+   },
+   "global_entry": {
+    "precision_at_k": 0.125,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0,
+    "n": 2
+   },
+   "surrender_renunciation": {
+    "precision_at_k": 0.25,
+    "recall_at_k": 0.7916666666666666,
+    "hit_rate": 0.875,
+    "mrr": 0.7125,
+    "ndcg_at_k": 0.6712375135456522,
+    "n": 8
+   },
+   "visa": {
+    "precision_at_k": 0.20833333333333334,
+    "recall_at_k": 0.7222222222222222,
+    "hit_rate": 1.0,
+    "mrr": 0.7777777777777778,
+    "ndcg_at_k": 0.6434041581883504,
+    "n": 3
+   }
+  },
+  "per_item": [
+   {
+    "id": "39674571088",
+    "query": "APPLICATION FOR MISCELLANEOUS SERVICES",
+    "category": "misc_services",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "326674838",
+    "query": "Am not able to locate the form - Misc Services",
+    "category": "misc_services",
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0
+   },
+   {
+    "id": "760726199",
+    "query": "Hi. I need to generate a power of attorney for my father to submit divorce documentation in local Indian Court on my behalf. Do I just fill up the form for miscellaneous services, and on a stamp paper create my power of attorney and notarize with two Georgia individuals?",
+    "category": "misc_services",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 0.5,
+    "ndcg_at_k": 0.38685280723454163
+   },
+   {
+    "id": "22719419558",
+    "query": "Miscellaneous services form",
+    "category": "misc_services",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 0.125,
+    "ndcg_at_k": 0.19342640361727081
+   },
+   {
+    "id": "24557480962",
+    "query": "Mailing address for miscellaneous services",
+    "category": "misc_services",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "322400325",
+    "query": "We are planning to sell property in india. My daughter is giving POA as she cannot travel. We are from St.Thomas \nWhat documents I have to send by mail? Do I have to send original passports and other original documents? How much are total charges? Do I have to fill application for miscellaneous services for my daughter who is giving POA as well as who is receiving it that's her mother, as well as part owner her Dad??",
+    "category": "misc_services",
+    "precision_at_k": 0.25,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.5585075862632192
+   },
+   {
+    "id": "328205955",
+    "query": "I'm trying to download this Miscellaneous Service",
+    "category": "misc_services",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.6131471927654584
+   },
+   {
+    "id": "359652680",
+    "query": "In the Miscellaneous service for non availability of birth certificate one of the document required is proof of residency applicant dont have proof",
+    "category": "misc_services",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "363686297",
+    "query": "Application of miscellaneous services per POA or just one? I have 3 POAs.",
+    "category": "misc_services",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "31084298657",
+    "query": "Attestation of Power of Attorney",
+    "category": "attestation",
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.9197207891481876
+   },
+   {
+    "id": "42840729397",
+    "query": "Attestation of POA",
+    "category": "attestation",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 0.5,
+    "ndcg_at_k": 0.38685280723454163
+   },
+   {
+    "id": "44610910041",
+    "query": "I would like to inquire about the process for notarization/attestation of a Power of Attorney document required for the sale of a property in India.\nCould you please confirm whether this service can be completed in person at the Consulate, or if there are alternative options such as mail-in processing? I would also appreciate it if you could share the process.",
+    "category": "attestation",
+    "precision_at_k": 0.25,
+    "recall_at_k": 0.6666666666666666,
+    "hit_rate": 1.0,
+    "mrr": 0.5,
+    "ndcg_at_k": 0.4776237035032179
+   },
+   {
+    "id": "47546284427",
+    "query": "I ALREADY HAVE OCI",
+    "category": "oci",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "24553066377",
+    "query": "OCI Miscellaneous Services",
+    "category": "oci",
+    "precision_at_k": 0.375,
+    "recall_at_k": 0.75,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.7598336331031966
+   },
+   {
+    "id": "449988964",
+    "query": "My minor child just renewed her passport. I saw that the OCI does not have to be renewed again. I wanted to know where the picture had to be uploaded",
+    "category": "oci",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.6131471927654584
+   },
+   {
+    "id": "1787592883",
+    "query": "I have an oci card. But recently I have renewed my passport (British passport) . I don’t have a stamp on the new passport. Can I travel to India with the new passport along with the oci card?",
+    "category": "oci",
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0
+   },
+   {
+    "id": "36297123401",
+    "query": "How to apply for OCI",
+    "category": "oci",
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0
+   },
+   {
+    "id": "43510684768",
+    "query": "I have OCI already",
+    "category": "oci",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "25240074637",
+    "query": "Re-issue of ordinary passport of 36 pages in lieu of lost, stolen or damaged passport",
+    "category": "passport_lost_damaged",
+    "precision_at_k": 0.25,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.5855700749881525
+   },
+   {
+    "id": "2113821088",
+    "query": "I lost my passport, I want to reapply my passport. I have travel to india in december 15. Can I take an inperson appointment to reapply for my lost passport.",
+    "category": "passport_lost_damaged",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "17183310466",
+    "query": "I have applied for the reissue if passport since i have lost my passport, so i had submitted the required documents that are need for passport application ,how many days it gonna take to get my passport or what's the further process",
+    "category": "passport_lost_damaged",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "44784950704",
+    "query": "Report lost passport",
+    "category": "passport_lost_damaged",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.3333333333333333,
+    "hit_rate": 1.0,
+    "mrr": 0.5,
+    "ndcg_at_k": 0.2960819109658652
+   },
+   {
+    "id": "329237684",
+    "query": "I lost my passport in a house fire in Miami but I am relocating to Boston for a few weeks to live with family, where should I file my lost passport query",
+    "category": "passport_lost_damaged",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.6131471927654584
+   },
+   {
+    "id": "329321518",
+    "query": "what documents are required for notarization if passport is lost",
+    "category": "passport_lost_damaged",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 0.14285714285714285,
+    "ndcg_at_k": 0.20438239758848611
+   },
+   {
+    "id": "320997154",
+    "query": "i need my fathers original death certificate copy issued in florida to be authenticated by indian high commission",
+    "category": "death_documents",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "320993302",
+    "query": "i need my fathers original copy of death certificate issue in florida to be certified by indin embessy stamp",
+    "category": "death_documents",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "21667806998",
+    "query": "Police Clearance Certificate",
+    "category": "police_clearance",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "39444929560",
+    "query": "global entry program",
+    "category": "global_entry",
+    "precision_at_k": 0.125,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0
+   },
+   {
+    "id": "330433350",
+    "query": "need more information on global entry program",
+    "category": "global_entry",
+    "precision_at_k": 0.125,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0
+   },
+   {
+    "id": "45618861663",
+    "query": "Surrender indian passport",
+    "category": "surrender_renunciation",
+    "precision_at_k": 0.375,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.9325210919548239
+   },
+   {
+    "id": "22206815849",
+    "query": "I want to surrender my Indian passport",
+    "category": "surrender_renunciation",
+    "precision_at_k": 0.375,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.8385465274895063
+   },
+   {
+    "id": "34240589833",
+    "query": "I got my USA Citizenship and passport already. Is that just surrender the passport is enough or need to do both Surrender and Renunciation ?",
+    "category": "surrender_renunciation",
+    "precision_at_k": 0.125,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 1.0
+   },
+   {
+    "id": "45734647220",
+    "query": "i want to surrender my passport",
+    "category": "surrender_renunciation",
+    "precision_at_k": 0.375,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.8072467605676945
+   },
+   {
+    "id": "46700085778",
+    "query": "Surrender of Indian Passport",
+    "category": "surrender_renunciation",
+    "precision_at_k": 0.375,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 0.5,
+    "ndcg_at_k": 0.7328286204777911
+   },
+   {
+    "id": "323352230",
+    "query": "For minors, the VFS says that a proof of Indian roots should be established. My wife and I both were born and raised in India and lived in India for 21+ years before coning to US. Since we recently surrendered our Indian passports, can you please confirm what evidence we should provide for our children for Indian roots? Would our cancelled Indian passports work as the evidence for proof for Indian roots?",
+    "category": "surrender_renunciation",
+    "precision_at_k": 0.0,
+    "recall_at_k": 0.0,
+    "hit_rate": 0.0,
+    "mrr": 0.0,
+    "ndcg_at_k": 0.0
+   },
+   {
+    "id": "334091134",
+    "query": "I need to surrender my Indian passport and get a visa for my planned trip to India",
+    "category": "surrender_renunciation",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.3333333333333333,
+    "hit_rate": 1.0,
+    "mrr": 0.2,
+    "ndcg_at_k": 0.18154179253735267
+   },
+   {
+    "id": "346257778",
+    "query": "My name was officially changed after getting US citizenship but my Indian Passport has my old name. What should my \"Applicant\" name be when filling out the APPLICATION FOR SURRENDER OF INDIAN PASSPORT/CITIZENSHIP?",
+    "category": "surrender_renunciation",
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.8772153153380493
+   },
+   {
+    "id": "2021259903",
+    "query": "I need emergency visa",
+    "category": "visa",
+    "precision_at_k": 0.25,
+    "recall_at_k": 0.6666666666666666,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.7039180890341347
+   },
+   {
+    "id": "323505468",
+    "query": "I have emergency travel plan in April for family emergency. I am Indian origin and us citizen. I would like to get emergency visa for my self and my 5 year old daughter. Please someone help me. I understand COVID19 situation but I wouldn’t go if that was not emergency. Thanks",
+    "category": "visa",
+    "precision_at_k": 0.25,
+    "recall_at_k": 1.0,
+    "hit_rate": 1.0,
+    "mrr": 1.0,
+    "ndcg_at_k": 0.9197207891481876
+   },
+   {
+    "id": "323539231",
+    "query": "I am still not getting that how and where can apply for emergency visa",
+    "category": "visa",
+    "precision_at_k": 0.125,
+    "recall_at_k": 0.5,
+    "hit_rate": 1.0,
+    "mrr": 0.3333333333333333,
+    "ndcg_at_k": 0.3065735963827292
+   }
+  ],
+  "skipped_decline_items": 80
+ }
+}

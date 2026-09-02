@@ -1,0 +1,1010 @@
+[
+  {
+    "ticket_id": "47546284427",
+    "query": "I ALREADY HAVE OCI",
+    "duplicate_count": 10,
+    "created_year_month": "2026-08",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "24553066377",
+    "query": "OCI Miscellaneous Services",
+    "duplicate_count": 7,
+    "created_year_month": "2025-05",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "43288454418",
+    "query": "I want to know the status of my OCI application",
+    "duplicate_count": 5,
+    "created_year_month": "2026-03",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "45142086461",
+    "query": "Status of oci application",
+    "duplicate_count": 5,
+    "created_year_month": "2026-05",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "37474773433",
+    "query": "OCI Application status",
+    "duplicate_count": 4,
+    "created_year_month": "2025-12",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "449988964",
+    "query": "My minor child just renewed her passport. I saw that the OCI does not have to be renewed again. I wanted to know where the picture had to be uploaded",
+    "duplicate_count": 3,
+    "created_year_month": "2021-06",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "633825642",
+    "query": "I need to speak to consule general as VFS is incorrectly requesting information that is not requested on OCI website. I have uploaded all documents but VFS is coming back indicating documents missing-- I called VFS ( which again is an excuse to make money by charging per min ) to understand what is missing and they did not provide any details --- I want counsel to check for my file and verify if anythign missing -- It is nothign but harassments by claiming as missing document -- also Upload is additional charge -- If Counsel cares to provide customer service please reach out to me at [PHONE] , my email is [EMAIL].",
+    "duplicate_count": 3,
+    "created_year_month": "2021-10",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "644172093",
+    "query": "I submitted my son's updated information (passport) for OCI information update under 'Miscellaneous services'. It has been over 2 weeks and his applications hasn't been acknowledged yet",
+    "duplicate_count": 3,
+    "created_year_month": "2021-11",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "669304153",
+    "query": "Dear sir/madam,\nI applied for my son's oci renewal and uploaded doc online on oct 18th 2021. the file reference number is [APPLICATION_NO]. Online status still is file is yet to be acknowledged,\nthe mission is ATLANTA,GA .\ncould you please if possible let us know when can we expect the process to be completed.\nthanks\ndhiren",
+    "duplicate_count": 3,
+    "created_year_month": "2021-11",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "1627034131",
+    "query": "I would like to know the status of my daughter's OCI which has been submitted 8 weeks ago",
+    "duplicate_count": 3,
+    "created_year_month": "2023-05",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "1787592883",
+    "query": "I have an oci card. But recently I have renewed my passport (British passport) . I don’t have a stamp on the new passport. Can I travel to India with the new passport along with the oci card?",
+    "duplicate_count": 3,
+    "created_year_month": "2023-07",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "2163197783",
+    "query": "Processing time for OCI card",
+    "duplicate_count": 3,
+    "created_year_month": "2023-12",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "22697724443",
+    "query": "Is VFS global payment portal working today ? I uploaded my OCI application last night but still struggling to pay .",
+    "duplicate_count": 3,
+    "created_year_month": "2025-04",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "36297123401",
+    "query": "How to apply for OCI",
+    "duplicate_count": 3,
+    "created_year_month": "2025-11",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "43333854596",
+    "query": "I applied to renew my OCI based on my new US passport after age 20. I received text from VFS that the my application: [APPLICATION_NO] has been processed at VFS and submitted to the Mission for decision making on February 18th 2026. Its been almost a month and I have not heard back.",
+    "duplicate_count": 3,
+    "created_year_month": "2026-03",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "43510684768",
+    "query": "I have OCI already",
+    "duplicate_count": 3,
+    "created_year_month": "2026-03",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "327664145",
+    "query": "What are the current processing times for OCI",
+    "duplicate_count": 2,
+    "created_year_month": "2021-03",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "371906742",
+    "query": "Hello Sir/Madam, My Name is Anand Dhanarajupali writing behalf of my son Anudeep Dhanarajupali. We applied Anudeep Dhanarajupali OCI Misc services to update his new passport number in his OCI Card, and Application ref number is [APPLICATION_NO]. I haven't seen any status update on the \"Tracking Application\" after submitting the missing documents. I submitted missing document on 03/31/2021 through USPS Priority Mail. USPS tracking [LONG_NUMBER] says that my package is delivered on 03/31/2021 at 1.15 PM. Please start process my documents. I need to travel to India in May 13 2021 along with my Family. Let me know if you have any questions",
+    "duplicate_count": 2,
+    "created_year_month": "2021-04",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "399066178",
+    "query": "oci process vidio",
+    "duplicate_count": 2,
+    "created_year_month": "2021-05",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "405248948",
+    "query": "I got my USA citizenship recently and applied for Renunciation of India Citizenship by surrendering my passport to India Consulate in Atlanta. I received the Surrender Certificate along with the cancelled passport today but just noticed that I had my birthdate mentioned wrong in Renunciation Certificate when I filled it. I mentioned my birthdate as 18/05/1985 instead of 18/07/1985. Is that going to be a problem since I already received the Surrender Certificate. Please let me know. I am planning to apply for OCI card soon. Thanks.",
+    "duplicate_count": 2,
+    "created_year_month": "2021-05",
+    "category": "oci",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "45618861663",
+    "query": "Surrender indian passport",
+    "duplicate_count": 4,
+    "created_year_month": "2026-05",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "22206815849",
+    "query": "I want to surrender my Indian passport",
+    "duplicate_count": 3,
+    "created_year_month": "2025-04",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "949035318",
+    "query": "I became an American citizen in 2014, at that time I misplaced my Indian passport and was not aware that I needed to surrender my passport. And since it got misplaced and I had already received my American passport, I didn’t think much of it. I recently found it again while moving and someone informed me that I needed to surrender my Indian passport when I received my American passport. I would still like to go ahead and surrender it if needed, even though it’s been way past time. Can you please guide me through the procedure of how that can be done?",
+    "duplicate_count": 2,
+    "created_year_month": "2022-06",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "1783077149",
+    "query": "I surrendered my indian passport to Atlanta Indian Consulate back in 2014. However, I did not receive the Renunciation Certificate. How do I obtain that?",
+    "duplicate_count": 2,
+    "created_year_month": "2023-07",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "2675153719",
+    "query": "In the renounciation form, I completed step 1(Complete the Government online form) and step 2 (arrange documents as per the checklist). In step 3, I have submitted VFS global application, and I paid my fees but I did not get any email for application conformation latter and renunciations certificate from VFS global.",
+    "duplicate_count": 2,
+    "created_year_month": "2024-04",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "34240589833",
+    "query": "I got my USA Citizenship and passport already. Is that just surrender the passport is enough or need to do both Surrender and Renunciation ?",
+    "duplicate_count": 2,
+    "created_year_month": "2025-11",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "45734647220",
+    "query": "i want to surrender my passport",
+    "duplicate_count": 2,
+    "created_year_month": "2026-06",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "46700085778",
+    "query": "Surrender of Indian Passport",
+    "duplicate_count": 2,
+    "created_year_month": "2026-07",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "46837696586",
+    "query": "I want to renounce my Indian passport. I am facing issues completion the application on ministry of external affairs website. I have to upload passport photo and website is throwing errors and not accepting photos",
+    "duplicate_count": 2,
+    "created_year_month": "2026-07",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "323352230",
+    "query": "For minors, the VFS says that a proof of Indian roots should be established. My wife and I both were born and raised in India and lived in India for 21+ years before coning to US. Since we recently surrendered our Indian passports, can you please confirm what evidence we should provide for our children for Indian roots? Would our cancelled Indian passports work as the evidence for proof for Indian roots?",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "330802435",
+    "query": "i have travel plan to visit elderly parents but in the process of getting US citizenship now, due to my travel plan, shall i apply for india passport renunciation on the same day when i receive the US naturalization certificate before getting US passort? i want to save time and apply US passport and also send India passport for surrender certificate on the same day when i get the US citizenship? Please help and advise? Thanks, Thirupathi K",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "333690454",
+    "query": "I applied of the renunciation two weeks ago..I see the status as 'Surrender certificate has been printed' since a week.. when can I receive it in mail to my home address?",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "334091134",
+    "query": "I need to surrender my Indian passport and get a visa for my planned trip to India",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "346257778",
+    "query": "My name was officially changed after getting US citizenship but my Indian Passport has my old name. What should my \"Applicant\" name be when filling out the APPLICATION FOR SURRENDER OF INDIAN PASSPORT/CITIZENSHIP?",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "355023686",
+    "query": "How can we finish the Gov application without the Indian passport number? We surrendered my passport when I became a citizen back in 1993. I don't have a copy of my old Indian passport number. How can I complete the Gov application without this information?",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "surrender_renunciation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "39674571088",
+    "query": "APPLICATION FOR MISCELLANEOUS SERVICES",
+    "duplicate_count": 3,
+    "created_year_month": "2026-01",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "326674838",
+    "query": "Am not able to locate the form - Misc Services",
+    "duplicate_count": 2,
+    "created_year_month": "2021-03",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "760726199",
+    "query": "Hi. I need to generate a power of attorney for my father to submit divorce documentation in local Indian Court on my behalf. Do I just fill up the form for miscellaneous services, and on a stamp paper create my power of attorney and notarize with two Georgia individuals?",
+    "duplicate_count": 2,
+    "created_year_month": "2022-01",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "22719419558",
+    "query": "Miscellaneous services form",
+    "duplicate_count": 2,
+    "created_year_month": "2025-04",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "24557480962",
+    "query": "Mailing address for miscellaneous services",
+    "duplicate_count": 2,
+    "created_year_month": "2025-05",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "322400325",
+    "query": "We are planning to sell property in india. My daughter is giving POA as she cannot travel. We are from St.Thomas \nWhat documents I have to send by mail? Do I have to send original passports and other original documents? How much are total charges? Do I have to fill application for miscellaneous services for my daughter who is giving POA as well as who is receiving it that’s her mother, as well as part owner her Dad??",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "327470394",
+    "query": "miscellaneous services telephone",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "328205955",
+    "query": "I'm trying to download this Miscellaneous Service",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "359652680",
+    "query": "In the Miscellaneous service for non availability of birth certificate one of the document required is proof of residency applicant dont have proof",
+    "duplicate_count": 1,
+    "created_year_month": "2021-04",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "363686297",
+    "query": "Application of miscellaneous services per POA or just one? I have 3 POAs.",
+    "duplicate_count": 1,
+    "created_year_month": "2021-04",
+    "category": "misc_services",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "987341177",
+    "query": "I was planning a trip for November of 2022. I had a 10 year tourist visa that expires in 2028. I read somewhere that all of those were cancelled?",
+    "duplicate_count": 3,
+    "created_year_month": "2022-07",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "1041670178",
+    "query": "Respected Sir/Ma'am, My name is Ashwin Sankara Raman and my email id is [EMAIL] My phone number is +1([PHONE]. my F-1 VISA status expires July 2023 and I would like to request you for information regarding renewal of F-1 VISA. I have read that the default way is to go back to india and re-book an appointment for renewal at the US consular, but I was looking for other easier ways if available to do this process. Could you please help me with this? Sincerely, Ashwin",
+    "duplicate_count": 3,
+    "created_year_month": "2022-08",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "1268965687",
+    "query": "I have applied to VFS Global with a visa application. My application has been rejected on the ground that I have a 10 years valid visa to Inida. Unfortunately my visa is not active now / was suspened by the Indian government as I am Canadian citizen.\nI called the consulate and explained my situation. I was suggested to write an email to concul that I did few days ago.\nUnfromtunately I have not received any resposne since.\nCan you help me?",
+    "duplicate_count": 3,
+    "created_year_month": "2022-11",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "2021259903",
+    "query": "I need emergency visa",
+    "duplicate_count": 3,
+    "created_year_month": "2023-10",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "2083510818",
+    "query": "Need help with visa",
+    "duplicate_count": 3,
+    "created_year_month": "2023-11",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "319753254",
+    "query": "My daughter is a us citizen and has Entry( X) multiple visa which is issued in 2017 and will get expired in 2022. Can she travel to India with this visa?",
+    "duplicate_count": 2,
+    "created_year_month": "2021-03",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "323505468",
+    "query": "I have emergency travel plan in April for family emergency. I am Indian origin and us citizen. I would like to get emergency visa for my self and my 5 year old daughter. Please someone help me. I understand COVID19 situation but I wouldn’t go if that was not emergency. Thanks",
+    "duplicate_count": 2,
+    "created_year_month": "2021-03",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "323539231",
+    "query": "I am still not getting that how and where can apply for emergency visa",
+    "duplicate_count": 2,
+    "created_year_month": "2021-03",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "347556751",
+    "query": "I am planning to travel to India and back to US. I am booking flight through Qatar Airways. My flights is from Savannah, GA (US) - New York (US) - Qatar - Ahmedabad, India. I am an Indian citizen on F-1 visa in US. Will I be allowed to enter India with the itinerary mentioned above? If yes, will I have to go through a mandatory institutional quarantine when I arrive at Ahmedabad (considering my RT-PCR test is negative)? Will I be allowed to come to US through the same itinerary back (considering my RT-PCR test is negative)?",
+    "duplicate_count": 2,
+    "created_year_month": "2021-03",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "392125548",
+    "query": "My 17-year-old son who holds US passport has a tourist visa expiring in 2026. He recently got a new US passport. How can I transfer that visa to the new passport.",
+    "duplicate_count": 2,
+    "created_year_month": "2021-04",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "432122965",
+    "query": "My mother - Mahananda Dombe is on a Bi-visa and we had applied for extension. We also did her Biometrics in March 2021. USCIS has raised a RFE as her fingerprints could not be validated by FBI. They have requested PCC for last 5 years. This is a very special request and I am not sure how to get this asap. Help will be much appreciated.",
+    "duplicate_count": 2,
+    "created_year_month": "2021-06",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "478366274",
+    "query": "My father is on a Tourist B1 Visa in the US. Can he apply at the Atlanta consulate to grant POA to hsi brother in India for a property sale in India?",
+    "duplicate_count": 2,
+    "created_year_month": "2021-07",
+    "category": "visa",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "25240074637",
+    "query": "Re-issue of ordinary passport of 36 pages in lieu of lost, stolen or damaged passport",
+    "duplicate_count": 3,
+    "created_year_month": "2025-06",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "586360623",
+    "query": "My Daughter and Wife stays in Atlanta, GA, USA. My Daughter's passport was expired and while sent for reissue, it was lost in courier. I live in India. When sent for a reissue on lost category, the following issue is stated:\n1. Additional documents : NO OBJECTION CERTIFICATE FROM FATHER REQUIRED\n2. Annexure C : MISSING MOTHERS SIGN ON ANNEXURE C.\nWe understand point 2, but not sure about the format of 'NO OBJECTION CERTIFICATE FROM FATHER REQUIRED'. So my wife is looking for an appointment of visit in the Atlanta Passport office.\nSo,\n1. What is the way to book an appointment in passport office visit in Atlanta, GA, USA\n2. What is the format of 'NO OBJECTION CERTIFICATE FROM FATHER REQUIRED'",
+    "duplicate_count": 2,
+    "created_year_month": "2021-10",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "745198893",
+    "query": "I APPLIED MY PASSPORT TWICE, FEBRUARY 2021 MY ORIGINAL PASSPORT LOST ON TRANSITION TO THE AMBASSY .THEN I APPLIED AGAIN IN NOVEMBER 2021.",
+    "duplicate_count": 2,
+    "created_year_month": "2022-01",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "2113821088",
+    "query": "I lost my passport, I want to reapply my passport. I have travel to india in december 15. Can I take an inperson appointment to reapply for my lost passport.",
+    "duplicate_count": 2,
+    "created_year_month": "2023-11",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "17183310466",
+    "query": "I have applied for the reissue if passport since i have lost my passport, so i had submitted the required documents that are need for passport application ,how many days it gonna take to get my passport or what's the further process",
+    "duplicate_count": 2,
+    "created_year_month": "2024-12",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "41721262771",
+    "query": "I have to renew my daughter's passport. Since we are in Atlanta, and Passport application center VFS is near to our palace, can we directly submit the application in the center in person and collect the new passport in person instead of shipping. We have 2 experience for our friends, they lost their passports in shipping. We don't need to take a risk",
+    "duplicate_count": 2,
+    "created_year_month": "2026-02",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "44784950704",
+    "query": "Report lost passport",
+    "duplicate_count": 2,
+    "created_year_month": "2026-04",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "328131477",
+    "query": "i would like to get lost passport clearance certificate for me.",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "329237684",
+    "query": "I lost my passport in a house fire in Miami but I am relocating to Boston for a few weeks to live with family, where should I file my lost passport query",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "329321518",
+    "query": "what documents are required for notarization if passport is lost",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "passport_lost_damaged",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "321489838",
+    "query": "Indian Community Welfare Fee (ICWF)",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "community_events",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "329234086",
+    "query": "ASIKE would like to invite Consul General to be Guest Speaker for an International Woman Day event, Saturday, March 20, 2021 3 to 5 pm",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "community_events",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "329236104",
+    "query": "Would like the India Consul General of India to be a guest speak for International Woman Day event Saturday March 20, 2021 3-5 pm",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "community_events",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "349950856",
+    "query": "3 questions relating Power of Attorney:\n1. Do we need photocopies all the pages of passport or just the front and back?\n2. Do we need the POA application form printed on one side only or both sided prints can work too?\n3. The fees of $20 in form of cashier’s cheques should be in favor of Consulate General of India, Atlanta? And US$2.00(Two Only) per application towards Indian Community Welfare Fund (ICWF) ?",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "community_events",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "380819754",
+    "query": "Need urgent help for my minor son's passport renewal ARN# 21-2000718496) (Soham Ganguly). The local PS tells they cleared the file, raising grievance with passport.gov no use. I have upcoming biometric for my family and my son is only having his Indian passport as his identity. Please help this situation.",
+    "duplicate_count": 1,
+    "created_year_month": "2021-04",
+    "category": "community_events",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "416540429",
+    "query": "My wife and I would like to apply for our birth certificates. We went to the consular office today but came to know that the walk-in services are discontinued. We have the following questions:\n1) Do we need to send our original passports? Or notarized copies work?\n2) Indian Community Welfare Fee (ICWF) of 2 USD -- does it have to be also in the cashier's check or money order?\nThank you very much for your help.",
+    "duplicate_count": 1,
+    "created_year_month": "2021-05",
+    "category": "community_events",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "33310998562",
+    "query": "status of my application",
+    "duplicate_count": 12,
+    "created_year_month": "2025-10",
+    "category": "status_tracking",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "39013227017",
+    "query": "Passport Renewal Status",
+    "duplicate_count": 9,
+    "created_year_month": "2026-01",
+    "category": "status_tracking",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "2021192578",
+    "query": "Status of passport renewal application",
+    "duplicate_count": 3,
+    "created_year_month": "2023-10",
+    "category": "status_tracking",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "2600791428",
+    "query": "Want to know the status",
+    "duplicate_count": 3,
+    "created_year_month": "2024-04",
+    "category": "status_tracking",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "3002283598",
+    "query": "My issue is : I am SINGLE and updated marital status as SINGLE but on Family Detail page, it is asking me to update SPOUSE DETAILS and not allowing me to move forward",
+    "duplicate_count": 3,
+    "created_year_month": "2024-07",
+    "category": "status_tracking",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "22402247235",
+    "query": "status of the application",
+    "duplicate_count": 3,
+    "created_year_month": "2025-04",
+    "category": "status_tracking",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "22876454474",
+    "query": "Status of my passport application",
+    "duplicate_count": 3,
+    "created_year_month": "2025-04",
+    "category": "status_tracking",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "37744087153",
+    "query": "status of passport renewal",
+    "duplicate_count": 3,
+    "created_year_month": "2025-12",
+    "category": "status_tracking",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "321939615",
+    "query": "i tried to register to start the application process but its not registering",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "registration",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "322389374",
+    "query": "what is file number when I am trying to register online by your protal",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "registration",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "330179587",
+    "query": "I am on 3rd step of re-issuance of my passport but when I click to Create a profile and register on the VFS portal system it does not work",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "registration",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "346737330",
+    "query": "WHAT IS THIS ARN NUMBER ? I WENT TO THE REGISTRATION PAGE AND GAVE ALL THE INFO . IT TOLD ME TO ACTIVATE FORM MY EMAIL I DID BUT COULD NOT FIND THE ARN NUMBER",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "registration",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "348597566",
+    "query": "I am applying for a home loan in India and at site registration office they are asking a GPA letter from embassy is required",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "registration",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "1369122710",
+    "query": "This is for my mom (Shantaben Dahyabhai Patel, DOB: Jan 03, 1942). We have 4 events/celebrations in India from Feb 12 Feb 20th, including my moms \"Jivan Parv\" and late Dad's death ceremony. Tickets already purchased for leaving on Jan 22nd. We just found out that her passport is expired",
+    "duplicate_count": 2,
+    "created_year_month": "2023-01",
+    "category": "death_documents",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "320997154",
+    "query": "i need my fathers original death certificate copy issued in florida to be authenticated by indian high commission",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "death_documents",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "320993302",
+    "query": "i need my fathers original copy of death certificate issue in florida to be certified by indin embessy stamp",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "death_documents",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "21667806998",
+    "query": "Police Clearance Certificate",
+    "duplicate_count": 3,
+    "created_year_month": "2025-03",
+    "category": "police_clearance",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "327840858",
+    "query": "I am waiting on my Police clearance certificate. The verification already completed in India 3 weeks back. But I still haven't received my passport and the police clearance certificate. Can you please let me know when I can expect to receive my passport and police clearance certificate?",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "police_clearance",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "334820456",
+    "query": "I applied for Passport Renewal (Normal) via vfs global 25/02/2021 and recieved my RENEWED Passport within 10 days. NOW Getting a message from [EMAIL] that I should present documents in person at Mumbai Santa Cruz Police station for Police Clearance !",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "police_clearance",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "31084298657",
+    "query": "Attestation of Power of Attorney",
+    "duplicate_count": 4,
+    "created_year_month": "2025-10",
+    "category": "attestation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "42840729397",
+    "query": "Attestation of POA",
+    "duplicate_count": 4,
+    "created_year_month": "2026-03",
+    "category": "attestation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "44610910041",
+    "query": "I would like to inquire about the process for notarization/attestation of a Power of Attorney document required for the sale of a property in India.\nCould you please confirm whether this service can be completed in person at the Consulate, or if there are alternative options such as mail-in processing? I would also appreciate it if you could share the process.",
+    "duplicate_count": 3,
+    "created_year_month": "2026-04",
+    "category": "attestation",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "39444929560",
+    "query": "global entry program",
+    "duplicate_count": 9,
+    "created_year_month": "2026-01",
+    "category": "global_entry",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "330433350",
+    "query": "need more information on global entry program",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "global_entry",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "367684486",
+    "query": "i want to know list of documents to be submitted with Global Entry Program application at consulate in Atlanta vfs",
+    "duplicate_count": 1,
+    "created_year_month": "2021-04",
+    "category": "global_entry",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "759892386",
+    "query": "Someone had done fraud with us here and ran away in atlanta, we filed complain in court here and court had declare the judgement against him. we have his address of atlanta and we want your help to approach him to pay our harden earned money. Or kindly share any other process to approach him at his place legally.",
+    "duplicate_count": 1,
+    "created_year_month": "2022-01",
+    "category": "fraud_advisory",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "988623380",
+    "query": "Hi I had invested in an industrial plot in Gurgaon, Haryana several years ago. My partner has committed fraud against me and HSIIDC (Haryana Industrial and infrastructure Development Corporation - a Haryana government agency). I have been sending requests to HSIIDC for corrective action, but there is no responsible. Request your help to get HSIIDC to act on my request. Thank What is a good email address to contact you with? If we disconnected",
+    "duplicate_count": 1,
+    "created_year_month": "2022-07",
+    "category": "fraud_advisory",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "1346804864",
+    "query": "I need to complaint against my India Bank for fraud and illegal activities",
+    "duplicate_count": 1,
+    "created_year_month": "2022-12",
+    "category": "fraud_advisory",
+    "expect_decline": false
+  },
+  {
+    "ticket_id": "21598134149",
+    "query": "Affidavit of child passport to be issued in india",
+    "duplicate_count": 4,
+    "created_year_month": "2025-03",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "32639740438",
+    "query": "Namaste!\nOn the Document checklist: For REISSUE - MINORs PASSPORT\n1. Where to put the tick marks for the documents being submitted?\n2. Can i circle the name of the exact document being sent eg- driving license, copy of utility bill, etc?\n3. If one document- parents passport- is being given for two purposes as address proof and parents id, do i need to provide two copies of the same document? \n4. one place needs a self attested and other just needs a color copy. in this case, will self attested copy be sufficient or it is better to provide another copy too?",
+    "duplicate_count": 3,
+    "created_year_month": "2025-10",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "358577665",
+    "query": "hello. is it necessary to send the original passport for attestation of Statement of Need Application?",
+    "duplicate_count": 2,
+    "created_year_month": "2021-03",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "527457884",
+    "query": "A person by name Batlanki Kesava Kumar Anurag who is a Global Product Manager at Lenovo, Raleigh has been booked for non bailable offences under the IPC in India. However, as he has been absconding since the registration of the FIR, the criminal proceedings are pending and in order to get a court order to get his passport revoked, I need to get the summons/warrants issued to his known address abroad which only his employer (Lenovo) would be updated with. Therefore I request the Indian Embassy in the US, Washington DC to kindly look into this issue and do the needful to obtain his current address so that the summons/warrants maybe issued.",
+    "duplicate_count": 2,
+    "created_year_month": "2021-08",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "591898888",
+    "query": "Can I travel to India using my PIO card?",
+    "duplicate_count": 2,
+    "created_year_month": "2021-10",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "1790003293",
+    "query": "i need to apply for an emergency certificate, but i need to know whether i have to make an appointment to submit the documents in person at the consulate within 10:00 am to 12:30 pm or just walk in during that time and submit the documents without an appointment. please advise and let me know where to get an appointment for the submission of documents. thanks",
+    "duplicate_count": 2,
+    "created_year_month": "2023-07",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "2212567165",
+    "query": "Have a question on required India address proof for passport renewal.\nHave passport renewal for my wife and daughter coming up. We want to print our own India house address on their passport. They don't have address proof on their name. But Power Bill, Water bill and my Aaadhar available on that address. can I submit my address proof on behalf of my wife and Daughter? My passport has US address printed on it.\nPlease confirm if it is allowed to submit my address proof with marriage certificate for my wife and birth certificate for daughter?",
+    "duplicate_count": 2,
+    "created_year_month": "2023-12",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "2288835481",
+    "query": "Hi, I and my spouse got married in Nashville in October 2023 and have been issues a marriage certificate by the Tennessee County clerk . We are both Indian citizens by birth. I want to our marriage to be registered in India as well and get our Indian marriage certificate for the same as soon as possible. Can the consulate assist me with this please? Thank you",
+    "duplicate_count": 2,
+    "created_year_month": "2024-01",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "19053838862",
+    "query": "I have a question: I don't have a marriage certificate to apply for an OCI for my minor child. Are there any alternative documents that can be used instead of a marriage certificate?",
+    "duplicate_count": 2,
+    "created_year_month": "2025-01",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "20673648761",
+    "query": "I was referring the attestation page, I will be needing my copy of passport, copy of my VISA, copy of my I797, copy of my USA Address proof to be attested by Indian embassy for submitting these to an Indian bank - Question: Should I need to only send all the copy of the documents to embassy for attestation or all original documents (or) all copy documents notarized only",
+    "duplicate_count": 2,
+    "created_year_month": "2025-02",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "22409789010",
+    "query": "Hello,\nMy name is Varshaben Patel. I'm reaching out regarding the status of my Emergency Certificate Application, #25-2001747380, which was submitted on April 1 and received by the Consulate of India in Atlanta on April 7.\nWhen do you think there will be an update on this application?\nThank you.",
+    "duplicate_count": 2,
+    "created_year_month": "2025-04",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "23348997662",
+    "query": "I sent in my affidavit of consent of divorce with all the required documents and money order for $2 for ICWF and $10 for attestation of document as there was 1 page that required attestation.\nPlease see the attached document that was sent back to me with highlights.\n1. POA ? Is this counted as power of attorney / Affidavit. Because I just need last page attested.\n2. Copy of POA? Am I supposed to provide 2 copies of this document (affidavit for consent of divorce ) ? Does both copy need to be notarized? Does the notary require 2 witness to sign while they are doing notary ?\n3. A fee of USD $20 per page per applicant ? Is this considered a POA or just attestation? If so this is a 5 page document so a total of $100 for money order ? (But only 1 page requires attestation on last page then will it be 5 pages but because attestation is need just on last page it will be $20 ? ) (Or do we need to attest all page and I need to sign all pages and get all of those notarized ?",
+    "duplicate_count": 2,
+    "created_year_month": "2025-05",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "24590608196",
+    "query": "I submitted all required documents for applying NRI Certificate. But, application is returned without giving NRI Certificate. It says Bonafide Guardianship document is required for the ward relationship. Please clarify who can give us this certificate.",
+    "duplicate_count": 2,
+    "created_year_month": "2025-05",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "25310778258",
+    "query": "I was asked by a bank in India to have my US Marriage certificate attested by the Indian Consulate in Atlanta.",
+    "duplicate_count": 2,
+    "created_year_month": "2025-06",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "30496786692",
+    "query": "I don't see marriage certificate in the Miscellaneous application Form",
+    "duplicate_count": 2,
+    "created_year_month": "2025-09",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "32451827772",
+    "query": "Need NRI certificate",
+    "duplicate_count": 2,
+    "created_year_month": "2025-10",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "33123015951",
+    "query": "Emergency certificate to travel India",
+    "duplicate_count": 2,
+    "created_year_month": "2025-10",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "37494141198",
+    "query": "Hello, I received a request to resubmit the Annexure E Form, previously I had submitted it in handwritten form because the form said written in plain paper by applicant. Please let me know if I should do it in printed form or the handwritten form? Secondly, I was also asked to submit a Name Change form but I have not changed my name, I am single- never married. I am just splitting my name to Given name: Muniza and Surname: Khan as it was always supposed to be, the form online says that I will attesting to renounce my previous name which is not the case. I just want to split my name, also the form requires proof of newspaper publications for their new name, this is definitely not the case for me I am and will be maintaining my name. Before moving further I would like to make sure to follow the correct steps avoiding any discrepancies on such important matters. Please suggest what is to be done. I am eagerly awaiting your response. Thank you.",
+    "duplicate_count": 2,
+    "created_year_month": "2025-12",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "41548515918",
+    "query": "I Have submitted all the documents for NRI Certificate for my daughter, but missed to enclose the prepaid label, please help",
+    "duplicate_count": 2,
+    "created_year_month": "2026-02",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "44375262522",
+    "query": "statement of need",
+    "duplicate_count": 2,
+    "created_year_month": "2026-04",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "44906551956",
+    "query": "I applied for my passport renewal in Feb 20th from Atlanta, GA, USA. I am 72 years old Indian citizen came to visit my daughter. The Indian consulate did nor forward my passport for police verification till I reached out to them. Now my passort is for police verification in Kolkata. Now due to election in WB police station is not replying any phone call. I have my ticket from Atlanta to Kolkata May 8th. I need to apply for an Emergency Certificate. My brother passed away in Kolkata and I need to go urgently.",
+    "duplicate_count": 2,
+    "created_year_month": "2026-04",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "46674094992",
+    "query": "I submitted my application in person in icac orlando vfs center and i submitted two applications, 1st one is for attestation of documents with tracking number USAFL319 and 2nd one is for power of attorney with tracking number USAFL320. I RECEIVED THE POA document and even online tracking showed it, but for the attestaion of documents i am seeing [No data found for this Combination of inputs] when tried to search and even fedex label also is just saying will be updated soon (it is basically struck at label created) can you please generate the ticket , i need help in this regard and my passport number is [PASSPORT_NO]. APPLICATION NUMBER : USAFL319 , PLEASE KINDLY DO THE NEEDFUL",
+    "duplicate_count": 2,
+    "created_year_month": "2026-07",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "47494757127",
+    "query": "NRI Certificate Link is not working",
+    "duplicate_count": 2,
+    "created_year_month": "2026-08",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "320956011",
+    "query": "I am trying to attest a surety bond for statement of need, Do I have to send the original passport along with the required document and Money order, as I heard due to COVID this has been waived",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "known_gap",
+    "expect_decline": true
+  },
+  {
+    "ticket_id": "321945868",
+    "query": "We applied for an OCI (in lieu of PIO) for my wife, Carmen Diezcanseco Mallipudi, Government reference number [APPLICATION_NO] in January. I have written to VFS, called them on their toll free number 4 times, wrote emails and sent FEDEX letters. We got absolutely zero response from them in over a month. We finally asked them to cancel our application and to return our passport and PIO card and still no response. What do we need to do at this point?",
+    "duplicate_count": 1,
+    "created_year_month": "2021-03",
+    "category": "known_gap",
+    "expect_decline": true
+  }
+]

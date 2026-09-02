@@ -1,0 +1,154 @@
+[
+  {
+    "id": "987341177",
+    "query": "I was planning a trip for November of 2022. I had a 10 year tourist visa that expires in 2028. I read somewhere that all of those were cancelled?",
+    "category": "visa",
+    "expect_decline": true,
+    "decline_reason": "topic not covered by any approved source in this category (tourist visa validity/cancellation policy is not addressed in the provided checklists)",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "1041670178",
+    "query": "Respected Sir/Ma'am, My name is Ashwin Sankara Raman and my email id is [EMAIL] My phone number is +1([PHONE]. my F-1 VISA status expires July 2023 and I would like to request you for information regarding renewal of F-1 VISA. I have read that the default way is to go back to india and re-book an appointment for renewal at the US consular, but I was looking for other easier ways if available to do this process. Could you please help me with this? Sincerely, Ashwin",
+    "category": "visa",
+    "expect_decline": true,
+    "decline_reason": "topic not covered by any approved source in this category (F-1 is a US visa; renewal process for it is not addressed by the Indian consulate visa checklists provided)",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "1268965687",
+    "query": "I have applied to VFS Global with a visa application. My application has been rejected on the ground that I have a 10 years valid visa to Inida. Unfortunately my visa is not active now / was suspened by the Indian government as I am Canadian citizen.\nI called the consulate and explained my situation. I was suggested to write an email to concul that I did few days ago.\nUnfromtunately I have not received any resposne since.\nCan you help me?",
+    "category": "visa",
+    "expect_decline": true,
+    "decline_reason": "personal case status/complaint about a specific rejected application and unanswered email, not resolvable from static docs",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "2021259903",
+    "query": "I need emergency visa",
+    "category": "visa",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Emergency (Entry) Visa service is only for US passport holders of Indian origin and their family members who need to visit India for a genuine family emergency, such as critical illness or death of a family member, and documentary evidence must be provided",
+      "Acceptable purposes include medical emergency in the immediate family, loss of life, or the applicant's own wedding, each supported by documentary evidence (e.g. hospital letter, death certificate)",
+      "Non-acceptable purposes include attending a wedding of family/friends, religious purposes, family reunion, or tourism",
+      "The applicant can only apply for an 'Entry Visa' (not a tourist visa), using the online government application form, and must select the correct Indian mission based on their US residence jurisdiction",
+      "Total fee for the emergency entry visa is $222 (Entry Visa fee $100 + Emergency Visa fee $100 + ICWF $3 + VFS Service fee $19), payable by money order or banker's check"
+    ],
+    "reference_chunk_ids": [
+      "f8ae5943-d315-582a-bcbc-d43d96be10f9",
+      "a5674f10-4d9b-536a-8598-b2588083c0a9",
+      "ddfeed33-099a-5279-9a22-5bee05363181"
+    ],
+    "reference_source_ids": [
+      "647db4bf-4348-4844-8dda-924fc95f3151"
+    ]
+  },
+  {
+    "id": "2083510818",
+    "query": "Need help with visa",
+    "category": "visa",
+    "expect_decline": true,
+    "decline_reason": "query is too vague/generic to identify a specific visa topic to ground an answer in the approved checklists (emergency, business, entry, or employment visa)",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "319753254",
+    "query": "My daughter is a us citizen and has Entry( X) multiple visa which is issued in 2017 and will get expired in 2022. Can she travel to India with this visa?",
+    "category": "visa",
+    "expect_decline": true,
+    "decline_reason": "topic not covered by any approved source in this category (the checklists describe new-application document requirements, not travel eligibility/validity questions about an already-issued visa)",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "323505468",
+    "query": "I have emergency travel plan in April for family emergency. I am Indian origin and us citizen. I would like to get emergency visa for my self and my 5 year old daughter. Please someone help me. I understand COVID19 situation but I wouldn’t go if that was not emergency. Thanks",
+    "category": "visa",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Emergency Visa service is only for US passport holders of Indian origin and their family members requiring to visit India for a genuine family emergency (e.g. critical illness or death of a family member), with documentary evidence required",
+      "Acceptable purposes include medical emergency in the immediate family or loss of life, supported by evidence such as a hospital letter or death certificate",
+      "For minor applicants (such as a 5-year-old), required documents include the birth certificate of the minor, copies of parents' passports and marriage certificate, and a notarized Parental Authorization Form (Annexure-B) signed by both parents",
+      "Minor applicants below 5 years old may provide a left thumb impression instead of a signature on the application, and both parents must sign the application"
+    ],
+    "reference_chunk_ids": [
+      "f8ae5943-d315-582a-bcbc-d43d96be10f9",
+      "d2bd74fd-f078-5f5f-be0a-768def107062"
+    ],
+    "reference_source_ids": [
+      "647db4bf-4348-4844-8dda-924fc95f3151"
+    ]
+  },
+  {
+    "id": "323539231",
+    "query": "I am still not getting that how and where can apply for emergency visa",
+    "category": "visa",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Applicants must select the correct Indian mission to apply to, based on where they reside in the USA and that mission's jurisdiction (viewable on the VFS Global 'attend centre' jurisdiction page)",
+      "The applicant can only apply for an 'Entry Visa' (not a tourist visa) using the online government application form",
+      "Online applications are only accepted if filled out in the current year and within 180 days of the date of submission",
+      "To apply, the applicant completes the questionnaire/registration process on the VFS India Consular Application Centre's website to obtain an application confirmation/payment confirmation, which must be enclosed with the application"
+    ],
+    "reference_chunk_ids": [
+      "a5674f10-4d9b-536a-8598-b2588083c0a9",
+      "6e8affd9-832e-5f69-811e-d6deb5a95329"
+    ],
+    "reference_source_ids": [
+      "647db4bf-4348-4844-8dda-924fc95f3151"
+    ]
+  },
+  {
+    "id": "347556751",
+    "query": "I am planning to travel to India and back to US. I am booking flight through Qatar Airways. My flights is from Savannah, GA (US) - New York (US) - Qatar - Ahmedabad, India. I am an Indian citizen on F-1 visa in US. Will I be allowed to enter India with the itinerary mentioned above? If yes, will I have to go through a mandatory institutional quarantine when I arrive at Ahmedabad (considering my RT-PCR test is negative)? Will I be allowed to come to US through the same itinerary back (considering my RT-PCR test is negative)?",
+    "category": "visa",
+    "expect_decline": true,
+    "decline_reason": "topic not covered by any approved source in this category (flight itinerary entry permission, quarantine rules, and RT-PCR/COVID travel requirements are not addressed in the visa checklists)",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "392125548",
+    "query": "My 17-year-old son who holds US passport has a tourist visa expiring in 2026. He recently got a new US passport. How can I transfer that visa to the new passport.",
+    "category": "visa",
+    "expect_decline": true,
+    "decline_reason": "topic not covered by any approved source in this category (transferring an existing visa to a new passport is not addressed by the new-application checklists)",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "432122965",
+    "query": "My mother - Mahananda Dombe is on a Bi-visa and we had applied for extension. We also did her Biometrics in March 2021. USCIS has raised a RFE as her fingerprints could not be validated by FBI. They have requested PCC for last 5 years. This is a very special request and I am not sure how to get this asap. Help will be much appreciated.",
+    "category": "visa",
+    "expect_decline": true,
+    "decline_reason": "personal case status involving a specific individual's USCIS Request for Evidence, not resolvable from static docs; also topic (USCIS RFE/PCC requirements) not covered by any approved source in this category",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "478366274",
+    "query": "My father is on a Tourist B1 Visa in the US. Can he apply at the Atlanta consulate to grant POA to hsi brother in India for a property sale in India?",
+    "category": "visa",
+    "expect_decline": true,
+    "decline_reason": "topic not covered by any approved source in this category (Power of Attorney/notarial services are not addressed by the visa checklists provided)",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  }
+]

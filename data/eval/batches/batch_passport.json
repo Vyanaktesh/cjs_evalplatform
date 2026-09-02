@@ -1,0 +1,603 @@
+{
+ "categories": [
+  "passport_lost_damaged"
+ ],
+ "queries": [
+  {
+   "ticket_id": "25240074637",
+   "query": "Re-issue of ordinary passport of 36 pages in lieu of lost, stolen or damaged passport",
+   "duplicate_count": 3,
+   "created_year_month": "2025-06",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "586360623",
+   "query": "My Daughter and Wife stays in Atlanta, GA, USA. My Daughter's passport was expired and while sent for reissue, it was lost in courier. I live in India. When sent for a reissue on lost category, the following issue is stated:\n1. Additional documents : NO OBJECTION CERTIFICATE FROM FATHER REQUIRED\n2. Annexure C : MISSING MOTHERS SIGN ON ANNEXURE C.\nWe understand point 2, but not sure about the format of 'NO OBJECTION CERTIFICATE FROM FATHER REQUIRED'. So my wife is looking for an appointment of visit in the Atlanta Passport office.\nSo,\n1. What is the way to book an appointment in passport office visit in Atlanta, GA, USA\n2. What is the format of 'NO OBJECTION CERTIFICATE FROM FATHER REQUIRED'",
+   "duplicate_count": 2,
+   "created_year_month": "2021-10",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "745198893",
+   "query": "I APPLIED MY PASSPORT TWICE, FEBRUARY 2021 MY ORIGINAL PASSPORT LOST ON TRANSITION TO THE AMBASSY .THEN I APPLIED AGAIN IN NOVEMBER 2021.",
+   "duplicate_count": 2,
+   "created_year_month": "2022-01",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "2113821088",
+   "query": "I lost my passport, I want to reapply my passport. I have travel to india in december 15. Can I take an inperson appointment to reapply for my lost passport.",
+   "duplicate_count": 2,
+   "created_year_month": "2023-11",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "17183310466",
+   "query": "I have applied for the reissue if passport since i have lost my passport, so i had submitted the required documents that are need for passport application ,how many days it gonna take to get my passport or what's the further process",
+   "duplicate_count": 2,
+   "created_year_month": "2024-12",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "41721262771",
+   "query": "I have to renew my daughter's passport. Since we are in Atlanta, and Passport application center VFS is near to our palace, can we directly submit the application in the center in person and collect the new passport in person instead of shipping. We have 2 experience for our friends, they lost their passports in shipping. We don't need to take a risk",
+   "duplicate_count": 2,
+   "created_year_month": "2026-02",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "44784950704",
+   "query": "Report lost passport",
+   "duplicate_count": 2,
+   "created_year_month": "2026-04",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "328131477",
+   "query": "i would like to get lost passport clearance certificate for me.",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "329237684",
+   "query": "I lost my passport in a house fire in Miami but I am relocating to Boston for a few weeks to live with family, where should I file my lost passport query",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "329321518",
+   "query": "what documents are required for notarization if passport is lost",
+   "duplicate_count": 1,
+   "created_year_month": "2021-03",
+   "category": "passport_lost_damaged",
+   "expect_decline": false
+  }
+ ],
+ "source_chunks": {
+  "passport_lost_damaged": [
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "285b2ad5-53f0-54a3-a9a9-7b3b0ffdc640",
+    "chunk_index": 0,
+    "chunk_text": "MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ THE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR PASSPORT RE-ISSUE. YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE. IMPORTANT GUIDELINES\n• IT IS ABSOLUTELY MANDATORY to complete VFS ONLINE REGISTRATION PROCESS before sending your physical application. Failure to complete online registration process will result in returning your application unprocessed.\n• All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible, and other information should be clearly readable.\n• Please do not send original documents unless specified. VFS will not be responsible for the return of any additional original documents submitted.\n• Please ensure that all data entries provided in your application match with your existing passport. If not, please provide the supporting documentation.\n• Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at https://services.vfsglobal.com/usa/en/ind/attend -centre\n• You are recommended to fill in the passport application form if your form has been completed more than 150 days ago. This might help avoid any processing delays in case your form expires at 180 days before submission to the Mission’.\n• After submission online, no changes can be made. In case of an error, please fill in a new online application form."
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "ad2b5386-0b6b-573e-88aa-3d96205008ee",
+    "chunk_index": 1,
+    "chunk_text": "MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\n• If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48 -72 hours.\n• Envelope should be super scribed as “RE-ISSUANCE OF PASSPORT IN LIEU OF EXISTING PASSPORT – ADULT”. One Envelope can contain only one application only. Please note:\n• VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form.\n• THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. YOUR APPLICATION STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. T THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "39f77633-ea27-52d0-9293-7a7dbed31faf",
+    "chunk_index": 2,
+    "chunk_text": "MANDATORY DOCUMENTS\n\n1 GOVERNMENT APPLICATION ONLINE FORM: (DIGITAL SIGNATURES ARE NOT ACCEPTABLE) ORIGINAL IT IS MANDATOY TO UPLOAD PHOTO & SIGNATURE ON THE GOVERNMENT WEBSITE. APPLICATIONS WILL BE RETURNED UNPROCESSED IF PHOTO AND SIGNATURE IS NOT UPLOADED BEFORE APPLYING.\n• Must select a correct Jurisdiction online on the Passport Govt. form.\n• Must Choose passport Re-issue.\n• Passport government ARN number must match the VFS Payment receipt number. ONLINE APPLICATION FORM\n• The application must be completed and submitted online by visiting: https://embassy.passportindia.gov.in\n• First-time applicants need to register and make an account to be able to fill the online application form. If registered already, please log in and fill the application\n• In “Type of passport booklet”, Please select “36 pages” or “60 pages” (for jumbo booklet- Additional charges) SIGNATURE INSTRUCTIONS (DIGITAL SIGNATURES ARE NOT ACCEPTABLE)\n• Sign on Page 1, inside the box, below your photograph, and on page 4."
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "379e8c0c-adf1-5df8-9813-3c321831554b",
+    "chunk_index": 3,
+    "chunk_text": "MANDATORY DOCUMENTS > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n• Minor Applicant (Below 18 Years): (Refer to additional documents for minors on the next page of this checklist) - All Minor applicants need to write their name or sign in the space provided on the first page of the application form below the photograph. Minor applicants below 5 years may put left thumb impression on the space provided. Both parents should sign on the last page of the application.\n• Both parents must sign on page 4 of the online application form below the minor’s signature/thumb Impression.\n• If the signature is different, a new signature should be given in the ‘Affidavit for Change of Appearance and Signature. INSTRUCTIONS:\n• Please ensure to mention 1 Indian and 1 USA address in the online application form. 2 PHOTOGRAPH SPECIFICATIONS ( Must be white background) ORIGINAL IT IS MANDATOY TO UPLOAD PHOTO & SIGNATURE ON THE GOVERNMENT WEBSITE. APPLICATIONS WILL BE RETURNED UNPROCESSED IF PHOTO AND SIGNATURE IS NOT UPLOADED BEFORE APPLYING.\n• 2 photos of size 51mm x 51 mm (2 by 2 size) preferably White Background– PHOTOGRAPHS MUST BE IDENTICAL.\n• The photo must be taken within 6 months.\n• Shoulder must be visible\n• Without glasses\n• Without flashlight reflection\n• With colored shirt to distinguish with white background\n• With good lighting on the face."
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "2bbbc49f-9505-5a65-b1da-67e394d27165",
+    "chunk_index": 4,
+    "chunk_text": "MANDATORY DOCUMENTS > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\n• Photos must be compliant with specifications; Affix 01 photograph on Govt. form and 01 on change of appearance form To know more about photo specifications – Please click here 3 CURRENT ORIGINAL INDIAN PASSPORT AND COPY ORIGINAL AND COPY Along with the most recent original Indian Passport, please include copies of the first and last page (Applicant’s Bio & Family details page). 4 AFFIDAVIT FOR CHANGE OF APPEARANCE & SIGNATURE - Click here to download ORIGINAL Must be signed by the applicant. Affidavit for Change in Appearance & Signature is Mandatory for all applicants. In case of Short Validity Passport reissue applications for Asylum and U visa cases the affidavit for change in appearance & signature must be mandatory to be notarized (Expiry date of the Notary stamp must not be manually corrected or over- write). 5 ANNEXURE E - Click here to download ORIGINAL Must be signed by the applicant. 6 Annexure D - Click here to download ORIGINAL Must be signed by both parents and notarized. If one of the parents is out of the country, please provide Annexure D from that parent duly"
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "964e3d26-4e70-5380-9126-44af3ffcab07",
+    "chunk_index": 5,
+    "chunk_text": "MANDATORY DOCUMENTS > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ notarized by the notary public in that country and a notarized No Objection Letter from the parent who is out of the country. 7 COPY OF THE VALID STATUS IN THE USA NOTARIZED COLOR COPY IN Please submit one of the below documents as applicable, in Color – copy & Notarized (with ORIGINAL Stamp and Notary signature): - (Expiry date of the\n• Notary stamp must Notarized valid Green Card - FRONT AND BACK not be manually\n• Notarized valid Visa, corrected or over-\n• Notarized valid EAD - FRONT AND BACK write)\n• Notarized valid I-797A Approval Notice,\n• Notarized valid Work permit/Study Permit, OR\n• Notarized recently expired Visa and notarize I-797A Approval notice together with notarized I- 797C Receipt Notice for filing of a request for extension before the expiry of Visa or I-797A. Notarized copy of proof of extension, if B1/B2 is expired and have a receipt for extension of stay or an approval for extension of stay.\n• Notarized hotel bill - If the customer on L1/L3 staying in a hotel for a project for the past couple of months and doesn’t have the address proof or state ID. 8 PROOF OF ADDRESS IN THE USA (Color-Copy) COLOR COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n• State Issued ID OR\n• Driving license OR\n• Utility Bill - Water (should be recent, no more than 3 months old) OR\n• Utility Bill - Gas (should be recent, no more than 3 months old) OR\n• Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n• Valid Lease Agreement OR\n• Mortgage OR\n• Income Tax return OR"
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "7e82a2e3-0baf-5f3e-91cf-378831cfb8c0",
+    "chunk_index": 6,
+    "chunk_text": "MANDATORY DOCUMENTS > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\n• For College/University Students living on campus in university housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. OR\n• Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along with parent’s address proof. OR\n• In case of applicant residing with parents/children/brother/Sister, a notarized undertaking from them with one of the notarized copies of address proof as indicated above. OR\n• In case of applicants residing in a hotel or temporary lodging for a short period of time and does not have permanent address proof, then can submit copy of notarized hotel bills as proof of residence. NOTE\n• Expired documents like lease/ driving license copies are not acceptable. Please provide alternate valid documents."
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "9b8af662-1bcf-561a-8de6-08d124cae913",
+    "chunk_index": 7,
+    "chunk_text": "MANDATORY DOCUMENTS > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n• DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address 9 ANNEXURE F – Click here to download ORIGINAL 10 PARENTS INDIAN PASSPORT COPIES SELF-ATTESTED COPY Self-attested Copies of both parents’ first and last page of the Valid Indian Passport 11 Parents Valid Legal Status in the USA NOTARIZED COLOR COPY IN Notarized copies of both parents’ valid legal status in the USA. ORIGINAL (Expiry date of the Notary stamp must not be manually corrected or over- write) 12 BIRTH CERTIFICATE COPY A copy of the applicant’s birth certificate is required. 13 FEE PAYMENTS & COURIERS ORIGINAL Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt and enclose the acceptable pre-paid label, if you opt to use your own courier labels. Either pre-paid labels or VFS offered courier label return address must match the address proof submitted and mentioned on the application form. To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker’s check then it should be made in favor of “VFS Services\n(USA) Inc.” PERSONAL CHECKS ARE NOT ACCEPTABLE. FEDEX PREPAID LABELS ARE NOT ACCEPTABLE."
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "a1e6a409-fe34-5a69-b460-057d93cd4357",
+    "chunk_index": 8,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED\n\n1 Annexure C - Click here to download COPY For single parent/guardian or adoption/separation cases, or if one parent has not given consent, please also fill in and sign (If applicable) If the parents are divorced but custody is shared\n• Custody is shared then both parent’s documents listed under the mandatory document’s checklist are required."
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "830660b3-8cc2-5d21-bed7-9c58c57d5976",
+    "chunk_index": 9,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ If the parents are divorced but one parent has sole custody\n• Sole custody is with one of the parents then Annexure C, Annexure D, Divorce Decree and Custody documents are required. 2 Death Certificate of Parent COPY If one of the parent is deceased/demised – A copy of the death certificate along with the Annexure C, and Annexure D is required. 3 AFFIDAVIT OF NAME CHANGE (ORIGINAL -NOTARIZED (WITH STAMP AND NOTARY NOTARIZED AND SIGNATURE) - Click here to download ORIGINAL IMPORTANT: (Expiry date of the Notary stamp must not be manually corrected or over-write) 4 INDIAN ADDRESS PROOF (IF APPLICANTS WANTS TO ADD/CHANGE INDIAN ADDRESS) SELF-ATTESTED COPY\n• Aadhar Card OR\n• Recent Bank Statement from Government bank (Should have affixed photograph) OR\n• Driver’s license OR\n• Utility bill not older than 3 months OR\n• Voter Card ID OR\n• Copy of Ration card which has the parents name – Should have names of applicant and parents OR\n• Copy of Photo passbook of PSU Bank OR\n• Copy of Parents Passport copy as their name is on the applicant passport OR\n• Parents or relatives address of Indian address proof (any one address proof as indicated above) 5 CHANGE IN PARENT’S NAME SELF-ATTESTED COPY If you wish to change your parents name then to provide two supporting public documents in India, such as Passport copy, Aadhar Card, Voter Card or PAN Card, Educational Qualification Certificate etc. with the parents' new names. 6 NEWSPAPER ADVERTISEMENT SELF-ATTESTED COPY In circumstances (other than marriage, remarriage, or divorce) for change of name, the applicant (both male and female) should furnish the following documents:"
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "66b96c9b-349b-5cb1-b0b8-9c50d72892c4",
+    "chunk_index": 10,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\n1) Submit the full page of the below mentioned clearly showing the date, name of the News Paper and the content\n• Publication in a National daily in India and\n• Publication in a National daily in the USA or the Gazette notification of the concerned State Government, as the case may be;\n2) At least two public/school documents issued in the desired/applied changed the name to ascertain that the applicant has changed his/her name. 7 COURT ORDER ISSUED BY JUDICIAL OFFICER SELF-ATTESTED COPY"
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "6f5c3887-01c2-5db8-9a86-1e0d9888f8e0",
+    "chunk_index": 11,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ A court order issued by a judicial officer, not below the rank of 1st Class Magistrate in India OR A Competent Authority (issues an amendment or correction in the date/place of birth of the applicant. The Competent Authority issuing the amending order should be the same authority whose certification was submitted at the time of the issue of the original passport. The Competent Authority in such cases can be Municipal Authorities (for date/place of birth and Educational Board Authority (for date of birth). Birth Certificate issued by Government/Municipal authorities. 8 BIRTH CERTIFICATE OR SCHOOL LEAVING CERTIFICATE SELF-ATTESTED COPY Birth certificate/ School leaving certificate having the correct name of father/mother 9 INDIAN ADDRESS SELF-ATTESTED COPY Applicants must write their Indian address / last known Indian address in the Passport Application Form. This could be in either the ‘To be printed on Passport’ or ‘Other Address Details’ columns or the same Indian address can be mentioned in both the columns. 10 CHANGE OF DATE OF BIRTH: SELF-ATTESTED COPY\n1) In respect of person born before the 1st October, 2023 (attach one of the following)\n• Birth certificate issued by the Registrar of Births and Deaths or the Municipal Corporation or any other authority, empowered under the Registration of Births and Deaths Act, 1969 (18 of 1969); or\n• Transfer or school leaving or matriculation certificate issued by the recognized school last attended or recognized educational board having the date of birth of the applicant; or"
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "82d1a7fe-0c5d-5dda-9fd0-59e739a741d8",
+    "chunk_index": 12,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\n• Permanent Account Number Card issued by the Income-tax Department having the date of birth of the applicant; or\n• Copy of an extract of the service record of the applicant (only in respect of Government servants) or the Pay Pension Order (in respect of retired Government servants), duly attested or certified by the officer-in-charge of the administration of the concerned Ministry or Department of the applicant, having his date of birth; or\n• Driving licence issued by the Transport Department of the concerned State Government, having the date of birth of the applicant; or\n• Election Photo Identity Card issued by the Election Commission of India containing the date of birth of the applicant; or\n• Policy bond issued by the Life Insurance Corporations of India or Public Companies having the date of birth of the holder of the insurance policy.\n2) In respect of person born on or after 1st October, 2023 (attach the following) ─\n• Birth certificate issued by the Registrar of Births and Deaths or the Municipal Corporation or any other authority, empowered under the Registration of Births and Deaths Act, 1969 (18 of 1969)."
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "9f18dc9e-9d3e-5446-b3e0-e5ddb9828c61",
+    "chunk_index": 13,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\n(Signature of the Applicant)"
+   },
+   {
+    "source_id": "55846d72-8682-4b51-8694-c46335be8223",
+    "title": "Minor re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/MINOR-CHECKLIST%E2%80%93REISSUE-OF-PASSPORT-IN-LIEU-OF-DAMAGED-2025-June-19.doc-revised-updated.pdf",
+    "chunk_id": "f4871c96-86a9-5fe2-83b4-c86e49096661",
+    "chunk_index": 14,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > MINOR CHECKLIST – REISSUE OF PASSPORT IN LIEU OF DAMAGED\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ Important Notes / Common Mistakes to avoid COMMON MISTAKES TO AVOID  Wrong Jurisdiction selection done by Applicant on the Govt. form  CAPITAL LETTERS must be used to fill the Online Passport Application form on the Government Website.  Please Sign the Passport Application Form wherever indicated before submission  Ensure that the signatures on the passport and on the Application Form are the same  Given Name on Govt. Form does not match with the name mentioned on Current Indian Passport.  Surname on Govt. Form does not match with the name mentioned on Current Indian Passport  Date of birth on Govt. Form does not match with the date of birth mentioned on Current Indian Passport  Sex on Govt. Form does not match with the sex details mentioned on Current Indian Passport.  Passport number on Govt. Form does not match with the passport number mentioned on Current Indian Passport.  Place of birth on Govt. Form does not match with the place of birth mentioned on Current Indian Passport.  Issue date of passport on Govt. Form does not match with the issue date of passport mentioned on Current Indian Passport.  Place of issue on Govt. Form does not match with the place of issue on mentioned on Current Indian Passport.  Address on the government form does not match with the address on the Current Indian Passport.  Nationality mentioned on the government form does not match with the nationality on the Current Indian Passport.  Ensure that the following details are the same as mentioned in your old passport. If not, the supporting documents must be attached. Name o Applicant’s Spouse Name o Applicant’s Father Name o  Ensure that in the Place of Birth field, you do not put ‘India’ as the city and state  If you have more than 1 original Passport, then you need to provide the copies of all the passports  Only print your forms/applications on 1 side of the page. Double-sided printouts are not allowed  DO NOT staple your photographs/documents  The Documents in the Checklist are mandatory for the application to be processed.  The Indian Embassy / Consulates have the right to request additional documentation.  1 Copy of this checklist must be submitted with your documents.  Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED  HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED  Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided.  Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned"
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "7013fee7-d63e-5d1b-ae53-295280fefcfd",
+    "chunk_index": 0,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "e59ffbe2-487f-57c1-b7a6-b03514e9ff9b",
+    "chunk_index": 1,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nTHE FOLLO WING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR PASSPO RT RE -ISSUE. YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "cc4a131d-b36e-5068-8c62-ba06dc24d65b",
+    "chunk_index": 2,
+    "chunk_text": "IMPORTANT GUIDELINE S\n\n➢ IT IS ABSOLUTELY MAND ATORY to complete VFS ONLINE REGISTRATION PROCESS before sending your physical application. Failure to complete online registration process will result in returning your application unprocessed. ➢ All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible and other information should be clearly readable. ➢ Please do not send original documents unless specified. VFS will not be responsible for return of any additional original documents submitted. ➢ Please ensure that all data entries provided in your application match with your existing passport. If not, please provide the supporting documentation. ➢ Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e ➢ You are recommended to fill the passport application form if your form has been completed more than 150 days ago. This might help avoid any processing delays in case your form expires at 180 days before submission to the Mission’ ➢ After submission online, no changes can be made. In case of an error, please fill a new online application form. ➢ If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48-72 hours. ➢ Envelope should be super scribed as “RE-ISSUANCE IN LIEU OF LOST PASSPORT”. One Envelope can contain only one application only. Please note: ➢ VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form. ➢ THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. ➢ YOUR APPLICATIO N STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. TO TRACK THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "c6e210d8-9858-515b-ac42-83521aca537b",
+    "chunk_index": 3,
+    "chunk_text": "M A N D AT ORY D OCU M E N TS > S.N Document Name Original or Copy\n\n1 ORIGINAL GOVERNMENT APPLICATION ONLINE FORM: (DIGITAL SIGNATURES ARE NOT ACCEPTABLE)\n• Must select a correct Jurisdiction online on the Passport Govt. form.\n• Must Choose Passport Re-issue and the reason has to be lost.\n• Passport government ARN number must match the VFS Payment receipt number. ONLINE APPLICA TION FORM The application must be completed and submitted online by visiting:"
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "70101afb-06e3-553b-abce-cc67a01b303e",
+    "chunk_index": 4,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "6065e74f-5749-54bc-b234-fbba2a1fdaef",
+    "chunk_index": 5,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost > S.N Document Name Original or Copy\n\nhttps://embassy.passportindia.gov.in\n- First-time applicants need to register and make an account to be able to fill the online application form. If registered already, please log in and fill the application\n- In “Type of passport booklet”, Please select “36 pages” or “60 pages” (for jumbo booklet- Additional charges) SIGNATU RE INSTRUCTIONS (DO NOT PUT THU MBPRINT)\n- Sign on Page 1, inside the box, below your photograph, and on page 4. ADDRESS INSTRUCTIONS: Please ensure to mention 1 Indian and 1 USA address in the online application form. 2 PHOTOGRA PH SPECIFICATIONS (Must be white background) ORIGINAL o 2 photos of size 51mm x 51 mm (2 by 2 size) preferably White Background – PHOTOGRAPHS MUST BE IDENTICAL. o Must be recently taken within 6 months. o Shoulder must be visible o Without glasses o Without flashlight reflection o With colored shirt to distinguish with white background o With good lighting on the face. o Photos must be compliant with specifications; Affix 01 photograph on Govt. form and 01 on change of appearance form To know more about photo specifications – Please click here 3 CURRENT INDIAN PASSPORT COPY ORIGINAL AND Please Include copies of the first five and last two pages of your current Indian passport. COPY In case the applicant does not have the Indian passport copies please supply Indian origin proof:\n- Birth certificate or\n- Aadhar Card or"
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "7b9c5e39-043d-50be-837d-a0ae99c94f71",
+    "chunk_index": 6,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost > S.N Document Name Original or Copy\n\n- Voter ID 4 Affidavit for change of appearance & Signature - click here to download NOTARIZED AND Must be signed by the applicant and Notarized (with Stamp and Notary Signatory) ORIGINAL IMPORTA NT: Affidavit for Change in Appearance & Signature is Mandatory for all applicants. (Expiry date of the Notary stamp must not be manually corrected or over-write) 5 Annexure E - Click here to download ORIGINAL Must be signed by the applicant. 6 COPY OF THE VALID STATUS IN THE USA NOTARIZED Please submit one of the below documents as applicable, in Color – copy & Notarized (with Stamp COLOR COPY IN and Notary signature):- ORIGINAL\n- Notarized valid Green Card - FRONT AND BACK (Expiry date of\n- Notarized valid Visa, the Notary\n- Notarized valid EAD - FRONT AND BACK stamp must not\n- Notarized valid I-797A Approval Notice, be manually\n- Notarized valid Work permit/Study Permit, OR corrected or\n- Notarized recently expired Visa and notarize I-797A Approval notice together with notarized over-write) I-797C Receipt Notice for filing of a request for extension before the expiry of Visa or I -797A. Notarized copy of proof of extension, if B1/B2 is expired and have a receipt for extension of stay or an approval for extension of stay. Notarized hotel bill - If the customer on L1/L3 staying in a hotel for a project for the past couple of months and don’t have the address proof or state ID."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "c9833968-4b2b-5c9b-a002-fd353d0ccc7e",
+    "chunk_index": 7,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "3392d497-bcfb-5ab5-9b93-edefc542ef11",
+    "chunk_index": 8,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost > S.N Document Name Original or Copy\n\n7 PROOF OF ADDRESS IN THE USA (Color -Copy) Proof of address must match with the present address as per application: (any ONE of the below COLOR COPY documents) State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. OR\n- Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along with parent’s address proof. OR"
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "215fc446-2a9f-50b2-b1b5-4fdd691e89fc",
+    "chunk_index": 9,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost > S.N Document Name Original or Copy\n\n- In case of applicant residing with parents/children/brother/sister, a notarized undertaking from them with one of the notarized copies of address proof as indicated above. OR -In case of applicant residing in a hotel or temporary lodging for a short period of time and does not have a --permanent address proof, then can submit copy of notarized hotel bills as proof of residence. -Please note – expired documents like lease/ driving license copies are not acceptable. Please provide alternate valid documents NOTE: DO NOT CUT YOU R DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address 8 ANNEXURE F - Click here to download ORIGINAL 9 DETAILED AND APPROVED POLICE REPORT Self-Attested In case of Loss passport – Police report with the name of the applicant (s) and reference of the lost Copy document (s) (e.g. Passport): NOTE: CURRENT POLICE REPORT MUST NOT BE MORE THAN 6 MONTHS OLD."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "a0b3440c-9205-5846-bff0-3c33a6cca57e",
+    "chunk_index": 10,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost > S.N Document Name Original or Copy\n\n• The Police report should be approved and not pending, detailed and must include applicant’s information. The report should also give the information on how the passport is lost or stolen. 10 FEE PAYMENTS & COURIERS ORIGINAL Complete the process online on VFS INDIA CONSULAR APPLICATION CEN TRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt and enclose the acceptable pre-paid label, if you opt to use your own courier labels. Either Pre-paid labels or VFS offered courier label return address must match with the address proof submitted and mentioned on the application form. To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker’s check then it should be made in favor of “ VFS Services\n(USA) Inc . PERSONAL CHECKS ARE NOT ACCEPTABLE."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "01bf636b-1919-5325-ac11-31db607ffa90",
+    "chunk_index": 11,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "29426f46-712f-5ca5-b9b9-5866e161b2af",
+    "chunk_index": 12,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost > S.N Document Name Original or Copy\n\nFEDEX PREPAID LABELS ARE NOT ACCEPTABLE."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "4fd9c594-60c5-5548-8e32-f794b77c6465",
+    "chunk_index": 13,
+    "chunk_text": "SU PP ORTI N G D OCU M E N TS – CO N D ITI ON BASE D\n\n1 Remove/Change the Spouse Name: Applicant has to provide supporting documents if there is a change or deletion of spouse name for instance: Divorce decree or and new marriage certificate or and death certificate. 1 AFFIDAVIT OF NA ME CHANGE (Original -Notarized (with Stamp and Notary Signature) - Click NOTARIZED AND here to download ORIGINAL IMPORTA NT: (Expiry date of the Notary stamp must not be manually corrected or over-write) 2 INDIAN ADDRESS PROOF (If Applicants wants to add/Change Indian Address) Self-Attested Aadhar Card copy OR Recent Bank Statement from Government bank (Should have affixed photograph) OR Driver’s license OR Utility bill not older than 3 months OR Voter Card ID OR Copy of Ration card which has the parents name – Should have names of applicant and parents OR Copy of Photo passbook of PSU Bank OR Copy of Parents Passport copy as their name is on the applicant passport OR Parents or relatives address of Indian address proof (any one address proof as indicated above) 3 CHA NGE IN PARENT’S NAME Self-Attested If you wish to change your parents name then to provide two supporting public documents in copy India, such as Passport copy, Aaadhar Card, Voter Card or PAN Card, Educational Qualification Certificate etc. with the parents' new names 4 NEWSPAPER ADVERTISEMENT Self-Attested In circumstances (other than marriage, remarriage, or divorce) for change of name, the applicant copy (both male and female) should furnish the following documents:\n1. Submit the full page of the below mentioned clearly showing the date, name of the News Paper and the content\na. Publication in a National daily in India and"
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "2d7ddbbb-59d7-56a6-8762-7673fe1a1348",
+    "chunk_index": 14,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "13b0711e-68de-5ba6-8786-f0db7b98a0a0",
+    "chunk_index": 15,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost > S.N Document Name Original or Copy\n\nb. Publication in a National daily in the USA or the Gazette notification of the concerned State Government, as the case may be;\n2. At least two public/school documents issued in the desired/applied changed the name to ascertain that the applicant has changed his/her name 5 COU RT ORDER ISSUED BY JUDICIAL OFFICER Self-Attested A court order issued by a judicial officer, not below the rank of 1st Class Magistrate in India OR a copy Competent Authority (issues an amendment or correction in the date/place of birth of the applicant. The Competent Authority issuing the amending order should be the same authority whose certification was submitted at the time of the issue of the origi nal passport. The Competent Authority in such cases can be Municipal Authorities (for date/place of birth and Educational Board Authority (for date of birth). Birth Certificate issued by Government/Municipal authorities. 6 BIRTH CERTIFICATE OR SCHOOL LEAVING CERTIFICATE Self-Attested Birth certificate/ School leaving certificate having the correct name of father/mother copy 7 INDIAN ADDRESS Self-Attested Applicants must write their Indian address / last known Indian address in the Passport Application copy Form. This could be in either the ‘To be printed on Passport’ or ‘Other Address Details’ columns or the same Indian address can be mentioned in both the columns."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "be5b50ff-2cee-581d-93fe-dfc0a7e2e107",
+    "chunk_index": 16,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "628040e2-7744-4f13-9326-0832e226245c",
+    "title": "Adult re-issue in lieu of lost",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-Lost-Adult.pdf",
+    "chunk_id": "a9af733a-3edb-543e-9c1d-a75a040de86a",
+    "chunk_index": 17,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Lost > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nImportant Notes / Common Mistakes to avoid COMMON MISTAKES TO AVOID ❖ Wrong Jurisdiction selection done by Applicant on the Govt. form ❖ CAPITAL LETTERS must be used to fill the Online Passport Application form on the Government Website. ❖ Please Sign the Passport Application Form wherever indicated before submission ❖ Ensure that the signatures on the passport and on the Application Form are the same ❖ Given Name on Govt. Form does not match with the name mentioned on Current Indian Passport. ❖ Surname on Govt. Form does not match with the name mentioned on Current Indian Passport ❖ Date of birth on Govt. Form does not match with the date of birth mentioned on Current Indian Passport ❖ Sex on Govt. Form does not match with the sex details mentioned on Current Indian Passport. ❖ Passport number on Govt. Form does not match with the passport number mentioned on Current Indian Passport. ❖ Place of birth on Govt. Form does not match with the place of birth mentioned on Current Indian Passport. ❖ Issue date of passport on Govt. Form does not match with the issue date of passport mentioned on Current Indian Passport. ❖ Place of issue on Govt. Form does not match with the place of issue on mentioned on Current Indian Passport. ❖ Address on the government form does not match with the address on the Current Indian Passport. ❖ Nationality mentioned on the government form does not match with the nationality on the Current Indian Passport. ❖ Ensure that the following details are the same as mentioned in your old passport. If not, the supporting documents must be attached. o Name • Applicant’s Spouse Name • Applicant’s Father Name ❖ Ensure that in the Place of Birth field, you do not put ‘India’ as the city and state ❖ If you have more than 1 original Passport , then you need to provide the copies of all the passports ❖ Only print your forms/applications on 1 side of the page. Double-sided printouts are not allowed ❖ DO NOT staple your photographs/documents ❖ The Documents in the Checklist are mandatory for the application to be processed. ❖ The Indian Embassy / Consulates have the right to request additional documentation. ❖ 1 Copy of this checklist must be submitted with your documents. ❖ Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED ❖ HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED ❖ Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided. ❖ Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned"
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "4a547e01-d6be-51a6-ab75-ea425e534060",
+    "chunk_index": 0,
+    "chunk_text": "ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ THE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR PASSPORT RE-ISSUE. YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE. IMPORTANT GUIDELINES\n• IT IS ABSOLUTELY MANDATORY to complete VFS ONLINE REGISTRATION PROCESS before sending your physical application. Failure to complete online registration process will result in returning your application unprocessed.\n• All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible, and other information should be clearly readable.\n• Please do not send original documents unless specified. VFS will not be responsible for the return of any additional original documents submitted.\n• Please ensure that all data entries provided in your application match with your existing passport. If not, please provide the supporting documentation.\n• Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at https://services.vfsglobal.com/usa/en/ind/attend -centre\n• You are recommended to fill in the passport application form if your form has been completed more than 150 days ago. This might help avoid any processing delays in case your form expires at 180 days before submission to the Mission’.\n• After submission online, no changes can be made. In case of an error, please fill in a new online application form."
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "b10681d2-9fb4-50f7-bb6d-032b48daa125",
+    "chunk_index": 1,
+    "chunk_text": "ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\n• If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48 -72 hours.\n• Envelope should be super scribed as “RE-ISSUANCE OF PASSPORT IN LIEU OF EXISTING PASSPORT – ADULT”. One Envelope can contain only one application only. Please note:\n• VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form.\n• THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. YOUR APPLICATION STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. T THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "93ec9659-36ea-571c-8af6-4b6d0cb32bfe",
+    "chunk_index": 2,
+    "chunk_text": "MANDATORY DOCUMENTS\n\n1 GOVERNMENT APPLICATION ONLINE FORM: (DIGITAL SIGNATURES ARE NOT ACCEPTABLE) ORIGINAL IT IS MANDATOY TO UPLOAD PHOTO & SIGNATURE ON THE GOVERNMENT WEBSITE. APPLICATIONS WILL BE RETURNED UNPROCESSED IF PHOTO AND SIGNATURE IS NOT UPLOADED BEFORE APPLYING.\n• Must select a correct Jurisdiction online on the Passport Govt. form.\n• Must Choose passport Re-issue.\n• Passport government ARN number must match the VFS Payment receipt number. ONLINE APPLICATION FORM\n• The application must be completed and submitted online by visiting: https://embassy.passportindia.gov.in\n• First-time applicants need to register and make an account to be able to fill the online application form. If registered already, please log in and fill the application\n• In “Type of passport booklet”, Please select “36 pages” or “60 pages” (for jumbo booklet- Additional charges) SIGNATURE INSTRUCTIONS (DO NOT PUT THUMBPRINT)\n• Sign on Page 1, inside the box, below your photograph, and on page 4."
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "6ad98367-55ea-5d1c-b513-bc4b41a9293e",
+    "chunk_index": 3,
+    "chunk_text": "MANDATORY DOCUMENTS > ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ ADDRESS INSTRUCTIONS\n• Please ensure to mention 1 Indian and 1 USA address in the online application form. 2 PHOTOGRAPH SPECIFICATIONS ( Must be white background) ORIGINAL IT IS MANDATOY TO UPLOAD PHOTO & SIGNATURE ON THE GOVERNMENT WEBSITE. APPLICATIONS WILL BE RETURNED UNPROCESSED IF PHOTO AND SIGNATURE IS NOT UPLOADED BEFORE APPLYING.\n• 2 photos of size 51mm x 51 mm (2 by 2 size) preferably White Background– PHOTOGRAPHS MUST BE IDENTICAL.\n• Photo must be taken within 6 months.\n• Shoulder must be visible\n• Without glasses\n• Without flashlight reflection\n• With colored shirt to distinguish with white background\n• With good lighting on the face.\n• Photos must be compliant with specifications; Affix 01 photograph on Govt. form and 01 on change of appearance form To know more about photo specifications – Please click here 3 CURRENT ORIGINAL INDIAN PASSPORT AND COPY ORIGINAL AND COPY Along with the most recent original Indian Passport, please include copies of the first and last page (Applicant’s Bio & Family details page). 4 AFFIDAVIT FOR CHANGE OF APPEARANCE & SIGNATURE - Click here to download ORIGINAL Must be signed by the applicant. Affidavit for Change in Appearance & Signature is Mandatory for all applicants. In case of Short Validity Passport reissue applications for Asylum and U visa cases the affidavit for change in appearance & signature must be mandatory to be notarized (Expiry date of the Notary stamp must not be manually corrected or over- write). 5 ANNEXURE E - Click here to download ORIGINAL Must be signed by the applicant."
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "9a37c2b6-a609-56c3-ab5c-b7650e7b4b69",
+    "chunk_index": 4,
+    "chunk_text": "MANDATORY DOCUMENTS > ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\n6 COPY OF THE VALID STATUS IN THE USA NOTARIZED COLOR COPY IN Please submit one of the below documents as applicable, in Color – copy & Notarized (with ORIGINAL Stamp and Notary signature): - (Expiry date of the\n• Notary stamp must Notarized valid Green Card - FRONT AND BACK not be manually\n• Notarized valid Visa, corrected or over-\n• Notarized valid EAD - FRONT AND BACK write)\n• Notarized valid I-797A Approval Notice,\n• Notarized valid Work permit/Study Permit, OR\n• Notarized recently expired Visa and notarize I-797A Approval notice together with notarized I- 797C Receipt Notice for filing of a request for extension before the expiry of Visa or I-797A. Notarized copy of proof of extension, if B1/B2 is expired and have a receipt for extension of stay or an approval for extension of stay.\n• Notarized hotel bill - If the customer on L1/L3 staying in a hotel for a project for the past couple of months and doesn’t have the address proof or state ID. Applicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ 7 PROOF OF ADDRESS IN THE USA (Color-Copy) COLOR COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n• State Issued ID OR\n• Driving license OR\n• Utility Bill - Water (should be recent, no more than 3 months old) OR\n• Utility Bill - Gas (should be recent, no more than 3 months old) OR\n• Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n• Valid Lease Agreement OR\n• Mortgage OR\n• Income Tax return OR\n• For College/University Students living on campus in university housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. OR"
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "1fcb80c9-31b1-58cc-99bc-cce9b80debab",
+    "chunk_index": 5,
+    "chunk_text": "MANDATORY DOCUMENTS > ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\n• Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along with parent’s address proof. OR\n• In case of applicant residing with parents/children/brother/Sister, a notarized undertaking from them with one of the notarized copies of address proof as indicated above. OR\n• In case of applicants residing in a hotel or temporary lodging for a short period of time and does not have permanent address proof, then can submit copy of notarized hotel bills as proof of residence. NOTE\n• Expired documents like lease/ driving license copies are not acceptable. Please provide alternate valid documents.\n• DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address"
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "ab95cab5-e272-53f9-bf12-b76884a8e79d",
+    "chunk_index": 6,
+    "chunk_text": "MANDATORY DOCUMENTS > ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\n8 ANNEXURE F – Click here to download ORIGINAL 9 DETAILED AND APPROVED POLICE REPORT SELF-ATTESTED COPY In case of Loss passport – Police report with the name of the applicant (s) and reference of the lost document (s) (e.g. Passport): NOTE: CURRENT POLICE REPORT MUST NOT BE MORE THAN 6 MONTHS OLD. The Police report should be approved and not pending, detailed and must include applicant’s information. The report should also give information on how the passport is lost or stolen. 10 FEE PAYMENTS & COURIERS ORIGINAL Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt and enclose the acceptable pre-paid label, if you opt to use your own courier labels. Either pre-paid labels or VFS offered courier label return address must match the address proof submitted and mentioned on the application form. Applicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker’s check then it should be made in favor of “VFS Services\n(USA) Inc.” PERSONAL CHECKS ARE NOT ACCEPTABLE. FEDEX PREPAID LABELS ARE NOT ACCEPTABLE."
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "41bcc47e-7a0a-51af-9681-7ba007bb55d5",
+    "chunk_index": 7,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED\n\n1 ADDITION/REMOVE/CHANGE THE SPOUSE’S NAME: COPY\n(I) For addition of spouse name in passport:\n• Marriage Certificate Copy or\n• Duly notarized Joint Photo Declaration signed by both husband & wife.\n(II) For deletion of spouse name:\n• Divorce order / decree copies\n(III) For Change of spouse name:\n• Divorce order/decree or death certificate of first spouse and\n• Re-marriage certificate Copy or Duly notarized Joint Photo Declaration signed by both husband & wife. IV) For change of surname by women applicant following marriage/ divorce:\n• Marriage Certificate or Duly notarized Joint Photo Declaration signed by both husband & wife. and\n• Divorce order /decree (if name/surname change is based on divorce) 2 AFFIDAVIT OF NAME CHANGE (ORIGINAL -NOTARIZED (WITH STAMP AND NOTARY NOTARIZED AND SIGNATURE) - Click here to download ORIGINAL IMPORTANT: (Expiry date of the Notary stamp must not be manually corrected or over-write)"
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "b1c788c9-32b1-5ce1-af13-79f1032c864d",
+    "chunk_index": 8,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\n3 INDIAN ADDRESS PROOF (IF APPLICANTS WANTS TO ADD/CHANGE INDIAN ADDRESS) SELF-ATTESTED COPY\n• Aadhar Card OR\n• Recent Bank Statement from Government bank (Should have affixed photograph) OR\n• Driver’s license OR\n• Utility bill not older than 3 months OR\n• Voter Card ID OR\n• Copy of Ration card which has the parents name – Should have names of applicant and parents OR\n• Copy of Photo passbook of PSU Bank OR\n• Copy of Parents Passport copy as their name is on the applicant passport OR\n• Parents or relatives address of Indian address proof (any one address proof as indicated above) 4 CHANGE IN PARENT’S NAME SELF-ATTESTED COPY If you wish to change your parents name then to provide two supporting public documents in India, such as Passport copy, Aadhar Card, Voter Card or PAN Card, Educational Qualification Applicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ Certificate etc. with the parents' new names. 5 NEWSPAPER ADVERTISEMENT SELF-ATTESTED COPY In circumstances (other than marriage, remarriage, or divorce) for change of name, the applicant (both male and female) should furnish the following documents:\n1) Submit the full page of the below mentioned clearly showing the date, name of the News Paper and the content\n• Publication in a National daily in India and\n• Publication in a National daily in the USA or the Gazette notification of the concerned State Government, as the case may be;"
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "05995612-9d84-50a8-b38f-06dda53e0853",
+    "chunk_index": 9,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\n2) At least two public/school documents issued in the desired/applied changed the name to ascertain that the applicant has changed his/her name. 6 COURT ORDER ISSUED BY JUDICIAL OFFICER SELF-ATTESTED COPY A court order issued by a judicial officer, not below the rank of 1st Class Magistrate in India OR A Competent Authority (issues an amendment or correction in the date/place of birth of the applicant. The Competent Authority issuing the amending order should be the same authority whose certification was submitted at the time of the issue of the original passport. The Competent Authority in such cases can be Municipal Authorities (for date/place of birth and Educational Board Authority (for date of birth). Birth Certificate issued by Government/Municipal authorities."
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "1305a996-69ab-54ec-b197-9afe430e73d4",
+    "chunk_index": 10,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\n7 BIRTH CERTIFICATE OR SCHOOL LEAVING CERTIFICATE SELF-ATTESTED COPY Birth certificate/ School leaving certificate having the correct name of father/mother 8 INDIAN ADDRESS SELF-ATTESTED Applicants must write their Indian address / last known Indian address in the Passport COPY Application Form. This could be in either the ‘To be printed on Passport’ or ‘Other Address Details’ columns or the same Indian address can be mentioned in both the columns. 9 CHANGE OF DATE OF BIRTH: SELF-ATTESTED COPY\n1) In respect of person born before the 1st October, 2023 (attach one of the following)\n• Birth certificate issued by the Registrar of Births and Deaths or the Municipal Corporation or any other authority, empowered under the Registration of Births and Deaths Act, 1969 (18 of 1969); or\n• Transfer or school leaving or matriculation certificate issued by the recognized school last attended or recognized educational board having the date of birth of the applicant; or\n• Permanent Account Number Card issued by the Income-tax Department having the date of birth of the applicant; or\n• Copy of an extract of the service record of the applicant (only in respect of Government servants) or the Pay Pension Order (in respect of retired Government servants), duly attested or certified by the officer-in-charge of the administration of the concerned Ministry or Department of the applicant, having his date of birth; or\n• Driving licence issued by the Transport Department of the concerned State Government, having the date of birth of the applicant; or\n• Election Photo Identity Card issued by the Election Commission of India containing the date of birth of the applicant; or"
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "2be0c3f1-b68f-5dd8-af8b-a146849c2bde",
+    "chunk_index": 11,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\n• Policy bond issued by the Life Insurance Corporations of India or Public Companies having the date of birth of the holder of the insurance policy.\n2) In respect of person born on or after 1st October, 2023 (attach the following) ─\n• Birth certificate issued by the Registrar of Births and Deaths or the Municipal Corporation or any other authority, empowered under the Registration of Births and Deaths Act, 1969 (18 of 1969). (Signature of the Applicant)"
+   },
+   {
+    "source_id": "7caaca31-7113-4f71-9d90-57f1476f3efd",
+    "title": "Adult re-issue in lieu of lost (alternate revision)",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/new_adult_re-issue_of_passport_in_lieu_of_lost-updated.pdf",
+    "chunk_id": "42d71103-6b53-5e79-8440-c75850c78fac",
+    "chunk_index": 12,
+    "chunk_text": "SUPPORTING DOCUMENTS – CONDITION BASED > ADULT CHECKLIST – RE-ISSUE OF PASSPORT IN LIEU OF LOST\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ Important Notes / Common Mistakes to avoid COMMON MISTAKES TO AVOID  Wrong Jurisdiction selection done by Applicant on the Govt. form  CAPITAL LETTERS must be used to fill the Online Passport Application form on the Government Website.  Please Sign the Passport Application Form wherever indicated before submission  Ensure that the signatures on the passport and on the Application Form are the same  Given Name on Govt. Form does not match with the name mentioned on Current Indian Passport.  Surname on Govt. Form does not match with the name mentioned on Current Indian Passport  Date of birth on Govt. Form does not match with the date of birth mentioned on Current Indian Passport  Sex on Govt. Form does not match with the sex details mentioned on Current Indian Passport.  Passport number on Govt. Form does not match with the passport number mentioned on Current Indian Passport.  Place of birth on Govt. Form does not match with the place of birth mentioned on Current Indian Passport.  Issue date of passport on Govt. Form does not match with the issue date of passport mentioned on Current Indian Passport.  Place of issue on Govt. Form does not match with the place of issue on mentioned on Current Indian Passport.  Address on the government form does not match with the address on the Current Indian Passport.  Nationality mentioned on the government form does not match with the nationality on the Current Indian Passport.  Ensure that the following details are the same as mentioned in your old passport. If not, the supporting documents must be attached. Name o Applicant’s Spouse Name o Applicant’s Father Name o  Ensure that in the Place of Birth field, you do not put ‘India’ as the city and state  If you have more than 1 original Passport, then you need to provide the copies of all the passports  Only print your forms/applications on 1 side of the page. Double-sided printouts are not allowed  DO NOT staple your photographs/documents  The Documents in the Checklist are mandatory for the application to be processed.  The Indian Embassy / Consulates have the right to request additional documentation.  1 Copy of this checklist must be submitted with your documents.  Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED  HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED  Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided.  Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned"
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "d3ac4ac6-eb51-5a5b-a18a-c7b2a9b66c7b",
+    "chunk_index": 0,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "13478171-77e2-5b02-bc4d-30f2a80c8379",
+    "chunk_index": 1,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nTHE FOLLO WING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR PASSPO RT RE -ISSUE. YOU NEED TO MAIL THIS CHECKLIST AND OTHER DOCUMENTS WITH YOUR APPLICATION. PLEASE MAKE SURE YOU PRINT THIS DOCUMENT, COMPLETE IT AND INCLUDE IT IN YOUR APPLICATION AS THE COVER PAGE."
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "ad6ce3bd-380e-5f26-a5bb-3eb6d459acad",
+    "chunk_index": 2,
+    "chunk_text": "IMPORTANT GUIDELINES\n\n➢ IT IS ABSOLUTELY MAND ATORY to complete VFS ONLINE REGISTRATION PROCESS before sending your physical application. Failure to complete online registration process will result in returning your application unprocessed. ➢ All the photocopies of the documents that are being submitted must be in full page and clearly legible. Photos should be visible and other information should be clearly readable. ➢ Please do not send original documents unless specified. VFS will not be responsible for return of any additional original documents submitted. ➢ Please ensure that all data entries provided in your application match with your existing passport. If not, please provide the supporting documentation. ➢ Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e ➢ You are recommended to fill the passport application form if your form has been completed more than 150 days ago. This might help avoid any processing delays in case your form expires at 180 days before submission to the Mission’ ➢ After submission online, no changes can be made. In case of an error, please fill a new online application form. ➢ If your application lacks any of the documents listed in this checklist, your application will be put “on Hold” and an email notification highlighting the deficiencies will be sent to you. You must complete application within 7 days from the date of receipt of the email notification. Post receipt of missing documents, VFS India Consular application Centre will update the system in 48 – 72 business hours hence track the status only after 48-72 hours. ➢ Envelope should be super scribed as “RE-ISSUANCE IN LIEU OF DAMAGED PASSPO RT - ADULT. One Envelope can contain only one application only. Please note: ➢ VFS INDIA CONSULAR APPLICATIO N CENTRE employees cannot edit or make any changes to your online application form. ➢ THE CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. ➢ YOUR APPLICATIO N STATUS WILL BE UPDATED IN 48 – 72 HOURS POST ITS DELIVERY TO THE VFS INDIA CONSULAR APPLICATION CENTRE. TO TRACK THE STATUS ONLINE, CLICK HERE"
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "ddd2c43f-41b4-5045-bf44-e3a435801fdb",
+    "chunk_index": 3,
+    "chunk_text": "M A N D AT O R Y D O CU M E NT S > S.N Document Name Original or Copy\n\n1 ORIGINAL GOVERNMENT APPLICATION ONLINE FORM: (DIGITAL SIGNATU RES ARE NOT ACCEPTABLE)\n• Must select a correct Jurisdiction online on the Passport Govt. form.\n• Must Choose Passport Re-issue and the reason has to be damage.\n• Passport government ARN number must match the VFS Payment receipt number. ONLINE APPLICA TION FORM The application must be completed and submitted online by visiting: https://embassy.passportindia.gov.in\n- First-time applicants need to register and make an account to be able to fill the online application form. If registered already, please log in and fill the application\n- In “Type of passport booklet”, Please select “36 pages” or “60 pages” (for jumbo booklet- Additional charges)"
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "63bf1d92-b536-50c8-8a27-b6867857549b",
+    "chunk_index": 4,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "260488d3-ac66-59f4-811b-278fc50d9155",
+    "chunk_index": 5,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage > S.N Document Name Original or Copy\n\nSIGNATU RE INSTRUCTIONS (DO NOT PUT THU MBPRINT)\n- Sign on Page 1, inside the box, below your photograph, and on page 4. ADDRESS INSTRUCTIONS: Please ensure to mention 1 Indian and 1 USA address in the online application form. 2 PHOTOGRA PH SPECIFICATIONS (Must be white background) ORIGINAL o 2 photos of size 51mm x 51 mm (2 by 2 size) preferably White Background – PHOTOGRAPHS MUST BE IDENTICAL. o Must be recently taken within 6 months. o Shoulder must be visible o Without glasses o Without flashlight reflection o With colored shirt to distinguish with white background o With good lighting on the face. o Photos must be compliant with specifications; Affix 01 photograph on Govt. form and 01 on change of appearance form To know more about photo specifications – Please click here 3 CURRENT INDIAN PASSPORT ORIGINAL AND Along with the original Indian passport, please Include copies of the first five and last two COPY pages of your current Indian passport. 4 Affidavit for change of appearance & Signature - click here to download NOTARIZED AND Must be signed by the applicant and Notarized (with Stamp and Notary Signatory) ORIGINAL IMPORTA NT: Affidavit for Change in Appearance & Signature is Mandatory for all applicants. (Expiry date of the Notary stamp must not be manually corrected or over-write) 5 Annexure E - Click here to download ORIGINAL Must be signed by the applicant. 6 ANNEXURE F - Click here to download ORIGINAL 7 COPY OF THE VALID STATUS IN THE USA NOTARIZED COLOR Please submit one of the below documents as applicable, in Color – copy & Notarized (with COPY IN ORIGINAL Stamp and Notary signature):- (Expiry date of the"
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "860ae8cc-d9ac-5e6a-bfb0-ee8f622834ca",
+    "chunk_index": 6,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage > S.N Document Name Original or Copy\n\n- Notarized valid Green Card - FRONT AND BACK Notary stamp must\n- Notarized valid Visa, not be manually\n- Notarized valid EAD - FRONT AND BACK corrected or over-\n- Notarized valid I-797A Approval Notice, write)\n- Notarized valid Work permit/Study Permit, OR\n- Notarized recently expired Visa and notarize I-797A Approval notice together with notarized I-797C Receipt Notice for filing of a request for extension before the expiry of Visa or I-797A. Notarized copy of proof of extension, if B1/B2 is expired and have a receipt for extension of stay or an approval for extension of stay. Notarized hotel bill - If the customer on L1/L3 staying in a hotel for a project for the past couple of months and don’t have the address proof or state ID. 8 PROOF OF ADDRESS IN THE USA (Color-copy) Proof of address must match with the present address as per application: (any ONE of the COLOR COPY below documents) State Issued ID OR\n- Driving license OR"
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "18e7a333-8a6a-5c15-a71a-8648f435a7f9",
+    "chunk_index": 7,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "f3aadae4-134f-5a4a-8757-9ca30868324f",
+    "chunk_index": 8,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage > S.N Document Name Original or Copy\n\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. OR\n- Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along with parent’s address proof. OR"
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "cafc481e-15f6-5de1-b217-4f9f047add97",
+    "chunk_index": 9,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage > S.N Document Name Original or Copy\n\n- In case of applicant residing with parents/children/brother/sister, a notarized undertaking from them with one of the notarized copies of address proof as indicated above. OR -In case of applicant residing in a hotel or temporary lodging for a short period of time and does not have a --permanent address proof, then can submit copy of notarized hotel bills as proof of residence. -Please note – expired documents like lease/ driving license copies are not acceptable. Please provide alternate valid documents NOTE: DO NOT CU T YOUR DRIVER'S LICEN CE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address 9 FEE PAYMENTS & COURIERS ORIGINAL Complete the process online on VFS INDIA CONSULAR APPLICATION CEN TRE’s website to send your application and requisite documents. Don’t forget to enclose the Application confirmation receipt and enclose the acceptable pre -paid label, if you opt to use your own courier labels. Either Pre-paid labels or VFS offered courier label return address must match with the address proof submitted and mentioned on the application form. To complete the questionnaire & create a profile: Click here to proceed If paying by Money order or Banker’s check then it should be made in favor of “ VFS Services ( USA) Inc . PERSONAL CHECKS ARE NOT ACCEPTABLE. FEDEX PREPAID LABELS ARE NOT ACCEPTABLE."
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "40478676-0b5b-5b64-b0a4-b09ca6e7cf3a",
+    "chunk_index": 10,
+    "chunk_text": "SU PP ORTI N G D OCU M E N TS – CO N D ITI ON BASE D\n\n1 Remove/Change the Spouse Name: Applicant has to provide supporting documents if there is a change or deletion of spouse name for instance: Divorce decree or and new marriage certificate or and death certificate. 1 AFFIDAVIT OF NA ME CHANGE (Original -Notarized (with Stamp and Notary Signature) - Click NOTARIZED AND here to download ORIGINAL IMPORTA NT : (Expiry date of the Notary stamp must not be manually corrected or over- write)"
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "ade0e4b3-d6c8-5b90-b128-6e435e6ab210",
+    "chunk_index": 11,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "d5f2fa88-4c8c-5e52-8e1e-32771dbb910f",
+    "chunk_index": 12,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage > S.N Document Name Original or Copy\n\n2 INDIAN ADDRESS PROOF (If Applicants wants to add/Change Indian Address) Self-Attested copy Aadhar Card OR Recent Bank Statement from Government bank (Should have affixed photograph) OR Driver’s license OR Utility bill not older than 3 months OR Voter Card ID OR Copy of Ration card which has the parents name – Should have names of applicant and parents OR Copy of Photo passbook of PSU Bank OR Copy of Parents Passport copy as their name is on the applicant passport OR Parents or relatives address of Indian address proof (any one address proof as indicated above) 3 CHA NGE IN PARENT’S NAME Self-Attested copy If you wish to change your parents name then to provide two supporting public documents in India, such as Passport copy, Aaadhar Card, Voter Card or PAN Card, Educational Qualification Certificate etc. with the parents' new names 4 NEWSPAPER ADVERTISEMENT Self-Attested copy In circumstances (other than marriage, remarriage, or divorce) for change of name, the applicant (both male and female) should furnish the following documents:\n1. Submit the full page of the below mentioned clearly showing the date, name of the News Paper and the content\na. Publication in a National daily in India and\nb. Publication in a National daily in the USA or the Gazette notification of the concerned State Government, as the case may be;"
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "e64d753d-8f28-5ba2-b69c-71c52458f645",
+    "chunk_index": 13,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage > S.N Document Name Original or Copy\n\n2. At least two public/school documents issued in the desired/applied changed the name to ascertain that the applicant has changed his/her name 5 COU RT ORDER ISSUED BY JUDICIAL OFFICER Self-Attested copy A court order issued by a judicial officer, not below the rank of 1st Class Magistrate in India OR a Competent Authority (issues an amendment or correction in the date/place of birth of the applicant. The Competent Authority issuing the amending order should be the same authority whose certification was submitted at the time of the issue of the original passport. The"
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "e59fd4dd-4dd6-503d-8d2f-2c24b6cd8a68",
+    "chunk_index": 14,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "4d86dc2f-2c1d-5adc-a2f7-7ead23a608c7",
+    "chunk_index": 15,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage > S.N Document Name Original or Copy\n\nCompetent Authority in such cases can be Municipal Authorities (for date/place of birth and Educational Board Authority (for date of birth). Birth Certificate issued by Government/Municipal authorities. 6 BIRTH CERTIFICATE OR SCHOOL LEAVING CERTIFICATE Self-Attested copy Birth certificate/ School leaving certificate having the correct name of father/mother 7 INDIAN ADDRESS Self-Attested copy Applicants must write their Indian address / last known Indian address in the Passport Application Form. This could be in either the ‘To be printed on Passport’ or ‘Other Address Details’ columns or the same Indian address can be mentioned in both the columns."
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "76df3113-7ae7-5d0d-861c-947f22141b39",
+    "chunk_index": 16,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage\n\nApplicant’s Name Passport no."
+   },
+   {
+    "source_id": "d5f78722-d97d-410b-a4f6-b55099588902",
+    "title": "Adult re-issue in lieu of damaged",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/passport-services/pdf/Re-issuance-damaged-Adult.pdf",
+    "chunk_id": "e8b50708-0a51-5fd0-b050-15228f1397c9",
+    "chunk_index": 17,
+    "chunk_text": "ADUL T Checklist - Re-issue of Passport I n lieu of Damage > Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n\nIm portant N otes / C om m o n M istakes to avoid COMMON MISTAKES TO AVOID ❖ Wrong Jurisdiction selection done by Applicant on the Govt. form ❖ CAPITAL LETTERS must be used to fill the Online Passport Application form on the Government Website. ❖ Please Sign the Passport Application Form wherever indicated before submission ❖ Ensure that the signatures on the passport and on the Application Form are the same ❖ Given Name on Govt. Form does not match with the name mentioned on Current Indian Passport. ❖ Surname on Govt. Form does not match with the name mentioned on Current Indian Passport ❖ Date of birth on Govt. Form does not match with the date of birth mentioned on Current Indian Passport ❖ Sex on Govt. Form does not match with the sex details mentioned on Current Indian Passport. ❖ Passport number on Govt. Form does not match with the passport number mentioned on Current Indian Passport. ❖ Place of birth on Govt. Form does not match with the place of birth mentioned on Current Indian Passport. ❖ Issue date of passport on Govt. Form does not match with the issue date of passport mentioned on Current Indian Passport. ❖ Place of issue on Govt. Form does not match with the place of issue on mentioned on Current Indian Passport. ❖ Address on the government form does not match with the address on the Current Indian Passport. ❖ Nationality mentioned on the government form does not match with the nationality on the Current Indian Passport. ❖ Ensure that the following details are the same as mentioned in your old passport. If not, the supporting documents must be attached. o Name • Applicant’s Spouse Name • Applicant’s Father Name ❖ Ensure that in the Place of Birth field, you do not put ‘India’ as the city and state ❖ If you have more than 1 original Passport , then you need to provide the copies of all the passports ❖ Only print your forms/applications on 1 side of the page. Double-sided printouts are not allowed ❖ DO NOT staple your photographs/documents ❖ The Documents in the Checklist are mandatory for the application to be processed. ❖ The Indian Embassy / Consulates have the right to request additional documentation. ❖ 1 Copy of this checklist must be submitted with your documents. ❖ Applicants are advised that they DO NOT print the document on both sides of the paper as \"DOUBLE SIDED ❖ HANDWRITTEN DOCUMENTS ARE NOT ACCEPTED ❖ Application with a lack of documents will be considered incomplete and will remain on hold for 21 days. On none receipt of the missing documents, the application shall be Abandoned and returned to the applicant. In this case, the applicant would have to restart the entire process again since the old application will be voided. ❖ Only Consular fee + ICWF fee will be refunded back to the applicant in case the application is rejected or abandoned."
+   }
+  ]
+ }
+}

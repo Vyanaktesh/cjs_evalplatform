@@ -1,0 +1,129 @@
+[
+ {
+  "id": "25240074637",
+  "query": "Re-issue of ordinary passport of 36 pages in lieu of lost, stolen or damaged passport",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "On the government online application, select 'Passport Re-issue' and mark the reason as lost or damage as applicable, and choose the correct jurisdiction.",
+   "Under 'Type of passport booklet' on the online application, select '36 pages' (or '60 pages' for a jumbo booklet, at additional charge).",
+   "For a lost/stolen passport, a detailed, approved police report (not older than 6 months) naming the applicant and referencing the lost passport must be submitted.",
+   "VFS online registration must be completed before the physical application is mailed; the completed checklist and required documents are then sent by mail to the VFS India Consular Application Centre."
+  ],
+  "reference_chunk_ids": ["c6e210d8-9858-515b-ac42-83521aca537b", "6065e74f-5749-54bc-b234-fbba2a1fdaef", "a0b3440c-9205-5846-bff0-3c33a6cca57e", "ddd2c43f-41b4-5045-bf44-e3a435801fdb"],
+  "reference_source_ids": ["628040e2-7744-4f13-9326-0832e226245c", "628040e2-7744-4f13-9326-0832e226245c", "628040e2-7744-4f13-9326-0832e226245c", "d5f78722-d97d-410b-a4f6-b55099588902"]
+ },
+ {
+  "id": "586360623",
+  "query": "My Daughter and Wife stays in Atlanta, GA, USA. My Daughter's passport was expired and while sent for reissue, it was lost in courier. I live in India. When sent for a reissue on lost category, the following issue is stated:\n1. Additional documents : NO OBJECTION CERTIFICATE FROM FATHER REQUIRED\n2. Annexure C : MISSING MOTHERS SIGN ON ANNEXURE C.\nWe understand point 2, but not sure about the format of 'NO OBJECTION CERTIFICATE FROM FATHER REQUIRED'. So my wife is looking for an appointment of visit in the Atlanta Passport office.\nSo,\n1. What is the way to book an appointment in passport office visit in Atlanta, GA, USA\n2. What is the format of 'NO OBJECTION CERTIFICATE FROM FATHER REQUIRED'",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Asks how to book an in-person appointment at the Atlanta passport office and for the exact format/template of a father's No Objection Certificate; neither appointment-scheduling procedures nor an NOC letter template/format appear anywhere in the approved chunks, which only list mail-in document requirements.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "745198893",
+  "query": "I APPLIED MY PASSPORT TWICE, FEBRUARY 2021 MY ORIGINAL PASSPORT LOST ON TRANSITION TO THE AMBASSY .THEN I APPLIED AGAIN IN NOVEMBER 2021.",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "A personal case narrative about the user's own two applications and lost passport, with no clear question; this is a case-status matter the bot cannot resolve from static documents.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "2113821088",
+  "query": "I lost my passport, I want to reapply my passport. I have travel to india in december 15. Can I take an inperson appointment to reapply for my lost passport.",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "The reissue-in-lieu-of-lost process is completed via VFS online registration followed by mailing the completed application, checklist, and documents to the VFS India Consular Application Centre.",
+   "On the government online application, select 'Passport Re-issue' and mark the reason as 'lost'.",
+   "A detailed, approved police report (not older than 6 months) naming the applicant and describing how the passport was lost must be included.",
+   "Once the mailed application is delivered to the VFS Consular Application Centre, the status is updated within 48-72 business hours and can be tracked online."
+  ],
+  "reference_chunk_ids": ["cc4a131d-b36e-5068-8c62-ba06dc24d65b", "c6e210d8-9858-515b-ac42-83521aca537b", "a0b3440c-9205-5846-bff0-3c33a6cca57e"],
+  "reference_source_ids": ["628040e2-7744-4f13-9326-0832e226245c", "628040e2-7744-4f13-9326-0832e226245c", "628040e2-7744-4f13-9326-0832e226245c"]
+ },
+ {
+  "id": "17183310466",
+  "query": "I have applied for the reissue if passport since i have lost my passport, so i had submitted the required documents that are need for passport application ,how many days it gonna take to get my passport or what's the further process",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "After your documents are delivered to the VFS India Consular Application Centre, the application status is updated within 48-72 business hours and can be tracked online.",
+   "If any required document is missing, the application is put 'on Hold' with an email notification, and you must supply the missing document within 7 days of that notification.",
+   "If the missing documents are not received, the application is Abandoned after 21 days and the entire process must be restarted with a new (voided) application.",
+   "The consulate/VFS reserves the right to call for additional documents as considered necessary."
+  ],
+  "reference_chunk_ids": ["cc4a131d-b36e-5068-8c62-ba06dc24d65b", "a9af733a-3edb-543e-9c1d-a75a040de86a"],
+  "reference_source_ids": ["628040e2-7744-4f13-9326-0832e226245c", "628040e2-7744-4f13-9326-0832e226245c"]
+ },
+ {
+  "id": "41721262771",
+  "query": "I have to renew my daughter's passport. Since we are in Atlanta, and Passport application center VFS is near to our palace, can we directly submit the application in the center in person and collect the new passport in person instead of shipping. We have 2 experience for our friends, they lost their passports in shipping. We don't need to take a risk",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Asks about in-person submission/collection for a routine passport renewal (not a lost/damaged reissue). The approved chunks only cover mail-in reissue procedures for lost or damaged passports and do not address normal renewal or any walk-in submission/collection option.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "44784950704",
+  "query": "Report lost passport",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "To reissue a passport in lieu of loss, a detailed, approved police report describing how the passport was lost or stolen, and naming the applicant, must be submitted, and it must not be more than 6 months old.",
+   "On the government online application, select 'Passport Re-issue' and choose 'lost' as the reason.",
+   "The completed checklist, police report, and other required documents must be mailed to the VFS India Consular Application Centre after completing VFS online registration."
+  ],
+  "reference_chunk_ids": ["a0b3440c-9205-5846-bff0-3c33a6cca57e", "c6e210d8-9858-515b-ac42-83521aca537b", "cc4a131d-b36e-5068-8c62-ba06dc24d65b"],
+  "reference_source_ids": ["628040e2-7744-4f13-9326-0832e226245c", "628040e2-7744-4f13-9326-0832e226245c", "628040e2-7744-4f13-9326-0832e226245c"]
+ },
+ {
+  "id": "328131477",
+  "query": "i would like to get lost passport clearance certificate for me.",
+  "category": "passport_lost_damaged",
+  "expect_decline": true,
+  "decline_reason": "Requests a 'lost passport clearance certificate' — no such document or certificate is mentioned anywhere in the approved chunks.",
+  "expected_key_facts": [],
+  "reference_chunk_ids": [],
+  "reference_source_ids": []
+ },
+ {
+  "id": "329237684",
+  "query": "I lost my passport in a house fire in Miami but I am relocating to Boston for a few weeks to live with family, where should I file my lost passport query",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "You should select the correct Indian mission/consulate based on where you reside in the USA; mission jurisdiction can be checked online at the VFS jurisdiction page.",
+   "If staying temporarily with family and lacking your own permanent address proof, a notarized undertaking from the relatives you are staying with (along with a notarized copy of their address proof) can be submitted, or a notarized hotel bill if in temporary lodging."
+  ],
+  "reference_chunk_ids": ["cc4a131d-b36e-5068-8c62-ba06dc24d65b", "215fc446-2a9f-50b2-b1b5-4fdd691e89fc"],
+  "reference_source_ids": ["628040e2-7744-4f13-9326-0832e226245c", "628040e2-7744-4f13-9326-0832e226245c"]
+ },
+ {
+  "id": "329321518",
+  "query": "what documents are required for notarization if passport is lost",
+  "category": "passport_lost_damaged",
+  "expect_decline": false,
+  "decline_reason": null,
+  "expected_key_facts": [
+   "The Affidavit for Change of Appearance & Signature must be signed by the applicant and notarized (with notary stamp and signature); it is mandatory for all applicants.",
+   "The copy of valid US legal status (e.g., Green Card, visa, EAD, I-797A Approval Notice, work/study permit) must be submitted as a notarized color copy.",
+   "If you don't have permanent address proof and reside with parents/children/siblings, a notarized undertaking from them plus a notarized copy of their address proof is required; those in a hotel/temporary lodging can instead submit a notarized hotel bill.",
+   "The notary stamp's expiry date must not be manually corrected or overwritten."
+  ],
+  "reference_chunk_ids": ["7b9c5e39-043d-50be-837d-a0ae99c94f71", "215fc446-2a9f-50b2-b1b5-4fdd691e89fc"],
+  "reference_source_ids": ["628040e2-7744-4f13-9326-0832e226245c", "628040e2-7744-4f13-9326-0832e226245c"]
+ }
+]

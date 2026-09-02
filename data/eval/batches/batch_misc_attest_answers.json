@@ -1,0 +1,257 @@
+[
+  {
+    "id": "39674571088",
+    "query": "APPLICATION FOR MISCELLANEOUS SERVICES",
+    "category": "misc_services",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "The Miscellaneous Application form requires marking which specific service is being applied for (e.g. Life Certificate, Marriage Certificate, Power of Attorney/Affidavits, Birth Certificate, Attestation of Will, NRI Certificate, PCC, NORI, etc.).",
+      "Each applicant for Miscellaneous Services must pay a separate US $2 fee toward the Indian Community Welfare Fund (ICWF) in addition to consular/VFS fees.",
+      "Select the specific Miscellaneous type that applies on the Miscellaneous Services page to see its fees, documentation requirements, forms, photo specifications, and processing times."
+    ],
+    "reference_chunk_ids": [
+      "18a50747-c6e8-51cc-89ef-0ef55f3a0ac2",
+      "0c58a118-8add-53e5-8aa2-ef68e1d8e317"
+    ],
+    "reference_source_ids": [
+      "c9a0354e-e43e-4998-938f-5b448b959201",
+      "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+    ]
+  },
+  {
+    "id": "326674838",
+    "query": "Am not able to locate the form - Misc Services",
+    "category": "misc_services",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "The Miscellaneous Services application form is a downloadable PDF that lists checkboxes for the specific service being applied for (Life Certificate, Marriage Certificate, PoA/Affidavits, Birth Certificate, etc.).",
+      "Each specific Miscellaneous type's page provides an 'Application Form Link' under its Document Requirement section.",
+      "Select the Miscellaneous type that matches your need on the Miscellaneous Services page to reach its fee, documents, and form links."
+    ],
+    "reference_chunk_ids": [
+      "18a50747-c6e8-51cc-89ef-0ef55f3a0ac2",
+      "0c58a118-8add-53e5-8aa2-ef68e1d8e317"
+    ],
+    "reference_source_ids": [
+      "c9a0354e-e43e-4998-938f-5b448b959201",
+      "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+    ]
+  },
+  {
+    "id": "760726199",
+    "query": "Hi. I need to generate a power of attorney for my father to submit divorce documentation in local Indian Court on my behalf. Do I just fill up the form for miscellaneous services, and on a stamp paper create my power of attorney and notarize with two Georgia individuals?",
+    "category": "misc_services",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Yes, a separate Miscellaneous Application form must be filled up for the Power of Attorney service.",
+      "No specific format is prescribed for the PoA — it can be on plain paper or Indian Stamp Paper (the Embassy/Consulate does not provide stamp paper).",
+      "After signing the PoA and affixing a current passport-size photo on the last page, the PoA must be signed and witnessed by two individuals (other than immediate family members) with their full names and addresses clearly mentioned, and then notarized.",
+      "The signature on the PoA must match the signature in the applicant's current valid passport, or the documents will be sent back to be re-signed."
+    ],
+    "reference_chunk_ids": [
+      "809ff08f-00b3-531d-99ab-089ee8dda382",
+      "486b1216-135a-5ac6-9794-7b8d0f72271d"
+    ],
+    "reference_source_ids": [
+      "3517505c-8c56-4e80-a668-58c01a34e383"
+    ]
+  },
+  {
+    "id": "22719419558",
+    "query": "Miscellaneous services form",
+    "category": "misc_services",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "The Miscellaneous Application form lists checkboxes for the specific service applied for (Life Certificate, Marriage Certificate, PoA/Affidavits, Birth Certificate, Attestation of Will, NRI Certificate, PCC, NORI, etc.).",
+      "Each applicant is required to fill up a separate Miscellaneous Application form for their service.",
+      "An 'Application Form Link' is provided under the Document Requirement section for each specific Miscellaneous type."
+    ],
+    "reference_chunk_ids": [
+      "18a50747-c6e8-51cc-89ef-0ef55f3a0ac2",
+      "809ff08f-00b3-531d-99ab-089ee8dda382"
+    ],
+    "reference_source_ids": [
+      "c9a0354e-e43e-4998-938f-5b448b959201",
+      "3517505c-8c56-4e80-a668-58c01a34e383"
+    ]
+  },
+  {
+    "id": "24557480962",
+    "query": "Mailing address for miscellaneous services",
+    "category": "misc_services",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Applications can be submitted by mail: download the Miscellaneous application form, sign it, paste the photograph, and post it to the Consulate along with the supporting documents.",
+      "Mailing address: Consulate General of India, 5549 Glenridge Drive NE, Atlanta, GA-30342.",
+      "For queries, email cons.atlanta@mea.gov.in or miscservices.atlanta@mea.gov.in."
+    ],
+    "reference_chunk_ids": [
+      "b3d127b3-3053-52ca-9394-fdde85fff15a",
+      "d13c46c5-4d2e-5b71-b121-35eda36c47df"
+    ],
+    "reference_source_ids": [
+      "b951b477-b865-4503-83af-0aff1fd91080"
+    ]
+  },
+  {
+    "id": "322400325",
+    "query": "We are planning to sell property in india. My daughter is giving POA as she cannot travel. We are from St.Thomas \nWhat documents I have to send by mail? Do I have to send original passports and other original documents? How much are total charges? Do I have to fill application for miscellaneous services for my daughter who is giving POA as well as who is receiving it that's her mother, as well as part owner her Dad??",
+    "category": "misc_services",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "No original passports or other original documents are required — applicants may submit only notarized copies of the passport and address proof (originals are only required for death documentation cases).",
+      "Each applicant is required to fill up a separate Miscellaneous Application form, so the daughter (giving the PoA) would file her own form for the PoA service.",
+      "Required documents for a PoA include the notarized signed original PoA plus photocopy, a notarized copy of the OCI/passport, notarized proof of US legal status, and notarized proof of US address.",
+      "Fees: Power of Attorney is $41 total per executant ($20 consular + $2 ICWF + $19 VFS); an affidavit relating to property is also $41, while an affidavit other than property is $31."
+    ],
+    "reference_chunk_ids": [
+      "32cb5cf5-1683-521a-9069-37a0bfb219d0",
+      "809ff08f-00b3-531d-99ab-089ee8dda382",
+      "486b1216-135a-5ac6-9794-7b8d0f72271d",
+      "38c6cff6-e166-5db9-b31d-fb3f97747890"
+    ],
+    "reference_source_ids": [
+      "b52195b5-e6a9-4120-8d59-b35a4de10a33",
+      "3517505c-8c56-4e80-a668-58c01a34e383"
+    ]
+  },
+  {
+    "id": "327470394",
+    "query": "miscellaneous services telephone",
+    "category": "misc_services",
+    "expect_decline": true,
+    "decline_reason": "No phone number appears anywhere in the approved chunks for Miscellaneous Services — only a mailing address and query email addresses are listed.",
+    "expected_key_facts": [],
+    "reference_chunk_ids": [],
+    "reference_source_ids": []
+  },
+  {
+    "id": "328205955",
+    "query": "I'm trying to download this Miscellaneous Service",
+    "category": "misc_services",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "The Miscellaneous Services application form is available as a downloadable PDF.",
+      "Each Miscellaneous type's page (e.g. Life Certificate, Birth Certificate, PoA/Affidavits) lists an 'Application Form Link' under its Document Requirement section.",
+      "Select the specific Miscellaneous type needed on the Miscellaneous Services page to access its form, fee, and document checklist."
+    ],
+    "reference_chunk_ids": [
+      "18a50747-c6e8-51cc-89ef-0ef55f3a0ac2",
+      "0c58a118-8add-53e5-8aa2-ef68e1d8e317"
+    ],
+    "reference_source_ids": [
+      "c9a0354e-e43e-4998-938f-5b448b959201",
+      "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+    ]
+  },
+  {
+    "id": "359652680",
+    "query": "In the Miscellaneous service for non availability of birth certificate one of the document required is proof of residency applicant dont have proof",
+    "category": "misc_services",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "For the Birth Certificate service, the required 'Proof of Address in the USA' can be any ONE of: US Driving License, Utility Bill, Lease Agreement, State Identity Card, or Mortgage Deed.",
+      "This proof-of-address document must be submitted as a notarized copy and photocopy.",
+      "The checklist does not list any alternative proof-of-address option beyond these five document types."
+    ],
+    "reference_chunk_ids": [
+      "c6d453c3-e7bd-51f6-ab82-24c5f9c6b93f",
+      "7cd4939f-7b6b-5419-b26b-c8d6288d6e91"
+    ],
+    "reference_source_ids": [
+      "9b17a085-22e4-402f-b022-04a46fb3ed22"
+    ]
+  },
+  {
+    "id": "363686297",
+    "query": "Application of miscellaneous services per POA or just one? I have 3 POAs.",
+    "category": "misc_services",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Each applicant is required to fill up a separate Miscellaneous Application form.",
+      "Power of Attorney fees are charged per executant: $20 consular fee, $2 ICWF, and $19 VFS fee ($41 total) for each executant."
+    ],
+    "reference_chunk_ids": [
+      "809ff08f-00b3-531d-99ab-089ee8dda382",
+      "28dd1b69-c2c4-5504-85d2-56868007a0d1"
+    ],
+    "reference_source_ids": [
+      "3517505c-8c56-4e80-a668-58c01a34e383",
+      "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+    ]
+  },
+  {
+    "id": "31084298657",
+    "query": "Attestation of Power of Attorney",
+    "category": "attestation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "For a PoA, applicants submit the original notarized (signed and witnessed) PoA plus a photocopy; no specific format is prescribed — plain paper or Indian Stamp Paper is acceptable.",
+      "After signing and photo-affixing, the PoA must be witnessed by two individuals (other than immediate family) with full names/addresses, then notarized.",
+      "Applicants of non-Indian nationality must first get the PoA apostilled by the US State Department/Secretary of State of their state of residence before the Mission/post will attest it (OCI/PIO card holders are exempt from apostille).",
+      "Fee for Power of Attorney: $20 consular fee, $2 ICWF, $19 VFS fee — $41 total per executant; processing time is 10 business days from receipt."
+    ],
+    "reference_chunk_ids": [
+      "486b1216-135a-5ac6-9794-7b8d0f72271d",
+      "28dd1b69-c2c4-5504-85d2-56868007a0d1"
+    ],
+    "reference_source_ids": [
+      "3517505c-8c56-4e80-a668-58c01a34e383",
+      "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+    ]
+  },
+  {
+    "id": "42840729397",
+    "query": "Attestation of POA",
+    "category": "attestation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "For a PoA, applicants submit the original notarized (signed and witnessed) PoA plus a photocopy; no specific format is prescribed — plain paper or Indian Stamp Paper is acceptable.",
+      "After signing and photo-affixing, the PoA must be witnessed by two individuals (other than immediate family) with full names/addresses, then notarized.",
+      "Non-Indian nationals must first get the PoA apostilled by the US State Department/Secretary of State of their state of residence before Mission/post attestation (OCI/PIO card holders are exempt).",
+      "Fee for Power of Attorney: $20 consular fee, $2 ICWF, $19 VFS fee — $41 total per executant; processing time is 10 business days from receipt."
+    ],
+    "reference_chunk_ids": [
+      "486b1216-135a-5ac6-9794-7b8d0f72271d",
+      "28dd1b69-c2c4-5504-85d2-56868007a0d1"
+    ],
+    "reference_source_ids": [
+      "3517505c-8c56-4e80-a668-58c01a34e383",
+      "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+    ]
+  },
+  {
+    "id": "44610910041",
+    "query": "I would like to inquire about the process for notarization/attestation of a Power of Attorney document required for the sale of a property in India.\nCould you please confirm whether this service can be completed in person at the Consulate, or if there are alternative options such as mail-in processing? I would also appreciate it if you could share the process.",
+    "category": "attestation",
+    "expect_decline": false,
+    "decline_reason": null,
+    "expected_key_facts": [
+      "Walk-in consular services have been discontinued; applications must be submitted by mail rather than in person.",
+      "To apply by mail, download the Miscellaneous application form, sign it, paste the photograph, and post it to the Consulate along with the supporting documents.",
+      "For the PoA itself: sign it, have it witnessed by two individuals (other than immediate family) with full names/addresses, and get it notarized (or apostilled first if a non-Indian national).",
+      "Fee for Power of Attorney is $41 total per executant ($20 consular + $2 ICWF + $19 VFS); processing time is 10 business days from receipt."
+    ],
+    "reference_chunk_ids": [
+      "448ef2dc-6a6f-57f8-b18e-f6e78d5bbd59",
+      "486b1216-135a-5ac6-9794-7b8d0f72271d",
+      "28dd1b69-c2c4-5504-85d2-56868007a0d1"
+    ],
+    "reference_source_ids": [
+      "b951b477-b865-4503-83af-0aff1fd91080",
+      "3517505c-8c56-4e80-a668-58c01a34e383",
+      "b52195b5-e6a9-4120-8d59-b35a4de10a33"
+    ]
+  }
+]

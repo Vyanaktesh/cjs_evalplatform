@@ -1,0 +1,659 @@
+{
+ "categories": [
+  "visa"
+ ],
+ "queries": [
+  {
+   "ticket_id": "987341177",
+   "query": "I was planning a trip for November of 2022. I had a 10 year tourist visa that expires in 2028. I read somewhere that all of those were cancelled?",
+   "duplicate_count": 3,
+   "created_year_month": "2022-07",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "1041670178",
+   "query": "Respected Sir/Ma'am, My name is Ashwin Sankara Raman and my email id is [EMAIL] My phone number is +1([PHONE]. my F-1 VISA status expires July 2023 and I would like to request you for information regarding renewal of F-1 VISA. I have read that the default way is to go back to india and re-book an appointment for renewal at the US consular, but I was looking for other easier ways if available to do this process. Could you please help me with this? Sincerely, Ashwin",
+   "duplicate_count": 3,
+   "created_year_month": "2022-08",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "1268965687",
+   "query": "I have applied to VFS Global with a visa application. My application has been rejected on the ground that I have a 10 years valid visa to Inida. Unfortunately my visa is not active now / was suspened by the Indian government as I am Canadian citizen.\nI called the consulate and explained my situation. I was suggested to write an email to concul that I did few days ago.\nUnfromtunately I have not received any resposne since.\nCan you help me?",
+   "duplicate_count": 3,
+   "created_year_month": "2022-11",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "2021259903",
+   "query": "I need emergency visa",
+   "duplicate_count": 3,
+   "created_year_month": "2023-10",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "2083510818",
+   "query": "Need help with visa",
+   "duplicate_count": 3,
+   "created_year_month": "2023-11",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "319753254",
+   "query": "My daughter is a us citizen and has Entry( X) multiple visa which is issued in 2017 and will get expired in 2022. Can she travel to India with this visa?",
+   "duplicate_count": 2,
+   "created_year_month": "2021-03",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "323505468",
+   "query": "I have emergency travel plan in April for family emergency. I am Indian origin and us citizen. I would like to get emergency visa for my self and my 5 year old daughter. Please someone help me. I understand COVID19 situation but I wouldn’t go if that was not emergency. Thanks",
+   "duplicate_count": 2,
+   "created_year_month": "2021-03",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "323539231",
+   "query": "I am still not getting that how and where can apply for emergency visa",
+   "duplicate_count": 2,
+   "created_year_month": "2021-03",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "347556751",
+   "query": "I am planning to travel to India and back to US. I am booking flight through Qatar Airways. My flights is from Savannah, GA (US) - New York (US) - Qatar - Ahmedabad, India. I am an Indian citizen on F-1 visa in US. Will I be allowed to enter India with the itinerary mentioned above? If yes, will I have to go through a mandatory institutional quarantine when I arrive at Ahmedabad (considering my RT-PCR test is negative)? Will I be allowed to come to US through the same itinerary back (considering my RT-PCR test is negative)?",
+   "duplicate_count": 2,
+   "created_year_month": "2021-03",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "392125548",
+   "query": "My 17-year-old son who holds US passport has a tourist visa expiring in 2026. He recently got a new US passport. How can I transfer that visa to the new passport.",
+   "duplicate_count": 2,
+   "created_year_month": "2021-04",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "432122965",
+   "query": "My mother - Mahananda Dombe is on a Bi-visa and we had applied for extension. We also did her Biometrics in March 2021. USCIS has raised a RFE as her fingerprints could not be validated by FBI. They have requested PCC for last 5 years. This is a very special request and I am not sure how to get this asap. Help will be much appreciated.",
+   "duplicate_count": 2,
+   "created_year_month": "2021-06",
+   "category": "visa",
+   "expect_decline": false
+  },
+  {
+   "ticket_id": "478366274",
+   "query": "My father is on a Tourist B1 Visa in the US. Can he apply at the Atlanta consulate to grant POA to hsi brother in India for a property sale in India?",
+   "duplicate_count": 2,
+   "created_year_month": "2021-07",
+   "category": "visa",
+   "expect_decline": false
+  }
+ ],
+ "source_chunks": {
+  "visa": [
+   {
+    "source_id": "109ba063-f8e2-4e5c-84be-9c37cdfa523e",
+    "title": "Emergency entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/emergency-entry-visa-revised.pdf",
+    "chunk_id": "e1eaa31d-c417-5eb9-976a-00000bd67c2d",
+    "chunk_index": 0,
+    "chunk_text": "E mergency (E ntry Visa) Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ THE FOLLO WING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR ENTRY VISA. PLEASE PRINT AND SIGN A COPY OF THIS CHECKLIST, ALO NG WITH YOUR APPLICATIO N. IMPORTANT GUIDELINES\n• Please ensure that all data entries provided in your application match with your existing passport . If not, please provide the supporting documentation.\n• The applicant can only apply for ‘Entry Visa’ and not tourist visa.\n• Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e\n• Online applications are only accepted if filled out in the current year and within 180 days from the date of submission.\n• After submission online, no changes can be made. In case of an error, please fill a new online application form.\n• VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form.\n• THE EMBASSY/CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY."
+   },
+   {
+    "source_id": "109ba063-f8e2-4e5c-84be-9c37cdfa523e",
+    "title": "Emergency entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/emergency-entry-visa-revised.pdf",
+    "chunk_id": "6da2d892-021e-5bd9-84ff-3ea41c766456",
+    "chunk_index": 1,
+    "chunk_text": "E mergency (E ntry Visa) Checklist\n\n• If applicant’s occupation is \"Journalist\", he/she may only apply for a journalist visa, even if you intend to travel for tourism/ business/ medical/ Conference/Employment etc. Note: It may please be noted that incomplete /erroneous applications will be returned to the applicant for providing the missing/additional documents and re-submission of the full completed application. In certain cases, the Embassy may ask for further documentation or call the applicant for an in-person or telephonic interview Emergency Visa service is only for US passports holders of Indian origin and their family members requiring to visit India for genuine family emergency such as critical illness or death of a family member and documentary evidence will need to be provided\n• Purposes to Apply for An Emergency Service with documentary evidence such as letter from the hospital/death certificate, etc. o For medical emergency in the immediate family o For unfortunate incident of loss of life o Wedding of self\n• Non - Acceptable Purposes to Apply for an Emergency Service o Attending wedding of family and friends o Religious purposes o Family Reunion o Tourism purpose ❖ MANDATO RY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGINAL (PLEASE SELECT ENTRY VISA) Signature: All Minor applicants need to write their name or sign in the space provided on the first page of the application form below the photograph. Minor applicant below 5 years may put left thumb impression on the space provided. Both parents should sign on the last page of the application. Both parents must sign on page 2 of the"
+   },
+   {
+    "source_id": "109ba063-f8e2-4e5c-84be-9c37cdfa523e",
+    "title": "Emergency entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/emergency-entry-visa-revised.pdf",
+    "chunk_id": "45023f73-c28c-562c-9d4b-2f3dd9faa29c",
+    "chunk_index": 2,
+    "chunk_text": "E mergency (E ntry Visa) Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ online application form below the minor’s signature/thumb Impression. PHOTOGRAPH & SIGNATURE – ORIGINAL & DIGITAL Physical photograph: 01 photograph must be affixed on the application form & should not be stapled. Physical and uploaded photograph must be identical. Photograph must be 2 X 2 Inches on glossy paper showing front view of applicant’s face against white background Digital Photograph Requirements: Upload a digital photograph Online on Govt. Portal. The digital photograph should meet the following requirements:\n• Format JPEG\n• Size: Minimum 10 KB and Maximum 300 KB\n• The height and width of the Photo must be equal.\n• Photo should present Full face, front view, eyes open and without glasses.\n• Center head within frame and present full head from top of hair to bottom of chin.\n• Background should be plain light colored or white background.\n• No shadows on the face or on the background.\n• Without borders.\n• Make sure that photo presents full head from top of hair to bottom of chin. Head should measure 1 inch to 1 - 3/8 inches (25mm to 35mm). Make sure eye height is between 1-1/8 inches to 1-3\n• Incorrect (face downwards or sideways) uploaded photographs will be returned as these applications are considered as ineligible applications. Uploaded photograph face must be upward only."
+   },
+   {
+    "source_id": "109ba063-f8e2-4e5c-84be-9c37cdfa523e",
+    "title": "Emergency entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/emergency-entry-visa-revised.pdf",
+    "chunk_id": "cec5f165-7215-5d84-8366-c03613d12968",
+    "chunk_index": 3,
+    "chunk_text": "E mergency (E ntry Visa) Checklist\n\n• For Detailed photograph Specifications – Please click here FEE PAYMENTS Application confirmation letter/ Payment confirmation is mandatory. Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to get the Application confirmation letter/ Payment confirmation. Don’t forget to enclose the Application confirmation receipt. If paying by Money order or Banker’s check, then it should be made in favor of “VFS Services (USA) Inc. PERSO NAL CHECKS ARE NOT ACCEPTABLE. Ensure you update the correct details of the instrument (Money order/ Banker check. Don’t punch dummy information. Incorrect information may lead to rejection of your application) To complete the questionnaire & create a profile: Click here to proceed. NOTE: YOU MUST SEND YOUR COMPLETE APPLICATION WITHIN 30 DAYS FROM THE DAY APPLICATIO N IS REGISTERED ON VFS SYSTEM. PROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n• State Issued ID OR\n• Driving license OR\n• Utility Bill - Water (should be recent, no more than 3 months old) OR"
+   },
+   {
+    "source_id": "109ba063-f8e2-4e5c-84be-9c37cdfa523e",
+    "title": "Emergency entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/emergency-entry-visa-revised.pdf",
+    "chunk_id": "3aa78360-63a1-50ee-8327-d20ae10210f6",
+    "chunk_index": 4,
+    "chunk_text": "E mergency (E ntry Visa) Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n• Utility Bill - Gas (should be recent, no more than 3 months old) OR\n• Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n• Valid Lease Agreement OR\n• Mortgage OR\n• Income Tax return OR\n• For College/University Students living on campus in university housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice.\n• Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along\n• with parent’s address proof.\n• In case of applicant residing with parents/children/ relatives, a notarized undertaking from them with one of the copies of address proof as indicated above.\n• Hotel bill - If the customer on L1/L3 staying in a hotel for a project for the past couple of months and don’t have the\n• address proof or state ID. NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address DOCUMENTARY PROOF OF EMERGENCY- COPY ADDITIONAL PARTICULAR FORM (ANNEXURE – A)– ORIGINAL & MANDATO RY This form is absolutely mandatory to be filled by applicant (even if customer is minor). Application will be kept on hold if this form is not submitted. Click here to download. PASSPO RT – ORIGINAL AND PHOTOCOPIES Original as well as a copy of passport (biographical pages only). Passport should have minimum validity of six mo nths and must have at least two blank pages. DOCUMENTS – IF APPLICABLE PROOF OF RENUNCIATION – COPY Proof of Renunciation of Indian Citizenship:"
+   },
+   {
+    "source_id": "109ba063-f8e2-4e5c-84be-9c37cdfa523e",
+    "title": "Emergency entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/emergency-entry-visa-revised.pdf",
+    "chunk_id": "42075f1c-6f93-5ac8-b1ec-e8ec430e7c4a",
+    "chunk_index": 5,
+    "chunk_text": "E mergency (E ntry Visa) Checklist\n\n• If you ever held an Indian Passport, it is MANDATORY to provide proof of the Renunciation of Indian Citizenship along with your VISA application. One of the following MUST be produced as proof: - ❖ Certificate of renunciation issued by the Embassy/Consulate of India OR ❖ Deemed surrender certificate issued by the Embassy/Consulate of India Both - Cancelled/ Surrendered Passport along with the copy of the Surrender/Renunciation Certificate would be needed for Indian passports surrendered after May 2010 If you do not have the proof of renunciation, then please apply for renunciation before submitting the VISA application PROOF OF INDIAN ORIGIN- COPY\n• If the applicant was an Indian national: Indian passport of the applicant;\n• If the applicant is a child of an Indian national, Person of Indian Origin or OCI Cardholder: Birth certificate of the applicant together with Indian passport or OCI Card of either parent;\n• If the applicant is the ‘Spouse of Foreign Origin’ of an Indian national, Person of Indian Origin or OCI Cardholder: Marriage certificate of the applicant together with Indian passport or OCI Card of the spouse."
+   },
+   {
+    "source_id": "109ba063-f8e2-4e5c-84be-9c37cdfa523e",
+    "title": "Emergency entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/emergency-entry-visa-revised.pdf",
+    "chunk_id": "a2e19d15-e2f5-5c28-ac2c-c94e896f2234",
+    "chunk_index": 6,
+    "chunk_text": "E mergency (E ntry Visa) Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ ADDITIONAL DOCUMENTS FOR MINO R APPLICANTS\n• Parental Authorization Form (Annexure-B) duly signed by both parents and notarized – Original; Signature of Parents on Govt. Form, their passports and Parental authorization must be identical. Mismatch of signatures will result in delay in application processing or rejected without being processed.\n• Birth certificate of minor applicant – Copy;\n• Passports and Marriage Certificate of parents – Copy; and"
+   },
+   {
+    "source_id": "109ba063-f8e2-4e5c-84be-9c37cdfa523e",
+    "title": "Emergency entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/emergency-entry-visa-revised.pdf",
+    "chunk_id": "7de1af7c-0b34-5827-b61b-df2a520d275a",
+    "chunk_index": 7,
+    "chunk_text": "E mergency (E ntry Visa) Checklist\n\n• US visa status documents of non -US national parents – Copy. If Indian parents do not hold valid US visa status, an explanation for the same may be provided. PROOF OF PROPERTY IN INDIA (IF APPLICABLE)– COPY Non-Indian origin applicants already owning property in India will require to provide proof of property in India in the applicant’s name FEES OR SHIPPING – APPLIES TO ALL FEE PAYMENTS & COURIERS EEnnttrryy VViissaa FFeeee EEmmeerrggeennccyy FVeisea Fee IICCWWFF VVFFSS SSeerrvviiccee FFeeee TToottaall $100 $100* $3 $15.90 $218.90 If you would like to use VFS courier service for return of your PASSPO RT, you will need to add USD 15 as courier charges to the total amount (USD 218.90) mentioned above. Hence total amount payable will be USD. 233.90. Please note that the courier charges are not applicable where the applicant is picking up the passport in- person with prior appointment. Fees to be paid via Money order /Banker check in the favor of “VFS Services (USA) Inc. Personal checks are not accepted. If you prefer to use your own courier service, please submit a prepaid courier label and envelope with your application. If you choose this option, then your total amount payable will be USD 218.90. CHECKLIST 1 Checklist (original) to be printed and enclosed with your application (Signature of the Applicant)"
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "c217d529-1ec2-56c5-844d-282c02aed1f3",
+    "chunk_index": 0,
+    "chunk_text": "Applicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _"
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "a5674f10-4d9b-536a-8598-b2588083c0a9",
+    "chunk_index": 1,
+    "chunk_text": "Emergency (Entry Visa) Checklist\n\nTHE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR ENTRY VISA. PLEASE PRINT AND SIGN A COPY OF THIS CHECKLIST, ALONG WITH YOUR APPLICATION. IMPORTANT GUIDELINES\n• Please ensure that all data entries provided in your application match with your existing passport. If not, please provide the supporting documentation.\n• The applicant can only apply for ‘Entry Visa’ and not tourist visa.\n• Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e\n• Online applications are only accepted if filled out in the current year and within 180 days from the date of submission.\n• After submission online, no changes can be made. In case of an error, please fill a new online application form.\n• VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form.\n• THE EMBASSY/CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY."
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "f8ae5943-d315-582a-bcbc-d43d96be10f9",
+    "chunk_index": 2,
+    "chunk_text": "Emergency (Entry Visa) Checklist\n\n• If applicant’s occupation is \"Journalist\", he/she may only apply for a journalist visa, even if you intend to travel for tourism/ business/ medical/ Conference/Employment etc. Note: It may please be noted that incomplete /erroneous applications will be returned to the applicant for providing the missing/additional documents and re-submission of the full completed application. In certain cases, the Embassy may ask for further documentation or call the applicant for an in-person or telephonic interview Emergency Visa service is only for US passports holders of Indian origin and their family members requiring to visit India for genuine family emergency such as critical illness or death of a family member and documentary evidence will need to be provided\n• Purposes to Apply for An Emergency Service with documentary evidence such as letter from the hospital/death certificate, etc. o For medical emergency in the immediate family o For unfortunate incident of loss of life o Wedding of self\n• Non - Acceptable Purposes to Apply for an Emergency Service o Attending wedding of family and friends o Religious purposes o Family Reunion o Tourism purpose ❖ MANDATORY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGINAL (PLEASE SELECT ENTRY VISA) Signature: All Minor applicants need to write their name or sign in the space provided on the first page of the application form below the photograph. Minor applicant below 5 years may put left thumb impression on the space provided. Both parents should sign on the last page of the application. Both parents must sign on page 2 of the online application form below the minor’s signature/thumb Impression.\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _"
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "947288e9-4bb0-5e57-b2c3-0953a08c9faa",
+    "chunk_index": 3,
+    "chunk_text": "Emergency (Entry Visa) Checklist\n\nPHOTOGRAPH & SIGNATURE – ORIGINAL & DIGITAL Physical photograph: 01 photograph must be affixed on the application form & should not be stapled. Physical and uploaded photograph must be identical. Photograph must be 2 X 2 Inches on glossy paper showing front view of applicant’s face against white background Digital Photograph Requirements: Upload a digital photograph Online on Govt. Portal. The digital photograph should meet the following requirements:\n• Format JPEG\n• Size: Minimum 10 KB and Maximum 300 KB\n• The height and width of the Photo must be equal.\n• Photo should present Full face, front view, eyes open and without glasses.\n• Center head within frame and present full head from top of hair to bottom of chin.\n• Background should be plain light colored or white background.\n• No shadows on the face or on the background.\n• Without borders.\n• Make sure that photo presents full head from top of hair to bottom of chin. Head should measure 1 inch to 1 - 3/8 inches (25mm to 35mm). Make sure eye height is between 1-1/8 inches to 1-3\n• Incorrect (face downwards or sideways) uploaded photographs will be returned as these applications are considered as ineligible applications. Uploaded photograph face must be upward only."
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "6e8affd9-832e-5f69-811e-d6deb5a95329",
+    "chunk_index": 4,
+    "chunk_text": "Emergency (Entry Visa) Checklist\n\n• For Detailed photograph Specifications – Please click here FEE PAYMENTS Application confirmation letter/ Payment confirmation is mandatory. Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to get the Application confirmation letter/ Payment confirmation. Don’t forget to enclose the Application confirmation receipt. If paying by Money order or Banker’s check, then it should be made in favor of “VFS Services (USA) Inc. PERSONAL CHECKS ARE NOT ACCEPTABLE. Ensure you update the correct details of the instrument (Money order/ Banker check. Don’t punch dummy information. Incorrect information may lead to rejection of your application) To complete the questionnaire & create a profile: Click here to proceed. NOTE: YOU MUST SEND YOUR COMPLETE APPLICATION WITHIN 30 DAYS FROM THE DAY APPLICATION IS REGISTERED ON VFS SYSTEM.\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _"
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "d83e1d09-304c-5db6-9d3c-839376bbce73",
+    "chunk_index": 5,
+    "chunk_text": "Emergency (Entry Visa) Checklist\n\nPROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n• State Issued ID OR\n• Driving license OR\n• Utility Bill - Water (should be recent, no more than 3 months old) OR\n• Utility Bill - Gas (should be recent, no more than 3 months old) OR\n• Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n• Valid Lease Agreement OR\n• Mortgage OR\n• Income Tax return OR\n• For College/University Students living on campus in university housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice.\n• Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along\n• with parent’s address proof.\n• In case of applicant residing with parents/children/ relatives, a notarized undertaking from them with one of the copies of address proof as indicated above.\n• Hotel bill - If the customer on L1/L3 staying in a hotel for a project for the past couple of months and don’t have the\n• address proof or state ID. NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address DOCUMENTARY PROOF OF EMERGENCY- COPY ADDITIONAL PARTICULAR FORM (ANNEXURE – A)– ORIGINAL & MANDATORY This form is absolutely mandatory to be filled by applicant (even if customer is minor). Application will be kept on hold if this form is not submitted. Click here to download. PASSPORT – ORIGINAL AND PHOTOCOPIES Original as well as a copy of passport (biographical pages only). Passport should have minimum validity of six months and must have at least two blank pages. DOCUMENTS – IF APPLICABLE"
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "7b97c05a-cdb4-5995-9196-97303a842d3c",
+    "chunk_index": 6,
+    "chunk_text": "Emergency (Entry Visa) Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _"
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "615d2c3e-1697-5ab6-b704-3b79a060813f",
+    "chunk_index": 7,
+    "chunk_text": "Emergency (Entry Visa) Checklist\n\nPROOF OF RENUNCIATION – COPY Proof of Renunciation of Indian Citizenship:\n• If you ever held an Indian Passport, it is MANDATORY to provide proof of the Renunciation of Indian Citizenship along with your VISA application. One of the following MUST be produced as proof: - ➢ Certificate of renunciation issued by the Embassy/Consulate of India OR ➢ Deemed surrender certificate issued by the Embassy/Consulate of India Both - Cancelled/ Surrendered Passport along with the copy of the Surrender/Renunciation Certificate would be needed for Indian passports surrendered after May 2010 If you do not have the proof of renunciation, then please apply for renunciation before submitting the VISA application PROOF OF INDIAN ORIGIN- COPY\n• If the applicant was an Indian national: Indian passport of the applicant along with proof of renunciation/surrender of Indian nationality.\n• If the applicant is a child of an Indian national: Birth certificate of the child together with Indian passport copy of either parent and proof of legal status of the Indian Parent in USA.\n• If the applicant is a Spouse of an Indian national: Marriage certificate of the applicant together with Indian passport copy of the spouse.\n• If the applicant is a child of person of Indian Origin or OCI Cardholder: Birth certificate of the applicant together with: ➢ proof of Indian origin of either parent [. i.e. copy of Indian-origin parent(s)’s old Indian passport together with surrender/renunciation certificate of that parent’s Indian nationality] or ➢ OCI card copies of either parent."
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "d2bd74fd-f078-5f5f-be0a-768def107062",
+    "chunk_index": 8,
+    "chunk_text": "Emergency (Entry Visa) Checklist\n\n• If the applicant is spouse of person of Indian Origin or OCI Cardholder: Marriage certificate of the applicant together with: ➢ proof of Indian origin of spouse [. i.e. copy of spouse’s old Indian passport together with surrender/renunciation certificate of Indian nationality] or ➢ OCI card copy of spouse. ADDITIONAL DOCUMENTS FOR MINOR APPLICANTS\n• Parental Authorization Form (Annexure-B) duly signed by both parents and notarized – Original; Signature of Parents on Govt. Form, their passports and Parental authorization must be identical. Mismatch of signatures will result in delay in application processing or rejected without being processed.\n• Birth certificate of minor applicant – Copy;\n• Passports and Marriage Certificate of parents – Copy; and\n• US visa status documents of non-US national parents – Copy. If Indian parents do not hold valid US visa status, an explanation for the same may be provided. PROOF OF PROPERTY IN INDIA (IF APPLICABLE)– COPY Non-Indian origin applicants already owning property in India will require to provide proof of property in India in the applicant’s name FEES OR SHIPPING – APPLIES TO ALL\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _"
+   },
+   {
+    "source_id": "647db4bf-4348-4844-8dda-924fc95f3151",
+    "title": "Emergency visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Emergency-Visa-Checklist-Revised-July-2025.pdf",
+    "chunk_id": "ddfeed33-099a-5279-9a22-5bee05363181",
+    "chunk_index": 9,
+    "chunk_text": "Emergency (Entry Visa) Checklist\n\nFEE PAYMENTS & COURIERS Entry Visa Fee Emergency Visa Fee ICWF VFS Service Fee Total $100 $100* $3 $19 $222 Fees to be paid via Money order /Banker check in the favor of “VFS Services (USA) Inc. Personal checks are not accepted. CHECKLIST 1 Checklist (original) to be printed and enclosed with your application (Signature of the Applicant)"
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "1b5692c3-896b-5f22-b772-ae73916620c6",
+    "chunk_index": 0,
+    "chunk_text": "Business Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ THE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR BUSINESS VISA. PLEASE PRINT AND SIGN A COPY OF THIS CHECKLIST, ALONG WITH YOUR APPLICATION. IMPORTANT GUIDELINES ❖ Please ensure that all data entries provided in your application match with your existing passport. If not, please provide the supporting documentation. ❖ Please select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e ❖ Online applications are only accepted if filled out in the current year and within 180 days from the date of submission. ❖ After submission online, no changes can be made. In case of an error, please fill a new online application form. ❖ VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form. ❖ THE EMBASSY/CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY. ❖ If applicant’s occupation is \"Journalist\", he/she may only apply for a journalist visa, even if you intend to travel for tourism/ business/ medical/ Conference/Employment etc. ❖ Visa Application for Pakistani nationals and Pakistan origin USA nationals will take a longer than normal time. USA nationals of Pakistan origin will be required to provide copy of renunciation certificate. Pakistani nationals, including those holding dual nationality should apply for visas on their Pakistani passport only. However, both the passports, in original, are to be submitted; visa will be issued on Pakistani passport and type/duration of visa will be decided by the Embassy/Consulate. It may please be noted that incomplete /erroneous applications will be returned to the applicant for providing the missing/additional documents and re-submission of the full completed application. In certain cases, the Embassy/Consulate may ask for further documentation or call the applicant for an in-person or telephonic interview ❖ MANDATORY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGINAL Signature: All Minor applicants need to write their name or sign in the space provided on the first page of the application form below the photograph. Minor applicant below 5 years may put left thumb impression on the space provided. Both parents should sign on the last page of the application. Both parents must sign on page 2 of the online application form below the minor’s signature/thumb Impression. PHOTOGRAPH & SIGNATURE – ORIGINAL & DIGITAL Physical photograph: 01 photograph must be affixed on the application form & should not be stapled. Physical and uploaded photograph must be identical. Photograph must be 2 X 2 Inches on glossy paper showing front view of applicant’s face against white background Digital Photograph Requirements: Upload a digital photograph Online on Govt. Portal. The digital photograph should meet the following requirements:"
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "2a0bbcae-440c-55fe-b202-7223bd2d27d0",
+    "chunk_index": 1,
+    "chunk_text": "Business Visa Checklist\n\n• Format JPEG"
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "ce100a04-3ac2-50c7-a1bb-4083b5ff1362",
+    "chunk_index": 2,
+    "chunk_text": "Business Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _\n• Size: Minimum 10 KB and Maximum 300 KB\n• The height and width of the Photo must be equal.\n• Photo should present Full face, front view, eyes open and without glasses.\n• Center head within frame and present full head from top of hair to bottom of chin.\n• Background should be plain light colored or white background.\n• No shadows on the face or on the background.\n• Without borders.\n• Make sure that photo presents full head from top of hair to bottom of chin. Head should measure 1 inch to 1- 3/8 inches (25mm to 35mm). Make sure eye height is between 1-1/8 inches to 1-3."
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "986d06d4-3400-5388-b711-14de5a7ba7a6",
+    "chunk_index": 3,
+    "chunk_text": "Business Visa Checklist\n\n• Incorrect ( face downwards or sideways) uploaded photographs will be returned as these applications are considered as ineligible applications. Uploaded photograph face must be upward only. For Detailed photograph Specifications – Please click here FEE PAYMENTS Application confirmation letter/ Payment confirmation is mandatory. Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to get the Application confirmation letter/ Payment confirmation. Don’t forget to enclose the Application confirmation receipt. If paying by Money order or Banker’s check then it should be made in favor of “VFS Services (USA) Inc. PERSONAL CHECKS ARE NOT ACCEPTABLE. Ensure you update the correct details of the instrument (Money order/ Banker check. Don’t punch dummy information. Incorrect information may lead to rejection of your application) To complete the questionnaire & create a profile: Click here to proceed. NOTE: YOU MUST SEND YOUR COMPLETE APPLICATION WITHIN 30 DAYS FROM THE DAY APPLICATION IS REGISTERED ON VFS SYSTEM. PROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n- State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice."
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "4484ba45-e76b-5ae3-ac77-9307e4f007b7",
+    "chunk_index": 4,
+    "chunk_text": "Business Visa Checklist\n\n- Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along with parent’s address proof.\n- In case of applicant residing with parents/children/ relatives, a notarized undertaking from them with one of the copy of address proof as indicated above.\n- Hotel bill - If the customer on L1/L3 staying in a hotel for a project for the past couple of months and don’t have the address proof or state ID. NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT"
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "1c19b13c-e100-5015-82c0-2628f1b6677c",
+    "chunk_index": 5,
+    "chunk_text": "Business Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ ACCEPTABLE as valid Proof of address For NON-US PASSPORT HOLDERS: COPY OF THE APPLICANT’S VALID LEGAL STATUS IN THE USA Please submit one of the below documents as applicable: -\n- Valid Green Card – FRONT AND BACK\n- Valid Visa,\n- Valid EAD – FRONT AND BACK\n- Valid I-797A Approval Notice,\n- Valid Work permit/Study Permit, OR"
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "a478eb96-36c7-5fcd-8b53-511e4a588edd",
+    "chunk_index": 6,
+    "chunk_text": "Business Visa Checklist\n\n- Recently expired Visa and I-797A Approval notice together with I-797C Receipt Notice for filing of a request for extension before the expiry of Visa or I-797A copy of proof of extension, if B1/B2 is expired and have a receipt for extension of stay or an approval for extension of stay. ADDITIONAL PARTICULAR FORM (ANNEXURE – A)– ORIGINAL & MANDATORY This form is absolutely mandatory to be filled by applicant (even if customer is minor). Application will be kept on hold if this form is not submitted. PASSPORT – ORIGINAL AND PHOTOCOPIES Original as well as a copy of passport (biographical pages only). Passport should have minimum validity of six months and must have at least two blank pages. ADDITIONAL DOCUMENTS INVITATION LETTER FROM THE COMPANY IN INDIA– ORIGINAL Letter on Company letterhead from the company in India indicating the nature of applicant's business, duration of stay, the validity of visa applied for, places and organizations to be visited during the stay. Details regarding the company, undertaking for full financial responsibility to ensure travel and repatriation, if applicable, and relationship history with the employee. LETTER FROM APPLICANT’S COMPNAY IN THE USA – ORIGINAL Letter from the applicant's company in the US on a company letterhead stating that all expenses will be paid for by the company and indicating the nature of applicant's business, duration of stay, he/she will not receive any form of remuneration from any other source in India and will remain employee of same company, [Sales turnover certificate (For Pakistani Passport Holders only)] the validity of visa applied for, places and organizations to be visited during stay LETTER OF INCORPORATION FROM THE COMPANY IN INDIA – COPY This letter is not required if the applicant is visiting Government of India institutions for meetings, etc. DOCUMENTS – IF APPLICABLE"
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "ac3adbd6-e4f8-55e9-9998-eb607e87df6d",
+    "chunk_index": 7,
+    "chunk_text": "Business Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ PROOF OF RENUNCIATION – COPY Proof of Renunciation of Indian Citizenship:\n• If you ever held an Indian Passport, it is MANDATORY to provide proof of the Renunciation of Indian Citizenship along with your VISA application. One of the following MUST be produced as proof: - ❖ Certificate of renunciation issued by the Embassy/Consulate of India OR ❖ Deemed surrender certificate issued by the Embassy/Consulate of India Both - Cancelled/ Surrendered Passport along with the copy of the Surrender/Renunciation Certificate would be needed for Indian passports surrendered after May 2010 If you do not have the proof of renunciation then please apply for renunciation before submitting the VISA application. ADDITIONAL DOCUMENTS FOR DEPENDENT BUSINESS VISA FOR SPOUSE – COPY\n• Marriage Certificate – Copy ADDITIONAL DOCUMENTS FOR MINOR APPLICANTS\n• Parental Authorization Form (Annexure-B) duly signed by both parents and notarized – Original. Signature of Parents on Govt. Form, their passports and Parental authorization must be identical. Mismatch of signatures will result in delay in application processing or rejected without being processed.\n• Birth certificate of minor applicant – Copy;\n• Passports and Marriage Certificate of parents – Copy; and\n• US visa status documents of non-US national parents – Copy. If Indian parents do not hold valid US visa status, an explanation for the same may be provided. FORM FOR PAKISTAN NATIONALS FORM (ANNEXURE – C) – ORIGINAL FEES OR SHIPPING – APPLIES TO ALL COURIERS\n1. If opted VFS offered courier services, then download the incoming courier label from my account to send your complete application to the VFS Centre."
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "cc0002a6-abe4-5fc1-9034-9e21fb9a9941",
+    "chunk_index": 8,
+    "chunk_text": "Business Visa Checklist\n\n2. If you opt to use your own pre-paid label, then ensure correct pre-paid label details are entered while completing the registration process on VFS Portal. Incorrect information will lead to delay/ rejection of your application. In addition – please ensure you enclose the pre-Paid label ALONG WITH ENVELOPE before sending your application. Please ensure you liaise with your pre-paid company to schedule pick-ups as soon as you receive notification confirming that application is received by VFS Indian Consular Application Centre from the Embassy/Consulate. FEDEX PREPAID LABELS ARE NOT ACCEPTABLE. Acceptable Prepaid Labels are – UPS or USPS with NO expiry date of the label. To send application by Post: Please complete registration process. Registration process is mandatory To Submit application in person, please book an appointment & read terms and conditions CHECKLIST 1 Checklist (original) to be printed and enclosed with your application"
+   },
+   {
+    "source_id": "8f88b850-e185-4da3-9212-816c3c70b4da",
+    "title": "Business visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/business-visa-checklist-new.pdf",
+    "chunk_id": "75c5436f-b8cd-5f97-812d-ba15a646cb34",
+    "chunk_index": 9,
+    "chunk_text": "Business Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. _ _ _ - _ _ _ - _ _ _ _ (Signature of the Applicant)"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "04e809d1-2ccd-5637-ae5c-3725f1fdac14",
+    "chunk_index": 0,
+    "chunk_text": "Entry Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. ___-___-____ THE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR ENTRY VISA. PLEASE PRINT AND SIGN A COPY OF THIS CHECKLIST, ALONG WITH YOUR APPLICATION."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "41852584-1ad6-57df-8bdb-fd3132a7903f",
+    "chunk_index": 1,
+    "chunk_text": "Entry Visa Checklist > ▪\n\nIMPORTANT GUIDELINES"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "a1807fb7-22b0-562a-8448-7c66d108bbc9",
+    "chunk_index": 2,
+    "chunk_text": "Entry Visa Checklist > ❖\n\nPlease ensure that all data entries provided in your application match with your existing passport. If not, please provide the supporting documentation."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "0fe42b56-7e2a-5834-9431-f433d21e20a9",
+    "chunk_index": 3,
+    "chunk_text": "Entry Visa Checklist > ❖\n\nPlease select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e Online applications are only accepted if filled out in the current year and within 180 days from the date of submission."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "3fcde669-0de9-5d3d-9434-278b6e41e2c9",
+    "chunk_index": 4,
+    "chunk_text": "Entry Visa Checklist > ❖\n\nAfter submission online, no changes can be made. In case of an error, please fill in a new online application form."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "091ddb4c-7ac8-55c7-9161-daa86c494be0",
+    "chunk_index": 5,
+    "chunk_text": "Entry Visa Checklist > ❖\n\nVFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "404cddde-e1fc-5741-94c3-a84934765e20",
+    "chunk_index": 6,
+    "chunk_text": "Entry Visa Checklist > ❖\n\nTHE EMBASSY/CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "8da38d74-0b06-5f39-ae13-c6658a287dc6",
+    "chunk_index": 7,
+    "chunk_text": "Entry Visa Checklist > ❖ > ❖\n\nIf applicant’s occupation is \"Journalist\", he/she may only apply for a journalist visa, even if you intend to travel for tourism/ business/ medical/ Conference/Employment etc."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "2be79a5b-978d-5559-a39b-3a76f00ac9ad",
+    "chunk_index": 8,
+    "chunk_text": "Entry Visa Checklist > ❖\n\nVisa Application for Pakistani nationals and Pakistan origin USA nationals will take a longer than normal time. USA nationals of Pakistan origin will be required to provide copy of renunciation certificate. Pakistani nationals, including those holding dual nationality should apply for visas on their Pakistani passport only. However, both the passports, in original, are to be submitted; visa will be issued on Pakistani passport and type/duration of visa will be decided by the Embassy/Consulate."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "e1b3dd20-fc0e-5472-9c40-7041f56da2a7",
+    "chunk_index": 9,
+    "chunk_text": "Entry Visa Checklist > ❖\n\nIt may please be noted that incomplete /erroneous applications will be returned to the applicant for providing the missing/additional documents and re-submission of the full completed application. In certain cases, the Embassy may ask for further documentation or call the applicant for an in-person or telephonic interview"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "98e8cd14-02c4-5fc6-a4ea-1c661bf6bc4b",
+    "chunk_index": 10,
+    "chunk_text": "Entry Visa Checklist > ❖\n\nMANDATORY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGINAL"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "320428cd-34aa-52ce-a04a-4f9e7d99f87b",
+    "chunk_index": 11,
+    "chunk_text": "Entry Visa Checklist > ❖ > 1\n\nSignature: All Minor applicants need to write their name or sign in the space provided on the first page of the application form below the photograph. Minor applicant below 5 years may put left thumb impression on the space provided. Both parents should sign on the last page of the application. Both parents must sign on page 2 of the online application form below the minor’s signature/thumb Impression. ORIGINAL & DIGITAL 2 PHOTOGRAPH & SIGNATURE – Physical photograph: Photograph must be affixed on the application form & should not be stapled. Physical and uploaded photograph must be identical. Photograph must be 2 X 2 Inches on glossy paper showing front view of applicant’s face against white background Digital Photograph Requirements : Upload a digital photograph Online on Govt. Portal. The digital photograph should meet the following requirements:"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "9abc10d9-235b-503f-b891-21279f9caa30",
+    "chunk_index": 12,
+    "chunk_text": "Entry Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. ___-___-____ Format JPEG Size: Minimum 10 KB and Maximum 300 KB The height and width of the Photo must be equal. Photo should present Full face, front view, eyes open and without glasses. Center head within frame and present full head from top of hair to bottom of chin. Background should be plain light colored or white background. No shadows on the face or on the background. Without borders. Make sure that photo presents full head from top of hair to bottom of chin. Head should measure 1 inch to 1 - 3/8 inches (25mm to 35mm). Make sure eye height is between 1-1/8 inches to 1-3 Incorrect ( face downwards or sideways) uploaded photographs will be returned as these applications are considered as ineligible applications. Uploaded photograph face must be upward only. For Detailed photograph Specifications – Please click here"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "1c35c010-86b7-5680-a24c-7d9b2ee373fb",
+    "chunk_index": 13,
+    "chunk_text": "3\n\nFEE PAYMENTS Application confirmation letter/ Payment confirmation is mandatory. Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to get the Application confirmation letter/ Payment confirmation. Don’t forget to enclose the Application confirmation receipt. If paying by Money order or Banker’s check then it should be made in favor of “VFS Services (USA) Inc. PERSONAL CHECKS ARE NOT ACCEPTABLE. Ensure you update the correct details of the instrument (Money order/ Banker check. Don’t punch dummy information. Incorrect information may lead to rejection of your application) To complete the questionnaire & create a profile: Click here to proceed. NOTE: YOU MUST SEND YOUR COMPLETE APPLICATION WITHIN 30 DAYS FROM THE DAY THE APPLICATION IS REGISTERED ON VFS SYSTEM. 4 PROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)\n- State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR -For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice. -Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along with parent’s address proof. -In case of applicant residing with parents/children/ relatives, a notarized undertaking from them with one of the copies of address proof as indicated above."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "292c20aa-1f5e-5f74-944b-8654f7976afc",
+    "chunk_index": 14,
+    "chunk_text": "Entry Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. ___-___-____ 5 For NON-US PASSPORT HOLDERS: COPY OF THE APPLICANT’S VALID LEGAL STATUS IN THE USA Please submit one of the below documents as applicable:\n- -Valid Green Card – FRONT AND BACK -Valid Visa, -Valid EAD – FRONT AND BACK -Valid I-797A Approval Notice, -Valid Work permit/Study Permit, OR -Recently expired Visa and I-797A Approval notice together with I-797C Receipt Notice for filing of a request for extension before the expiry of Visa or I-797A copy of proof of extension, if B1/B2 is expired and have a receipt for extension of stay or an approval for extension of stay. 6 ADDITIONAL PARTICULAR FORM (ANNEXURE – A)– ORIGINAL & MANDATORY This form is absolutely mandatory to be filled by applicant (even if customer is minor). Application will be kept on hold if this form is not submitted. 7 PASSPORT – ORIGINAL AND PHOTOCOPIES Original as well as a copy of passport (biographical pages only). Passport should have minimum validity of six months and must have at least two blank pages. Note: Holders of dual nationality should apply for visas on their Pakistani passport only. However, both the passports, in original, are to be submitted. DOCUMENTS – IF APPLICABLE 8 PROOF OF RENUNCIATION – COPY Proof of Renunciation of Indian Citizenship:\n• If you ever held an Indian Passport, it is MANDATORY to provide proof of the Renunciation of Indian Citizenship along with your VISA application. One of the following MUST be produced as proof: -\n- Certificate of renunciation issued by the Embassy/Consulate of India OR"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "52f2fc9e-e468-54b0-88d2-8107b3c4f3c5",
+    "chunk_index": 15,
+    "chunk_text": "Entry Visa Checklist\n\n- Deemed surrender certificate issued by the Embassy/Consulate of India Both - Cancelled/ Surrendered Passport along with the copy of the Surrender/Renunciation Certificate would be needed for Indian passports surrendered after May 2010 If you do not have the proof of renunciation then please apply for renunciation before submitting the VISA"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "1309437c-ff6c-50c6-86e6-868839e49987",
+    "chunk_index": 16,
+    "chunk_text": "9\n\nPROOF OF INDIAN ORIGIN- COPY\n• If the applicant was an Indian national: Indian passport of the applicant along with proof of renunciation/surrender of Indian nationality.\n• If the applicant is a child of an Indian national: Birth certificate of the child together with Indian passport copy of either parent and proof of legal status of the Indian Parent in USA.\n• If the applicant is a Spouse of an Indian national: Marriage certificate of the applicant together with Indian passport copy of the spouse.\n• If the applicant is a child of person of Indian Origin or OCI Cardholder: Birth certificate of the applicant together with:"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "50e36912-ed09-5835-ad3c-c480222f5a9c",
+    "chunk_index": 17,
+    "chunk_text": "9 > ➢\n\nproof of Indian origin of either parent [.i.e. copy of Indian-origin parent(s)’s old Indian passport together with surrender/renunciation certificate of that parent’s Indian nationality] or"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "497f6cec-4c61-5919-8366-4fdfb0438e9b",
+    "chunk_index": 18,
+    "chunk_text": "9 > ➢\n\nOCI card copies of either parent.\n• If the applicant is spouse of person of Indian Origin or OCI Cardholder: Marriage certificate of the applicant together with:"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "b4d38fd8-571a-5288-be80-0c899e341706",
+    "chunk_index": 19,
+    "chunk_text": "9 > ➢\n\nproof of Indian origin of spouse [.i.e. copy of spouse’s old Indian passport together with surrender/renunciation certificate of Indian nationality] or"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "151e9fce-e4d4-57ed-a36b-004d9f5fcaf7",
+    "chunk_index": 20,
+    "chunk_text": "9 > ➢ > ➢\n\nOCI card copy of spouse."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "6f0cb0ef-0276-5020-87d8-240566d0eed1",
+    "chunk_index": 21,
+    "chunk_text": "10\n\nADDITIONAL DOCUMENTS FOR MINOR APPLICANTS Parental Authorization Form (Annexure-B) duly signed by both parents and notarized – Original. Signature of Parents on Govt. Form, their passports and Parental authorization must be identical. Mismatch of signatures will result in delay in application processing or rejected without being processed. Birth certificate of minor applicant – Copy. Valid Passports and Marriage Certificate of parents – Copy; and US visa status documents of non-US national parents – Copy. If Indian parents do not hold valid US visa status, an explanation for the same may be provided."
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "926c9b83-8b4f-5ac4-842b-2dfc0d019b65",
+    "chunk_index": 22,
+    "chunk_text": "11\n\nPROOF OF PROPERTY IN INDIA (IF APPLICABLE)– COPY Non-Indian origin applicants already owning property in India will require to provide proof of property in India in the applicant’s name and. the applicant should also provide proof of permission of RBI for purchasing the property"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "5da29c71-4bcb-55e8-992e-45a9468d62fb",
+    "chunk_index": 23,
+    "chunk_text": "12\n\nFORM FOR PAKISTAN NATIONALS FORM (ANNEXURE – C) – ORIGINAL"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "5ed5f853-408e-5df2-a38e-1378439e76fc",
+    "chunk_index": 24,
+    "chunk_text": "Entry Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. ___-___-____ FEES OR SHIPPING – APPLIES TO ALL"
+   },
+   {
+    "source_id": "9cba8537-4ed1-408b-8bf6-507c662d08e3",
+    "title": "Entry visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/Entry-Visa-Revised-Sep-2025-updated.pdf",
+    "chunk_id": "9ecd4076-b9fe-5d0b-8288-39d5a42dcf90",
+    "chunk_index": 25,
+    "chunk_text": "13\n\nCOURIERS\n1. You can purchase third party courier online or at the store and send your complete application to the VFS Centre. 2.If you opt to use your own pre-paid label, then ensure correct pre-paid label details are entered while completing the registration process on VFS Portal. Incorrect information will lead to delay/ rejection of your application. In addition – please ensure you enclose the pre-Paid label ALONG WITH ENVELOPE before sending your application. Please ensure you liaise with your pre-paid company to schedule pick-ups as soon as you receive notification confirming that application is received by VFS Indian Consular Application Centre from the Embassy/Consulate. To send application by Post: Please complete registration process. Registration process is mandatory To Submit application in person, please book an appointment & read terms and conditions CHECKLIST 1 Checklist (original) to be printed and enclosed with your application (Signature of the Applicant)"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "3f3f7246-208e-5374-9a27-b7785344b074",
+    "chunk_index": 0,
+    "chunk_text": "Employment Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. ___-___-____ THE FOLLOWING IS A LIST OF DOCUMENTS TO BE SUBMITTED FOR APPLYING FOR EMPLOYMENT VISA. PLEASE PRINT AND SIGN A COPY OF THIS CHECKLIST, ALONG WITH YOUR APPLICATION. IMPORTANT GUIDELINES"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "544df436-ec35-512a-a245-95cc30000aa0",
+    "chunk_index": 1,
+    "chunk_text": "Employment Visa Checklist > ❖\n\nPlease ensure that all data entries provided in your application match with your existing passport. If not, please provide the supporting documentation."
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "43e4caaa-9756-5dcb-88f3-63717d6e8f23",
+    "chunk_index": 2,
+    "chunk_text": "Employment Visa Checklist > ❖\n\nPlease select the correct Indian mission based on the place where you reside in the USA and the mission’s jurisdiction. Mission jurisdiction can be viewed at h t t p : / / v i s a . v f s g l o b a l . c o m / u s a / e n / i n d / a t t e n d - c e n t r e ❖ Online applications are only accepted if filled out in the current year and within 180 days from the date of submission."
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "e7342c38-8a11-5832-b88c-f117d9816d0c",
+    "chunk_index": 3,
+    "chunk_text": "Employment Visa Checklist > ❖\n\nAfter submission online, no changes can be made. In case of an error, please fill a new online application form. ❖ VFS INDIA CONSULAR APPLICATION CENTRE employees cannot edit or make any changes to your online application form."
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "511d2286-2051-5ee7-b6aa-60f5931106c4",
+    "chunk_index": 4,
+    "chunk_text": "Employment Visa Checklist > ❖\n\nTHE EMBASSY/CONSULATE RESERVES THE RIGHT TO CALL FOR ADDITIONAL DOCUMENTS, AS CONSIDERED NECESSARY."
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "ebcbe803-0146-56d6-9e9c-742495a13b3b",
+    "chunk_index": 5,
+    "chunk_text": "Employment Visa Checklist > ❖\n\nIf applicant’s occupation is \"Journalist\", he/she may only apply for a journalist visa, even if you intend to travel for tourism/ business/ medical/ Conference/Employment etc."
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "776f207d-bbc5-50b3-ad89-8eb930d786c0",
+    "chunk_index": 6,
+    "chunk_text": "Employment Visa Checklist > ❖\n\nVisa Application for Pakistani nationals and Pakistan origin USA nationals will take a longer than normal time. USA nationals of Pakistan origin will be required to provide copy of renunciation certificate. Pakistani nationals, including those holding dual nationality should apply for visas on their Pakistani passport only. However, both the passports, in original, are to be submitted; visa will be issued on Pakistani passport and type/duration of visa will be decided by the Embassy/Consulate. It may please be noted that incomplete /erroneous applications will be returned to the applicant for providing the missing/additional documents and re-submission of the full completed application. In certain cases, the Embassy/Consulate may ask for further documentation or call the applicant for an in-person or telephonic interview"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "4697757b-1f91-5606-9a63-0eaef2e4ea6f",
+    "chunk_index": 7,
+    "chunk_text": "Employment Visa Checklist > ❖\n\nMANDATORY DOCUMENTS GOVERNMENT APPLICATION ONLINE FORM – ORIGINAL Signature: All Minor applicants need to write their name or sign in the space provided on the first page of the application form below the photograph. Minor applicant below 5 years may put left thumb impression on the space provided. Both parents should sign on the last page of the application. Both parents must sign on page 2 of the online application form below the minor’s signature/thumb Impression. PHOTOGRAPH & SIGNATURE – ORIGINAL & DIGITAL Photo Requirements: Online India Visa Application allows the Applicant to upload a digital photograph of self to complete the regular visa application. The digital photograph to be uploaded along with the Visa application should meet the following requirements:"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "15a0a404-eaf3-58a0-ad80-21d629e290e0",
+    "chunk_index": 8,
+    "chunk_text": "Employment Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. ___-___-____\n• Size: Minimum 10 KB and Maximum 300 KB\n• The height and width of the Photo must be equal.\n• Photo should present Full face, front view, eyes open.\n• Center head within frame and present full head from top of hair to bottom of chin.\n• Background should be plain light colored or white background.\n• No shadows on the face or on the background.\n• Without borders.\n• Make sure that photo presents full head from top of hair to bottom of chin. Head should measure 1 inch to 1- 3/8 inches (25mm to 35mm). Make sure eye height is between 1-1/8 inches to 1-3.\n• Incorrect ( face downwards or sideways) uploaded photographs will be returned as these applications are considered as ineligible applications. Uploaded photograph face must be upward only. For Detailed photograph Specifications – Please click here FEE PAYMENTS Application confirmation letter/ Payment confirmation is mandatory. Complete the process online on VFS INDIA CONSULAR APPLICATION CENTRE’s website to get the Application confirmation letter/ Payment confirmation. Don’t forget to enclose the Application confirmation receipt. If paying by Money order or Banker’s check then it should be made in favor of “VFS Services (USA) Inc. PERSONAL CHECKS ARE NOT ACCEPTABLE. Ensure you update the correct details of the instrument (Money order/ Banker check. Don’t punch dummy information. Incorrect information may lead to rejection of your application) To complete the questionnaire & create a profile: Click here to proceed. NOTE: YOU MUST SEND YOUR COMPLETE APPLICATION WITHIN 30 DAYS FROM THE DAY APPLICATION IS REGISTERED ON VFS SYSTEM. PROOF OF ADDRESS – COPY Proof of address must match with the present address as per application: (any ONE of the below documents)"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "7f9e0c36-e5a5-5273-a60a-fd39cb24fd89",
+    "chunk_index": 9,
+    "chunk_text": "Employment Visa Checklist\n\n- State Issued ID OR\n- Driving license OR\n- Utility Bill - Water (should be recent, no more than 3 months old) OR\n- Utility Bill - Gas (should be recent, no more than 3 months old) OR\n- Utility Bill - Electricity (should be recent, no more than 3 months old) OR\n- Valid Lease Agreement OR\n- Mortgage OR\n- Income Tax return OR\n- For College/University Students living on campus in University housing/dormitories, a letter from your institution on the institution letterhead explaining the exact address that you presently reside in will suffice.\n- Marriage Certificate in case the address in spouse’s name, birth certificate of child in case of minor applicant along with parent’s address proof.\n- In case of applicant residing with parents/children/ relatives, a notarized undertaking from them with one of the copy of address proof as indicated above.\n- Hotel bill - If the customer on L1/L3 staying in a hotel for a project for the past couple of months and don’t have the address proof or state ID. NOTE: DO NOT CUT YOUR DRIVER'S LICENCE COPY DOWN TO SMALLER SIZE Important: PO BOX number is NOT ACCEPTABLE as valid Proof of address"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "7c3af085-a3f2-5065-b124-d3b6ccc4bdb9",
+    "chunk_index": 10,
+    "chunk_text": "Employment Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. ___-___-____ For NON-US PASSPORT HOLDERS: COPY OF THE APPLICANT’S VALID LEGAL STATUS IN THE USA Please submit one of the below documents as applicable: -\n- Valid Green Card – FRONT AND BACK\n- Valid Visa,\n- Valid EAD – FRONT AND BACK\n- Valid I-797A Approval Notice,\n- Valid Work permit/Study Permit, OR"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "eb50bb24-f171-508b-a254-972445668842",
+    "chunk_index": 11,
+    "chunk_text": "Employment Visa Checklist\n\n- Recently expired Visa and notarized I-797A Approval notice together with notarized I-797C Receipt Notice for filing of a request for extension before the expiry of Visa or I-797A copy of proof of extension, if B1/B2 is expired and have a receipt for extension of stay or an approval for extension of stay. ADDITIONAL PARTICULAR FORM (ANNEXURE – A)– ORIGINAL PASSPORT – ORIGINAL AND PHOTOCOPIES Original as well as a copy of passport (biographical pages only). Passport should have minimum validity of six months and must have at least two blank pages. ADDITIONAL DOCUMENTS TAX LIABILITY LETTER – ORIGINAL Tax Liability Letter: Please provide a copy of the Tax Liability letter from Indian company. (The letter must confirm that tax will be deducted at source by employer and deposited with tax authorities. RESUME -ORIGINAL Resume of the applicant with relevant credentials and employee details form APPOINTMENT LETTER FROM THE COMPANY IN INDIA -ORIGINAL Appointment letter from Company in India clearly indicating the annual salary and where the applicant will be located LETTER OF UNDERTAKING FROM THE EMPLOYER IN INDIA – ORIGINAL Letter of undertaking from Employer in India clarifying / confirming the following: (a) Whether the applicant will be employed by them full time during the period of assignment; (b)An undertaking by the appointing firm taking full responsibility for the applicant’s professional conduct, activities while in India and repatriation, if ever necessary"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "145b146b-fcba-5070-bb63-ffd17ccfa780",
+    "chunk_index": 12,
+    "chunk_text": "Employment Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. ___-___-____ LETTER OF INCORPORATION FROM THE COMPANY IN INDIA – COPY Letter of incorporation from the company in India. JUSTIFICATION LETTER FROM EMPLOYER – ORIGINAL Justification letter from employer explaining why no Indian national can be employed against this post, details of efforts have been made by the employer to find a candidate in India. DOCUMENTARY PROOF - COPY Proof of Applicants educational qualifications and professional expertise. Proof of employment contract or engagement by the company/ firm/ organization in India, which confirms that the salary to the employment visa applicant will be paid in India DOCUMENTS – IF APPLICABLE PROOF OF RENUNCIATION – COPY Proof of Renunciation of Indian Citizenship:\n• If you ever held an Indian Passport, it is MANDATORY to provide proof of the Renunciation of Indian Citizenship along with your VISA application. One of the following MUST be produced as proof: - ❖ Certificate of renunciation issued by the Embassy/Consulate of India OR"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "e188b6ac-c03a-569c-9696-f91c4b04de03",
+    "chunk_index": 13,
+    "chunk_text": "Employment Visa Checklist > ❖\n\nDeemed surrender certificate issued by the Embassy/Consulate of India Both - Cancelled/ Surrendered Passport along with the copy of the Surrender/Renunciation Certificate would be needed for Indian passports surrendered after May 2010 If you do not have the proof of renunciation then please apply for renunciation before submitting the VISA application ADDITIONAL DOCUMENTS FOR DEPENDENT EMPLOYMENT VISA FOR SPOUSE – COPY Marriage Certificate – Copy ADDITIONAL DOCUMENTS FOR MINOR APPLICANTS\n• Parental Authorization Form (Annexure-B) duly signed by both parents and notarized – Original;\n• Birth certificate of minor applicant – Copy;\n• Passports and Marriage Certificate of parents – Copy; and\n• US visa status documents of non-US national parents – Copy. If Indian parents do not hold valid US visa status, an explanation for the same may be provided. FORM FOR PAKISTAN NATIONALS FORM (ANNEXURE – C) – ORIGINAL VOLUNTEER/ NGO WORK- (IF APPLICABLE) FEES OR SHIPPING – APPLIES TO ALL"
+   },
+   {
+    "source_id": "e85dbafe-2114-402f-850f-19b522d903b9",
+    "title": "Employment visa checklist",
+    "url": "https://services.vfsglobal.com/one-pager/india/united-states-of-america/visa-services/pdf/employment-visa-checklist-updated-new-2025.pdf",
+    "chunk_id": "a3fc4e29-db1e-5181-ae3c-4ee7bead46ea",
+    "chunk_index": 14,
+    "chunk_text": "Employment Visa Checklist\n\nApplicant’s Name Passport no. Email ID Mobile no. ___-___-____ COURIERS\n1. You can purchase third party courier online or at the store and send your complete application to the VFS Centre.\n1. If you opt to use your own pre-paid label, then ensure correct pre-paid label details are entered while completing the registration process on VFS Portal. Incorrect information will lead to delay/ rejection of your application. In addition – please ensure you enclose the pre-Paid label ALONG WITH ENVELOPE before sending your application. Please ensure you liaise with your pre-paid company to schedule pick-ups as soon as you receive notification confirming that application is received by VFS Indian Consular Application Centre from the Embassy/Consulate. To send application by Post: Please complete registration process. Registration process is mandatory To Submit application in person, please book an appointment & read terms and conditions CHECKLIST 1 Checklist (original) to be printed and enclosed with your application (Signature of the Applicant)\n¢ Format JPEG"
+   }
+  ]
+ }
+}
